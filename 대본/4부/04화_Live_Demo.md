@@ -207,8 +207,8 @@
 62. TASHA: While we wait, Elena. Why does this matter?
     타샤: 기다리는 동안요, 엘레나. 이게 왜 중요해요?
 
-63. ELENA: Let me tell you about one night. Years ago. My ER. A young woman. Her nose.
-    엘레나: 어느 밤 얘기를 해 드릴게요. 몇 년 전. 제 응급실. 젊은 여성. 코였어요.
+63. ELENA: One night. Years ago. My ER. A young woman. An occlusion. Her nose.
+    엘레나: 어느 밤. 몇 년 전. 제 응급실. 젊은 여성. 혈관 폐색. 코였어요.
 
 64. HADDAD: How long did it take to dissolve?
     하다드: 녹이는 데 얼마나 걸렸어요?
