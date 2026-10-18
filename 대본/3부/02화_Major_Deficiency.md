@@ -311,8 +311,8 @@
 96. NOAH: Please.
     노아: 그래요.
 
-97. LEO: Two years ago, we failed with one point eight. We told the investor the truth.
-    레오: 2년 전에 우린 1.8로 실패했어요. 투자자한테 진실을 말했죠.
+97. LEO: Three years ago, we failed with one point eight. We told the investor the truth.
+    레오: 3년 전에 우린 1.8로 실패했어요. 투자자한테 진실을 말했죠.
 
 98. MARCUS: He gave us more money, not less. Honesty worked then. It'll work now.
     마커스: 그 사람은 돈을 줄이는 대신 더 줬지. 그때 정직함이 통했어. 지금도 통할 거야.

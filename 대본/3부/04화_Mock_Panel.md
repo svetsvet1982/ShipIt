@@ -323,8 +323,8 @@
 100. ELENA: Lily, it's Elena. Are you sure? It will be public. Recorded.
      엘레나: 릴리, 엘레나예요. 확실해요? 공개되고, 녹화돼요.
 
-101. LILY: I'm sure. Three years of concealer. I'm tired of hiding it.
-     릴리: 확실해요. 3년 동안 컨실러를 발랐어요. 숨기는 거 지쳤어요.
+101. LILY: I'm sure. Almost four years of concealer. I'm tired of hiding it.
+     릴리: 확실해요. 4년 가까이 컨실러를 발랐어요. 숨기는 거 지쳤어요.
 
 102. STEIN: Who is this? I like her already.
      스타인: 누구예요? 벌써 마음에 드네요.
