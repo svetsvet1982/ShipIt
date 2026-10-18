@@ -10,7 +10,7 @@
 
 ## 진행 현황
 - [x] 1부 The Napkin (1~15화)
-- [ ] 2부 The Trial
+- [x] 2부 The Trial (1~15화)
 - [ ] 3부 Approval
 - [ ] 4부 Launch
 - [ ] 5부 Traction

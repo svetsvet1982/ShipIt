@@ -186,8 +186,8 @@
 | 8 | Board Seat | Diane의 사무실 | 시드 500만 달러 텀싯 협상. 이사회 의석과 프로라타. Priya의 O-1 비자 승인 소식. | 계약 조건 반박 | pro rata rights / board composition / We'd like to push back on… |
 | 9 | The Audit | 뉴저지 Meridian 공장 | Marcus의 공장 감사. 우수제조관리기준(GMP) 지적 사항을 두고 Kevin과 줄다리기. | 감사·지적 사항 전달 | We have a few observations. / corrective action / This is non-negotiable. |
 | 10 | The CRO | 임상시험수탁기관 회의실 | CRO 선정과 예산 협상. 임상 운영 매니저 Grace Kim 합류. | 가격·범위 협상 | That's above our budget. / What if we take on site monitoring? / Let's meet in the middle. |
-| 11 | The Protocol | FDA 서한 / 회의실 | 임상시험 승인(IDE). 무작위 대조 설계, 1차 평가변수, 비교 제품 선정. | 기술 문서 논의 | primary endpoint / non-inferiority / randomized controlled trial |
-| 12 | The KOL | 베벌리힐스 클리닉 | 스타 피부과 의사 Dr. Stein을 임상 책임자로 영입. 까다로운 요구와 계약 조건. | VIP 응대, 요구 조율 | We'd be honored to have you. / I'm afraid that's outside our protocol. / What would make this work for you? |
+| 11 | The KOL | 베벌리힐스 클리닉 | 스타 피부과 의사 Dr. Stein을 임상 책임자로 영입. 까다로운 요구와 계약 조건. | VIP 응대, 요구 조율 | We'd be honored to have you. / I'm afraid that's outside our protocol. / What would make this work for you? |
+| 12 | The Protocol | FDA 서한 / 회의실 | 임상시험 승인(IDE). 무작위 대조 설계, 1차 평가변수, 비교 제품 선정. | 기술 문서 논의 | primary endpoint / non-inferiority / randomized controlled trial |
 | 13 | Series A | 두 VC 회의실 | 임상 자금 2,500만 달러. 두 VC가 경쟁하고, 리드 투자자를 고른다. | 협상 레버리지 | We have another term sheet. / pre-money valuation / exploding offer |
 | 14 | First Patient In | 임상 사이트 | 첫 환자 등록. 동의서 설명, 사이트 모니터링, 멍 이상반응 보고에 모두가 긴장한다. | 절차 설명, 이상반응 보고 | informed consent / adverse event / Let's follow the protocol. |
 | 15 | Topline | 18개월 뒤, 회의실 | 1차 평가변수 충족, 용해 속도 3.1배. 축하도 잠시, Marcus의 경고: "Two is one, one is none." 그리고 Halvern의 "녹는 필러" 개발 발표. | 결과 발표, 리스크 경고 | We hit our primary endpoint. / statistically significant / single point of failure |
