@@ -1,0 +1,421 @@
+# SHIP IT — 6부 4화
+
+## Speed Dating (스피드 데이팅)
+
+> **표기 전용 정보 (낭독하지 않음)**
+> - 부/화: 6부 4화 · 서사 기능: IMCAS 둘째 날 유통사 미팅 6건 연속, 영국식 완곡어법에 당황하는 Noah, 국가별 협상 스타일, 결정적 질문으로 파트너 거르기
+> - 배경: IMCAS 둘째 날 금요일. 오전 8시 30분 부스 → 오전 9시 ~ 오후 4시 미팅 코너(30분 × 6) → 오후 6시 호텔 로비
+> - 등장인물: Noah, Sofia, Zoe, Elena, Oliver Grant(Grant & Ashby Distribution 대표, 런던), Klaus Becker(MediPartner GmbH, 뮌헨), Javier Ruiz-Ortega(EstéticaPro, 마드리드), Femke de Vries(DermaLink, 암스테르담), Laurent Dubois(Dubois Médical, 리옹), Omar Saleh(Gulf MedTrade, 두바이)
+> - 비즈니스 스킬: 유통사 미팅(짧은 시간 내 적합성 판단), 영국식 영어 해석, 물량 질문, 문화별 협상 스타일 대응
+> - 난이도: B2+ · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
+> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내.
+> - 복선 설치: **Zoe의 영국식 해석 카드("I'll bear it in mind" = 잊을 수도 / "Not bad at all" = 꽤 좋음 / "quite interesting" = 대개 아님 / "with the greatest respect" = 당신이 틀렸다)** · **Oliver: 영국 약 1,800개 병원 네트워크, 매력적, 미용사 판매 질문에 "We sell to anyone the law allows. As one does." — 애매** · Oliver "What volumes are we talking about?" · **Klaus(독일·오스트리아·스위스): 데이터 집착, 5년 독점 요구, 의사만** · **Javier(스페인): "estheticians" 판매 → 탈락** · **Femke(네덜란드): "Your price is too high. Goodbye." 직설** · Laurent(프랑스): 점심 2시간 제안, 의사만, 소규모 · Omar(두바이): CE 후 · **순위: 영국 Oliver(네트워크 최강, 미용사 판매 리스크) / 독일 Klaus(적합, 느림)** · Oliver 문자 "Not bad at all… I'll bear it in mind." → 두 번째 문자 "Shall we have a proper chat in London? March?"(→5·7화)
+
+---
+
+## 대본
+
+### 도입 — 오전 8시 30분, 부스
+
+01. ZOE: You slept eight hours?
+    조이: 여덟 시간 잤어요?
+
+02. NOAH: Seven. Close enough. And no wine.
+    노아: 일곱. 비슷하죠. 그리고 와인 없이.
+
+03. ZOE: Good. Here. A gift. My British decoder card.
+    조이: 좋아요. 여기요. 선물. 내 영국식 해석 카드.
+
+04. NOAH: "What they say. What they mean." You made a card?
+    노아: "그들이 하는 말. 그들이 뜻하는 것." 카드를 만들었어요?
+
+05. ZOE: Read it before Oliver arrives. Out loud.
+    조이: 올리버 오기 전에 읽어요. 소리 내서.
+
+06. NOAH: "I'll bear it in mind." Means, "I've already forgotten it."
+    노아: "기억해 두겠습니다." 뜻은 "이미 잊었습니다."
+
+07. SOFIA: Sometimes. Sometimes it means they'll really think about it. Context matters.
+    소피아: 때로는요. 때로는 정말 생각해 보겠다는 뜻이기도 해요. 맥락이 중요해요.
+
+08. NOAH: "Not bad at all." Means "Very good."
+    노아: "전혀 나쁘지 않네요." 뜻은 "아주 좋네요."
+
+09. ZOE: Yes. That one is positive. Strange, but positive.
+    조이: 맞아요. 그건 긍정이에요. 이상하지만 긍정.
+
+10. NOAH: "That's quite interesting." Means… "No"?
+    노아: "꽤 흥미롭네요." 뜻은… "아니요"?
+
+11. ZOE: Usually. Unless he asks a follow-up question. Then it's real interest.
+    조이: 보통은요. 후속 질문을 하지 않는다면요. 그럼 진짜 관심이에요.
+
+12. NOAH: "With the greatest respect." Means…
+    노아: "최대한의 존경을 담아." 뜻은…
+
+13. ZOE: "You are wrong. And possibly an idiot."
+    조이: "당신이 틀렸어요. 그리고 아마 바보예요."
+
+14. NOAH: This is harder than French.
+    노아: 프랑스어보다 어렵네요.
+
+15. SOFIA: French is a different language. British English is the same language with hidden doors.
+    소피아: 프랑스어는 다른 언어예요. 영국 영어는 숨은 문이 있는 같은 언어고요.
+
+### 장면1 — 오전 9시, Oliver Grant
+
+16. OLIVER: Good morning. Oliver Grant. Grant and Ashby. Lovely little booth. Very… efficient.
+    올리버: 좋은 아침입니다. 올리버 그랜트. 그랜트 앤 애슈비. 사랑스러운 작은 부스네요. 아주… 효율적이고.
+
+17. NOAH: Good morning, Mr. Grant. Thank you for coming. Please, sit.
+    노아: 좋은 아침입니다, 그랜트 씨. 와 주셔서 감사해요. 앉으세요.
+
+18. OLIVER: Oliver, please. "Mr. Grant" was my father. He was rather stern.
+    올리버: 올리버라고 불러 주세요. "그랜트 씨"는 우리 아버지였어요. 꽤 엄격한 분이셨죠.
+
+19. SOFIA: Oliver, tell us about Grant and Ashby. Who do you serve?
+    소피아: 올리버, 그랜트 앤 애슈비에 대해 말해 주세요. 누구에게 공급하세요?
+
+20. OLIVER: About eighteen hundred clinics across the UK. Large groups, small practices. Twenty-two years.
+    올리버: 영국 전역 약 1,800개 클리닉. 대형 그룹, 소규모 병원. 22년째요.
+
+21. NOAH: Eighteen hundred. That's a large network.
+    노아: 1,800곳. 큰 네트워크네요.
+
+22. OLIVER: It's not bad at all. We're rather proud of it.
+    올리버: 전혀 나쁘지 않죠. 꽤 자랑스러워해요.
+
+23. NOAH: Let me walk you through our product. Briefly.
+    노아: 저희 제품을 간단히 설명해 드릴게요.
+
+24. OLIVER: Please. Though I've done some reading. Two point eight times faster. Forty subjects. Blinded.
+    올리버: 그러세요. 저도 좀 읽어 보긴 했지만요. 2.8배 빠름. 40명. 눈가림.
+
+25. SOFIA: You've read our label.
+    소피아: 저희 라벨을 읽으셨네요.
+
+26. OLIVER: I read everyone's label. It saves time. And embarrassment.
+    올리버: 모든 회사 라벨을 읽어요. 시간이 절약되거든요. 그리고 망신도.
+
+27. NOAH: In a nutshell, we make a filler you can dissolve quickly. And we sell it only to trained hands.
+    노아: 한마디로, 저희는 빨리 녹일 수 있는 필러를 만듭니다. 그리고 교육받은 손에만 팝니다.
+
+28. OLIVER: Trained hands. That's quite interesting.
+    올리버: 교육받은 손. 꽤 흥미롭네요.
+
+29. NOAH: …Is that good?
+    노아: …그게 좋은 거예요?
+
+30. SOFIA: Oliver, what does "trained hands" mean in the UK market today?
+    소피아: 올리버, 지금 영국 시장에서 "교육받은 손"은 무슨 의미예요?
+
+31. OLIVER: It means many things to many people. The UK is… flexible. As you may have heard.
+    올리버: 많은 사람에게 많은 의미죠. 영국은… 유연해요. 들으셨겠지만.
+
+32. NOAH: Can I ask directly? Do you sell to non-medical injectors? Beauticians?
+    노아: 직접 물어봐도 될까요? 비의료인 시술자에게도 판매하세요? 미용사에게?
+
+33. OLIVER: We sell to anyone the law allows. As one does.
+    올리버: 법이 허용하는 누구에게나 팝니다. 다들 그렇듯이요.
+
+34. SOFIA: So, yes?
+    소피아: 그러니까, 네?
+
+35. OLIVER: So, it depends. On the product. And the partner.
+    올리버: 그러니까, 경우에 따라요. 제품에 따라. 그리고 파트너에 따라.
+
+36. NOAH: Our rule is medical professionals only. Doctors, nurses, dentists. Licensed and trained.
+    노아: 저희 규칙은 의료 전문가만이에요. 의사, 간호사, 치과의사. 면허 있고 교육받은.
+
+37. OLIVER: I'll bear it in mind.
+    올리버: 기억해 두겠습니다.
+
+38. NOAH: …
+    노아: …
+
+39. SOFIA: Oliver. Is that a real "bear it in mind"? Or a polite one?
+    소피아: 올리버. 그거 진짜 "기억해 두겠다"예요? 아니면 정중한 거예요?
+
+40. OLIVER: Ha. You've been coached. That's rather unfair. It's a real one. I'm thinking.
+    올리버: 하. 코칭받으셨군요. 그건 좀 불공평한데요. 진짜예요. 생각 중이에요.
+
+41. SOFIA: Thinking about what? Medical-only shrinks your market?
+    소피아: 뭘 생각 중이세요? 의료인 한정이면 시장이 줄어서요?
+
+42. OLIVER: It would. But it might make me different. Every UK distributor sells to beauticians. Not one sells only to clinicians.
+    올리버: 그렇죠. 하지만 저를 다르게 만들 수도 있어요. 영국 유통사는 다 미용사에게 팔아요. 임상의에게만 파는 곳은 없어요.
+
+43. SOFIA: So you'd be the first.
+    소피아: 그럼 당신이 첫 번째가 되겠네요.
+
+44. OLIVER: Or the first to go bankrupt. We'll see. What volumes are we talking about?
+    올리버: 아니면 처음으로 파산하거나. 두고 보죠. 물량은 어느 정도로 생각하세요?
+
+45. NOAH: Sofia, you have the numbers.
+    노아: 소피아, 숫자는 당신이 갖고 있죠.
+
+46. SOFIA: Year one, perhaps eight thousand syringes. Medical clinics only. Year two, double.
+    소피아: 1년 차에 아마 8,000개. 의료 클리닉만. 2년 차엔 두 배.
+
+47. OLIVER: Eight thousand. With beauticians, I'd say twenty-five.
+    올리버: 8,000개. 미용사를 포함하면 2만 5천이라고 하겠죠.
+
+48. NOAH: And Houston would happen in London. Every week.
+    노아: 그럼 휴스턴 같은 일이 런던에서 매주 일어나겠죠.
+
+49. OLIVER: I read about Houston. Unfortunate. Very. Thank you both. Not bad at all. I'll be in touch.
+    올리버: 휴스턴 기사 읽었어요. 안타깝죠. 아주. 두 분 감사합니다. 전혀 나쁘지 않았어요. 연락드릴게요.
+
+50. NOAH: Thank you, Oliver. We'll be in touch too.
+    노아: 고마워요, 올리버. 저희도 연락드릴게요.
+
+### 장면2 — 오전 9시 30분 ~ 정오, 미팅 2·3·4
+
+51. NOAH: Sofia. Was that good or bad?
+    노아: 소피아. 좋았어요, 나빴어요?
+
+52. SOFIA: Both. "Not bad at all" was real. And he asked about volumes. That's interest.
+    소피아: 둘 다요. "전혀 나쁘지 않았다"는 진짜였어요. 그리고 물량을 물었잖아요. 그건 관심이에요.
+
+53. NOAH: And the beautician question?
+    노아: 미용사 질문은요?
+
+54. SOFIA: He didn't say no. Grade B. With a red flag.
+    소피아: "아니요"라고는 안 했어요. B 등급. 빨간 깃발 하나와 함께.
+
+55. KLAUS: Guten Morgen. Klaus Becker. MediPartner. Germany, Austria, Switzerland. I have prepared eleven questions.
+    클라우스: 구텐 모르겐. 클라우스 베커. 메디파트너. 독일, 오스트리아, 스위스. 질문 열한 개를 준비했어요.
+
+56. NOAH: Guten Morgen. Eleven. Please, go ahead.
+    노아: 구텐 모르겐. 열한 개. 그러세요.
+
+57. KLAUS: Question one. Your clinical data. Was the comparator Lumaderm Volume? Or Lumaderm generally?
+    클라우스: 질문 하나. 임상 데이터. 비교 제품이 루마덤 볼륨이었어요? 아니면 루마덤 전반?
+
+58. SOFIA: Lumaderm Volume only. Three hundred patients. Fifteen sites.
+    소피아: 루마덤 볼륨만요. 환자 300명. 사이트 15곳.
+
+59. KLAUS: Good. Precise. Question two. Who injects in your trial? Doctors only?
+    클라우스: 좋아요. 정확하네요. 질문 둘. 임상에서 누가 시술했어요? 의사만?
+
+60. NOAH: Doctors only. Board-certified dermatologists and plastic surgeons.
+    노아: 의사만요. 전문의 자격 있는 피부과·성형외과 의사.
+
+61. KLAUS: Good. In Germany, mostly doctors inject. We sell only to doctors. Always.
+    클라우스: 좋아요. 독일에선 대부분 의사가 시술해요. 우린 의사에게만 팔아요. 항상.
+
+62. SOFIA: That's a perfect match for our rule.
+    소피아: 저희 규칙과 완벽하게 맞네요.
+
+63. KLAUS: Question eleven. I skip the middle. Exclusivity. Five years. All three countries.
+    클라우스: 질문 열한 번째. 중간은 건너뛸게요. 독점. 5년. 세 나라 전부.
+
+64. NOAH: Five years is long. For a first partner.
+    노아: 5년은 길어요. 첫 파트너로선.
+
+65. KLAUS: In Germany, we build slowly. Five years is not long. Five years is serious.
+    클라우스: 독일에선 천천히 쌓아요. 5년은 긴 게 아니에요. 5년은 진지한 거예요.
+
+66. SOFIA: We'd prefer three years. With performance targets. Then renewal.
+    소피아: 저흰 3년을 선호해요. 성과 목표와 함께. 그다음 갱신.
+
+67. KLAUS: I will write that down. We decide slowly. Expect our answer in six weeks.
+    클라우스: 적어 두겠습니다. 우린 천천히 결정해요. 6주 후에 답을 기대하세요.
+
+68. JAVIER: ¡Hola! Javier Ruiz-Ortega. EstéticaPro. Spain. I love your booth! Very small. Very cute.
+    하비에르: 올라! 하비에르 루이스오르테가. 에스테티카프로. 스페인. 부스 너무 좋아요! 아주 작고. 아주 귀여워요.
+
+69. SOFIA: Thank you, Javier. Who are your customers in Spain?
+    소피아: 고마워요, 하비에르. 스페인에서 고객이 누구예요?
+
+70. JAVIER: Clinics. Medical centers. And estheticians. Beauty salons. They are our biggest growth.
+    하비에르: 클리닉. 의료 센터. 그리고 에스테티션. 미용실. 그게 우리 최대 성장 분야예요.
+
+71. NOAH: Estheticians inject filler? In Spain?
+    노아: 에스테티션이 필러를 시술해요? 스페인에서?
+
+72. JAVIER: Officially, no. Unofficially… it's complicated. You understand.
+    하비에르: 공식적으론 아니요. 비공식적으론… 복잡하죠. 이해하시잖아요.
+
+73. SOFIA: Thank you, Javier. I don't think we're the right partner for you. But I appreciate your honesty.
+    소피아: 고마워요, 하비에르. 저희가 당신에게 맞는 파트너는 아닌 것 같아요. 하지만 솔직함은 감사해요.
+
+74. JAVIER: Already? That was five minutes!
+    하비에르: 벌써요? 5분밖에 안 됐는데!
+
+75. SOFIA: Five honest minutes. That saves us both twenty-five.
+    소피아: 솔직한 5분이었어요. 그게 우리 둘 다 25분을 아껴 줘요.
+
+76. FEMKE: Femke de Vries. DermaLink. Netherlands. Your price. Four hundred twenty-five dollars?
+    페임커: 페임커 더프리스. 더마링크. 네덜란드. 가격. 425달러요?
+
+77. SOFIA: Good morning. Yes, in the U.S. Europe pricing isn't set yet.
+    소피아: 좋은 아침이에요. 네, 미국에선요. 유럽 가격은 아직 안 정해졌어요.
+
+78. FEMKE: It's too high. Dutch clinics will not pay that. I'll be honest. Goodbye.
+    페임커: 너무 비싸요. 네덜란드 병원들은 그 돈 안 내요. 솔직하게 말할게요. 안녕히 계세요.
+
+79. NOAH: …She left. After twenty seconds.
+    노아: …갔어요. 20초 만에.
+
+80. SOFIA: Dutch directness. Honestly? I prefer it to "quite interesting."
+    소피아: 네덜란드식 직설. 솔직히요? "꽤 흥미롭네요"보다 그게 나아요.
+
+### 절정·전환 — 오후, 미팅 5·6과 디브리핑
+
+81. LAURENT: Bonjour. Laurent Dubois. Dubois Médical. Lyon. Perhaps we discuss this over lunch? Two hours?
+    로랑: 봉주르. 로랑 뒤부아. 뒤부아 메디칼. 리옹. 점심 먹으며 얘기할까요? 두 시간?
+
+82. NOAH: Bonjour. I'm sorry. We have thirty minutes. Back-to-back meetings.
+    노아: 봉주르. 죄송해요. 30분 있어요. 미팅이 연달아 있어서요.
+
+83. LAURENT: Thirty minutes? For a partnership? In France, we need time to know each other first.
+    로랑: 30분이요? 파트너십에? 프랑스에선 서로 알아 가는 시간이 먼저 필요해요.
+
+84. SOFIA: Then let's use thirty minutes to decide if we want two hours later.
+    소피아: 그럼 30분을 써서 나중에 두 시간을 원하는지 정해 봐요.
+
+85. LAURENT: Very American. And reasonable. Bon. We sell only to doctors. Mostly the south. Very loyal.
+    로랑: 아주 미국적이네요. 그리고 합리적이고. 좋아요. 우린 의사에게만 팔아요. 주로 남부. 아주 충성스럽죠.
+
+86. NOAH: Doctors only. That fits our rule perfectly.
+    노아: 의사만. 저희 규칙에 완벽하게 맞네요.
+
+87. SOFIA: But France isn't our first market, Laurent. Not yet.
+    소피아: 하지만 프랑스는 아직 저희 첫 시장이 아니에요, 로랑. 아직은.
+
+88. LAURENT: Then come back when it is. With time for lunch.
+    로랑: 그럼 그때 다시 오세요. 점심 먹을 시간을 가지고.
+
+89. OMAR: Good afternoon. Omar Saleh. Gulf MedTrade. Dr. Al-Mansouri's group sent me.
+    오마르: 안녕하세요. 오마르 살레. 걸프 메드트레이드. 알만수리 박사 그룹이 저를 보냈어요.
+
+90. SOFIA: Welcome, Omar. Dr. Al-Mansouri said you'd wait for our CE mark.
+    소피아: 환영해요, 오마르. 알만수리 박사가 CE 마크를 기다리신다고 했어요.
+
+91. OMAR: Yes. After CE, we register in six Gulf countries. Medical clinics only. It's the law there.
+    오마르: 네. CE 이후 걸프 6개국에 등록해요. 의료 클리닉만. 거기선 그게 법이에요.
+
+92. NOAH: Then let's keep talking. After CE.
+    노아: 그럼 계속 얘기해요. CE 이후에.
+
+93. ZOE: That's six. Debrief. Ten minutes. Before my feet fall off.
+    조이: 여섯 건 끝. 디브리핑. 10분. 내 발이 떨어지기 전에.
+
+94. SOFIA: Ranking. Germany, Klaus. Perfect fit. Slow. Wants five years.
+    소피아: 순위. 독일, 클라우스. 완벽한 적합. 느림. 5년 원함.
+
+95. NOAH: The UK, Oliver. The biggest network. But he won't say no to beauticians.
+    노아: 영국, 올리버. 가장 큰 네트워크. 하지만 미용사에 대해 "아니요"라고 안 해요.
+
+96. ELENA: I heard about Oliver. From Sarah. "The best. And the most flexible."
+    엘레나: 올리버 얘기 들었어요. 세라한테서. "최고. 그리고 가장 유연한."
+
+97. ZOE: Spain failed. Netherlands left. France, later. Dubai, after CE.
+    조이: 스페인 탈락. 네덜란드 떠남. 프랑스는 나중에. 두바이는 CE 이후.
+
+98. NOAH: So the UK question is simple. Can Oliver become the only medical-only distributor in Britain?
+    노아: 그럼 영국 질문은 간단해요. 올리버가 영국 유일의 의료인 전용 유통사가 될 수 있나?
+
+99. ELENA: Or will he say yes to us. And sell to beauticians quietly. Through another company.
+    엘레나: 아니면 우리한텐 "예"라고 하고. 다른 회사를 통해 조용히 미용사한테 팔거나.
+
+100. SOFIA: Serial numbers would catch that. Every syringe, every clinic.
+     소피아: 일련번호가 그걸 잡아낼 거예요. 모든 주사기, 모든 클리닉.
+
+101. ELENA: Only if he agrees to monthly scans. In writing. In the contract.
+     엘레나: 그가 월간 스캔에 동의할 때만요. 서면으로. 계약서에.
+
+102. NOAH: Then that's the test. Not what he says. What he signs.
+     노아: 그럼 그게 시험이네요. 그가 하는 말이 아니라. 그가 서명하는 것.
+
+103. ZOE: Very British, Noah. You're learning.
+     조이: 아주 영국적이네요, 노아. 배우고 있어요.
+
+104. NOAH: I'm learning that I don't understand anyone. In any language.
+     노아: 내가 어떤 언어로도 아무도 이해 못 한다는 걸 배우고 있죠.
+
+105. SOFIA: That's the first step. The second is asking better questions.
+     소피아: 그게 첫 단계예요. 두 번째는 더 나은 질문을 하는 거고요.
+
+### 마무리 — 오후 6시, 호텔 로비
+
+106. NOAH: My phone. A text. From Oliver.
+     노아: 전화. 문자. 올리버한테서.
+
+107. ZOE: Read it. Slowly. We'll decode.
+     조이: 읽어요. 천천히. 우리가 해독할게요.
+
+108. NOAH: "Thank you for today. Your presentation was not bad at all."
+     노아: "오늘 감사했습니다. 프레젠테이션이 전혀 나쁘지 않았어요."
+
+109. ZOE: Positive. Very positive. Continue.
+     조이: 긍정. 아주 긍정. 계속.
+
+110. NOAH: "Your medical-only position is quite interesting. I'll bear it in mind."
+     노아: "의료인 전용 입장은 꽤 흥미롭네요. 기억해 두겠습니다."
+
+111. SOFIA: Hmm. "Quite interesting." Plus "bear it in mind." That's a polite no. On the rule.
+     소피아: 흠. "꽤 흥미롭다." 거기에 "기억해 두겠다." 규칙에 대한 정중한 거절이네요.
+
+112. NOAH: So he's out?
+     노아: 그럼 탈락이에요?
+
+113. ZOE: Wait. There's a second text.
+     조이: 잠깐. 두 번째 문자가 있어요.
+
+114. NOAH: "P.S. Shall we have a proper chat in London? March, perhaps? I'll book somewhere quiet."
+     노아: "추신. 런던에서 제대로 얘기 나눌까요? 3월쯤? 조용한 곳으로 예약할게요."
+
+115. SOFIA: A P.S. with a date and a place. That's real. That's very real.
+     소피아: 날짜와 장소가 있는 추신. 그건 진짜예요. 아주 진짜.
+
+116. NOAH: So the first text was "no" and the second was "yes"?
+     노아: 그럼 첫 문자는 "아니요"고 두 번째는 "예"예요?
+
+117. ZOE: The first was "No to your rule." The second was "Yes to your company."
+     조이: 첫 번째는 "당신네 규칙엔 아니요." 두 번째는 "당신네 회사엔 예."
+
+118. ELENA: Then London will be about the rule. Only the rule.
+     엘레나: 그럼 런던은 규칙에 관한 거겠네요. 오직 규칙.
+
+119. NOAH: I need a dictionary. A British one.
+     노아: 사전이 필요해요. 영국식 사전.
+
+120. ZOE: You need a Brit. Someone who can read between the lines. We'll find one.
+     조이: 영국인이 필요해요. 행간을 읽을 수 있는 사람. 찾아볼게요.
+
+---
+
+## 학습 부록
+
+### ① 핵심 표현 10
+
+| # | 표현 | 뜻 | 대본 속 쓰임 / 비즈니스 활용 |
+|---|---|---|---|
+| 1 | I'll bear it in mind. | 기억해 두겠다(때로 정중한 거절). | 37·110턴. 영국식 완곡 표현. 맥락으로 판단. |
+| 2 | Not bad at all. | 전혀 나쁘지 않다(= 꽤 좋다). | 22·50·108턴. 영국식 긍정 칭찬. |
+| 3 | That's quite interesting. | 꽤 흥미롭다(대개 부정적). | 28·110턴. 후속 질문이 없으면 관심 없음. |
+| 4 | With the greatest respect… | 최대한의 존경을 담아…(= 당신이 틀렸다). | 12~13턴. 반대 의견을 정중하게 시작. |
+| 5 | We sell to anyone the law allows. As one does. | 법이 허용하는 누구에게나 판다. 다들 그렇듯. | 33턴. 애매하게 피하는 답변. |
+| 6 | What volumes are we talking about? | 물량은 어느 정도인가? | 44턴. 유통사가 진지한 관심을 보이는 질문. |
+| 7 | Five years is not long. Five years is serious. | 5년은 긴 게 아니라 진지한 것이다. | 65턴. 독일식 장기 파트너십 관점. |
+| 8 | Five honest minutes saves us both twenty-five. | 솔직한 5분이 둘 다 25분을 아껴 준다. | 75턴. 맞지 않는 파트너를 빨리 정리하기. |
+| 9 | Not what he says. What he signs. | 그가 하는 말이 아니라 서명하는 것. | 102턴. 약속보다 계약 조항으로 확인하기. |
+| 10 | read between the lines | 행간을 읽다 | 120턴. 숨은 의미 파악. |
+
+### ② 비즈니스 컬처 노트 — 유럽 유통사 미팅과 커뮤니케이션 스타일
+같은 영어라도 나라마다 의미가 다르다. **영국**은 완곡어법(understatement)이 강해 "quite interesting"은 대개 관심 없음, "not bad at all"은 칭찬이며, 진짜 관심은 **후속 질문·물량 질문·구체적 일정**으로 드러난다. **독일**은 사전에 준비한 질문으로 정확성을 확인하고 장기 독점을 선호하며 결정이 느리다. **네덜란드**는 매우 직설적이라 몇 초 만에 거절하기도 한다. **프랑스**는 관계를 먼저 쌓는 시간을 중시한다. 스피드 미팅에서는 **결정적 질문 하나**로 부적합한 파트너를 빨리 거르고, 말보다 **계약서에 서명할 조건**으로 진의를 확인하는 것이 중요하다.
+
+### ③ 실무 템플릿 — 유통사 미팅 평가표 (IMCAS Day 2)
+
+| # | Distributor | Market | Network | Beautician question | Notes | Grade |
+|---|---|---|---|---|---|---|
+| 1 | Oliver Grant — Grant & Ashby | UK | ~1,800 clinics, 22 yrs | "Anyone the law allows. As one does." | Asked volumes (8K vs. 25K w/ beauticians); P.S.: London in March | **B (red flag)** |
+| 2 | Klaus Becker — MediPartner | DE/AT/CH | Doctors only | No — doctors only | 11 prepared questions; wants 5-yr exclusivity; answer in 6 weeks | **A (slow)** |
+| 3 | Javier Ruiz-Ortega — EstéticaPro | Spain | Clinics + salons | "Unofficially… complicated" | Ended in 5 min | **C** |
+| 4 | Femke de Vries — DermaLink | Netherlands | — | — | "Too high. Goodbye." (20 sec) | — |
+| 5 | Laurent Dubois — Dubois Médical | France (south) | 200 clinics, doctors only | No | Wants 2-hour lunch; France not first market | B (later) |
+| 6 | Omar Saleh — Gulf MedTrade | 6 Gulf countries | Medical only (law) | No | After CE | B (after CE) |
+
+> **British decoder:** "I'll bear it in mind" (maybe forgotten) · "Not bad at all" (very good) · "Quite interesting" (usually no) · "With the greatest respect" (you're wrong) · **A P.S. with a date and place = real**
