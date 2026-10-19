@@ -16,4 +16,4 @@
 - [x] 5부 Traction (1~15화)
 - [x] 6부 Crossing the Pond (1~15화)
 - [x] 7부 Global (1~15화)
-- [ ] 8부 Public
+- [x] 8부 Public
