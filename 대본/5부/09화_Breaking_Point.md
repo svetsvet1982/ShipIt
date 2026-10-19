@@ -237,8 +237,8 @@
 72. PRIYA: Elena. Noah. Please. We've never been like this. Not even when we fought about equity.
     프리야: 엘레나. 노아. 제발. 우리 이런 적 없었잖아. 지분 때문에 싸울 때도.
 
-73. MARCUS: Priya's right. Six years. Four of us. We've never used the veto.
-    마커스: 프리야 말이 맞아. 6년. 우리 넷. 거부권을 쓴 적이 없어.
+73. MARCUS: Priya's right. Five years. Four of us. We've never used the veto.
+    마커스: 프리야 말이 맞아. 5년. 우리 넷. 거부권을 쓴 적이 없어.
 
 74. ELENA: Because Noah never gave me a reason. Until today.
     엘레나: 노아가 이유를 준 적이 없었으니까요. 오늘까지.

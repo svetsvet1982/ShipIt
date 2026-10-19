@@ -124,8 +124,8 @@
 35. NOAH: Priya. Your chapter four isn't a threat. It's our shield.
     노아: 프리야. 네 4장은 위협이 아니야. 우리 방패야.
 
-36. PRIYA: Six years ago, you made fun of me. You said I "sat in a library."
-    프리야: 6년 전에 날 놀렸잖아. 내가 "도서관에 앉아 있었다"고.
+36. PRIYA: Five years ago, you made fun of me. You said I "sat in a library."
+    프리야: 5년 전에 날 놀렸잖아. 내가 "도서관에 앉아 있었다"고.
 
 37. NOAH: I was wrong then. That library might save the company now.
     노아: 그때 내가 틀렸어. 그 도서관이 지금 회사를 구할지도 몰라.
