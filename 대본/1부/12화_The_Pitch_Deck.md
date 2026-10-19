@@ -47,8 +47,8 @@
 10. PRIYA: Welcome to startups.
     프리야: 스타트업에 온 걸 환영해요.
 
-11. LILY: First question. Why is the company called Veyra? Nobody told me.
-    릴리: 첫 질문. 회사 이름이 왜 Veyra야? 아무도 말 안 해 줬어.
+11. LILY: First question, before I design anything. Why is the company called Veyra? Nobody told me, and I can't draw a good logo for a name if I don't know the story behind it.
+    릴리: 첫 질문, 디자인 시작하기 전에. 회사 이름이 왜 Veyra야? 아무도 말 안 해 줬어. 이름에 담긴 이야기를 모르면 좋은 로고를 그릴 수가 없거든.
 
 12. PRIYA: Elena suggested "Vera." It means "true" in Latin.
     프리야: 엘레나가 "베라"를 제안했어요. 라틴어로 "진실한"이라는 뜻이에요.
@@ -106,8 +106,8 @@
 29. LILY: What's a business model?
     릴리: 비즈니스 모델이 뭐야?
 
-30. NOAH: How we make money. Who pays, how much, how often.
-    노아: 돈을 어떻게 버는지. 누가, 얼마를, 얼마나 자주 내는지.
+30. NOAH: How we make money. Who pays, how much, and how often. For us, clinics would buy the filler, and if they like it, they keep ordering it again and again.
+    노아: 돈을 어떻게 버는지. 누가, 얼마를, 얼마나 자주 내는지. 우리 경우엔 클리닉이 필러를 사고, 마음에 들면 계속해서 다시 주문하는 거지.
 
 31. PRIYA: Eight, what we've done so far. Our traction.
     프리야: 8번, 지금까지 한 일. 우리의 성과.
@@ -118,8 +118,8 @@
 33. NOAH: Kind of. Proof that we're moving. Not spinning in place.
     노아: 비슷해. 우리가 앞으로 나아가고 있다는 증거. 제자리에서 헛돌지 않고.
 
-34. PRIYA: Our traction is twelve interviews and one autoclave test. Still running.
-    프리야: 우리 성과는 인터뷰 열두 건이랑 고압 멸균 시험 하나. 아직 진행 중이고.
+34. PRIYA: To be honest, our traction is small. Twelve interviews and one autoclave test, which is still running. That's not much, so we need to present it clearly and not pretend it's more.
+    프리야: 솔직히 말하면 우리 성과는 작아. 인터뷰 열두 건이랑 아직 진행 중인 고압 멸균 시험 하나. 많지 않으니까, 부풀리지 말고 명확하게 보여 줘야 해.
 
 35. NOAH: It's early. Investors know that.
     노아: 초기니까. 투자자들도 알아.
@@ -133,8 +133,8 @@
 38. LILY: And ten?
     릴리: 그리고 10번은?
 
-39. NOAH: The ask. One point five million dollars. And what it gets us.
-    노아: 요청 금액. 150만 달러. 그리고 그걸로 뭘 이룰지.
+39. NOAH: The ask. One point five million dollars, and what it gets us. Investors don't just want a number, they want to know exactly what their money will help us prove.
+    노아: 요청 금액. 150만 달러, 그리고 그걸로 뭘 이룰지. 투자자들은 숫자만 원하는 게 아니라, 자기 돈으로 우리가 정확히 뭘 증명할지 알고 싶어 해.
 
 40. LILY: Okay. That's a clear structure. Even I understand it.
     릴리: 좋아. 구조가 명확하네. 나도 이해할 정도로.
@@ -183,8 +183,8 @@
 54. NOAH: Too much? It's all important.
     노아: 너무 많다고? 다 중요한 건데.
 
-55. PRIYA: If everything is important, nothing is.
-    프리야: 전부 중요하면 아무것도 중요하지 않아.
+55. PRIYA: If everything is important, nothing is. An investor will look at this slide for a few seconds, so it has to say one clear thing. Right now it says six things at once.
+    프리야: 전부 중요하면 아무것도 중요하지 않아. 투자자는 이 슬라이드를 몇 초밖에 안 볼 거야. 그러니까 분명한 메시지 하나를 말해야 해. 지금은 여섯 가지를 한꺼번에 말하고 있어.
 
 56. LILY: She's right. My eyes don't know where to go.
     릴리: 프리야 말이 맞아. 내 눈이 어디를 봐야 할지 모르겠어.
@@ -201,8 +201,8 @@
 60. NOAH: Jasmine's quote. "For ten seconds, I froze."
     노아: 재스민의 말. "10초 동안 전 얼어 버렸어요."
 
-61. PRIYA: Without her name. We promised anonymity.
-    프리야: 이름은 빼고. 익명으로 하기로 약속했잖아.
+61. PRIYA: Without her name, though. We promised every person we interviewed that we'd keep them anonymous, and if we break that promise on slide two, nobody in this industry will talk to us again.
+    프리야: 이름은 빼고. 인터뷰한 모든 사람한테 익명으로 하겠다고 약속했잖아. 2번 슬라이드에서 그 약속을 깨면, 이 업계에서 아무도 우리랑 다시는 얘기 안 할 거야.
 
 62. NOAH: Of course. "A nurse injector, Austin."
     노아: 당연하지. "간호사 시술자, 오스틴."
@@ -237,8 +237,8 @@
 72. PRIYA: Define "several." Investors will ask.
     프리야: "수십억"이 정확히 얼마야? 투자자들이 물어볼 거야.
 
-73. NOAH: I'll get the exact number from public reports. Not from Halvern files.
-    노아: 정확한 숫자는 공개 보고서에서 찾을게. 할번 파일 말고.
+73. NOAH: I'll get the exact number from public reports, not from Halvern files. Using anything from my old job would be a huge mistake, and it would hurt us more than a vague number.
+    노아: 정확한 숫자는 공개 보고서에서 찾을게. 할번 파일 말고. 예전 직장 자료를 조금이라도 쓰면 큰 실수고, 애매한 숫자보다 우리한테 훨씬 더 큰 타격이 될 거야.
 
 74. PRIYA: Good. Clean hands.
     프리야: 좋아. 깨끗한 손.
@@ -255,8 +255,8 @@
 78. PRIYA: "Yet." Remember, the idea is public. They could copy it.
     프리야: "아직은." 기억해, 아이디어는 공개돼 있어. 그들이 따라 할 수 있어.
 
-79. NOAH: Then our edge is speed, focus, and better formulas.
-    노아: 그럼 우리 강점은 속도, 집중, 더 나은 배합이지.
+79. NOAH: Then our edge is speed, focus, and better formulas. The big players have many products to worry about. We have only one, so every hour we work goes into making it reversible and safe.
+    노아: 그럼 우리 강점은 속도, 집중, 더 나은 배합이지. 대형 업체들은 신경 쓸 제품이 많아. 우린 하나뿐이니까, 일하는 시간 전부를 그걸 되돌릴 수 있고 안전하게 만드는 데 쏟을 수 있어.
 
 80. PRIYA: And a team that actually cares. Put that on slide nine.
     프리야: 그리고 진심으로 신경 쓰는 팀. 그걸 9번 슬라이드에 넣어.
@@ -281,8 +281,8 @@
 86. LILY: A photo of me?
     릴리: 내 사진을?
 
-87. NOAH: Investors remember stories. A real face makes it real.
-    노아: 투자자들은 이야기를 기억해. 진짜 얼굴이 있으면 진짜가 되지.
+87. NOAH: Investors remember stories, Lil. They see hundreds of decks with charts and numbers, and they forget most of them. But a real face, a real night in the ER, makes the problem real.
+    노아: 투자자들은 이야기를 기억해, 릴. 차트랑 숫자로 가득한 덱을 수백 개씩 보고, 대부분은 잊어버려. 하지만 진짜 얼굴, 응급실에서의 진짜 하룻밤이 있으면 문제가 진짜가 되지.
 
 88. LILY: My gray nose. On a slide. For strangers.
     릴리: 잿빛이 된 내 코. 슬라이드에. 모르는 사람들 보라고.
@@ -302,14 +302,14 @@
 93. NOAH: Okay. Maybe I did. I'm sorry.
     노아: 알았어. 그랬을지도 몰라. 미안해.
 
-94. LILY: I still look in the mirror every morning. I still see the mark.
-    릴리: 난 아직도 매일 아침 거울을 봐. 아직도 그 자국이 보여.
+94. LILY: I still look in the mirror every morning, Noah. I still see the mark, even when nobody else can. So putting that night on a slide isn't a story to me. It's my face.
+    릴리: 난 아직도 매일 아침 거울을 봐, 오빠. 아무도 못 알아볼 때도 나한텐 그 자국이 보여. 그러니까 그날 밤을 슬라이드에 넣는 건 나한텐 이야기가 아니야. 내 얼굴이야.
 
 95. NOAH: I didn't know it still bothered you that much.
     노아: 그게 아직도 그렇게 신경 쓰이는 줄 몰랐어.
 
-96. LILY: Because you never asked. You asked about the logo. Not about me.
-    릴리: 오빠가 안 물어봤으니까. 로고는 물어봤잖아. 나는 안 물어보고.
+96. LILY: Because you never asked. You asked about the logo, the animation, the tagline. Not about me. For two weeks I've been helping you, and you haven't once asked how I'm doing.
+    릴리: 오빠가 안 물어봤으니까. 로고, 애니메이션, 태그라인은 물어봤잖아. 나는 안 물어보고. 2주 동안 오빠를 도왔는데, 내가 어떻게 지내는지는 한 번도 안 물어봤어.
 
 97. NOAH: You're right. How are you, Lil? Really?
     노아: 네 말이 맞아. 너 어때, 릴? 진짜로?
@@ -355,8 +355,8 @@
 110. NOAH: Elaine Choi? The one who sold her device company?
      노아: 일레인 최요? 의료기기 회사 매각한 그분이요?
 
-111. ELENA: The same. We sit on the hospital board together.
-     엘레나: 맞아요. 병원 이사회에 같이 있어요.
+111. ELENA: The same. We sit on the hospital board together, so I told her about you and the idea. She doesn't meet many first-time founders, so this is a real chance.
+     엘레나: 맞아요. 병원 이사회에 같이 있어서, 노아랑 그 아이디어에 대해 얘기해 뒀어요. 첫 창업자는 잘 안 만나는 분이라, 이건 진짜 기회예요.
 
 112. NOAH: When?
      노아: 언제요?
@@ -367,8 +367,8 @@
 114. NOAH: Thank you, Elena. This is huge.
      노아: 고마워요, 엘레나. 이거 엄청난 기회예요.
 
-115. ELENA: One warning. She asks very hard questions. Very fast.
-     엘레나: 하나 경고할게요. 아주 어려운 질문을 아주 빨리 해요.
+115. ELENA: One warning. She asks very hard questions, very fast, and she doesn't wait politely for long answers. If you don't know something, say so clearly. Don't guess in front of her.
+     엘레나: 하나 경고할게요. 아주 어려운 질문을 아주 빨리 하고, 긴 대답을 점잖게 기다려 주지 않아요. 모르는 게 있으면 모른다고 분명히 말해요. 그분 앞에서 추측하지 말고요.
 
 116. NOAH: How hard?
      노아: 얼마나 어려운데요?
@@ -421,3 +421,18 @@
 | 8 | Traction | What have you proven? | 12 interviews, autoclave test in progress. |
 | 9 | Team | Why you? | Science, manufacturing, clinical, market. |
 | 10 | The ask | How much, for what? | $1.5M for 18 months to prove the technology. |
+
+### ④ 긴 발화 분석
+
+> **55턴 PRIYA:** "If everything is important, nothing is. An investor will look at this slide for a few seconds, so it has to say one clear thing. Right now it says six things at once."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 원칙(격언) | If everything is important, nothing is. | 피드백의 핵심을 한 줄 원칙으로 먼저 제시 |
+| ② 근거(청중의 현실) | An investor will look at this slide for a few seconds, | 왜 그 원칙이 중요한지 듣는 사람 입장에서 설명 |
+| ③ 기준 제시 | so it has to say one clear thing. | 좋은 슬라이드의 기준을 구체적으로 제시 |
+| ④ 현재 진단 | Right now it says six things at once. | 기준과 현재 상태의 차이를 숫자로 보여 줌 |
+
+**활용 패턴:** 원칙 → 청중의 현실 → 기준 → "Right now…" 진단
+**연결 표현:** so(그래서) · has to(~해야 한다) · Right now(지금은) · at once(한꺼번에)
+**연습:** 동료의 보고서 초안에 같은 구조로 30단어 안팎의 피드백을 해 보기.

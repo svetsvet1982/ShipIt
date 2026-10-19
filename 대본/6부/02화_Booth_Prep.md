@@ -23,8 +23,8 @@
 02. MARCUS: That's smaller than my garage.
     마커스: 우리 차고보다 작은데.
 
-03. ZOE: Your garage doesn't have a training station. Or a meeting corner. Or a translator.
-    조이: 당신 차고엔 교육 스테이션이 없잖아요. 미팅 코너도. 통역사도.
+03. ZOE: Your garage doesn't have a training station, or a meeting corner, or a translator. Every square meter here has a job. Doctors practice on one side, distributors sit down on the other, and nobody stands around waiting for a brochure.
+    조이: 당신 차고엔 교육 스테이션도, 미팅 코너도, 통역사도 없잖아요. 여기선 1제곱미터마다 할 일이 있어요. 한쪽에선 의사들이 연습하고, 다른 쪽에선 유통사들이 앉아서 얘기하고, 브로슈어를 기다리며 서 있는 사람은 아무도 없어요.
 
 04. NOAH: Where are we in the hall?
     노아: 홀 어디에 있어요?
@@ -53,8 +53,8 @@
 12. NOAH: Or he wants doctors to compare. Big booth, small booth.
     노아: 아니면 의사들이 비교하길 원하는 거죠. 큰 부스, 작은 부스.
 
-13. ZOE: Then we make small look smart. Like San Diego.
-    조이: 그럼 작은 게 똑똑해 보이게 만들죠. 샌디에이고처럼.
+13. ZOE: Then we make small look smart, like San Diego. A big booth says 'we have money.' A small booth with a line of doctors waiting to try the demo says 'we have something worth waiting for.'
+    조이: 그럼 작은 게 똑똑해 보이게 만들죠, 샌디에이고처럼. 큰 부스는 '우린 돈이 있다'고 말해요. 시연해 보려고 의사들이 줄 서 있는 작은 부스는 '우린 기다릴 가치가 있는 걸 가졌다'고 말하고요.
 
 14. MARCUS: Budget first. Two hundred thousand. Where does it go?
     마커스: 예산 먼저. 20만. 어디에 써?
@@ -70,8 +70,8 @@
 17. ZOE: Shipping and customs, twenty-two. Travel and hotels, seventy. Translation, fifteen. Contingency, ten.
     조이: 운송과 통관 2만 2천. 출장과 호텔 7만. 번역 1만 5천. 예비비 1만.
 
-18. MARCUS: Ten thousand contingency. For an international show? That's thin.
-    마커스: 해외 전시에 예비비 1만? 얇네.
+18. MARCUS: Ten thousand contingency, for an international show? That's thin. In my experience, something always goes wrong overseas: a crate gets held at customs, a panel arrives cracked, a flight gets cancelled. Ten thousand covers one of those, not two.
+    마커스: 해외 전시에 예비비 1만? 얇네. 내 경험상 해외에선 늘 뭔가 잘못돼. 상자가 세관에 묶이거나, 패널이 깨져서 도착하거나, 비행기가 취소되거나. 1만이면 그중 하나는 막아도, 두 개는 못 막아.
 
 19. ZOE: Then I'll cut the coffee machine. Paris has cafés.
     조이: 그럼 커피 머신을 뺄게요. 파리엔 카페가 있잖아요.
@@ -112,8 +112,8 @@
 31. TASHA: Can doctors still feel the extrusion force? That's our best demo.
     타샤: 의사들이 그래도 압출력을 느낄 수 있어요? 그게 우리 최고의 시연인데.
 
-32. PRIYA: I'll match the viscosity. Close enough to feel. Not close enough to inject. Ever.
-    프리야: 점도를 맞출게. 느낄 수 있을 만큼 가깝게. 주입할 수 있을 만큼은 절대 아니게.
+32. PRIYA: I'll match the viscosity, so the plunger feels almost the same in their hand. Close enough to feel, not close enough to inject. Ever. And every dummy gets that label printed right on the barrel, because at some point someone will try to pocket one.
+    프리야: 점도를 맞출게. 그래서 손에 쥐었을 때 플런저 느낌이 거의 같도록. 느낄 수 있을 만큼 가깝게, 주입할 수 있을 만큼은 아니게. 절대로. 그리고 더미마다 그 라벨을 주사기 몸통에 바로 인쇄할 거야. 언젠가 누군가 하나 슬쩍 챙기려 할 테니까.
 
 33. MARCUS: Shipping. Booth materials go by sea freight. Six weeks. Leaving December twentieth.
     마커스: 운송. 부스 자재는 해상 운송. 6주. 12월 20일 출발.
@@ -127,8 +127,8 @@
 36. NOAH: A passport for mannequins?
     노아: 마네킹용 여권이요?
 
-37. MARCUS: It says, "These come in. These go out. Nobody sells them." No import tax.
-    마커스: "이건 들어오고. 이건 나가고. 아무도 안 판다"는 문서야. 수입세 없음.
+37. MARCUS: It basically says, 'These come in, these go out, and nobody sells them.' So we pay no import tax. The catch is that every single item has to leave again, so if one mannequin goes missing, we pay for it.
+    마커스: 기본적으로 '이건 들어오고, 이건 나가고, 아무도 안 판다'는 문서야. 그래서 수입세가 없어. 문제는 모든 물품이 하나도 빠짐없이 다시 나가야 한다는 거지. 그러니까 마네킹 하나라도 없어지면 우리가 물어내야 해.
 
 38. TASHA: And if customs loses them?
     타샤: 세관이 잃어버리면요?
@@ -157,8 +157,8 @@
 46. GRACE: Lead capture. We'll rent badge scanners. But we need different notes. Doctors and distributors.
     그레이스: 리드 수집. 배지 스캐너를 빌릴 거예요. 하지만 다른 메모가 필요해요. 의사용과 유통사용.
 
-47. SOFIA: For distributors, one question decides everything. "Do you sell to non-medical injectors?"
-    소피아: 유통사에겐 질문 하나가 모든 걸 결정해요. "비의료인 시술자에게도 판매하십니까?"
+47. SOFIA: For distributors, one question decides everything: 'Do you sell to non-medical injectors?' I'll ask it early and casually, after the coffee and before the numbers, because if the answer is yes, the rest of the meeting doesn't matter.
+    소피아: 유통사에겐 질문 하나가 모든 걸 결정해요. '비의료인 시술자에게도 판매하십니까?' 커피 다음, 숫자 얘기 전에, 일찍 그리고 가볍게 물어볼 거예요. 답이 '네'라면 나머지 미팅은 의미가 없으니까요.
 
 48. ELENA: If yes, they're grade C. Automatically. No matter how big they are.
     엘레나: 그렇다고 하면 C 등급. 자동으로. 아무리 커도.
@@ -166,8 +166,8 @@
 49. SOFIA: Even if they're the biggest distributor in Europe?
     소피아: 유럽 최대 유통사라도요?
 
-50. ELENA: Especially then. Big and wrong is worse than small and wrong.
-    엘레나: 특히 그럴수록요. 크고 틀린 게 작고 틀린 것보다 나빠요.
+50. ELENA: Especially then. Big and wrong is worse than small and wrong, because a big distributor moves thousands of syringes. If even a few end up with untrained injectors, that's not one bad story. That's a pattern, with our name on every box.
+    엘레나: 특히 그럴수록요. 크고 틀린 게 작고 틀린 것보다 나빠요. 큰 유통사는 주사기를 수천 개씩 움직이거든요. 그중 몇 개라도 교육받지 않은 시술자 손에 들어가면, 그건 나쁜 사건 하나가 아니에요. 상자마다 우리 이름이 찍힌 하나의 패턴이에요.
 
 ### 장면2 — 오후 2시, 30초 피치 훈련
 
@@ -183,8 +183,8 @@
 54. TASHA: Rule two?
     타샤: 규칙 2는요?
 
-55. ZOE: Slow down. Shorter sentences. And only one number. The one they'll remember.
-    조이: 천천히. 문장은 짧게. 그리고 숫자는 하나만. 그들이 기억할 숫자.
+55. ZOE: Slow down, and use shorter sentences. Most of the people you'll meet in Paris are speaking their second or third language, and they're tired. So give them only one number, the one they'll remember on the plane home.
+    조이: 천천히, 그리고 문장은 짧게. 파리에서 만날 사람들 대부분은 제2, 제3 언어로 말하고 있고, 피곤해요. 그러니 숫자는 하나만 줘요. 집으로 가는 비행기에서도 기억할 숫자로.
 
 56. ELENA: Which number?
     엘레나: 어떤 숫자요?
@@ -252,8 +252,8 @@
 77. ELENA: And if they don't understand us?
     엘레나: 그럼 그 사람들이 우리 말을 못 알아들으면요?
 
-78. ZOE: Then we don't speak louder. We speak simpler. Louder is rude in every language.
-    조이: 그럼 더 크게 말하는 게 아니라. 더 쉽게 말해요. 크게 말하는 건 모든 언어에서 무례해요.
+78. ZOE: Then we don't speak louder. We speak simpler: shorter words, one idea per sentence, and maybe a quick drawing on paper. Louder is rude in every language, and it makes people feel stupid, which is the fastest way to lose a meeting.
+    조이: 그럼 더 크게 말하는 게 아니라 더 쉽게 말해요. 짧은 단어, 한 문장에 한 가지 생각, 필요하면 종이에 간단한 그림. 크게 말하는 건 모든 언어에서 무례하고, 상대를 바보처럼 느끼게 해요. 그게 미팅을 망치는 가장 빠른 길이에요.
 
 79. PRIYA: And if we don't understand them?
     프리야: 그럼 우리가 그 사람들 말을 못 알아들으면?
@@ -272,8 +272,8 @@
 83. MARCUS: "Floats" means I carry boxes.
     마커스: "유동"은 내가 상자를 나른다는 뜻이지.
 
-84. GRACE: It means you fix whatever breaks. You're the contingency. In human form.
-    그레이스: 망가진 걸 다 고친다는 뜻이에요. 사람 형태의 예비비죠.
+84. GRACE: It means you fix whatever breaks: a light, a screen, a scanner, a missing box. You're the contingency in human form. And when one of us needs a break, you step in, so the booth is never empty.
+    그레이스: 망가진 걸 다 고친다는 뜻이에요. 조명, 화면, 스캐너, 없어진 상자. 당신은 사람 형태의 예비비예요. 그리고 우리 중 누가 쉬어야 할 땐 당신이 들어가는 거죠. 그래야 부스가 절대 비지 않으니까요.
 
 85. SOFIA: Distributor meetings? We'll get requests.
     소피아: 유통사 미팅은요? 요청이 들어올 거예요.
@@ -305,11 +305,11 @@
 94. PARK: Su-jin reads everything. She is faster than your emails.
     박 대표: 수진 팀장이 다 읽어요. 당신네 이메일보다 빨라요.
 
-95. NOAH: We chose Europe first. Korea is the hardest market. We want to learn before we come.
-    노아: 유럽을 먼저 택했어요. 한국은 가장 어려운 시장이에요. 오기 전에 배우고 싶어요.
+95. NOAH: We chose Europe first, and I want to explain why. Korea is the hardest market in the world for fillers, and we're not ready for it yet. We want to make our mistakes somewhere else first, and come to Korea when we're truly prepared.
+    노아: 유럽을 먼저 택했어요. 이유를 설명드리고 싶어요. 한국은 필러에 있어 세계에서 가장 어려운 시장이고, 저희는 아직 준비가 안 됐어요. 실수는 다른 곳에서 먼저 하고, 정말 준비가 됐을 때 한국에 가고 싶어요.
 
-96. PARK: Good. That is wise. Korean doctors will ask very hard questions. Better to practice in Europe.
-    박 대표: 좋아요. 현명하네요. 한국 의사들은 아주 어려운 질문을 할 거예요. 유럽에서 연습하는 게 나아요.
+96. PARK: Good. That is wise. Korean doctors will ask very hard questions, about every ingredient, every study, every price. If your answers are weak, they will remember it for years. So it is better to practice in Europe first.
+    박 대표: 좋아요. 현명하네요. 한국 의사들은 아주 어려운 질문을 할 거예요. 모든 성분, 모든 연구, 모든 가격에 대해서. 답이 약하면 몇 년 동안 기억해요. 그러니 유럽에서 먼저 연습하는 게 나아요.
 
 97. NOAH: And our agreement? The first conversation about Asia?
     노아: 그리고 우리 합의는요? 아시아에 대한 첫 대화?
@@ -346,8 +346,8 @@
 107. NOAH: Denise made too many. It's a resource management issue.
      노아: 데니스가 너무 많이 만들었어. 자원 관리 문제야.
 
-108. CLAIRE: Noah. I have news. The Riverside Bridge. My first bridge. As lead engineer.
-     클레어: 노아. 소식 있어. 리버사이드 다리. 내 첫 다리야. 책임 엔지니어로.
+108. CLAIRE: Noah, I have news. The Riverside Bridge is finished, and it's my first bridge as lead engineer. All those late nights of drawings, inspections, and arguments with the city, and now it's actually real. I wanted you to be the first to know.
+     클레어: 노아, 소식 있어. 리버사이드 다리가 완공됐어. 책임 엔지니어로서 내 첫 다리야. 도면, 점검, 시청과의 실랑이로 보낸 그 많은 밤들 끝에, 이제 진짜가 됐어. 네가 제일 먼저 알았으면 했어.
 
 109. NOAH: Claire! That's huge. When does it open?
      노아: 클레어! 대단하다. 언제 개통해?
@@ -420,3 +420,18 @@
 | Leads | Badge scanners · Doctors A/B/C · Distributors: **"Do you sell to non-medical injectors?" → yes = C** | Sofia |
 | Rota | AM: Noah, Elena, Tasha · PM: Zoe, Sofia, Priya · Marcus floats · Day 2: 6 distributor meetings (30 min each) | Grace |
 | Pitch | *"In a nutshell, we make a filler you can dissolve quickly. And we sell it only to trained hands."* (18 sec) | All |
+
+### ④ 긴 발화 분석
+
+> **50턴 ELENA:** "Especially then. Big and wrong is worse than small and wrong, because a big distributor moves thousands of syringes. If even a few end up with untrained injectors, that's not one bad story. That's a pattern, with our name on every box."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 입장(짧게) | Especially then. Big and wrong is worse than small and wrong, | 반론을 받자마자 원칙을 한 줄로 고수 |
+| ② 근거(규모) | because a big distributor moves thousands of syringes. | 왜 "클수록" 더 위험한지 사실로 설명 |
+| ③ 가정(결과) | If even a few end up with untrained injectors, | 작은 확률도 큰 규모에선 현실이 된다는 시나리오 |
+| ④ 재정의(대비) | that's not one bad story. That's a pattern, with our name on every box. | "A가 아니라 B"로 리스크의 크기를 각인 |
+
+**활용 패턴:** 짧은 입장 → because + 근거 → If even a few… → "That's not A. That's B."
+**연결 표현:** Especially then(특히 그럴수록) · If even a few…(몇 개라도 ~하면) · end up with(결국 ~에게 가다)
+**연습:** 규모는 크지만 품질 기준이 낮은 거래처를 거절해야 하는 이유를 같은 구조로 40단어 안팎으로 말해 보기.

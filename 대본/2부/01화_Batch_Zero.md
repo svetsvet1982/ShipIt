@@ -32,8 +32,8 @@
 05. ELENA: How did Corwin take your resignation?
     엘레나: 코윈은 사직을 어떻게 받아들였어요?
 
-06. MARCUS: My director said, "You'll be back in six months."
-    마커스: 공장장이 그러더라고. "6개월이면 돌아올 거다."
+06. MARCUS: My director said, "You'll be back in six months." He meant it kindly, I think, but he also meant that startups fail and factories don't. That stung a little.
+    마커스: 공장장이 그러더라고. "6개월이면 돌아올 거다." 좋은 뜻으로 한 말이었겠지만, 스타트업은 망하고 공장은 안 망한다는 뜻이기도 했어. 그게 좀 아팠지.
 
 07. NOAH: And what did you say?
     노아: 그래서 뭐라고 했어요?
@@ -44,8 +44,8 @@
 09. ELENA: And Priya, your visa? Elaine asked me on Friday.
     엘레나: 그리고 프리야, 비자는요? 금요일에 일레인이 물어봤어요.
 
-10. PRIYA: Diane filed the H-1B transfer on day twelve. Two days early.
-    프리야: 다이앤이 12일째에 H-1B 이전을 신청했어요. 이틀 일찍요.
+10. PRIYA: Diane filed the H-1B transfer on day twelve, two days early. Out of sixty days, that's a lot of margin, but honestly, I didn't sleep properly until it was filed.
+    프리야: 다이앤이 12일째에 H-1B 이전을 신청했어요. 이틀 일찍요. 60일 중에 그 정도면 여유가 많은 거지만, 솔직히 신청이 끝날 때까지 잠을 제대로 못 잤어요.
 
 11. NOAH: And Priya can work from the day it's filed. Diane confirmed in writing.
     노아: 그리고 신청한 날부터 프리야는 일할 수 있어요. 다이앤이 서면으로 확인했어요.
@@ -79,8 +79,8 @@
 20. ELENA: What did you change from the thesis recipe?
     엘레나: 논문 제조법에서 뭘 바꿨어요?
 
-21. PRIYA: The autoclave weakened the gel by twenty-eight percent. So I made it stronger.
-    프리야: 고압 멸균에서 젤이 28퍼센트 약해졌잖아요. 그래서 더 강하게 만들었어요.
+21. PRIYA: The autoclave weakened the gel by twenty-eight percent, remember? That was the ghost from my thesis. So this time I made the gel stronger from the start, so the heat can't break it.
+    프리야: 고압 멸균에서 젤이 28퍼센트 약해졌던 거 기억하죠? 그게 제 논문의 유령이었어요. 그래서 이번엔 처음부터 젤을 더 강하게 만들었어요. 열이 젤을 망가뜨리지 못하게요.
 
 22. MARCUS: Stronger how?
     마커스: 어떻게 더 강하게?
@@ -148,8 +148,8 @@
 43. NOAH: Priya. What happened? In plain English.
     노아: 프리야. 무슨 일이야? 쉬운 말로.
 
-44. PRIYA: I made it too strong. It's too stiff to go through the needle.
-    프리야: 너무 강하게 만들었어. 너무 뻑뻑해서 바늘을 통과를 못 해.
+44. PRIYA: I made it too strong. To survive the autoclave, I tightened the net so much that now it's too stiff to go through the needle. I fixed one problem and created another.
+    프리야: 너무 강하게 만들었어. 고압 멸균을 견디게 하려고 그물을 너무 촘촘하게 조였더니, 이제 너무 뻑뻑해서 바늘을 통과를 못 해. 문제 하나를 고치고 다른 문제를 만든 거야.
 
 45. ELENA: Like trying to push toothpaste through a straw.
     엘레나: 치약을 빨대로 밀어 넣으려는 것 같은 거죠.
@@ -166,8 +166,8 @@
 49. PRIYA: Extrusion force. How hard you have to push. In newtons.
     프리야: 압출력. 얼마나 세게 눌러야 하는지. 뉴턴 단위로.
 
-50. ELENA: Doctors notice immediately. If it's hard to push, they won't use it.
-    엘레나: 의사들은 바로 알아채요. 누르기 힘들면 안 써요.
+50. ELENA: Doctors notice immediately. If it's hard to push, your hand shakes and you lose control of where the filler goes. That's dangerous, so most doctors simply won't use it.
+    엘레나: 의사들은 바로 알아채요. 누르기 힘들면 손이 떨리고, 필러가 어디로 들어가는지 통제를 잃게 돼요. 그건 위험하니까, 대부분의 의사는 그냥 안 써요.
 
 ### 장면2 — 원인 분석
 
@@ -192,8 +192,8 @@
 57. NOAH: Three suspects. How do we find the guilty one?
     노아: 용의자가 셋이네. 범인은 어떻게 찾지?
 
-58. PRIYA: Change one thing at a time. Never two. Or you won't know which worked.
-    프리야: 한 번에 하나만 바꿔. 절대 두 개는 안 돼. 그러면 뭐가 효과 있었는지 몰라.
+58. PRIYA: Change one thing at a time. Never two. If I change the crosslinker and the particle size together and it works, I won't know which change fixed it, or which one to keep.
+    프리야: 한 번에 하나만 바꿔. 절대 두 개는 안 돼. 가교제랑 입자 크기를 같이 바꿨는데 효과가 있으면, 어떤 변화가 문제를 고쳤는지, 어느 쪽을 유지해야 할지 알 수가 없어.
 
 59. MARCUS: Same in manufacturing. One variable at a time.
     마커스: 생산도 똑같아. 한 번에 변수 하나.
@@ -219,8 +219,8 @@
 66. PRIYA: With one bench and one chemist? Not really.
     프리야: 실험대 하나에 화학자 하나로요? 사실상 안 돼요.
 
-67. MARCUS: That's our bottleneck. Not the chemistry. The capacity.
-    마커스: 그게 우리 병목이야. 화학이 아니라 처리 능력.
+67. MARCUS: That's our bottleneck. Not the chemistry. The capacity. Priya knows what to test, but one bench and one autoclave booking a week means everything waits in line behind one person.
+    마커스: 그게 우리 병목이야. 화학이 아니라 처리 능력. 프리야는 뭘 시험해야 할지 알아. 그런데 실험대 하나에 일주일에 멸균기 예약 한 번이면, 모든 게 한 사람 뒤에 줄을 서서 기다리는 거지.
 
 68. NOAH: A bottleneck. Meaning one thing slows everything down.
     노아: 병목. 하나가 전체를 느리게 만든다는 거죠.
@@ -249,8 +249,8 @@
 76. NOAH: Why not the crosslinker? It's the obvious one.
     노아: 왜 가교제가 아니야? 그게 제일 뻔한 건데.
 
-77. PRIYA: Because the crosslinks fixed the twenty-eight percent. I don't want to lose that.
-    프리야: 가교 덕분에 28퍼센트 문제를 고쳤으니까. 그걸 잃고 싶지 않아.
+77. PRIYA: Because the crosslinks are what fixed the twenty-eight percent. If I reduce them first, I might get honey, but then the autoclave weakens it, and we're back to the ghost.
+    프리야: 가교가 바로 28퍼센트 문제를 고친 거니까. 그걸 먼저 줄이면 꿀은 얻을 수 있겠지만, 그러면 고압 멸균이 젤을 다시 약하게 만들고, 우린 그 유령으로 돌아가는 거야.
 
 78. ELENA: Smart. Protect what's working. Fix what isn't.
     엘레나: 현명하네요. 되는 건 지키고, 안 되는 걸 고치고.
@@ -281,8 +281,8 @@
 86. NOAH: One variable at a time. Look at you.
     노아: 한 번에 변수 하나. 대단하다.
 
-87. PRIYA: It's not sterilized. So it's not a real result. Just a hint.
-    프리야: 멸균은 안 했어. 그러니까 진짜 결과는 아니야. 힌트일 뿐이지.
+87. PRIYA: It's not sterilized yet, so it's not a real result. The autoclave could change everything, like it did with the thesis gel. So please treat this as a hint, not an answer.
+    프리야: 아직 멸균을 안 했으니까 진짜 결과는 아니야. 논문 젤 때처럼 고압 멸균이 모든 걸 바꿀 수도 있어. 그러니까 이건 답이 아니라 힌트로 봐 줘.
 
 88. ELENA: Can I try it? With a new lab coat this time.
     엘레나: 해 봐도 돼요? 이번엔 새 실험복 입고요.
@@ -302,8 +302,8 @@
 93. PRIYA: How does it feel? Honest answer.
     프리야: 느낌이 어때요? 솔직하게요.
 
-94. ELENA: Like honey that's been in the fridge. A little thick. But usable.
-    엘레나: 냉장고에 넣어 둔 꿀 같아요. 좀 되직해요. 그래도 쓸 만해요.
+94. ELENA: Like honey that's been in the fridge. A little thick, so my thumb is working harder than I'd like. But I'm in control the whole time, and that's what matters. It's usable.
+    엘레나: 냉장고에 넣어 둔 꿀 같아요. 좀 되직해서 엄지에 힘이 생각보다 더 들어가요. 그래도 처음부터 끝까지 통제가 돼요. 그게 중요한 거죠. 쓸 만해요.
 
 95. MARCUS: Cold honey. That's progress.
     마커스: 차가운 꿀. 그 정도면 진전이야.
@@ -361,8 +361,8 @@
 112. MARCUS: Is it a lawsuit?
      마커스: 소송이에요?
 
-113. DIANE: No. It's a warning shot. They want you to know they're watching.
-     다이앤: 아니요. 경고 사격이에요. 지켜보고 있다는 걸 알리고 싶은 거죠.
+113. DIANE: No. It's a warning shot. They want you to know they're watching. If they had real evidence, they'd have sued. A letter like this costs them almost nothing and makes you nervous.
+     다이앤: 아니요. 경고 사격이에요. 지켜보고 있다는 걸 알리고 싶은 거죠. 진짜 증거가 있었다면 벌써 소송을 걸었을 거예요. 이런 편지는 그쪽엔 비용이 거의 안 들고, 여러분은 긴장하게 만들죠.
 
 114. NOAH: Tom said "Check your contract." Three weeks ago.
      노아: 톰이 "계약서 확인해 봐"라고 했어요. 3주 전에.
@@ -373,8 +373,8 @@
 116. ELENA: What should we do differently?
      엘레나: 우리가 뭘 다르게 해야 해요?
 
-117. DIANE: Nothing. Keep your hands clean. Research only. No selling.
-     다이앤: 아무것도요. 손을 깨끗이 하세요. 연구만. 판매 금지.
+117. DIANE: Nothing. Keep your hands clean. Research only. No selling, no customers, no product talk with clinics. As long as you're only doing research, their non-compete has much less to hold on to.
+     다이앤: 아무것도요. 손을 깨끗이 하세요. 연구만. 판매도, 고객도, 클리닉과의 제품 이야기도 금지예요. 연구만 하는 한, 그쪽 경업금지 조항이 붙잡을 게 훨씬 적어요.
 
 118. NOAH: We can't sell anything. It doesn't go through a needle yet.
      노아: 팔 수 있는 게 없어요. 아직 바늘도 통과를 못 하는데요.
@@ -418,3 +418,17 @@
 
 예시:
 > *Issue: Batch Zero was too stiff to pass through a 27-gauge needle. Impact: doctors won't use a product that's hard to inject. Possible causes: too much crosslinker, large particle size, low water content. Plan: test particle size first, because the crosslinks solved our sterilization problem. Early result: smaller particles flowed smoothly — not yet confirmed. Next check: next Friday.*
+
+### ④ 긴 발화 분석
+
+> **58턴 PRIYA:** "Change one thing at a time. Never two. If I change the crosslinker and the particle size together and it works, I won't know which change fixed it, or which one to keep."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 원칙(짧게) | Change one thing at a time. Never two. | 지켜야 할 규칙을 짧은 두 문장으로 먼저 못 박기 |
+| ② 가정(If…) | If I change the crosslinker and the particle size together and it works, | 규칙을 어기는 구체적 상황을 그려 보이기 |
+| ③ 결과(문제점) | I won't know which change fixed it, or which one to keep. | 규칙이 필요한 이유를 결과로 증명 |
+
+**활용 패턴:** 원칙 → "If + 어긴 상황" → 그러면 생기는 문제
+**연결 표현:** at a time(한 번에) · together(동시에) · I won't know which…(어느 쪽인지 알 수 없다)
+**연습:** 마케팅 문구와 가격을 동시에 바꾸자는 동료에게 같은 구조로 30단어 안팎으로 반대해 보기.

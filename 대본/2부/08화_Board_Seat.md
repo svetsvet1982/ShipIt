@@ -23,8 +23,8 @@
 02. PRIYA: Please say it's about my visa.
     프리야: 제발 비자 얘기라고 해 주세요.
 
-03. DIANE: Your O-1 was approved this morning. Three years. Renewable.
-    다이앤: 오늘 아침에 O-1이 승인됐어요. 3년이고, 갱신 가능해요.
+03. DIANE: Your O-1 was approved this morning, Priya. Three years, and it's renewable. That means you can stop counting days and focus on the company instead of paperwork.
+    다이앤: 오늘 아침에 O-1이 승인됐어요, 프리야. 3년이고, 갱신 가능해요. 이제 날짜를 세는 건 그만하고, 서류 대신 회사에 집중할 수 있다는 뜻이에요.
 
 04. PRIYA: Approved? Really approved?
     프리야: 승인이요? 정말 승인됐어요?
@@ -73,8 +73,8 @@
 18. RICHARD: Bad news first. Elaine warned me you'd do this.
     리처드: 나쁜 소식 먼저군요. 일레인이 당신이 그럴 거라고 경고했어요.
 
-19. NOAH: The FDA wants more tests before our IDE. That delays it three months.
-    노아: FDA가 IDE 전에 시험을 더 원해요. 그래서 3개월 지연돼요.
+19. NOAH: The FDA wants more tests before our IDE, which delays it by about three months. I wanted you to hear that from us first, before we talk about any numbers today.
+    노아: FDA가 IDE 전에 시험을 더 원해요. 그래서 3개월 정도 지연돼요. 오늘 숫자 얘기를 하기 전에, 저희한테서 먼저 들으셨으면 했어요.
 
 20. JORDAN: Which tests?
     조던: 어떤 시험이요?
@@ -85,8 +85,8 @@
 22. RICHARD: How much more money?
     리처드: 돈은 얼마나 더 들어요?
 
-23. NOAH: About eight hundred thousand. Including three extra months of salaries.
-    노아: 약 80만 달러요. 3개월 치 추가 급여 포함해서요.
+23. NOAH: About eight hundred thousand dollars. That includes the tests themselves and three extra months of salaries, because the team keeps working while we wait. Marcus can walk you through the details.
+    노아: 약 80만 달러요. 시험 비용 자체에, 기다리는 동안에도 팀은 계속 일하니까 3개월 치 추가 급여까지 포함해서요. 세부 내용은 마커스가 설명드릴 수 있어요.
 
 24. RICHARD: Then five million isn't enough. Raise six.
     리처드: 그럼 500만으론 부족하네요. 600만을 모아요.
@@ -94,8 +94,8 @@
 25. NOAH: Six? You'd lead six?
     노아: 600만이요? 600만을 리드하시겠다고요?
 
-26. RICHARD: I'd rather fund the real plan than a fantasy. Six million.
-    리처드: 환상보다 진짜 계획에 투자하는 게 낫죠. 600만.
+26. RICHARD: I'd rather fund the real plan than a fantasy. If I give you five and you run out early, we both lose. So, six million, and no surprises later.
+    리처드: 환상보다 진짜 계획에 투자하는 게 낫죠. 500만을 줬는데 돈이 일찍 떨어지면 우리 둘 다 손해예요. 그러니까 600만. 그리고 나중에 깜짝 놀랄 일은 없기로 해요.
 
 27. DIANE: That brings us to valuation. What's Northgate proposing?
     다이앤: 그럼 가치평가 얘기로 가죠. 노스게이트의 제안은 뭐예요?
@@ -118,8 +118,8 @@
 33. RICHARD: Twenty? On animal data?
     리처드: 2,000만이요? 동물 데이터로?
 
-34. NOAH: Strong animal data. And a clear FDA path. Most companies don't have that.
-    노아: 강력한 동물 데이터요. 그리고 명확한 FDA 경로. 대부분의 회사엔 없죠.
+34. NOAH: Strong animal data, two point seven times faster at a fair dose. And a clear FDA path, because we asked them first. Most companies at our stage don't have either of those.
+    노아: 강력한 동물 데이터요. 공정한 용량에서 2.7배 빨랐어요. 그리고 명확한 FDA 경로. 먼저 물어봤으니까요. 저희 단계의 회사 대부분은 둘 중 하나도 없어요.
 
 35. RICHARD: The FDA path just got three months longer.
     리처드: FDA 경로가 방금 3개월 늘어났잖아요.
@@ -151,8 +151,8 @@
 44. MARCUS: Option pool. For future employees, right?
     마커스: 옵션 풀. 미래 직원들을 위한 거 맞죠?
 
-45. RICHARD: Right. You'll hire twenty people before your Series A. They need options.
-    리처드: 맞아요. 시리즈 A 전에 스무 명은 뽑을 거잖아요. 그 사람들한테 옵션이 필요해요.
+45. RICHARD: Right. You'll hire twenty people before your Series A, and good people won't join a startup for salary alone. They need options, and I don't want you coming back to me for more.
+    리처드: 맞아요. 시리즈 A 전에 스무 명은 뽑을 거고, 좋은 사람들은 월급만 보고 스타트업에 오지 않아요. 그 사람들한테 옵션이 필요하고, 나중에 더 달라고 다시 오는 건 원치 않아요.
 
 46. JORDAN: We'd like fifteen percent. Created before our investment.
     조던: 15퍼센트를 원해요. 저희 투자 전에 만드는 걸로요.
@@ -180,8 +180,8 @@
 53. DIANE: Ten. Based on a real hiring plan. Marcus has it.
     다이앤: 10이요. 실제 채용 계획에 근거해서요. 마커스가 갖고 있어요.
 
-54. MARCUS: Eighteen hires before Series A. Average grant, half a percent. That's nine percent.
-    마커스: 시리즈 A 전 채용 18명. 평균 부여 0.5퍼센트. 합계 9퍼센트.
+54. MARCUS: Eighteen hires before Series A, based on our actual plan, not a guess. The average grant is half a percent. Eighteen times half a percent is nine percent.
+    마커스: 시리즈 A 전 채용 18명. 추측이 아니라 실제 계획 기준이에요. 평균 부여는 0.5퍼센트. 18명 곱하기 0.5퍼센트면 9퍼센트예요.
 
 55. JORDAN: Nine, plus a buffer. Ten makes sense.
     조던: 9에 여유분 더하면. 10이 맞네요.
@@ -207,8 +207,8 @@
 62. DIANE: For now. What about future rounds?
     다이앤: 당분간은요. 이후 라운드는요?
 
-63. RICHARD: The Series A lead will want a seat too. Then it's two and two.
-    리처드: 시리즈 A 리드 투자자도 한 자리를 원할 거예요. 그럼 2 대 2가 되죠.
+63. RICHARD: The Series A lead will want a seat too. That's how it always works, because big investors want a voice. Then it's two founders and two investors, two and two.
+    리처드: 시리즈 A 리드 투자자도 한 자리를 원할 거예요. 늘 그래요. 큰 투자자는 발언권을 원하니까요. 그럼 창업자 둘, 투자자 둘, 2 대 2가 되죠.
 
 64. DIANE: Then we add an independent director. Someone both sides agree on.
     다이앤: 그럼 독립 이사를 추가하죠. 양쪽이 동의하는 사람으로요.
@@ -269,8 +269,8 @@
 82. ELENA: The safety committee.
     엘레나: 안전위원회요.
 
-83. RICHARD: One person can stop the company from shipping. That's unusual. And risky.
-    리처드: 한 사람이 회사의 출시를 막을 수 있어요. 흔치 않고, 위험해요.
+83. RICHARD: One person can stop the company from shipping. I've sat on many boards, and I've never seen that. It's unusual, and to be honest, it's risky for everyone who invests.
+    리처드: 한 사람이 회사의 출시를 막을 수 있어요. 이사회에 여러 번 들어가 봤지만 그런 건 본 적이 없어요. 흔치 않고, 솔직히 말해 투자하는 모든 사람에게 위험해요.
 
 84. ELENA: It's not risky. It's the reason the company exists.
     엘레나: 위험한 게 아니에요. 그게 이 회사가 존재하는 이유예요.
@@ -284,8 +284,8 @@
 87. RICHARD: My investors might not.
     리처드: 우리 투자자들은 아닐 수도 있어요.
 
-88. NOAH: Richard, this isn't negotiable. Our first rule is "First, do no harm."
-    노아: 리처드, 이건 협상 대상이 아니에요. 우리 첫 번째 원칙이 "무엇보다 해를 끼치지 말 것"이에요.
+88. NOAH: Richard, this isn't negotiable. Our first rule is "First, do no harm." We built this company around patient safety. If that rule goes, we're just another filler company.
+    노아: 리처드, 이건 협상 대상이 아니에요. 우리 첫 번째 원칙이 "무엇보다 해를 끼치지 말 것"이에요. 우린 환자 안전을 중심으로 이 회사를 세웠어요. 그 원칙이 없어지면 우린 그냥 또 하나의 필러 회사일 뿐이에요.
 
 89. PRIYA: Without that rule, I wouldn't be here. Neither would Leo.
     프리야: 그 원칙이 없었으면 전 여기 없었어요. 레오도요.
@@ -323,8 +323,8 @@
 100. NOAH: How so?
      노아: 어떻게요?
 
-101. ELENA: Nobody can say it's just one stubborn doctor. It's a documented process.
-     엘레나: 아무도 고집 센 의사 한 명의 결정이라고 못 하죠. 문서화된 절차니까요.
+101. ELENA: Nobody can say it's just one stubborn doctor anymore. There's an outside expert, and every decision is written down for the board. It's a documented process, so it's much harder to attack.
+     엘레나: 이제 아무도 고집 센 의사 한 명의 결정이라고 못 하죠. 외부 전문가가 있고, 모든 결정이 이사회를 위해 문서로 남으니까요. 문서화된 절차라서 공격하기가 훨씬 어려워요.
 
 102. RICHARD: That's exactly why I asked. Investors trust processes. Not personalities.
      리처드: 바로 그래서 요청한 거예요. 투자자는 성격이 아니라 절차를 믿어요.
@@ -358,8 +358,8 @@
 111. NOAH: Didn't we already visit?
      노아: 이미 방문했잖아요?
 
-112. MARCUS: A visit is a tour. An audit is a search. Different things.
-     마커스: 방문은 구경이고, 감사는 수색이야. 다른 거지.
+112. MARCUS: A visit is a tour. They show you what they want you to see. An audit is a search. We open the records, check the batch files, and ask the questions they don't like.
+     마커스: 방문은 구경이야. 그쪽이 보여 주고 싶은 것만 보여 주지. 감사는 수색이야. 기록을 열어 보고, 배치 파일을 확인하고, 그쪽이 싫어하는 질문을 하는 거야.
 
 113. ELENA: Richard pushed hard on my veto. Are you okay with him on our board?
      엘레나: 리처드가 내 거부권을 세게 밀어붙였잖아요. 그 사람이 이사회에 있어도 괜찮아요?
@@ -370,8 +370,8 @@
 115. PRIYA: And he gave us six million instead of five.
      프리야: 그리고 500만 대신 600만을 줬어.
 
-116. DIANE: A good board member argues with you. A bad one agrees with everything.
-     다이앤: 좋은 이사는 당신과 논쟁해요. 나쁜 이사는 뭐든 동의하고요.
+116. DIANE: A good board member argues with you, in the room, before decisions are made. A bad one agrees with everything, and then you find out what they really think when it's too late.
+     다이앤: 좋은 이사는 결정이 내려지기 전에, 회의실 안에서 당신과 논쟁해요. 나쁜 이사는 뭐든 동의하다가, 너무 늦었을 때에야 진짜 생각을 알게 되죠.
 
 117. MARCUS: Inside, argue. Outside, one voice. He'll fit right in.
      마커스: 안에선 논쟁, 밖에선 한목소리. 딱 맞겠네.
@@ -419,3 +419,17 @@
 | Safety veto | 제거 검토 | **유지** + 독립 의료 전문가 + 서면 사유 |
 
 > *Let me summarize: six million at sixteen pre, a ten percent option pool, one board seat, one-times non-participating preference, and the safety veto stays with two additions.*
+
+### ④ 긴 발화 분석
+
+> **34턴 NOAH:** "Strong animal data, two point seven times faster at a fair dose. And a clear FDA path, because we asked them first. Most companies at our stage don't have either of those."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 근거 1(숫자) | Strong animal data, two point seven times faster at a fair dose. | 상대의 의심("동물 데이터로?")에 구체적 수치로 바로 반박 |
+| ② 근거 2(이유 포함) | And a clear FDA path, because we asked them first. | 두 번째 강점과 그 이유를 because로 연결 |
+| ③ 차별화(비교) | Most companies at our stage don't have either of those. | 시장 평균과 비교해 높은 가치평가의 정당성을 강조 |
+
+**활용 패턴:** 근거 1(숫자) → 근거 2 + because → "Most companies don't have…"
+**연결 표현:** at a fair dose(공정한 조건에서) · because we…(우리가 ~했기 때문에) · either of those(둘 중 어느 것도)
+**연습:** 거래처가 "그 가격은 너무 비싸다"고 할 때, 강점 두 가지와 비교 한 문장으로 30단어 안팎으로 반박해 보기.

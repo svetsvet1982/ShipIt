@@ -50,8 +50,8 @@
 11. NOAH: And launch?
     노아: 그럼 출시는요?
 
-12. ELENA: Launch moves. At least six months. Maybe more.
-    엘레나: 출시는 밀려요. 최소 6개월. 어쩌면 더.
+12. ELENA: Launch moves too. At least six months, maybe more, because after we respond, the FDA still needs time to finish its review. I'd rather say that now than surprise you later.
+    엘레나: 출시도 밀려요. 최소 6개월, 어쩌면 더요. 우리가 답변한 뒤에도 FDA가 심사를 마무리할 시간이 필요하거든요. 나중에 놀라게 하느니 지금 말하는 게 나아요.
 
 13. MARCUS: How many deficiencies?
     마커스: 보완 사항이 몇 개야?
@@ -59,8 +59,8 @@
 14. ELENA: Four. Some small. One is not small.
     엘레나: 네 개요. 몇 개는 작아요. 하나는 작지 않고요.
 
-15. NOAH: Okay. Let's not panic. Let's break it down. One at a time.
-    노아: 좋아요. 당황하지 말고요. 나눠서 보죠. 하나씩.
+15. NOAH: Okay. Let's not panic. A letter like this feels huge when you read it all at once. So let's break it down, one at a time, and give each problem an owner.
+    노아: 좋아요. 당황하지 말고요. 이런 서한은 한꺼번에 읽으면 엄청 커 보여요. 그러니까 하나씩 나눠서 보고, 문제마다 책임자를 정하죠.
 
 ### 장면1 — 네 가지 보완 요청
 
@@ -85,8 +85,8 @@
 22. ELENA: Deficiency two. Sterilization. They want one more validation run. Worst-case load.
     엘레나: 보완 2. 멸균. 밸리데이션 한 번 더 원해요. 최악의 적재 조건으로.
 
-23. MARCUS: Worst case means the autoclave completely full. The coldest corners.
-    마커스: 최악 조건이란 멸균기를 꽉 채운 상태야. 가장 차가운 모서리까지.
+23. MARCUS: Worst case means the autoclave completely full, every shelf loaded. The coldest corners heat up last, so if those corners get sterile, everything else does too. That's what they want to see.
+    마커스: 최악 조건이란 멸균기를 꽉 채운 상태야. 선반 하나하나 다. 가장 차가운 모서리가 제일 늦게 데워지니까, 거기가 멸균되면 나머지도 다 멸균된 거지. 그걸 보고 싶은 거야.
 
 24. LEO: We tested it nearly full. Not completely full.
     레오: 거의 꽉 찬 상태로는 시험했어요. 완전히 꽉 찬 건 아니고요.
@@ -133,8 +133,8 @@
 38. PRIYA: So they think the doctors might have been biased.
     프리야: 그러니까 의사들이 편향됐을 수 있다고 보는 거네요.
 
-39. ELENA: Not dishonest. Just human. If you want a result, you might see it.
-    엘레나: 부정직했다는 게 아니라, 그냥 인간이라서요. 어떤 결과를 원하면 그게 보일 수 있으니까요.
+39. ELENA: Not dishonest. Just human. If you're a doctor and you want a result, you might see it, even without meaning to. That's exactly why blinding exists in the first place.
+    엘레나: 부정직했다는 게 아니라, 그냥 인간이라서요. 의사가 어떤 결과를 원하면, 의도하지 않아도 그게 보일 수 있어요. 애초에 눈가림이라는 게 존재하는 이유가 바로 그거예요.
 
 40. LEO: What do they want us to do?
     레오: 우리한테 뭘 하라는 거예요?
@@ -177,8 +177,8 @@
 52. ELENA: No, Rachel. They're saying they weren't blinded. It's a fair question.
     엘레나: 아니에요, 레이첼. 눈가림이 아니었다는 거예요. 합당한 질문이에요.
 
-53. STEIN: I've been measuring dissolution for twenty years. I know what I saw.
-    스타인: 난 20년 동안 용해를 측정해 왔어요. 내가 본 게 뭔지 알아요.
+53. STEIN: I've been measuring dissolution for twenty years, Elena. I've seen thousands of these. When I say a filler is gone, it's gone. I know what I saw, and I don't need a photo.
+    스타인: 난 20년 동안 용해를 측정해 왔어요, 엘레나. 이런 걸 수천 번 봤어요. 내가 필러가 없어졌다고 하면 없어진 거예요. 내가 본 게 뭔지 알고, 사진은 필요 없어요.
 
 54. ELENA: I believe you. But "I know what I saw" isn't evidence. Photos are.
     엘레나: 믿어요. 하지만 "내가 본 걸 안다"는 증거가 아니에요. 사진이 증거죠.
@@ -219,8 +219,8 @@
 66. STEIN: Even if it hurts you?
     스타인: 당신들한테 불리해도요?
 
-67. ELENA: Especially if it hurts us. That's how they'll trust everything else we say.
-    엘레나: 불리할수록 더요. 그래야 우리가 하는 다른 말도 다 믿어 줄 테니까요.
+67. ELENA: Especially if it hurts us. If we report a lower number honestly, they'll trust everything else we say. If we try to hide it, they'll question every page of the file.
+    엘레나: 불리할수록 더요. 낮은 숫자를 정직하게 보고하면, 우리가 하는 다른 말도 다 믿어 줄 거예요. 숨기려고 하면, 파일의 모든 쪽을 의심할 거고요.
 
 68. STEIN: You're a strange company. I'm starting to like that.
     스타인: 이상한 회사예요. 그게 점점 마음에 드네요.
@@ -228,8 +228,8 @@
 69. NOAH: Okay. Big picture. Four deficiencies. How long until we respond?
     노아: 좋아요. 큰 그림. 보완 사항 넷. 답변까지 얼마나 걸려요?
 
-70. GRACE: The slowest one decides. The photo re-read. Eight weeks. Plus two for writing.
-    그레이스: 가장 느린 게 결정해요. 사진 재판독. 8주. 작성에 2주 더.
+70. GRACE: The slowest one decides the timeline, and that's the photo re-read. Eight weeks for the dermatologists, plus about two more for writing the response. Everything else can happen in parallel.
+    그레이스: 가장 느린 게 일정을 결정해요. 그게 사진 재판독이고요. 피부과 전문의들한테 8주, 답변서 작성에 2주 정도 더. 나머지는 전부 동시에 진행할 수 있어요.
 
 71. MARCUS: Ten weeks to respond. Then the FDA restarts the clock.
     마커스: 답변까지 10주. 그다음 FDA가 시계를 다시 돌리고.
@@ -287,8 +287,8 @@
 88. ELENA: That's a fair question. And you deserve a straight answer.
     엘레나: 합당한 질문이에요. 솔직한 답을 들을 자격이 있어요.
 
-89. NOAH: Today, we have money for nine months. Approval might take eight.
-    노아: 지금 9개월 치 돈이 있어요. 승인은 8개월쯤 걸릴 수도 있어요.
+89. NOAH: I'll give you the real numbers. Today, we have money for nine months. Approval might take eight, if everything goes well. I'm not going to pretend that's comfortable.
+    노아: 실제 숫자를 말할게요. 지금 9개월 치 돈이 있어요. 승인은 모든 게 잘되면 8개월쯤 걸릴 수도 있어요. 그게 여유롭다고 꾸며 말하진 않을게요.
 
 90. MARCUS: Too close. No safety margin.
     마커스: 너무 빠듯해. 안전 여유가 없어.
@@ -311,8 +311,8 @@
 96. NOAH: Please.
     노아: 그래요.
 
-97. LEO: Three years ago, we failed with one point eight. We told the investor the truth.
-    레오: 3년 전에 우린 1.8로 실패했어요. 투자자한테 진실을 말했죠.
+97. LEO: Three years ago, we failed with one point eight. It was a terrible day. But we didn't hide it. We told the investor the truth, the whole thing. And you know what happened?
+    레오: 3년 전에 우린 1.8로 실패했어요. 끔찍한 날이었죠. 하지만 숨기지 않았어요. 투자자한테 진실을, 전부 다 말했어요. 그래서 어떻게 됐는지 아세요?
 
 98. MARCUS: He gave us more money, not less. Honesty worked then. It'll work now.
     마커스: 그 사람은 돈을 줄이는 대신 더 줬지. 그때 정직함이 통했어. 지금도 통할 거야.
@@ -320,8 +320,8 @@
 99. MAYA: Okay. That helps. Thank you.
     마야: 알겠어요. 도움이 돼요. 감사합니다.
 
-100. PRIYA: One more thing. The re-read might lower our number. We'll share that too.
-     프리야: 하나 더요. 재판독 결과 우리 숫자가 낮아질 수도 있어요. 그것도 공유할게요.
+100. PRIYA: One more thing. The photo re-read might lower our number. We don't know yet. But whatever comes back, good or bad, you'll hear it from us in a meeting like this.
+     프리야: 하나 더요. 사진 재판독 결과 우리 숫자가 낮아질 수도 있어요. 아직은 몰라요. 하지만 결과가 좋든 나쁘든, 이런 자리에서 우리한테 직접 듣게 될 거예요.
 
 101. ELENA: Whatever the number is, the product is the same. And it works.
      엘레나: 숫자가 뭐든 제품은 똑같아요. 그리고 효과가 있어요.
@@ -343,8 +343,8 @@
 106. RICHARD: So. A major deficiency. How bad?
      리처드: 그래서. 중대 보완 요청. 얼마나 심각해요?
 
-107. NOAH: Bad news first. Six months delay. Runway is nine months. Too tight.
-     노아: 나쁜 소식 먼저요. 6개월 지연. 런웨이는 9개월. 너무 빠듯해요.
+107. NOAH: Bad news first. Approval is delayed about six months, and our runway is nine months. That's too tight, because if anything else slips, we run out of money before launch.
+     노아: 나쁜 소식 먼저요. 승인이 약 6개월 늦어지고, 런웨이는 9개월이에요. 너무 빠듯해요. 다른 게 하나라도 밀리면 출시 전에 돈이 떨어지니까요.
 
 108. VICTORIA: And the plan?
      빅토리아: 그리고 계획은요?
@@ -364,8 +364,8 @@
 113. VICTORIA: I know a lender. Hannah Greer, at Sterling Bank. Tough, but fair.
      빅토리아: 대출 기관을 하나 알아요. 스털링 은행의 해나 그리어. 깐깐하지만 공정해요.
 
-114. ELAINE: Debt has rules. Covenants. Break them, and the bank controls you.
-     일레인: 부채엔 규칙이 있어요. 약정 조건. 어기면 은행이 당신들을 좌우하게 돼요.
+114. ELAINE: Debt has rules, Noah. They're called covenants. If you break them, even by accident, the bank can step in and start making decisions for you. So read the fine print.
+     일레인: 부채엔 규칙이 있어요, 노아. 약정 조건이라고 하죠. 실수로라도 어기면 은행이 끼어들어서 당신들 대신 결정을 내리기 시작할 수 있어요. 그러니 깨알 같은 조항까지 읽어요.
 
 115. NOAH: Understood. We'll read every word. Diane will make sure.
      노아: 이해해요. 한 단어도 빠짐없이 읽을게요. 다이앤이 확실히 할 거예요.
@@ -417,3 +417,18 @@
 
 예시:
 > *What happened: the FDA sent a major deficiency letter. What it means: approval is delayed about six months. It does not mean the product is unsafe. What we're doing: four issues, four owners, clear deadlines. What about you: we have nine months of money, and we're raising more starting Monday. If that changes, I'll tell you first.*
+
+### ④ 긴 발화 분석
+
+> **107턴 NOAH:** "Bad news first. Approval is delayed about six months, and our runway is nine months. That's too tight, because if anything else slips, we run out of money before launch."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 예고(나쁜 소식부터) | Bad news first. | 듣는 사람이 마음의 준비를 하도록 신호 |
+| ② 사실(숫자 두 개) | Approval is delayed about six months, and our runway is nine months. | 판단에 필요한 숫자를 나란히 제시 |
+| ③ 판단 | That's too tight, | 숫자가 의미하는 바를 한 마디로 평가 |
+| ④ 이유(최악의 경우) | because if anything else slips, we run out of money before launch. | because + if로 위험이 현실이 되는 조건을 설명 |
+
+**활용 패턴:** Bad news first. → 숫자 A, 숫자 B → That's too ___, because if ___, ___.
+**연결 표현:** Bad news first(나쁜 소식부터) · That's too tight(너무 빠듯하다) · if anything else slips(다른 게 하나라도 밀리면)
+**연습:** 프로젝트 일정이 지연되어 예산이 부족해질 상황을 상사에게 같은 구조로 30단어 안팎으로 보고해 보기.

@@ -32,8 +32,8 @@
 05. AVA: In that order?
     에이바: 그 순서로요?
 
-06. SOFIA: Always that order. Never start with the contract. Start with their results.
-    소피아: 항상 그 순서. 절대 계약으로 시작하지 마요. 그쪽 결과로 시작해요.
+06. SOFIA: Always that order. Never start with the contract, because then the whole meeting feels like a sales call. Start with their results, so they see what the year gave them. Once they feel that, the complaints come out honestly, and the contract becomes much easier.
+    소피아: 항상 그 순서. 절대 계약으로 시작하지 마요. 그러면 회의 전체가 영업 전화처럼 느껴지거든요. 그쪽 결과로 시작해서 한 해가 그들에게 뭘 줬는지 보게 해요. 그걸 느끼고 나면 불만도 솔직하게 나오고, 계약은 훨씬 쉬워져요.
 
 07. DEREK: And in part two, don't defend. Just write. Every complaint is a gift.
     데릭: 그리고 두 번째 부분에선 변명하지 마요. 그냥 적어요. 모든 불만은 선물이에요.
@@ -41,8 +41,8 @@
 08. AVA: Even angry complaints?
     에이바: 화난 불만도요?
 
-09. DEREK: Especially angry ones. Silent customers leave. Angry ones are still trying.
-    데릭: 특히 화난 거요. 조용한 고객은 떠나요. 화난 고객은 아직 노력하는 거고요.
+09. DEREK: Especially angry ones. Silent customers just leave one day, and you never find out why. Angry ones are still trying, because they care enough to tell you what's wrong. When Susan gets loud, it means she still wants this to work.
+    데릭: 특히 화난 거요. 조용한 고객은 어느 날 그냥 떠나고, 이유도 끝내 모르게 돼요. 화난 고객은 아직 노력하는 거예요. 뭐가 잘못됐는지 말해 줄 만큼 신경 쓰니까요. 수전 목소리가 커지면, 아직 이 관계가 잘되길 원한다는 뜻이에요.
 
 10. AVA: Grace built the deck. Twelve slides. Their numbers only.
     에이바: 그레이스가 덱을 만들었어요. 슬라이드 12장. 그쪽 숫자만.
@@ -103,8 +103,8 @@
 28. AVA: Average time to first action, three seconds. Both patients fully recovered.
     에이바: 첫 행동까지 평균 3초. 두 환자 모두 완전히 회복했어요.
 
-29. ELENA: Elena here, on video. Dr. Wade, I want to say something. That's your team's result. Not our product's.
-    엘레나: 엘레나예요, 화상으로. 웨이드 선생님, 하나 말씀드리고 싶어요. 그건 선생님 팀의 결과예요. 우리 제품의 결과가 아니라.
+29. ELENA: Elena here, on video. Dr. Wade, I want to say something clearly. Three seconds is your team's result, not our product's. A product can't react to a warning sign. A nurse who has practiced can, and Tanya clearly had.
+    엘레나: 엘레나예요, 화상으로. 웨이드 선생님, 하나 분명히 말씀드리고 싶어요. 3초는 선생님 팀의 결과예요. 우리 제품의 결과가 아니라. 제품은 경고 신호에 반응할 수 없어요. 연습한 간호사는 할 수 있고, 타냐는 분명히 연습했던 거죠.
 
 30. WADE: Training helped. The card helped. I'll take credit for the nurses.
     웨이드: 교육이 도움이 됐어요. 카드도요. 간호사들 공은 내가 받을게요.
@@ -121,8 +121,8 @@
 34. WADE: Sixty-one? That's high. Why?
     웨이드: 61%? 높네요. 왜죠?
 
-35. AVA: Your nurses give the QR code at checkout. With one sentence: "If anything feels wrong, open this."
-    에이바: 간호사분들이 결제 때 QR 코드를 줘요. 한 문장과 함께. "뭔가 이상하면 이걸 열어 보세요."
+35. AVA: Your nurses give the QR code at checkout, and they always add one sentence: "If anything feels wrong, open this." That sentence turns the app from marketing into a safety tool, so patients actually keep it on their phones.
+    에이바: 간호사분들이 결제 때 QR 코드를 주면서 항상 한 문장을 덧붙여요. "뭔가 이상하면 이걸 열어 보세요." 그 한 문장이 앱을 마케팅이 아니라 안전 도구로 바꿔 줘서, 환자들이 실제로 휴대폰에 앱을 남겨 두는 거예요.
 
 36. SOFIA: Other clinics average thirty-five. Your nurses are the difference.
     소피아: 다른 병원은 평균 35%예요. 선생님 간호사들이 차이를 만드는 거예요.
@@ -136,8 +136,8 @@
 39. LEE: About me?
     리: 나에 관한 거라고요?
 
-40. AVA: Your patient satisfaction scores. In the app. The highest in your group. Ninety-four percent.
-    에이바: 선생님의 환자 만족도 점수요. 앱에서. 그룹에서 가장 높아요. 94%.
+40. AVA: Your patient satisfaction scores, from the app. They're the highest in your group, at ninety-four percent. Patients rate their experience there, and yours are consistently the best. I thought you should see that before we talk about anything else.
+    에이바: 선생님의 환자 만족도 점수예요, 앱에서 나온. 그룹에서 가장 높아요. 94%. 환자들이 거기서 경험을 평가하는데, 선생님 점수가 꾸준히 최고예요. 다른 얘기를 하기 전에 이걸 보셔야 한다고 생각했어요.
 
 41. LEE: …I didn't know that.
     리: …몰랐네요.
@@ -177,14 +177,14 @@
 52. AVA: Writing it down. Was the timing a surprise? Or the amount?
     에이바: 적고 있어요. 시점이 놀라웠어요? 아니면 금액이?
 
-53. LEE: The amount. You said "launch price" on day one. Fine. But thirty dollars is eight percent.
-    리: 금액이요. 첫날 "출시가"라고 했죠. 좋아요. 하지만 30달러면 8%예요.
+53. LEE: The amount. You said "launch price" on day one, and fine, I understood that prices go up. But thirty dollars is eight percent, on a thousand syringes a year. My partners asked me why we're paying more when Flex is cheaper, and I didn't have a good answer.
+    리: 금액이요. 첫날 "출시가"라고 했죠. 좋아요, 가격이 오른다는 건 이해했어요. 하지만 30달러면 8%예요, 연간 주사기 천 개에 대해서. 파트너들이 플렉스가 더 싼데 왜 우리가 더 내느냐고 물었고, 난 좋은 답이 없었어요.
 
 54. AVA: Thank you. Two?
     에이바: 감사해요. 둘째는요?
 
-55. JENNY: The serial scanning. My staff scans every syringe. Twice. It adds up. About an hour a week.
-    제니: 일련번호 스캔. 직원들이 주사기마다 스캔해요. 두 번. 그게 쌓여요. 주당 한 시간쯤.
+55. JENNY: The serial scanning. My staff scans every syringe, twice, once when it arrives and once when it's used. It doesn't sound like much, but it adds up to about an hour a week.
+    제니: 일련번호 스캔. 직원들이 주사기마다 두 번 스캔해요. 들어올 때 한 번, 쓸 때 한 번. 별것 아닌 것 같지만, 쌓이면 주당 한 시간쯤 돼요.
 
 56. AVA: An hour a week. For your whole clinic?
     에이바: 주당 한 시간. 병원 전체에서요?
@@ -201,8 +201,8 @@
 60. DEREK: Susan, I introduced Ava in person.
     데릭: 수전, 에이바를 직접 소개했잖아요.
 
-61. WADE: You did. And she's good. But a relationship change should be discussed. Not announced.
-    웨이드: 그랬죠. 그리고 그녀는 좋아요. 하지만 관계 변화는 논의돼야 해요. 통보가 아니라.
+61. WADE: You did, and she's good. I have no complaint about Ava. But a relationship change should be discussed, not announced. I worked with Derek every Tuesday for years. I'd have liked one phone call before it happened, not a new face at my door.
+    웨이드: 그랬죠. 그리고 그녀는 좋아요. 에이바한테는 불만 없어요. 하지만 관계 변화는 통보가 아니라 논의돼야 해요. 난 몇 년 동안 매주 화요일 데릭과 일했어요. 바뀌기 전에 전화 한 통은 받고 싶었어요. 문 앞에 새 얼굴이 나타나는 게 아니라.
 
 62. SOFIA: That's fair. That was my decision. I should have called you first. I'm sorry.
     소피아: 공정한 말씀이에요. 그건 제 결정이었어요. 먼저 전화드렸어야 했어요. 죄송해요.
@@ -258,8 +258,8 @@
 79. JENNY: What?
     제니: 뭔데요?
 
-80. AVA: A thirty-minute session for your front desk. How to answer patient questions. They become the experts.
-    에이바: 프런트 직원들을 위한 30분 세션. 환자 질문에 답하는 법. 그분들이 전문가가 되는 거예요.
+80. AVA: A thirty-minute session for your front desk, once a quarter. We'll teach them how to answer the questions patients actually ask, about swelling, aftercare, and the app. They become the experts, and patients notice that. It's attention, but it's also useful.
+    에이바: 프런트 직원들을 위한 30분 세션이요, 분기마다 한 번. 환자들이 실제로 묻는 질문, 붓기, 시술 후 관리, 앱에 대해 답하는 법을 알려 드릴게요. 그분들이 전문가가 되고, 환자들도 그걸 알아봐요. 관심이기도 하지만, 실제로 쓸모도 있죠.
 
 ### 절정·전환 — 내년 계약
 
@@ -296,8 +296,8 @@
 91. LEE: …You're telling me to buy less?
     리: …덜 사라고 말하는 거예요?
 
-92. SOFIA: I'm telling you not to buy more than your patients need. Overbuying ends in expired product. Or worse.
-    소피아: 환자에게 필요한 것보다 많이 사지 마시라는 거예요. 과다 구매는 유통기한 만료로 끝나요. 아니면 더 나쁘게.
+92. SOFIA: I'm telling you not to buy more than your patients need. When clinics overbuy to reach a better price, boxes sit on shelves, people stop counting, and product expires or goes missing. That's how it ends: expired product. Or worse.
+    소피아: 환자에게 필요한 것보다 많이 사지 마시라는 거예요. 병원이 더 좋은 가격을 받으려고 과다 구매하면, 상자들이 선반에 쌓이고, 사람들이 세는 걸 멈추고, 제품은 유통기한이 지나거나 사라져요. 결국 그렇게 끝나요. 유통기한 만료로. 아니면 더 나쁘게.
 
 93. WADE: "Or worse." Houston.
     웨이드: "아니면 더 나쁘게." 휴스턴.
@@ -314,8 +314,8 @@
 97. AVA: Please.
     에이바: 말씀하세요.
 
-98. WADE: I want to be your faculty lead for Dallas. Train the new doctors. Here. In my center.
-    웨이드: 댈러스 교수진 리드가 되고 싶어요. 새 의사들을 교육하고. 여기서. 우리 센터에서.
+98. WADE: I want to be your faculty lead for Dallas. Train the new doctors here, in my center, with my nurses watching. If more clinics in this city are going to use your product, I'd rather they learn from people who've handled real events.
+    웨이드: 댈러스 교수진 리드가 되고 싶어요. 새 의사들을 여기, 우리 센터에서, 우리 간호사들이 지켜보는 가운데 교육하고요. 이 도시에서 더 많은 병원이 당신들 제품을 쓸 거라면, 실제 사건을 다뤄 본 사람들한테 배우는 게 낫잖아요.
 
 99. ELENA: Dr. Wade, Elena again. Yes. And may I ask something in return?
     엘레나: 웨이드 선생님, 엘레나예요. 좋아요. 그리고 대신 하나 부탁해도 될까요?
@@ -323,8 +323,8 @@
 100. WADE: Go ahead.
      웨이드: 하세요.
 
-101. ELENA: We're starting a registry. Real-world vascular events. Every case, every outcome. Anonymous. I'd like your group first.
-     엘레나: 레지스트리를 시작해요. 실제 혈관 사건. 모든 사례, 모든 결과. 익명으로. 선생님 그룹이 첫 번째였으면 해요.
+101. ELENA: We're starting a registry of real-world vascular events. Every case, every outcome, anonymous. Right now, nobody in this field really knows how often these events happen or what works best, because clinics don't share. I'd like your group to be the first.
+     엘레나: 실제 혈관 사건 레지스트리를 시작해요. 모든 사례, 모든 결과, 익명으로. 지금은 이 분야에서 이런 사건이 얼마나 자주 일어나는지, 뭐가 가장 효과적인지 아무도 제대로 몰라요. 병원들이 공유하지 않으니까요. 선생님 그룹이 첫 번째였으면 해요.
 
 102. WADE: A registry? Including cases that go badly?
      웨이드: 레지스트리요? 잘못된 사례도 포함해서?
@@ -370,8 +370,8 @@
 115. AVA: The best moment was Dr. Lee's satisfaction score. He looked so surprised.
      에이바: 최고의 순간은 리 선생님 만족도 점수였어요. 너무 놀라시더라고요.
 
-116. SOFIA: People rarely see their own good numbers. When you show them, they listen to everything else.
-     소피아: 사람들은 자기 좋은 숫자를 거의 못 봐요. 그걸 보여 주면 나머지 전부를 들어요.
+116. SOFIA: People rarely see their own good numbers, because nobody measures them or bothers to tell them. When you show them first, they relax, and they trust that you're paying attention. After that, they listen to everything else, even the price.
+     소피아: 사람들은 자기 좋은 숫자를 거의 못 봐요. 아무도 측정하지 않거나 굳이 말해 주지 않으니까요. 그걸 먼저 보여 주면 긴장이 풀리고, 당신이 관심을 기울이고 있다고 믿게 돼요. 그다음엔 나머지 전부를 들어요. 가격까지도.
 
 117. DEREK: Noah texted. "How did Dallas go?"
      데릭: 노아가 문자했어요. "댈러스 어땠어요?"
@@ -417,3 +417,18 @@
 | **3. Next year** | **1,500 syringes/yr commitment → Tier 2 $395** · 2-year agreement · Dr. Wade = Dallas faculty lead · Group joins **real-world vascular event registry** (first site) |
 
 > **Written volume tiers (same for all):** < 1,200/yr: $425 · 1,200–2,000: $395 · > 2,000: $375
+
+### ④ 긴 발화 분석
+
+> **6턴 SOFIA:** "Always that order. Never start with the contract, because then the whole meeting feels like a sales call. Start with their results, so they see what the year gave them. Once they feel that, the complaints come out honestly, and the contract becomes much easier."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 원칙(단언) | Always that order. | 규칙을 짧게 못 박는다 |
+| ② 금지+이유 | Never start with the contract, because then the whole meeting feels like a sales call. | 하지 말아야 할 것과 그 결과를 함께 말한다 |
+| ③ 대안+목적 | Start with their results, so they see what the year gave them. | 대신 할 행동과 그 목적(so…)을 제시 |
+| ④ 기대 효과 | Once they feel that, the complaints come out honestly, and the contract becomes much easier. | 순서를 지켰을 때 얻는 결과로 설득을 마무리 |
+
+**활용 패턴:** 원칙 → Never A, because… → Start with B, so… → Once…, (좋은 결과)
+**연결 표현:** because then(그러면 ~하게 되니까) · so they see(~를 보게 하려고) · Once…(일단 ~하면) · becomes much easier(훨씬 쉬워진다)
+**연습:** 후배에게 고객 미팅을 "성과 → 개선점 → 계약" 순서로 진행해야 하는 이유를 40~50단어로 설명해 보기.

@@ -53,8 +53,8 @@
 12. ELENA: Dr. Elena Ruiz. Chief Medical Officer. I'll do the data module at ten.
     엘레나: 엘레나 루이즈 박사. 최고 의학 책임자. 10시에 데이터 모듈을 맡아요.
 
-13. TASHA: Great! Today is super special. CE arrived last week. It's UK launch day! You're Britain's first thirty-eight Veyra Ready practitioners!
-    타샤: 좋아요! 오늘은 정말 특별해요. CE가 지난주에 나왔어요. 영국 출시일이에요! 여러분이 영국 최초의 베이라 레디 시술자 38명이에요!
+13. TASHA: Great! Today is super special, you guys. CE arrived last week, which means today is officially UK launch day! And that makes you Britain's first thirty-eight Veyra Ready practitioners! Seriously, you're making history this morning, so let's make it awesome!
+    타샤: 좋아요! 오늘은 정말 특별해요, 여러분. CE가 지난주에 나왔으니까, 오늘이 공식 영국 출시일이에요! 그 말은 여러분이 영국 최초의 베이라 레디 시술자 38명이라는 거죠! 진짜로, 오늘 아침 역사를 만드는 거예요. 그러니 끝내주게 해 봐요!
 
 14. CHLOE: Are we… supposed to clap now?
     클로이: 우리… 지금 박수 쳐야 해요?
@@ -121,8 +121,8 @@
 34. TASHA: Oh. Sorry. You're right. I was… encouraging her.
     타샤: 아. 미안해요. 맞아요. 전… 격려하려고.
 
-35. MARGARET: Encourage her by correcting her. That's what she paid for.
-    마거릿: 고쳐 주는 걸로 격려해요. 그게 그 사람이 돈 낸 이유예요.
+35. MARGARET: Encourage her by correcting her. That's what she paid for. If she leaves today thinking that order was right, she'll do it that way on a real patient, alone, with nobody there to say 'awesome.' In training, kindness means honesty.
+    마거릿: 고쳐 주는 걸로 격려해요. 그게 그 사람이 돈 낸 이유예요. 오늘 그 순서가 맞다고 생각하고 나가면, 실제 환자한테 그렇게 할 거예요. 혼자서, '끝내준다'고 말해 줄 사람도 없이. 교육에선 친절이 곧 솔직함이에요.
 
 36. ELENA: Can I take module two now? Early?
     엘레나: 지금 모듈 2 해도 돼요? 일찍?
@@ -142,8 +142,8 @@
 41. FRASER: Confidence interval?
     프레이저: 신뢰 구간은요?
 
-42. ELENA: Two point seven to three point five. We say "three times." Never more.
-    엘레나: 2.7에서 3.5. 우린 "3배"라고 해요. 절대 그 이상은 안 하고요.
+42. ELENA: Two point seven to three point five. So the honest claim is somewhere around three, which is why we say 'three times' and never more. If a sales rep ever tells you four or five, they're wrong, and I'd like you to tell me.
+    엘레나: 2.7에서 3.5. 그러니까 정직한 주장은 3 정도예요. 그래서 우린 '3배'라고 하고 절대 그 이상은 안 해요. 영업 담당자가 4배나 5배라고 하면 그건 틀린 거고, 저한테 알려 주셨으면 해요.
 
 43. FRASER: …That's honest. I'll read page six.
     프레이저: …정직하네요. 6쪽 읽어 볼게요.
@@ -160,8 +160,8 @@
 47. ELENA: Basic questions save lives. Ask.
     엘레나: 기초 질문이 생명을 구해요. 물어봐요.
 
-48. CHLOE: If I'm alone in my clinic and it happens, who do I call first? There's no doctor next door.
-    클로이: 클리닉에 혼자 있을 때 그게 터지면, 누구한테 먼저 전화해요? 옆에 의사가 없거든요.
+48. CHLOE: If I'm alone in my clinic and it happens, who do I call first? There's no doctor next door, no colleague down the hall. It's just me and the patient, and I honestly don't know what the first five minutes should look like.
+    클로이: 클리닉에 혼자 있을 때 그게 터지면, 누구한테 먼저 전화해요? 옆에 의사도 없고, 복도 끝에 동료도 없어요. 저랑 환자뿐이에요. 솔직히 처음 5분을 어떻게 보내야 하는지 모르겠어요.
 
 49. ELENA: That's the best question this morning. Let's take a break. Then we answer it properly.
     엘레나: 오늘 아침 최고의 질문이에요. 휴식해요. 그다음 제대로 답할게요.
@@ -180,8 +180,8 @@
 53. TASHA: What does that mean? In plain English?
     타샤: 그게 무슨 뜻이에요? 쉬운 영어로?
 
-54. JAMES: Too loud. Too happy. Too many "awesomes." They feel like children at a birthday party.
-    제임스: 너무 시끄럽고. 너무 행복하고. "끝내준다"가 너무 많아요. 생일 파티에 온 애들 같은 기분이에요.
+54. JAMES: Too loud, too happy, and far too many 'awesomes.' These are experienced professionals, some with decades on the wards, and this morning they felt like children at a birthday party. When people feel talked down to, they go quiet and fold their arms.
+    제임스: 너무 시끄럽고, 너무 행복하고, '끝내준다'가 너무 많아요. 이분들은 경험 많은 전문가예요. 몇몇은 병동에서 수십 년을 보냈고요. 그런데 오늘 아침엔 생일 파티에 온 애들 같은 기분이었죠. 사람은 무시당한다고 느끼면 입을 닫고 팔짱을 껴요.
 
 55. TASHA: It works in Texas. Nurses love it. They cheer.
     타샤: 텍사스에선 통해요. 간호사들이 좋아해요. 환호하고요.
@@ -210,8 +210,8 @@
 63. NOAH: Just two minutes. About Lily. About why we started. It always works.
     노아: 2분만요. 릴리 얘기. 왜 시작했는지. 항상 통해요.
 
-64. JAMES: Noah, these nurses fix other people's disasters every week. They don't need your story. They need your respect.
-    제임스: 노아, 이 간호사들은 매주 남의 사고를 수습해요. 당신 이야기가 필요한 게 아니에요. 존중이 필요하죠.
+64. JAMES: Noah, these nurses fix other people's disasters every week, often on their own and at the end of a long shift. They don't need your story, however good it is. What they need today is your respect, and the best way to show it is to listen.
+    제임스: 노아, 이 간호사들은 매주 남의 사고를 수습해요. 혼자서, 긴 교대 근무 끝에 하는 경우가 많죠. 당신 이야기가 아무리 좋아도 필요한 게 아니에요. 오늘 그들에게 필요한 건 존중이고, 그걸 보여 주는 가장 좋은 방법은 듣는 거예요.
 
 65. NOAH: …Okay. I'll sit at the back.
     노아: …알겠어요. 뒤에 앉을게요.
@@ -246,8 +246,8 @@
 75. TASHA: Silence is thinking. Okay. Three?
     타샤: 침묵은 생각이다. 좋아요. 셋은요?
 
-76. JAMES: Let them teach. Margaret has seen fifty occlusions. Use her. Four. British cases. Not American numbers.
-    제임스: 그들이 가르치게 해요. 마거릿은 폐색을 50번 봤어요. 그분을 활용해요. 넷. 영국 사례. 미국 숫자 말고.
+76. JAMES: Let them teach. Margaret has seen fifty occlusions, so use her experience instead of competing with it. Four. British cases, not American numbers. A story from a British clinic means more to this room than any statistic from Texas.
+    제임스: 그들이 가르치게 해요. 마거릿은 폐색을 50번 봤어요. 그러니 그 경험과 경쟁하지 말고 활용해요. 넷. 영국 사례, 미국 숫자 말고. 이 교실에선 영국 클리닉 이야기 하나가 텍사스 통계 어떤 것보다 더 와닿아요.
 
 77. TASHA: British cases. Like Chloe's question? Alone in a clinic. No doctor next door.
     타샤: 영국 사례. 클로이 질문 같은 거요? 클리닉에 혼자. 옆에 의사 없음.
@@ -263,8 +263,8 @@
 
 ### 절정·전환 — 오후 1시, 다시 시작
 
-81. TASHA: Okay. Before we continue, I owe you an apology. This morning, I treated you like beginners. You're not.
-    타샤: 좋아요. 계속하기 전에 사과드릴게요. 오늘 아침 여러분을 초보자처럼 대했어요. 그렇지 않은데요.
+81. TASHA: Okay. Before we continue, I owe you an apology. This morning, I treated you like beginners, and you're not. Many of you have more experience than I do, so this afternoon I'm going to talk less, ask more, and actually wait for your answers.
+    타샤: 좋아요. 계속하기 전에 사과드릴게요. 오늘 아침 여러분을 초보자처럼 대했는데, 그렇지 않잖아요. 많은 분이 저보다 경험이 많으세요. 그래서 오후엔 덜 말하고, 더 묻고, 여러분의 답을 정말로 기다릴게요.
 
 82. MARGARET: …Thank you. That's appreciated.
     마거릿: …고마워요. 감사히 받을게요.
@@ -293,8 +293,8 @@
 90. TASHA: Margaret, you've seen more occlusions than I have. Teach me. What's the mistake people make?
     타샤: 마거릿, 당신은 나보다 폐색을 더 많이 봤어요. 가르쳐 줘요. 사람들이 하는 실수가 뭐예요?
 
-91. MARGARET: They panic about being alone. So they phone someone first. They lose three minutes. On the phone.
-    마거릿: 혼자라는 것에 당황해요. 그래서 먼저 누군가에게 전화하죠. 3분을 잃어요. 전화하느라.
+91. MARGARET: They panic about being alone, so they phone someone first, a doctor or a colleague, just to hear another voice. And they lose three minutes on the phone, which is exactly when the tissue is running out of blood. Those minutes matter most.
+    마거릿: 혼자라는 것에 당황해요. 그래서 의사든 동료든, 다른 목소리를 들으려고 먼저 전화하죠. 그렇게 전화로 3분을 잃어요. 그때가 바로 조직에 피가 떨어져 가는 순간이에요. 그 몇 분이 가장 중요해요.
 
 92. CHLOE: That's exactly what I'd do. I'd call someone.
     클로이: 딱 제가 할 행동이에요. 누군가에게 전화할 거예요.
@@ -343,8 +343,8 @@
 106. TASHA: Results. Thirty-eight assessed. Thirty-seven passed. One retake.
      타샤: 결과. 38명 평가. 37명 합격. 재시험 1명.
 
-107. FRASER: That's me. I hesitated on the dose. I'd like to retake. Next week, if possible.
-     프레이저: 그게 나예요. 용량에서 머뭇거렸어요. 재시험 보고 싶어요. 가능하면 다음 주에.
+107. FRASER: That's me. I hesitated on the dose, and in a real emergency that hesitation would have cost the patient time. I'd rather fail here than there, so I'd like to retake the assessment. Next week, if possible.
+     프레이저: 그게 나예요. 용량에서 머뭇거렸는데, 실제 응급 상황이었다면 그 망설임이 환자의 시간을 잡아먹었을 거예요. 거기서보다 여기서 떨어지는 게 나아요. 그래서 재시험을 보고 싶어요. 가능하면 다음 주에.
 
 108. ELENA: Asking for a retake. That's a good doctor.
      엘레나: 재시험을 요청한다. 좋은 의사네요.
@@ -361,11 +361,11 @@
 112. NOAH: That's a no. I've learned that much.
      노아: 그건 노예요. 그 정도는 배웠어요.
 
-113. JAMES: Not yet a no. A "not yet." Doctors want to see nurses use it first.
-     제임스: 아직 노는 아니에요. "아직은." 의사들은 간호사들이 먼저 쓰는 걸 보고 싶어 해요.
+113. JAMES: Not yet a no. A 'not yet.' Doctors here are cautious with anything new, so they want to see nurses use it safely first. Once people like Sarah and Margaret are talking about it, the doctors will start asking us.
+     제임스: 아직 노는 아니에요. '아직은'이에요. 여기 의사들은 새로운 것에 신중해서, 간호사들이 먼저 안전하게 쓰는 걸 보고 싶어 해요. 사라나 마거릿 같은 사람들이 그 얘기를 하기 시작하면, 의사들이 먼저 우리한테 물어 올 거예요.
 
-114. CHLOE: Can I say something? I ordered four. Not ten. Because of VAT. I'm not registered. It's two sixty-four for me.
-     클로이: 한마디 해도 돼요? 10개 말고 4개 주문했어요. 부가세 때문에요. 미등록이라. 저한텐 264파운드예요.
+114. CHLOE: Can I say something? I ordered four, not ten, and it's because of VAT. I'm not registered, so it's two sixty-four for me, not two twenty. For a clinic my size, that difference decides how many I can keep on the shelf.
+     클로이: 한마디 해도 돼요? 10개 말고 4개 주문했는데, 부가세 때문이에요. 미등록이라 저한텐 220이 아니라 264파운드예요. 저 같은 규모의 클리닉에선 그 차이가 선반에 몇 개를 둘 수 있는지를 정해요.
 
 115. JAMES: Paul's model. We knew. Now we've heard it from a real nurse.
      제임스: 폴의 모델. 알고 있었어요. 이제 실제 간호사한테서 들었네요.
@@ -418,3 +418,18 @@
 | US numbers, trainer as expert | Polite silence | **British cases + "Teach me."** | Three stories, debate |
 
 > **Launch day (June 12) results:** 38 assessed · 37 passed · 1 retake (Dr. Fraser, self-requested) · First orders: Sarah 10, Chloe 4 · Doctors (8): "We'll reflect." = *not yet* · ⚠️ VAT: non-registered nurses pay £264.
+
+### ④ 긴 발화 분석
+
+> **81턴 TASHA:** "Okay. Before we continue, I owe you an apology. This morning, I treated you like beginners, and you're not. Many of you have more experience than I do, so this afternoon I'm going to talk less, ask more, and actually wait for your answers."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 예고(사과 선언) | Okay. Before we continue, I owe you an apology. | 본론 전에 사과할 것을 먼저 알림 |
+| ② 잘못 인정(구체적) | This morning, I treated you like beginners, and you're not. | 무엇이 잘못이었는지 변명 없이 한 문장으로 |
+| ③ 상대 인정 | Many of you have more experience than I do, | 청중의 전문성을 존중하며 관계 회복 |
+| ④ 바뀔 행동 약속 | so this afternoon I'm going to talk less, ask more, and actually wait for your answers. | 구체적인 행동 세 가지로 변화를 약속 |
+
+**활용 패턴:** I owe you an apology → 잘못 구체적으로 인정 → 상대 인정 → so I'm going to + 행동 3가지
+**연결 표현:** I owe you an apology(사과드려야겠어요) · and you're not(그렇지 않은데도) · so this afternoon I'm going to…(그래서 오후엔 ~하겠다)
+**연습:** 회의에서 다른 팀 의견을 계속 끊었던 상황을 가정해, 같은 구조로 40단어 안팎의 사과를 해 보기.

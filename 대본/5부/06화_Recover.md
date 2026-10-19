@@ -23,8 +23,8 @@
 02. NINA: The app helps. Tips, reminders, warning signs.
     니나: 앱이 도와주죠. 팁, 알림, 경고 신호.
 
-03. ZOE: The app tells her what to do. But it doesn't give her anything to put on her skin.
-    조이: 앱은 뭘 해야 하는지 알려 줘요. 하지만 피부에 바를 건 아무것도 주지 않아요.
+03. ZOE: The app tells her what to do, which matters. But it doesn't give her anything to put on her skin. So she goes home nervous, and she buys whatever cream a stranger recommends online.
+    조이: 앱은 뭘 해야 하는지 알려 주죠. 그건 중요해요. 하지만 피부에 바를 건 아무것도 주지 않아요. 그래서 환자는 불안한 채로 집에 가서, 온라인에서 모르는 사람이 추천하는 아무 크림이나 사요.
 
 04. ELENA: Patients ask me that every day. "What should I use tonight?"
     엘레나: 환자들이 매일 물어요. "오늘 밤엔 뭘 발라야 해요?"
@@ -76,8 +76,8 @@
 19. ZOE: "Reduces swelling and bruising after filler treatments."
     조이: "필러 시술 후 부기와 멍을 줄여 줍니다."
 
-20. ELENA: That's a drug claim. "Reduces swelling" means it treats something. The FDA would call it a drug.
-    엘레나: 그건 의약품 주장이에요. "부기를 줄인다"는 뭔가를 치료한다는 뜻이에요. FDA는 그걸 의약품으로 봐요.
+20. ELENA: That's a drug claim, Zoe. "Reduces swelling" means the product treats a condition, and the FDA would call it a drug, which means clinical trials and years of delay. And honestly, one warning letter would make every claim we make look suspicious.
+    엘레나: 그건 의약품 주장이에요, 조이. "부기를 줄인다"는 제품이 어떤 상태를 치료한다는 뜻이고, FDA는 그걸 의약품으로 볼 거예요. 그러면 임상시험과 몇 년의 지연이 따라오죠. 그리고 솔직히, 경고장 한 통이면 우리가 하는 모든 주장이 의심스러워 보일 거예요.
 
 21. ZOE: Even if it's true?
     조이: 사실이어도요?
@@ -109,8 +109,8 @@
 30. ZOE: …Okay. I would sometimes.
     조이: …좋아요. 가끔은 그럴 수도요.
 
-31. NOAH: A patient with an occlusion must call her injector. Not reach for a serum.
-    노아: 혈관 폐색이 생긴 환자는 시술자에게 전화해야 해요. 세럼을 집는 게 아니라.
+31. NOAH: Here's the thing. A patient with an occlusion must call her injector immediately, not reach for a serum in her bathroom. If our packaging ever makes her wait one extra hour because she thinks a cream will fix it, we've failed her.
+    노아: 중요한 건 이거예요. 혈관 폐색이 생긴 환자는 즉시 시술자에게 전화해야 해요. 욕실에서 세럼을 집는 게 아니라요. 만약 우리 포장 때문에 환자가 크림으로 해결될 거라 생각하고 한 시간이라도 더 기다린다면, 우린 그 환자를 저버린 거예요.
 
 32. ZOE: Agreed. Separate the logos. Separate the messages. "Ready" is training. "Recover" is comfort.
     조이: 동의해요. 로고 분리. 메시지 분리. "레디"는 교육. "리커버"는 편안함.
@@ -130,8 +130,8 @@
 37. MARCUS: Good. Very good.
     마커스: 좋아. 아주 좋아.
 
-38. PRIYA: I'll test stability myself. Three months. Heat, cold, light. Before anything ships.
-    프리야: 안정성은 내가 직접 시험할게. 3개월. 열, 냉기, 빛. 출고 전에.
+38. PRIYA: I'll test stability myself before anything ships. Three months of heat, cold, and light, because a serum that separates in a hot car becomes a complaint, and a complaint becomes a story. Show me the data first, then we talk about launch dates.
+    프리야: 출고 전에 안정성은 내가 직접 시험할게. 3개월 동안 열, 냉기, 빛. 더운 차 안에서 분리되는 세럼은 불만이 되고, 불만은 소문이 되니까. 데이터부터 보여 줘. 출시일 얘기는 그다음이야.
 
 39. MARCUS: Numbers. Cost and price.
     마커스: 숫자. 원가와 가격.
@@ -139,8 +139,8 @@
 40. ZOE: Cost, nine dollars. Including packaging. Retail price, sixty-eight dollars. Thirty milliliters.
     조이: 원가 9달러. 포장 포함. 소비자가 68달러. 30밀리리터.
 
-41. MARCUS: Nine to sixty-eight. In clinics, we sell to them at thirty-four. They sell at sixty-eight.
-    마커스: 9달러에서 68달러. 병원엔 34달러에 팔고. 병원은 68달러에 팔고.
+41. MARCUS: Nine to sixty-eight. In clinics, we sell to them at thirty-four, and they sell at sixty-eight. That's healthy on both sides. But before we scale, I want a backup plan if Lumen Labs ever stops. Two is one, one is none.
+    마커스: 9달러에서 68달러. 병원엔 34달러에 팔고, 병원은 68달러에 팔고. 양쪽 다 건강한 구조야. 하지만 규모를 키우기 전에, 루멘 랩스가 멈출 경우의 대비책이 필요해. 둘은 하나고, 하나는 없는 거야.
 
 42. SOFIA: Fifty percent margin for clinics. That's standard for skincare. Glow will like it.
     소피아: 병원에 50% 마진. 스킨케어 표준이에요. 글로우가 좋아할 거예요.
@@ -163,8 +163,8 @@
 48. ZOE: That's phase two. Glow first. Sixty days. Then I want a big beauty retailer.
     조이: 그건 2단계예요. 글로우 먼저. 60일. 그다음 대형 뷰티 소매점을 원해요.
 
-49. NOAH: Decision. Recover is approved. Cosmetic claims only. Priya signs off on stability. Glow first.
-    노아: 결정. 리커버 승인. 화장품 주장만. 안정성은 프리야가 승인. 글로우 먼저.
+49. NOAH: Decision. Recover is approved, but with conditions. Cosmetic claims only, and Elena reviews every word on the box. Priya signs off on stability before a single bottle ships. Glow goes first, and we let their numbers tell us whether a big retailer makes sense.
+    노아: 결정. 리커버 승인. 단, 조건이 있어요. 화장품 주장만, 그리고 상자의 모든 단어는 엘레나가 검토해요. 한 병이라도 출고되기 전에 안정성은 프리야가 승인하고요. 글로우가 먼저 하고, 대형 소매점이 맞는지는 그 숫자가 말해 주게 하죠.
 
 50. ZOE: Thank you. I'll book a retailer for the spring. Somewhere big.
     조이: 고마워요. 봄에 소매점 미팅을 잡을게요. 큰 데로.
@@ -186,11 +186,11 @@
 55. MONICA: Please.
     모니카: 그러세요.
 
-56. AVA: Every patient asked me the same thing at checkout. "What do I put on my face tonight?"
-    에이바: 모든 환자가 결제할 때 똑같은 걸 물었어요. "오늘 밤 얼굴에 뭘 발라야 해요?"
+56. AVA: Every patient asked me the same thing at checkout: "What do I put on my face tonight?" I never had a good answer, so I'd point at a shelf of random creams and hope for the best. Honestly, that felt worse than saying nothing.
+    에이바: 모든 환자가 결제할 때 똑같은 걸 물었어요. "오늘 밤 얼굴에 뭘 발라야 해요?" 저는 좋은 대답이 없어서, 아무 크림이나 놓인 선반을 가리키고 잘되길 바랐죠. 솔직히, 아무 말 안 하는 것보다 더 찜찜했어요.
 
-57. ZOE: Her clinic sold random creams. Nobody trusted them. Including Ava.
-    조이: 그 병원은 아무 크림이나 팔았대요. 아무도 안 믿었고요. 에이바까지도.
+57. ZOE: That's the gap. Nobody trusted those creams. Including Ava.
+    조이: 그게 빈틈이에요. 아무도 그 크림들을 안 믿었어요. 에이바까지도.
 
 58. MONICA: And your customers? Your retail customers? They're not all filler patients.
     모니카: 그럼 당신 고객은요? 소매 고객? 다 필러 환자는 아니잖아요.
@@ -201,8 +201,8 @@
 60. MONICA: Do you have sell-through data? Real data. Not a deck.
     모니카: 판매율 데이터 있어요? 진짜 데이터. 덱 말고.
 
-61. ZOE: Glow Collective launched it sixty days ago. Three hundred locations. Sell-through, seventy-one percent.
-    조이: 글로우 컬렉티브가 60일 전에 출시했어요. 300곳. 판매율 71%.
+61. ZOE: Glow Collective launched it sixty days ago across three hundred locations, and sell-through is seventy-one percent. That's not a forecast or a focus group. Those are real bottles bought by real patients, and I can send you the weekly reports tonight.
+    조이: 글로우 컬렉티브가 60일 전에 300곳에서 출시했고, 판매율은 71%예요. 예측치나 포커스 그룹 결과가 아니에요. 실제 환자들이 실제로 산 병들이고, 주간 보고서는 오늘 밤에 보내 드릴 수 있어요.
 
 62. MONICA: Seventy-one percent in sixty days? In medspas?
     모니카: 60일에 71%? 메디스파에서?
@@ -263,8 +263,8 @@
 
 ### 절정·전환 — 진열 공간 협상
 
-81. MONICA: We have five hundred twenty stores. I won't put a new brand in all of them.
-    모니카: 매장이 520곳이에요. 새 브랜드를 전부에 넣진 않을 거예요.
+81. MONICA: We have five hundred twenty stores, and I won't put a new brand in all of them. I've seen too many exciting launches turn into clearance bins by summer, and when that happens, it's my name on the markdown report, not yours.
+    모니카: 매장이 520곳이에요. 새 브랜드를 전부에 넣진 않을 거예요. 화려하게 출시됐다가 여름이면 떨이 바구니로 가는 걸 너무 많이 봤거든요. 그렇게 되면 할인 보고서에 올라가는 건 당신 이름이 아니라 내 이름이에요.
 
 82. ZOE: We don't want all of them. Start small. Fifty stores. Twelve weeks.
     조이: 전부를 원하지 않아요. 작게 시작해요. 50곳. 12주.
@@ -284,8 +284,8 @@
 87. MONICA: And what do I get for eye level? Most brands pay marketing support.
     모니카: 그럼 눈높이 자리 대가로 난 뭘 받죠? 대부분 브랜드는 마케팅 지원금을 내요.
 
-88. ZOE: Co-op funds. Forty thousand dollars for the test. For in-store displays and training your staff.
-    조이: 공동 마케팅 기금. 테스트에 4만 달러. 매장 진열과 직원 교육용으로.
+88. ZOE: Co-op funds. Forty thousand dollars for the test, covering in-store displays and training your staff. We'd rather spend that money teaching people how to talk about Recover than buying a bigger sign, because a confused salesperson can undo a good label in thirty seconds.
+    조이: 공동 마케팅 기금이요. 테스트에 4만 달러, 매장 진열과 직원 교육에 쓰고요. 더 큰 간판을 사는 것보다 리커버에 대해 어떻게 말해야 하는지 가르치는 데 쓰고 싶어요. 헷갈린 판매 직원 한 명이 좋은 라벨을 30초 만에 망칠 수 있으니까요.
 
 89. MONICA: Training my staff? For a serum?
     모니카: 우리 직원 교육이요? 세럼 하나에?
@@ -320,8 +320,8 @@
 99. MONICA: Sixty? Above my benchmark? Why would you raise your own bar?
     모니카: 60이요? 내 기준보다 높게? 왜 스스로 기준을 올려요?
 
-100. ZOE: Because I've seen Glow's numbers. And because confidence is cheaper than co-op funds.
-     조이: 글로우 숫자를 봤으니까요. 그리고 자신감이 공동 기금보다 싸니까요.
+100. ZOE: Because I've seen Glow's numbers, and I trust them. Also, to be honest, confidence is cheaper than co-op funds. If we really believe in the product, we should be willing to be measured by a harder standard than everyone else.
+     조이: 글로우 숫자를 봤고, 그 숫자를 믿으니까요. 그리고 솔직히, 자신감이 공동 기금보다 싸요. 제품을 정말 믿는다면, 다른 누구보다 더 엄격한 기준으로 평가받을 각오가 돼 있어야죠.
 
 101. MONICA: …Fifty stores. Twelve weeks. Eye level, derm aisle. Sixty percent target. Forty thousand co-op.
      모니카: …50곳. 12주. 더마 코너 눈높이. 목표 60%. 공동 기금 4만.
@@ -349,8 +349,8 @@
 108. AVA: Eight years ago, you launched Lumière. Was it like this?
      에이바: 8년 전에 뤼미에르를 출시했잖아요. 이랬어요?
 
-109. ZOE: No. At Lumière, the box promised miracles. And the returns were terrible.
-     조이: 아니요. 뤼미에르에선 상자가 기적을 약속했어요. 반품은 끔찍했고요.
+109. ZOE: No. At Lumière, the box promised miracles, and the returns were terrible. We sold a lot in the first month, then spent a year answering angry emails. That's when I learned that a big promise is just a debt you pay later.
+     조이: 아니요. 뤼미에르에선 상자가 기적을 약속했고, 반품은 끔찍했어요. 첫 달엔 많이 팔았지만, 그다음 1년은 화난 이메일에 답하느라 보냈죠. 그때 배웠어요. 큰 약속은 나중에 갚아야 하는 빚일 뿐이라는 걸.
 
 110. AVA: And now?
      에이바: 그럼 지금은요?
@@ -420,3 +420,17 @@
 | Co-op | **$40K** — in-store displays + 10-minute staff training (incl. what never to say) |
 | Exclusivity | **None** |
 | Loyalty | Veyra Circle points **for Recover only** (never for treatments) |
+
+### ④ 긴 발화 분석
+
+> **61턴 ZOE:** "Glow Collective launched it sixty days ago across three hundred locations, and sell-through is seventy-one percent. That's not a forecast or a focus group. Those are real bottles bought by real patients, and I can send you the weekly reports tonight."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 사실(숫자 먼저) | Glow Collective launched it sixty days ago across three hundred locations, and sell-through is seventy-one percent. | 바이어가 요구한 지표를 기간·규모·결과 순으로 즉시 제시 |
+| ② 재정의(대비) | That's not a forecast or a focus group. Those are real bottles bought by real patients, | "A가 아니라 B"로 데이터의 신뢰도를 강조 |
+| ③ 후속 제안 | and I can send you the weekly reports tonight. | 검증 자료를 먼저 제안해 신뢰를 굳힘 |
+
+**활용 패턴:** 기간·규모·결과 숫자 → "That's not A. Those are B." → 증빙 자료 제안
+**연결 표현:** across(~에 걸쳐) · That's not A or B(A나 B가 아니다) · I can send you…(~를 보내 드릴 수 있다)
+**연습:** 신규 거래처가 "실적 데이터 있어요?"라고 물을 때 같은 구조로 35단어 안팎으로 답해 보기.

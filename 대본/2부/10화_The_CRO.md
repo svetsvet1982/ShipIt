@@ -23,8 +23,8 @@
 02. GRACE: Hi, everyone. Happy to finally meet you in person.
     그레이스: 안녕하세요, 여러분. 드디어 직접 뵙게 돼서 반가워요.
 
-03. ELENA: Grace ran trials at one of the biggest CROs in the country. Eight years.
-    엘레나: 그레이스는 국내 최대 CRO 중 한 곳에서 임상을 운영했어요. 8년 동안.
+03. ELENA: Grace ran trials at one of the biggest CROs in the country for eight years. She knows how they plan, how they price, and where things usually go wrong. We're lucky to have her.
+    엘레나: 그레이스는 국내 최대 CRO 중 한 곳에서 8년 동안 임상을 운영했어요. 그쪽이 어떻게 계획하고, 어떻게 가격을 매기고, 보통 어디서 일이 틀어지는지 알아요. 이런 분을 모신 건 행운이에요.
 
 04. MARCUS: Welcome aboard. Coffee's free. Everything else costs money.
     마커스: 합류를 환영해. 커피는 공짜야. 나머진 다 돈이 들고.
@@ -59,8 +59,8 @@
 14. PRIYA: So what do we do?
     프리야: 그럼 우린 뭘 하죠?
 
-15. NOAH: We can't control their speed. Only ours. So today, we pick a CRO.
-    노아: 그들의 속도는 통제할 수 없어. 우리 속도만. 그러니까 오늘 CRO를 고르는 거야.
+15. NOAH: We can't control their speed. Only ours. If we spend our energy worrying about Halvern, we lose time we don't have. So today, we pick a CRO and keep moving.
+    노아: 그들의 속도는 통제할 수 없어. 우리 속도만. 할번 걱정에 에너지를 쓰면, 없는 시간을 잃는 거야. 그러니까 오늘 CRO를 고르고 계속 나아가자.
 
 ### 장면1 — 두 개의 견적
 
@@ -100,8 +100,8 @@
 27. ELENA: Does bigger mean better?
     엘레나: 더 크면 더 좋은 건가요?
 
-28. GRACE: For a three-hundred-patient trial? Not necessarily. Sometimes bigger means slower.
-    그레이스: 환자 300명짜리 임상이라면요? 꼭 그렇진 않아요. 크면 오히려 느릴 때도 있어요.
+28. GRACE: For a three-hundred-patient trial? Not necessarily. Big CROs are great for huge global trials, but on a smaller study, you can become a small client. Sometimes bigger means slower.
+    그레이스: 환자 300명짜리 임상이라면요? 꼭 그렇진 않아요. 큰 CRO는 대규모 글로벌 임상에는 좋지만, 작은 연구에선 우리가 작은 고객이 될 수 있어요. 크면 오히려 느릴 때도 있어요.
 
 29. NOAH: Which one would you pick?
     노아: 그레이스라면 어디를 고르겠어요?
@@ -112,8 +112,8 @@
 31. PRIYA: Why not?
     프리야: 왜요?
 
-32. GRACE: Every budget has padding. I used to write these budgets. I know where it hides.
-    그레이스: 모든 예산엔 부풀린 부분이 있어요. 제가 이런 예산을 직접 썼었거든요. 어디 숨는지 알아요.
+32. GRACE: Every budget has padding. I used to write these budgets myself, so I know where it hides. It's usually in three places, and none of them are on the first page.
+    그레이스: 모든 예산엔 부풀린 부분이 있어요. 제가 이런 예산을 직접 썼었거든요. 그래서 어디 숨는지 알아요. 보통 세 군데에 있고, 첫 페이지엔 하나도 없어요.
 
 33. MARCUS: Now I really like you.
     마커스: 이제 정말 마음에 드네.
@@ -160,8 +160,8 @@
 47. MARCUS: Every trial changes. Something always changes.
     마커스: 모든 임상은 바뀌어. 뭔가는 꼭 바뀌지.
 
-48. GRACE: That's how CROs make their real money. So we cap the rates now. Before signing.
-    그레이스: CRO는 그걸로 진짜 돈을 벌어요. 그러니까 지금 요율 상한을 정해야 해요. 서명 전에.
+48. GRACE: That's how CROs make their real money. The first price looks good, and then the change orders arrive. So we cap the rates now, before signing, while we still have leverage.
+    그레이스: CRO는 그걸로 진짜 돈을 벌어요. 첫 가격은 좋아 보이는데, 그다음에 변경 주문이 들어오죠. 그러니까 아직 협상력이 있을 때, 서명 전에 지금 요율 상한을 정해야 해요.
 
 49. NOAH: Grace, you've been here two hours. You may have saved us two million.
     노아: 그레이스, 온 지 두 시간 만에 200만 달러를 아껴 준 것 같네요.
@@ -192,8 +192,8 @@
 57. BEN: Please don't. Hard questions make better contracts.
     벤: 그러지 마세요. 어려운 질문이 더 좋은 계약을 만들어요.
 
-58. NOAH: Ben, we like your proposal. But fourteen point two is above our budget.
-    노아: 벤, 제안서는 마음에 들어요. 하지만 1,420만은 저희 예산을 넘어요.
+58. NOAH: Ben, we like your proposal, and we'd like to work with Clearpath. But fourteen point two is above our budget, so we need to find a way to close the gap together.
+    노아: 벤, 제안서는 마음에 들고, 클리어패스와 일하고 싶어요. 하지만 1,420만은 저희 예산을 넘어요. 그러니까 함께 그 차이를 좁힐 방법을 찾아야 해요.
 
 59. BEN: What's your budget?
     벤: 예산이 얼마인데요?
@@ -228,8 +228,8 @@
 69. BEN: You'd do your own monitoring? In Texas?
     벤: 직접 모니터링을 하시겠다고요? 텍사스에서?
 
-70. GRACE: Four sites. I'm certified. And I'd rather see our sites myself anyway.
-    그레이스: 사이트 네 곳이요. 저 자격 있어요. 어차피 우리 사이트는 제 눈으로 보고 싶고요.
+70. GRACE: Four sites. I'm certified, and I've done it for years. Honestly, I'd rather see our sites myself anyway, because a monitor who cares about the product notices more.
+    그레이스: 사이트 네 곳이요. 저 자격 있고, 몇 년 동안 해 왔어요. 솔직히 어차피 우리 사이트는 제 눈으로 보고 싶어요. 제품에 애정이 있는 모니터가 더 많은 걸 알아채거든요.
 
 71. BEN: That's another three hundred thousand off. Maybe more.
     벤: 그럼 30만 달러가 더 빠지네요. 어쩌면 더.
@@ -269,14 +269,14 @@
 82. BEN: True. Slow enrollment kills budgets.
     벤: 맞아요. 느린 등록은 예산을 죽이죠.
 
-83. ELENA: So let's pay you when patients are enrolled. Not just by the month.
-    엘레나: 그럼 환자가 등록될 때 지급하는 걸로 해요. 월 단위로만 말고요.
+83. ELENA: So let's pay you when patients are enrolled, not just by the month. That way, we both care about the same thing: getting the right patients into the trial quickly.
+    엘레나: 그럼 월 단위로만이 아니라 환자가 등록될 때 지급하는 걸로 해요. 그러면 우리 둘 다 같은 걸 신경 쓰게 되죠. 맞는 환자를 빨리 임상에 등록시키는 것.
 
 84. NOAH: Milestone payments. Like we did with Meridian.
     노아: 마일스톤 지급. 메리디언 때처럼요.
 
-85. BEN: That shifts risk to us. If enrollment is slow, we get paid late.
-    벤: 그러면 리스크가 저희 쪽으로 넘어와요. 등록이 느리면 늦게 받게 되죠.
+85. BEN: That shifts risk to us. If enrollment is slow, we get paid late, but our people still need salaries every month. I can't carry all of that risk alone.
+    벤: 그러면 리스크가 저희 쪽으로 넘어와요. 등록이 느리면 늦게 받는데, 저희 직원들 급여는 매달 나가야 하거든요. 그 리스크를 저희 혼자 다 질 수는 없어요.
 
 86. GRACE: And if enrollment is fast, you get paid early. It motivates everyone.
     그레이스: 그리고 등록이 빠르면 일찍 받으시죠. 모두에게 동기가 돼요.
@@ -323,8 +323,8 @@
 100. NOAH: Which is after the animal data. Around October.
      노아: 그건 동물 데이터 이후예요. 10월쯤.
 
-101. BEN: Then we spend the summer preparing. Sites ready the day you're approved.
-     벤: 그럼 여름 동안 준비하죠. 승인받는 날 사이트가 준비돼 있도록.
+101. BEN: Then we spend the summer preparing, so the sites are ready the day you're approved. In my experience, the trials that start fast are the ones that prepared while waiting.
+     벤: 그럼 여름 동안 준비해서, 승인받는 날 사이트가 준비돼 있도록 하죠. 제 경험상 빨리 시작하는 임상은 기다리는 동안 준비해 둔 임상이에요.
 
 102. MARCUS: And the startup work costs?
      마커스: 그리고 준비 작업 비용은?
@@ -349,14 +349,14 @@
 108. NOAH: Grace, can I ask something? Why did you leave a big CRO for us?
      노아: 그레이스, 하나 물어봐도 돼요? 왜 큰 CRO를 떠나 우리한테 왔어요?
 
-109. GRACE: Eight years of running other people's trials. I wanted one that mattered to me.
-     그레이스: 8년 동안 남의 임상만 운영했어요. 저한테 의미 있는 임상을 하고 싶었어요.
+109. GRACE: Eight years of running other people's trials. They were good products, but I never really cared how they ended. I wanted one trial that actually mattered to me.
+     그레이스: 8년 동안 남의 임상만 운영했어요. 좋은 제품들이었지만, 어떻게 끝나는지는 진심으로 신경 쓴 적이 없었어요. 저한테 정말 의미 있는 임상 하나를 하고 싶었어요.
 
 110. ELENA: Why does this one matter?
      엘레나: 이 임상은 왜 의미가 있어요?
 
-111. GRACE: My aunt in Seoul had a filler complication years ago. She still hides her cheek.
-     그레이스: 서울에 사는 이모가 오래전에 필러 부작용을 겪었어요. 아직도 볼을 가리고 다니세요.
+111. GRACE: My aunt in Seoul had a filler complication years ago. Nobody could fix it in time, and she still hides her cheek in photos. That's what this trial means to me.
+     그레이스: 서울에 사는 이모가 오래전에 필러 부작용을 겪었어요. 아무도 제때 고치지 못했고, 지금도 사진 찍을 때 볼을 가리세요. 이 임상이 저한테 갖는 의미가 그거예요.
 
 112. NOAH: I'm sorry. My sister has a scar too. On her nose.
      노아: 안타깝네요. 제 동생도 흉터가 있어요. 코에요.
@@ -417,3 +417,17 @@
 | Payment structure | 월정액 | 50% 월정액 / 50% 등록 마일스톤 | 리스크 분산 |
 | Change orders | 요율 "유연" | 기본 요율 +10% 상한(서면) | 리스크 상한 |
 | **Total** | **$14.2M** | | **$12.6M** |
+
+### ④ 긴 발화 분석
+
+> **83턴 ELENA:** "So let's pay you when patients are enrolled, not just by the month. That way, we both care about the same thing: getting the right patients into the trial quickly."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 제안(let's) | So let's pay you when patients are enrolled, | 앞의 리스크 분석에서 바로 해결책을 제안 |
+| ② 대비(기존 방식) | not just by the month. | "not just"로 기존 방식을 완전히 버리지 않고 보완한다는 인상을 줌 |
+| ③ 이익 정렬 | That way, we both care about the same thing: getting the right patients into the trial quickly. | 상대에게도 이득임을 보여 주고, 공동 목표를 콜론 뒤에 한 줄로 정리 |
+
+**활용 패턴:** "Let's do A, not just B." → "That way, we both…" → 공동 목표
+**연결 표현:** let's(~합시다) · not just(~만이 아니라) · That way(그렇게 하면)
+**연습:** 외주 업체와 계약할 때 성과 기반 지급을 같은 구조로 25~30단어로 제안해 보기.

@@ -47,8 +47,8 @@
 10. NOAH: Lily… are you okay?
     노아: 릴리… 넌 괜찮아?
 
-11. LILY: No. I'm watching my night happen to someone else. With your logo on the box.
-    릴리: 아니. 내 그날 밤이 다른 사람한테 일어나는 걸 보고 있어. 상자에 오빠 로고를 달고.
+11. LILY: No. I'm watching my night happen to someone else, with your logo on the box. Five years ago it was me in that ER, scared and ashamed, and now another girl is going to read cruel comments about herself all week.
+    릴리: 아니. 내 그날 밤이 다른 사람한테 일어나는 걸 보고 있어. 오빠 회사 로고가 박힌 상자랑 같이. 5년 전엔 내가 그 응급실에 있었어. 무섭고 창피했지. 이제 다른 여자애가 일주일 내내 자기에 대한 잔인한 댓글을 읽게 될 거야.
 
 12. NOAH: I'm going to the office. Right now. I'll call you in an hour.
     노아: 지금 사무실 갈게. 당장. 한 시간 뒤에 전화할게.
@@ -94,8 +94,8 @@
 25. GRACE: Memorial Hermann. The ER team used hyaluronidase. Two rounds. She's stable.
     그레이스: 메모리얼 허먼. 응급실 팀이 히알루로니다아제를 썼어요. 두 차례. 안정적이에요.
 
-26. ELENA: I'll call the ER doctor. Doctor to doctor. Not as a company. As a colleague.
-    엘레나: 응급실 의사한테 전화할게요. 의사 대 의사. 회사로서가 아니라. 동료로서.
+26. ELENA: I'll call the ER doctor myself, doctor to doctor. Not as a company, and not to manage the story, but as a colleague who wants to know the patient is safe. First, do no harm. Everything else can wait an hour.
+    엘레나: 응급실 의사한테 내가 직접 전화할게요. 의사 대 의사로. 회사로서가 아니라, 여론을 관리하려는 것도 아니라, 환자가 안전한지 알고 싶은 동료로서요. 첫째, 해를 끼치지 말 것. 나머지는 한 시간 기다려도 돼요.
 
 27. DEREK: Tiffany picked up. She's crying.
     데릭: 티파니가 받았어요. 울고 있어요.
@@ -109,8 +109,8 @@
 30. SOFIA: She says a medical assistant was fired from two-fourteen. Two months ago. Kendra Lowe.
     소피아: 214번 지점에서 의료 보조원 하나가 해고됐대요. 두 달 전에. 켄드라 로.
 
-31. DEREK: Two boxes went missing the same week. Twenty syringes. Glow never reported it to us.
-    데릭: 같은 주에 상자 두 개가 사라졌대요. 주사기 20개. 글로우는 우리한테 보고하지 않았고요.
+31. DEREK: And two boxes went missing the same week. Twenty syringes. Glow never reported it to us, which is the part that really bothers me, because I visit that location and nobody said a single word about it.
+    데릭: 그리고 같은 주에 상자 두 개가 사라졌대요. 주사기 20개. 글로우는 우리한테 한 번도 보고 안 했어요. 그게 정말 걸려요. 제가 그 지점에 가는데, 아무도 한마디도 안 했거든요.
 
 32. GRACE: Lot thirty-one. Two boxes to two-fourteen. It matches.
     그레이스: 31번 로트. 214번에 상자 두 개. 일치해요.
@@ -130,8 +130,8 @@
 37. DIANE: Even though it was stolen? And misused?
     다이앤: 도난당했고? 오용됐는데도?
 
-38. ELENA: Even then. The reporting rule doesn't care how it got there. Neither do I.
-    엘레나: 그래도요. 보고 규정은 그게 어떻게 거기 갔는지 따지지 않아요. 저도 마찬가지고요.
+38. ELENA: Even then. The reporting rule doesn't care how the product got there, and neither do I. A serious injury happened with our device, so the FDA hears it from us first, not from a television station. That's what a responsible manufacturer does.
+    엘레나: 그래도요. 보고 규정은 제품이 어떻게 거기 갔는지 신경 안 써요. 나도 마찬가지고요. 우리 기기로 심각한 부상이 생겼으니, FDA는 방송국이 아니라 우리한테서 먼저 들어야 해요. 그게 책임 있는 제조사가 하는 일이에요.
 
 39. ZOE: The news is already calling it "the Veyra filler party." We need a statement. Tonight.
     조이: 뉴스는 벌써 "베이라 필러 파티"라고 부르고 있어요. 성명이 필요해요. 오늘 밤.
@@ -160,8 +160,8 @@
 47. SOFIA: Do we say "stolen"?
     소피아: "도난"이라고 해요?
 
-48. DIANE: Not yet. Police haven't confirmed it. "Taken from" is accurate. "Stolen" is a legal conclusion.
-    다이앤: 아직은요. 경찰이 확인하지 않았어요. "반출됐다"가 정확해요. "도난"은 법적 결론이에요.
+48. DIANE: Not yet. The police haven't confirmed anything. "Taken from" is accurate today. "Stolen" is a legal conclusion, and if we're wrong, Glow's lawyers will quote that word back to us for years. Get it in writing, and get it right.
+    다이앤: 아직은 안 돼요. 경찰이 아무것도 확인하지 않았어요. "~에서 반출된"은 지금 시점에서 정확해요. "도난"은 법적 결론이고, 우리가 틀리면 글로우 변호사들이 몇 년 동안 그 단어를 우리한테 들이밀 거예요. 문서로 남기되, 정확하게.
 
 49. NOAH: Then the most important part. What we'll do. Effective immediately.
     노아: 그럼 가장 중요한 부분. 우리가 할 일. 즉시 효력.
@@ -189,8 +189,8 @@
 56. GRACE: Rule two. Every syringe gets a serial number. Tracked to one clinic. Not just one lot.
     그레이스: 규칙 2. 모든 주사기에 일련번호. 로트 하나가 아니라 병원 하나까지 추적.
 
-57. MARCUS: Possible. Korea and Meridian can add serial labels. Six weeks. About twenty cents a syringe.
-    마커스: 가능해. 한국과 메리디안이 일련번호 라벨을 붙일 수 있어. 6주. 주사기당 약 20센트.
+57. MARCUS: Possible. Korea and Meridian can add serial labels in about six weeks, at roughly twenty cents a syringe. That's cheap insurance. What costs real money is scanning at each clinic, because a serial number nobody scans is just a sticker.
+    마커스: 가능해. 한국과 메리디안에서 6주 정도면 일련번호 라벨을 붙일 수 있어. 주사기당 20센트쯤. 싼 보험이지. 진짜 돈이 드는 건 각 병원에서 스캔하는 거야. 아무도 스캔하지 않는 일련번호는 그냥 스티커일 뿐이니까.
 
 58. SOFIA: Rule three?
     소피아: 규칙 3은요?
@@ -201,8 +201,8 @@
 60. SOFIA: Derek. Glow has three hundred locations. Monthly counts? They'll scream.
     소피아: 데릭. 글로우는 300곳이에요. 매달 재고 조사? 비명을 지를 거예요.
 
-61. DEREK: I know. I'm their account manager. I still think it's right.
-    데릭: 알아요. 제가 거기 담당자예요. 그래도 옳다고 생각해요.
+61. DEREK: I know. I'm their account manager, so I'll be the one hearing the screaming. I still think it's right. If a count like that had existed two months ago, we would have caught those two missing boxes before anyone reached a kitchen.
+    데릭: 알아요. 제가 그쪽 담당자니까, 비명은 제가 듣게 되겠죠. 그래도 옳다고 생각해요. 두 달 전에 그런 재고 대조가 있었다면, 누가 부엌에 가기 전에 사라진 상자 두 개를 잡았을 거예요.
 
 62. ELENA: Rule four. Unexplained inventory means supply stops. Immediately. Until we understand.
     엘레나: 규칙 4. 설명 안 되는 재고가 있으면 공급 중단. 즉시. 이해될 때까지.
@@ -219,8 +219,8 @@
 66. NOAH: I know. I heard you.
     노아: 알아요. 들었어요.
 
-67. SOFIA: Did you? Because it doesn't feel like you're weighing it.
-    소피아: 들었어요? 저울질하고 있는 것 같지 않아서요.
+67. SOFIA: Did you? Because it doesn't feel like you're weighing it. Three hundred locations and months of work, and you're deciding it late at night, angry, in one sentence. I'm asking you to slow down, not to stop.
+    소피아: 정말요? 저울질하는 것 같지 않아서요. 300개 지점과 몇 달의 노력인데, 늦은 밤에, 화난 상태로, 한 문장으로 결정하고 있잖아요. 멈추라는 게 아니라 속도를 늦춰 달라는 거예요.
 
 68. NOAH: I'm weighing it. Glow on one side. A girl's lips on the other. It's not close.
     노아: 저울질하고 있어요. 한쪽엔 글로우. 다른 쪽엔 한 여자애의 입술. 비교가 안 돼요.
@@ -281,8 +281,8 @@
 86. CARLA: Sorry? Your name was on that box. In my daughter's face.
     카를라: 죄송하다고요? 당신네 이름이 그 상자에 있었어요. 내 딸 얼굴에.
 
-87. NOAH: You're right to be angry. I'm not here to defend us. I'm here to help.
-    노아: 화내시는 게 당연해요. 변명하러 온 게 아니에요. 도우러 왔어요.
+87. NOAH: You're right to be angry, and I won't ask you to stop. I'm not here to defend us or explain how the box got there. I'm here because your daughter was hurt with our product, and I want to help in whatever way you'll allow.
+    노아: 화나시는 게 당연해요. 그만하시라고 하지 않을게요. 저희를 변호하거나 상자가 어떻게 거기 갔는지 설명하러 온 게 아니에요. 따님이 저희 제품으로 다쳤기 때문에 왔고, 허락하시는 방식이면 무엇이든 돕고 싶어요.
 
 88. CARLA: Help how? You can't undo it.
     카를라: 어떻게 도와요? 되돌릴 수 없잖아요.
@@ -326,8 +326,8 @@
 101. TASHA: No. It wasn't your fault. Not for one second.
      타샤: 아니요. 당신 잘못이 아니었어요. 단 1초도.
 
-102. LILY: Someone told me that once. It took years. I want you to hear it today.
-     릴리: 누가 나한테 그 말을 해 줬어. 몇 년이 걸렸어. 넌 오늘 들었으면 해.
+102. LILY: Someone told me that once, and I didn't believe it. It took me years to stop blaming myself, and I lost a lot of time hiding. I want you to hear it today, on day one, so maybe it doesn't take you as long.
+     릴리: 누가 나한테 예전에 그 말을 해 줬는데, 난 안 믿었어. 나 자신을 탓하는 걸 멈추기까지 몇 년이 걸렸고, 숨어 지내느라 많은 시간을 잃었어. 오늘, 첫날에 이 말을 들었으면 해. 그러면 너는 그렇게 오래 걸리지 않을지도 몰라.
 
 103. DESTINY: …Thank you.
      데스티니: …고마워요.
@@ -343,8 +343,8 @@
 106. NOAH: Lily. Thank you. You didn't have to come.
      노아: 릴리. 고마워. 안 와도 됐는데.
 
-107. TASHA: She didn't come for you, Noah. She came for Destiny. And for the girl she was.
-     타샤: 당신 때문에 온 거 아니에요, 노아. 데스티니 때문에 왔죠. 그리고 그때의 자신 때문에.
+107. TASHA: She didn't come for you, Noah. She came for Destiny, and for the girl she was five years ago. I've watched her carry that night for a long time, and today she finally put some of it down. Let her have that.
+     타샤: 당신 때문에 온 거 아니에요, 노아. 데스티니를 위해 온 거고, 5년 전의 자기 자신을 위해 온 거예요. 그날 밤을 오랫동안 짊어지고 있는 걸 봐 왔는데, 오늘 드디어 조금 내려놓았어요. 그건 릴리 몫으로 온전히 남겨 둬요.
 
 108. LILY: And Noah? Don't put this in a slide. Ever. She's not your marketing story either.
      릴리: 그리고 오빠? 이걸 슬라이드에 넣지 마. 절대. 그 애도 오빠 마케팅 스토리가 아니야.
@@ -373,8 +373,8 @@
 116. NOAH: Can we talk tomorrow? All of us?
      노아: 내일 얘기할 수 있어요? 다 같이?
 
-117. SOFIA: We need to. Because I think you made a promise you can't keep. Without hurting the company.
-     소피아: 해야죠. 왜냐면 당신이 회사를 다치게 하지 않고는 지킬 수 없는 약속을 한 것 같아서요.
+117. SOFIA: We need to. Because I think you made a promise you can't keep without hurting the company. I'm not saying the rules are wrong. I'm saying we announced them before asking the people who have to live with them, and that's how partnerships die.
+     소피아: 해야죠. 회사를 다치게 하지 않고는 지킬 수 없는 약속을 하신 것 같거든요. 규칙이 틀렸다는 게 아니에요. 그 규칙을 지키며 살아야 할 사람들에게 묻기도 전에 발표했다는 거예요. 파트너십은 그렇게 죽어요.
 
 118. NOAH: And Elena?
      노아: 그리고 엘레나는요?
@@ -421,3 +421,17 @@
 > 5. We will support the patient's medical care, as support — not as an admission of liability.
 >
 > **We will not compromise on one rule: only trained hands, only licensed clinics. No exceptions.**
+
+### ④ 긴 발화 분석
+
+> **87턴 NOAH:** "You're right to be angry, and I won't ask you to stop. I'm not here to defend us or explain how the box got there. I'm here because your daughter was hurt with our product, and I want to help in whatever way you'll allow."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 감정 인정 | You're right to be angry, and I won't ask you to stop. | 상대의 분노를 정당하다고 먼저 인정 |
+| ② 방어 거부 | I'm not here to defend us or explain how the box got there. | "~하러 온 게 아니다"로 변명할 의도가 없음을 선언 |
+| ③ 책임·제안 | I'm here because your daughter was hurt with our product, and I want to help in whatever way you'll allow. | 사실을 직접 인정하고, 통제권을 상대에게 넘기는 제안 |
+
+**활용 패턴:** 감정 인정 → I'm not here to A → I'm here because B, and I want to C
+**연결 표현:** You're right to…(~하시는 게 당연하다) · I'm not here to…(~하러 온 게 아니다) · in whatever way you'll allow(허락하시는 방식이면 무엇이든)
+**연습:** 배송 사고로 화난 고객을 직접 찾아간 상황에서 같은 구조로 40단어 안팎으로 첫마디를 말해 보기.

@@ -47,8 +47,8 @@
 10. NOAH: Did they win?
     노아: 이겼어요?
 
-11. ELENA: Three to two. He scored the winner. I may have screamed.
-    엘레나: 3 대 2요. 결승골을 넣었어요. 나 좀 소리 질렀을지도요.
+11. ELENA: Three to two. He scored the winner in overtime, and the whole bench ran onto the field. I may have screamed louder than any parent there.
+    엘레나: 3 대 2요. 연장전에서 결승골을 넣었는데, 벤치에 있던 애들이 전부 경기장으로 뛰어나왔어요. 거기 있던 어떤 부모보다 내가 더 크게 소리 질렀을지도요.
 
 12. MARCUS: Doctor Ruiz. Marcus Webb. I've heard good things.
     마커스: 루이스 선생님. 마커스 웹입니다. 말씀 많이 들었습니다.
@@ -76,8 +76,8 @@
 19. ELENA: The hard conversation. Better to have it early.
     엘레나: 어려운 대화네요. 일찍 하는 게 나아요.
 
-20. MARCUS: Agreed. I've seen friendships end over this.
-    마커스: 동감이야. 이것 때문에 우정이 끝나는 걸 봤어.
+20. MARCUS: Agreed. I've seen friendships end over this, more than once. People start as best friends, nobody writes anything down, and a few years later, they can't even be in the same room.
+    마커스: 동감이야. 이것 때문에 우정이 끝나는 걸 한 번 이상 봤어. 처음엔 절친으로 시작하는데, 아무도 아무것도 적어 두지 않아. 그러다 몇 년 지나면 같은 방에 있지도 못하게 되지.
 
 21. NOAH: Then let's be fair about this. I'll start with a proposal.
     노아: 그럼 공정하게 하죠. 제가 먼저 안을 낼게요.
@@ -91,8 +91,8 @@
 24. PRIYA: Forty for you? Can I ask why?
     프리야: 너가 40? 이유를 물어봐도 될까?
 
-25. NOAH: It was my idea. And I quit my job first.
-    노아: 내 아이디어였잖아. 그리고 내가 먼저 회사를 그만뒀고.
+25. NOAH: It was my idea, and I quit my job first. I'm also the one who has to find investors, so I thought the CEO should hold the biggest share.
+    노아: 내 아이디어였고, 내가 먼저 회사를 그만뒀잖아. 투자자를 찾아야 하는 것도 나고. 그래서 CEO가 가장 큰 몫을 갖는 게 맞다고 생각했어.
 
 26. PRIYA: Your idea is my chapter four, Noah.
     프리야: 네 아이디어는 내 논문 4장이야, 노아.
@@ -109,8 +109,8 @@
 30. NOAH: Sorry. That came out wrong. I meant nobody was using it.
     노아: 미안. 말이 잘못 나왔어. 아무도 안 쓰고 있었다는 뜻이었어.
 
-31. PRIYA: Nobody was using it because nobody asked. That's not the same.
-    프리야: 아무도 안 물어봐서 안 쓰인 거야. 그건 다른 얘기야.
+31. PRIYA: Nobody was using it because nobody asked. That's not the same. I spent years on that chemistry, Noah, and I'm not going to let you call it a dusty book.
+    프리야: 아무도 안 물어봐서 안 쓰인 거야. 그건 다른 얘기야. 난 그 화학에 몇 년을 바쳤어, 노아. 네가 그걸 먼지 쌓인 책 취급하게 두진 않을 거야.
 
 32. ELENA: Can I say something? As the newest person here?
     엘레나: 내가 한마디 해도 될까요? 여기서 제일 새로 온 사람으로서?
@@ -118,8 +118,8 @@
 33. NOAH: Please.
     노아: 그러세요.
 
-34. ELENA: Without the idea, there's no company. Without the science, there's no product.
-    엘레나: 아이디어가 없으면 회사가 없어요. 과학이 없으면 제품이 없고요.
+34. ELENA: Without the idea, there's no company. Without the science, there's no product. And without patients who trust it, there's no market. So we all need each other here.
+    엘레나: 아이디어가 없으면 회사가 없어요. 과학이 없으면 제품이 없고요. 그리고 믿고 쓰는 환자가 없으면 시장이 없죠. 그러니까 여기선 우리 모두가 서로를 필요로 해요.
 
 35. MARCUS: And without manufacturing, there's no syringe. Just saying.
     마커스: 그리고 생산이 없으면 주사기가 없지. 그냥 그렇다고.
@@ -136,8 +136,8 @@
 39. NOAH: Criteria. Okay. Like what?
     노아: 기준이요. 좋아요. 예를 들면요?
 
-40. MARCUS: Past contribution. Future commitment. Risk. And how hard you are to replace.
-    마커스: 과거의 기여. 앞으로의 헌신. 리스크. 그리고 대체하기 얼마나 어려운지.
+40. MARCUS: Past contribution. Future commitment. Risk. And how hard you are to replace. If we score everyone on those four, then nobody's arguing about feelings anymore, just about facts.
+    마커스: 과거의 기여. 앞으로의 헌신. 리스크. 그리고 대체하기 얼마나 어려운지. 그 네 가지로 모두를 평가하면, 더 이상 감정 싸움이 아니라 사실만 가지고 따지게 되지.
 
 41. ELENA: That's very clear. Let's use those four.
     엘레나: 아주 명확하네요. 그 네 가지로 해요.
@@ -154,8 +154,8 @@
 45. NOAH: Thank you.
     노아: 고마워.
 
-46. MARCUS: Elena saved your sister and gave you the problem. That counts.
-    마커스: 엘레나는 자네 동생을 살렸고 문제를 알려 줬어. 그것도 기여야.
+46. MARCUS: Elena saved your sister and gave you the problem. That counts. Without that night in her ER, you'd still be selling Lumaderm, and none of us would be here.
+    마커스: 엘레나는 자네 동생을 살렸고 문제를 알려 줬어. 그것도 기여야. 그 응급실에서의 밤이 없었으면, 자넨 아직 루마덤을 팔고 있었을 거고 우리 중 누구도 여기 없었을 거야.
 
 47. ELENA: And Marcus told you about the autoclave. Before anyone else.
     엘레나: 그리고 마커스는 고압 멸균 문제를 누구보다 먼저 말해 줬죠.
@@ -180,8 +180,8 @@
 53. PRIYA: Me too, as soon as my visa is sorted out.
     프리야: 나도. 비자 문제만 해결되면 바로.
 
-54. ELENA: I'm part-time. I keep my clinic. That should count against me.
-    엘레나: 난 파트타임이에요. 병원을 계속 하니까. 그건 내 몫을 줄이는 게 맞아요.
+54. ELENA: I'm part-time, because I keep my clinic and my patients. That should count against me, honestly. The people working here every day deserve more than someone who comes in the evenings.
+    엘레나: 난 파트타임이에요. 병원도 환자도 계속 보니까요. 솔직히 그건 내 몫을 줄이는 게 맞아요. 매일 여기서 일하는 사람들이 저녁에만 오는 사람보다 더 받아야죠.
 
 55. MARCUS: Same for me. Part-time until there's a payroll.
     마커스: 나도 마찬가지야. 월급 나올 때까진 파트타임.
@@ -237,8 +237,8 @@
 72. PRIYA: They'd walk away with fifteen or thirty percent. For nothing.
     프리야: 15나 30퍼센트를 들고 나가는 거지. 아무것도 안 하고.
 
-73. ELENA: Exactly. A friend of mine lost a company that way. We need vesting.
-    엘레나: 바로 그거예요. 내 친구가 그렇게 회사를 잃었어요. 베스팅이 필요해요.
+73. ELENA: Exactly. A friend of mine lost a company that way. Her co-founder left early, kept his shares, and she spent years building value for him. We need vesting.
+    엘레나: 바로 그거예요. 내 친구가 그렇게 회사를 잃었어요. 공동창업자가 일찍 떠나면서 지분을 그대로 가져갔고, 친구는 몇 년 동안 그 사람 좋은 일만 시켜 준 셈이었죠. 베스팅이 필요해요.
 
 74. MARCUS: Vesting. Explain it like I'm a soldier.
     마커스: 베스팅. 군인한테 설명하듯 말해 줘요.
@@ -249,8 +249,8 @@
 76. PRIYA: Define "earn." Every month? Every year?
     프리야: "얻는다"가 정확히 뭔데요? 매달? 매년?
 
-77. ELENA: Monthly, after a one-year cliff. Leave before one year, you get nothing.
-    엘레나: 1년 클리프가 지나면 매달이요. 1년 전에 떠나면 하나도 못 받아요.
+77. ELENA: Monthly, after a one-year cliff. If you leave before one year, you get nothing. After that, you earn a small piece every month until all four years are done.
+    엘레나: 1년 클리프가 지나면 매달이요. 1년 전에 떠나면 하나도 못 받아요. 그 뒤로는 4년이 다 찰 때까지 매달 조금씩 얻는 거예요.
 
 78. MARCUS: A cliff. Okay. You fall off, you lose it all.
     마커스: 절벽이라. 알겠어. 떨어지면 다 잃는 거군.
@@ -269,8 +269,8 @@
 82. PRIYA: Uh-oh. What now?
     프리야: 어어. 이번엔 또 뭐야?
 
-83. NOAH: I asked for forty percent. That was a mistake.
-    노아: 제가 40퍼센트를 달라고 했죠. 그건 실수였어요.
+83. NOAH: I asked for forty percent, and that was a mistake. I came in thinking about what I deserved, not about what's fair, and you all helped me see the difference.
+    노아: 제가 40퍼센트를 달라고 했죠. 그건 실수였어요. 공정한 게 뭔지가 아니라 제가 받아야 할 게 뭔지만 생각하고 왔는데, 여러분 덕분에 그 차이를 알게 됐어요.
 
 84. PRIYA: Go on.
     프리야: 계속해.
@@ -317,8 +317,8 @@
 98. CAROL: Noah Bennett. You're a terrible liar. You always were.
     캐럴: 노아 베넷. 넌 거짓말을 정말 못하는구나. 예전부터 그랬어.
 
-99. NOAH: Mom, she's fine. Really. But she should tell you herself.
-    노아: 엄마, 걔 괜찮아. 진짜로. 근데 걔가 직접 말해야 해.
+99. NOAH: Mom, she's fine. Really. She had a problem with a cosmetic treatment, but a great doctor took care of her. Still, she should tell you the whole story herself.
+    노아: 엄마, 걔 괜찮아. 진짜로. 미용 시술 때문에 문제가 좀 있었는데, 훌륭한 의사 선생님이 잘 치료해 주셨어. 그래도 자세한 얘기는 걔가 직접 해야 해.
 
 100. CAROL: Put her on the phone. Right now.
      캐럴: 당장 바꿔. 지금 바로.
@@ -418,3 +418,17 @@
 
 예시:
 > *Let's summarize. One, equity is 35, 35, 15, 15. Two, everyone vests over four years with a one-year cliff. Three, part-time founders get reviewed when they go full-time. Next step: legal review with Diane Foster, owned by Noah, by next Thursday. Does everyone agree?*
+
+### ④ 긴 발화 분석
+
+> **83턴 NOAH:** "I asked for forty percent, and that was a mistake. I came in thinking about what I deserved, not about what's fair, and you all helped me see the difference."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 인정(사실 + 판단) | I asked for forty percent, and that was a mistake. | 내 입장을 구체적으로 짚고 스스로 실수라고 인정 |
+| ② 원인 성찰(대비) | I came in thinking about what I deserved, not about what's fair, | "A, not B"로 무엇이 잘못됐는지 설명 |
+| ③ 공 돌리기 | and you all helped me see the difference. | 상대의 기여를 인정해 협상 분위기를 회복 |
+
+**활용 패턴:** "I asked for A, and that was a mistake." → "I was thinking about B, not C." → "You helped me see…"
+**연결 표현:** that was a mistake(그건 실수였다) · not about…(~가 아니라) · helped me see the difference(차이를 알게 해 주었다)
+**연습:** 회의에서 무리한 일정을 고집했다가 철회하는 말을 같은 구조로 30단어 안팎으로 해 보기.

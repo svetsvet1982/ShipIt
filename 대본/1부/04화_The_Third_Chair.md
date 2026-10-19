@@ -38,8 +38,8 @@
 07. NOAH: Wait. How do you know about that?
     노아: 잠깐만요. 그걸 어떻게 알아요?
 
-08. MARCUS: Your boss called our plant director on Tuesday. Word travels fast.
-    마커스: 자네 상사가 화요일에 우리 공장장한테 전화했어. 소문 빠르지.
+08. MARCUS: Your boss called our plant director on Tuesday. Word travels fast in this business, Noah, especially when a star marketing guy quits right before a big launch.
+    마커스: 자네 상사가 화요일에 우리 공장장한테 전화했어. 이 바닥은 소문이 빨라, 노아. 특히 잘나가는 마케팅 담당이 큰 출시 직전에 그만두면 더 그렇지.
 
 09. NOAH: Tom called Corwin? About me?
     노아: 톰이 코윈에 전화를 했다고요? 저 때문에?
@@ -97,8 +97,8 @@
 26. MARCUS: Why does that matter?
     마커스: 그게 왜 중요한데?
 
-27. NOAH: When filler blocks a blood vessel, minutes decide everything. Skin, even eyesight.
-    노아: 필러가 혈관을 막으면 몇 분이 모든 걸 결정해요. 피부, 심지어 시력까지.
+27. NOAH: When filler blocks a blood vessel, minutes decide everything. If the doctor can't dissolve it quickly, the patient can lose skin, and in the worst cases, even their eyesight.
+    노아: 필러가 혈관을 막으면 몇 분이 모든 걸 결정해요. 의사가 빨리 녹이지 못하면 환자는 피부를 잃을 수 있고, 최악의 경우엔 시력까지 잃을 수 있어요.
 
 28. MARCUS: And who makes this miracle filler?
     마커스: 그 기적의 필러는 누가 만드는데?
@@ -130,8 +130,8 @@
 37. NOAH: Tell me how.
     노아: 어떻게 다른지 말해 주세요.
 
-38. MARCUS: The gel has to survive the autoclave. High heat, high pressure.
-    마커스: 젤이 고압 멸균기를 견뎌야 해. 높은 열, 높은 압력.
+38. MARCUS: The gel has to survive the autoclave. That means high heat and high pressure, every single batch, because a product that goes into someone's face has to be completely sterile.
+    마커스: 젤이 고압 멸균기를 견뎌야 해. 높은 열, 높은 압력이지. 매 배치마다. 사람 얼굴에 들어가는 제품은 완벽하게 무균이어야 하니까.
 
 39. NOAH: And if the weak links break in the heat?
     노아: 열 때문에 약한 연결고리가 끊어지면요?
@@ -148,8 +148,8 @@
 43. NOAH: Like Corwin?
     노아: 코윈 같은 데요?
 
-44. MARCUS: Not Corwin. Corwin works for Halvern. That's a conflict.
-    마커스: 코윈은 안 돼. 코윈은 할번 일을 해. 이해충돌이야.
+44. MARCUS: Not Corwin. Corwin works for Halvern, so that's a conflict of interest. Tom would hear about it in a day, and his lawyers would be at your door in two.
+    마커스: 코윈은 안 돼. 코윈은 할번 일을 하니까 이해충돌이야. 톰은 하루 만에 알게 될 거고, 이틀이면 그쪽 변호사들이 자네 집 앞에 와 있을걸.
 
 45. NOAH: Right. Of course.
     노아: 그렇죠. 당연하죠.
@@ -186,8 +186,8 @@
 55. NOAH: That sounds intense.
     노아: 엄청 힘들었겠네요.
 
-56. MARCUS: One supply route got blocked for nine days. We had no backup.
-    마커스: 보급로 하나가 9일 동안 막혔어. 대안이 없었지.
+56. MARCUS: One supply route got blocked for nine days, and we had no backup. Nine days of counting food, water, and medicine, and deciding every morning what we could live without.
+    마커스: 보급로 하나가 9일 동안 막혔는데, 대안이 없었어. 9일 동안 식량, 물, 약을 세면서, 매일 아침 뭘 포기하고 버틸지 정해야 했지.
 
 57. NOAH: What happened?
     노아: 어떻게 됐어요?
@@ -216,8 +216,8 @@
 65. NOAH: I understand.
     노아: 이해해요.
 
-66. MARCUS: Do you? My daughter Kayla needs braces. My son needs a new laptop.
-    마커스: 그래? 딸 케일라는 치아 교정해야 하고, 아들은 새 노트북이 필요해.
+66. MARCUS: Do you? My daughter Kayla needs braces, and my son needs a new laptop for school. If I quit and this fails, they're the ones who pay for it, not you.
+    마커스: 그래? 딸 케일라는 치아 교정을 해야 하고, 아들은 학교에서 쓸 새 노트북이 필요해. 내가 그만뒀는데 이게 실패하면, 그 대가는 자네가 아니라 우리 애들이 치르는 거야.
 
 67. NOAH: How old are they?
     노아: 애들이 몇 살이에요?
@@ -243,8 +243,8 @@
 74. MARCUS: Belief doesn't pay the mortgage, Noah.
     마커스: 믿음으로 대출금을 갚진 못해, 노아.
 
-75. NOAH: No. But money will come. Investors fund teams, not ideas.
-    노아: 그렇죠. 하지만 돈은 올 거예요. 투자자는 아이디어가 아니라 팀에 투자하거든요.
+75. NOAH: No. But money will come. Investors fund teams, not ideas, and a team with a chemist, a marketer, and a manufacturing expert is much easier to believe in.
+    노아: 그렇죠. 하지만 돈은 올 거예요. 투자자는 아이디어가 아니라 팀에 투자하거든요. 화학자, 마케터, 생산 전문가가 있는 팀이라면 훨씬 믿음이 가죠.
 
 76. MARCUS: And right now your team is you and a chemist.
     마커스: 그리고 지금 자네 팀은 자네랑 화학자 한 명이고.
@@ -255,8 +255,8 @@
 78. MARCUS: A third chair. Nice line. Marketing guy.
     마커스: 세 번째 의자라. 멋진 표현이네. 역시 마케팅 담당.
 
-79. NOAH: It's true, though. Without manufacturing, we're just a science project.
-    노아: 그래도 사실이에요. 생산 없이는 그냥 과학 프로젝트일 뿐이에요.
+79. NOAH: It's true, though. Without manufacturing, we're just a science project. Priya can make the gel in a lab, but someone has to make it safely, millions of times.
+    노아: 그래도 사실이에요. 생산 없이는 그냥 과학 프로젝트일 뿐이에요. 프리야는 실험실에서 젤을 만들 수 있지만, 누군가는 그걸 안전하게 수백만 번 만들어야 하잖아요.
 
 80. MARCUS: That part I agree with.
     마커스: 그 부분은 동의해.
@@ -290,8 +290,8 @@
 89. NOAH: It wasn't a quality problem. The product was fine.
     노아: 품질 문제가 아니었어요. 제품은 정상이었어요.
 
-90. MARCUS: I know. But it still came from my hands.
-    마커스: 알아. 그래도 내 손을 거쳐 나간 거잖아.
+90. MARCUS: I know. But it still came from my hands. When you sign for a lot, you sign for everything that happens after it leaves the building. That's how I see it.
+    마커스: 알아. 그래도 내 손을 거쳐 나간 거잖아. 로트에 서명한다는 건, 그게 공장을 떠난 뒤에 일어나는 모든 일에 서명하는 거야. 난 그렇게 생각해.
 
 91. NOAH: The injector wasn't trained. The enzyme was just too slow.
     노아: 시술자가 교육을 안 받았고, 효소가 너무 느렸을 뿐이에요.
@@ -314,8 +314,8 @@
 97. NOAH: Of course.
     노아: 그럼요.
 
-98. MARCUS: Halvern keeps pushing us for more volume, faster. I've pushed back three times.
-    마커스: 할번은 계속 더 많이, 더 빨리 생산하라고 밀어붙여. 내가 세 번이나 버텼어.
+98. MARCUS: Halvern keeps pushing us for more volume, faster. I've pushed back three times, because faster usually means skipped checks, and on a sterile line, skipped checks are how people get hurt.
+    마커스: 할번은 계속 더 많이, 더 빨리 생산하라고 밀어붙여. 내가 세 번이나 버텼어. 빨리 한다는 건 보통 검사를 건너뛴다는 뜻이고, 무균 라인에서 검사를 건너뛰면 사람이 다치거든.
 
 99. NOAH: And?
     노아: 그래서요?
@@ -332,8 +332,8 @@
 103. NOAH: So you're not completely happy there either.
      노아: 그러니까 형님도 거기서 완전히 행복하진 않은 거네요.
 
-104. MARCUS: I'm a soldier. I don't need happy. I need to trust the mission.
-     마커스: 난 군인이야. 행복은 필요 없어. 임무를 믿을 수 있어야지.
+104. MARCUS: I'm a soldier. I don't need happy. I need to trust the mission, and right now, I'm not sure I trust the people giving the orders at Corwin.
+     마커스: 난 군인이야. 행복은 필요 없어. 임무를 믿을 수 있어야지. 그런데 지금은 코윈에서 명령을 내리는 사람들을 믿을 수 있을지 잘 모르겠어.
 
 105. NOAH: Then trust this one.
      노아: 그럼 이 임무를 믿어 보세요.
@@ -361,8 +361,8 @@
 112. NOAH: And third?
      노아: 그리고 셋째는요?
 
-113. MARCUS: The day you raise real money and there's a payroll, I'm all in.
-     마커스: 자네가 진짜 투자를 받아서 월급이 나오는 날, 난 올인한다.
+113. MARCUS: The day you raise real money and there's a payroll, I'm all in. Not before, Noah. My family comes first, and I won't gamble their future on a napkin.
+     마커스: 자네가 진짜 투자를 받아서 월급이 나오는 날, 난 올인한다. 그 전엔 안 돼, 노아. 내 가족이 먼저고, 냅킨 한 장에 가족의 미래를 걸 순 없어.
 
 114. NOAH: Payroll first. Then all in. Deal.
      노아: 월급 먼저. 그다음 올인. 좋아요.
@@ -416,3 +416,18 @@
 
 예시:
 > *First, I check my current contract. Second, I'll advise on nights and weekends. Third, the day you raise real money and there's a payroll, I'm all in.*
+
+### ④ 긴 발화 분석
+
+> **98턴 MARCUS:** "Halvern keeps pushing us for more volume, faster. I've pushed back three times, because faster usually means skipped checks, and on a sterile line, skipped checks are how people get hurt."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 상황(압박) | Halvern keeps pushing us for more volume, faster. | "keeps -ing"로 반복되는 압박을 설명 |
+| ② 행동(반대) | I've pushed back three times, | 내가 취한 입장을 숫자와 함께 제시 |
+| ③ 이유(because) | because faster usually means skipped checks, | 반대하는 논리를 한 단계로 연결 |
+| ④ 결과(위험) | and on a sterile line, skipped checks are how people get hurt. | 최악의 결과를 보여 줘 반대를 정당화 |
+
+**활용 패턴:** 상황(keeps -ing) → "I've pushed back" → because A means B → B is how C happens
+**연결 표현:** push back(반대하다, 버티다) · usually means(보통 ~라는 뜻이다) · that's how…(그렇게 해서 ~가 생긴다)
+**연습:** 일정을 앞당기라는 요구에 품질 리스크를 이유로 반대하는 말을 같은 구조로 30단어 안팎으로 해 보기.

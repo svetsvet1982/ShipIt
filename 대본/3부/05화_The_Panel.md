@@ -38,8 +38,8 @@
 07. NOAH: Of course he came.
     노아: 당연히 왔겠지.
 
-08. REESE: He's allowed. It's a public meeting. Ignore him.
-    리스: 올 수 있어요. 공개 회의니까. 무시해요.
+08. REESE: He's allowed. It's a public meeting, and anyone can sit in the audience. If he gets under your skin, that's exactly what he wants. So ignore him, all day.
+    리스: 올 수 있어요. 공개 회의니까 누구든 객석에 앉을 수 있죠. 그 사람이 신경을 건드리면 그게 바로 그가 원하는 거예요. 그러니까 하루 종일 무시해요.
 
 09. STEIN: I'll stare at him. Someone should.
     스타인: 내가 쳐다볼게요. 누군가는 해야죠.
@@ -100,8 +100,8 @@
 27. PRIYA: I'm Dr. Priya Raman, CTO. I'll explain the science in two minutes.
     프리야: CTO 프리야 라만 박사입니다. 과학을 2분 안에 설명하겠습니다.
 
-28. PRIYA: All hyaluronic acid fillers can be dissolved. Ours has links designed to break faster.
-    프리야: 모든 히알루론산 필러는 녹일 수 있습니다. 저희 제품은 더 빨리 끊어지도록 설계된 연결고리가 있습니다.
+28. PRIYA: All hyaluronic acid fillers can be dissolved. That isn't new. What's different is the structure. Ours has links that are designed to break faster when the enzyme reaches them.
+    프리야: 모든 히알루론산 필러는 녹일 수 있습니다. 새로운 사실은 아니죠. 다른 점은 구조입니다. 저희 제품은 효소가 닿았을 때 더 빨리 끊어지도록 설계된 연결고리가 있습니다.
 
 29. PRIYA: Strong in the body. Faster to dissolve with hyaluronidase. Slide nine.
     프리야: 몸속에선 튼튼하고, 히알루로니다아제로는 더 빨리 녹습니다. 9번 슬라이드.
@@ -121,8 +121,8 @@
 34. STEIN: I used to consult for Halvern. I ended that before this trial. Slide two.
     스타인: 예전에 할번 자문을 했습니다. 이 임상 전에 그만뒀습니다. 2번 슬라이드.
 
-35. STEIN: In my hands, Veyra injected smoothly. Patients tolerated it well. Zero dropouts at my site.
-    스타인: 제가 써 보니 Veyra는 부드럽게 주입됐고, 환자들도 잘 견뎠습니다. 제 사이트 탈락 0명.
+35. STEIN: In my hands, Veyra injected smoothly, and patients tolerated it well. I had zero dropouts at my site, which, for a study of this length, tells you patients were comfortable.
+    스타인: 제가 써 보니 Veyra는 부드럽게 주입됐고, 환자들도 잘 견뎠습니다. 제 사이트에서는 탈락자가 0명이었는데, 이 정도 기간의 연구라면 환자들이 편안했다는 뜻입니다.
 
 36. WHITFIELD: Thank you. Now the FDA presentation. Dr. Park.
     휘트필드: 감사합니다. 이제 FDA 발표. 파크 박사님.
@@ -151,8 +151,8 @@
 44. NOAH: The second question. What does it mean?
     노아: 두 번째 질문. 무슨 뜻이에요?
 
-45. REESE: It means: will injectors get careless? Because they think mistakes are easy to fix?
-    리스: 이런 뜻이에요. 시술자들이 실수를 쉽게 고칠 수 있다고 생각해서 부주의해질까?
+45. REESE: It means: will injectors get careless? If they believe any mistake is easy to fix, they might take more risks. The FDA isn't accusing you. It's asking the panel to think about it.
+    리스: 이런 뜻이에요. 시술자들이 부주의해질까? 어떤 실수든 쉽게 고칠 수 있다고 믿으면 위험을 더 감수할 수도 있죠. FDA가 여러분을 비난하는 게 아니에요. 패널에게 생각해 보라고 묻는 거예요.
 
 46. ELENA: Like a seatbelt making people drive faster.
     엘레나: 안전벨트 때문에 사람들이 더 빨리 운전하는 것처럼요.
@@ -166,8 +166,8 @@
 49. REESE: Then don't pretend you do. Admit the limit. Offer a solution.
     리스: 그럼 있는 척하지 마요. 한계를 인정하고, 해결책을 제시해요.
 
-50. ELENA: I have an idea. Training. It was always part of our plan.
-    엘레나: 생각이 있어요. 교육. 처음부터 우리 계획의 일부였어요.
+50. ELENA: I have an idea. Training. It was always part of our plan, not something we're inventing today. So we admit we have no behavior data, and then we explain how we'll prevent the problem.
+    엘레나: 생각이 있어요. 교육. 오늘 지어낸 게 아니라 처음부터 우리 계획의 일부였어요. 그러니까 행동 데이터가 없다는 건 인정하고, 그다음 그 문제를 어떻게 막을지 설명하는 거예요.
 
 ### 장면2 — 패널 질의
 
@@ -192,8 +192,8 @@
 57. WHITFIELD: Ms. Hughes.
     휘트필드: 휴스 위원님.
 
-58. HUGHES: I'm a consumer. Not a doctor. Should patients choose a clinic because of this filler?
-    휴스: 저는 소비자입니다. 의사가 아니에요. 환자가 이 필러 때문에 병원을 골라야 할까요?
+58. HUGHES: I'm a consumer, not a doctor, so let me ask the question patients will ask. If this filler is approved, should patients choose a clinic because it uses this product?
+    휴스: 저는 의사가 아니라 소비자입니다. 그러니 환자들이 물을 질문을 해 보겠습니다. 이 필러가 승인되면, 환자들이 이 제품을 쓰는 병원이라는 이유로 병원을 골라야 할까요?
 
 59. ELENA: Patients should choose a trained injector first. The product second.
     엘레나: 환자는 먼저 교육받은 시술자를 골라야 합니다. 제품은 그다음입니다.
@@ -228,8 +228,8 @@
 69. STEIN: No. I inject every filler as if nothing can be undone. Always.
     스타인: 아니요. 저는 어떤 필러든 되돌릴 수 없는 것처럼 주사합니다. 언제나요.
 
-70. STEIN: Faster dissolution isn't permission to be careless. It's a seatbelt. You still drive carefully.
-    스타인: 빠른 용해는 부주의해도 된다는 허락이 아닙니다. 안전벨트예요. 그래도 조심히 운전해야죠.
+70. STEIN: Faster dissolution isn't permission to be careless. Think of it as a seatbelt. You're glad it's there if something goes wrong, but you still drive carefully. Every single time.
+    스타인: 빠른 용해는 부주의해도 된다는 허락이 아닙니다. 안전벨트라고 생각하세요. 뭔가 잘못됐을 때 있어서 다행이지만, 그래도 조심히 운전해야죠. 매번 말입니다.
 
 71. WHITFIELD: Thank you. A useful image.
     휘트필드: 감사합니다. 유용한 비유네요.
@@ -252,8 +252,8 @@
 77. WHITFIELD: Lunch break. Public comment begins at one p.m.
     휘트필드: 점심시간입니다. 공개 발언은 오후 1시에 시작합니다.
 
-78. REESE: Excellent morning. Elena, the training answer was perfect.
-    리스: 훌륭한 오전이었어요. 엘레나, 교육 관련 답변 완벽했어요.
+78. REESE: Excellent morning. Elena, the training answer was perfect. You admitted the limit, offered a solution, and pointed to a slide. That's exactly what we practiced, and the panel noticed.
+    리스: 훌륭한 오전이었어요. 엘레나, 교육 관련 답변 완벽했어요. 한계를 인정하고, 해결책을 제시하고, 슬라이드를 가리켰죠. 우리가 연습한 그대로였고, 패널도 알아챘어요.
 
 79. NOAH: I almost spoke three times. I didn't.
     노아: 세 번이나 말할 뻔했어요. 안 했어요.
@@ -281,8 +281,8 @@
 86. PRICE: One, forty patients is very small. Two, faster dissolution is not proven to help patients.
     프라이스: 하나, 40명은 매우 적습니다. 둘, 빠른 용해가 환자에게 도움이 된다는 건 증명되지 않았습니다.
 
-87. PRICE: Three, it may give injectors false confidence. That could increase complications.
-    프라이스: 셋, 시술자에게 잘못된 자신감을 줄 수 있습니다. 그건 부작용을 늘릴 수 있습니다.
+87. PRICE: Three, it may give injectors false confidence. If they believe every mistake can be reversed quickly, they may take more risks, and that could increase complications for patients.
+    프라이스: 셋, 시술자에게 잘못된 자신감을 줄 수 있습니다. 모든 실수를 빨리 되돌릴 수 있다고 믿으면 위험을 더 감수할 수 있고, 그건 환자들의 부작용을 늘릴 수 있습니다.
 
 88. NOAH: He's using our own honesty against us.
     노아: 우리 정직함을 우리한테 불리하게 쓰고 있어.
@@ -320,8 +320,8 @@
 99. HUGHES: Dr. Price says faster dissolving could make injectors careless. What do you think?
     휴스: 프라이스 박사는 빨리 녹는 게 시술자를 부주의하게 만들 수 있다고 했어요. 어떻게 생각하세요?
 
-100. LILY: My injector was already careless. She had a cheap filler and no training.
-     릴리: 제 시술자는 이미 부주의했어요. 싼 필러에 교육도 없었죠.
+100. LILY: My injector was already careless. She used a cheap filler, and she had no real training. A slow filler didn't make her careful. It just made my emergency take longer.
+     릴리: 제 시술자는 이미 부주의했어요. 싼 필러를 썼고, 제대로 된 교육도 없었죠. 느린 필러라고 그 사람이 조심했던 건 아니에요. 제 응급 상황이 더 오래 걸렸을 뿐이에요.
 
 101. LILY: "Careless injectors exist today. With slow fillers. I'm not asking you to approve a product. I'm asking you to remember that someone like me is lying in an ER right now. Watching the clock."
      릴리: "부주의한 시술자는 지금도 있어요. 느린 필러와 함께요. 제품을 승인해 달라는 게 아니에요. 지금 이 순간에도 저 같은 누군가가 응급실에 누워 시계를 보고 있다는 걸 기억해 달라는 거예요."
@@ -335,8 +335,8 @@
 104. NOAH: I didn't write a single word. I promise.
      노아: 전 한 글자도 안 썼어요. 약속해요.
 
-105. ELENA: We know. It didn't have a marketing voice. That's why it worked.
-     엘레나: 알아요. 마케팅 목소리가 없었어요. 그래서 통한 거예요.
+105. ELENA: We know. It didn't have a marketing voice, and that's why it worked. She didn't sell a product. She told the truth about what happened to her, and nobody could argue with it.
+     엘레나: 알아요. 마케팅 목소리가 없었고, 그래서 통한 거예요. 제품을 판 게 아니라 자기한테 일어난 일을 사실대로 말했죠. 그리고 누구도 그걸 반박할 수 없었어요.
 
 ### 마무리 — 표결, 그리고 복도
 
@@ -352,8 +352,8 @@
 109. WHITFIELD: Question three. Do the benefits outweigh the risks?
      휘트필드: 질문 3. 이익이 위험보다 큽니까?
 
-110. CHEN: I vote no. Not because of safety. The substudy was too small for me.
-     첸: 반대합니다. 안전성 때문이 아닙니다. 하위 연구가 제겐 너무 작았습니다.
+110. CHEN: I vote no. Not because of safety, and not because of the sponsor's honesty. The substudy was simply too small for me. With forty patients, I'd want to see more data first.
+     첸: 반대합니다. 안전성 때문도, 스폰서의 정직성 때문도 아닙니다. 하위 연구가 제겐 그저 너무 작았습니다. 환자 40명이라면 먼저 더 많은 데이터를 보고 싶습니다.
 
 111. WHITFIELD: Eight yes. One no. The panel recommends approval. With training and clear labeling.
      휘트필드: 찬성 8. 반대 1. 패널은 승인을 권고합니다. 교육과 명확한 라벨링을 조건으로.
@@ -370,8 +370,8 @@
 115. REESE: Statue. Remember.
      리스: 동상. 기억해요.
 
-116. TOM: No comment? That's new. You used to have a line for everything.
-     톰: 할 말 없어? 새롭군. 예전엔 뭐든 한마디씩 했잖아.
+116. TOM: No comment? That's new. You used to have a line for everything, Noah. You never let anyone have the last word. Somebody's trained you well, I see.
+     톰: 할 말 없어? 새롭군. 예전엔 뭐든 한마디씩 했잖아, 노아. 남한테 마지막 말을 절대 양보 안 했지. 누가 잘 훈련시켰나 보군.
 
 117. LILY: He's on a break from lines, Tom. Nothing personal.
      릴리: 오빠는 지금 대사 휴식 중이에요, 톰. 개인적인 감정은 없고요.
@@ -416,3 +416,18 @@
 
 예시:
 > *My name is Lily Bennett. I'm the CEO's sister. Nobody asked me to come. Almost four years ago, a filler blocked a blood vessel in my nose. It took hours to dissolve. Careless injectors exist today, with slow fillers. I'm not asking you to approve a product. I'm asking you to remember someone in an ER right now, watching the clock.*
+
+### ④ 긴 발화 분석
+
+> **110턴 CHEN:** "I vote no. Not because of safety, and not because of the sponsor's honesty. The substudy was simply too small for me. With forty patients, I'd want to see more data first."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 결론(입장 먼저) | I vote no. | 반대 의견을 돌려 말하지 않고 첫마디에 |
+| ② 오해 차단(Not because…) | Not because of safety, and not because of the sponsor's honesty. | 상대가 오해할 만한 이유를 먼저 지워 관계를 지킴 |
+| ③ 진짜 이유 | The substudy was simply too small for me. | 반대의 근거를 하나로 좁혀 분명히 |
+| ④ 조건(무엇이 바뀌면) | With forty patients, I'd want to see more data first. | 어떤 조건이면 생각이 바뀔지 암시 |
+
+**활용 패턴:** I vote no / I disagree. → Not because of A, and not because of B. → The real reason is C. → I'd want to see D first.
+**연결 표현:** Not because of…(~때문이 아니라) · simply(그저, 단지) · I'd want to see… first(먼저 ~를 보고 싶다)
+**연습:** 팀 회의에서 동료의 제안에 반대하면서, 사람이 아니라 근거의 문제임을 같은 구조로 30단어 안팎으로 말해 보기.

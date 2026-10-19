@@ -26,8 +26,8 @@
 03. MARCUS: And our walk-away point?
     마커스: 그리고 협상 결렬 지점은?
 
-04. NOAH: Above three hundred base. Or above one percent equity. Then we walk.
-    노아: 기본급 30만 초과. 아니면 지분 1% 초과. 그럼 우리가 일어나는 거지.
+04. NOAH: Above three hundred base, or above one percent equity. At that point the cost stops being a salary and starts changing our runway and our cap table, so we thank her politely and we walk.
+    노아: 기본급 30만 초과, 아니면 지분 1% 초과. 그 선을 넘으면 비용이 더 이상 연봉 문제가 아니라 우리 런웨이와 지분 구조를 바꾸는 문제가 돼. 그러니 정중하게 감사 인사하고 일어나는 거지.
 
 05. MARCUS: Elaine said she'll cost more than we want.
     마커스: 일레인이 우리가 원하는 것보다 비쌀 거라고 했잖아.
@@ -35,8 +35,8 @@
 06. NOAH: Elaine also said to ask what she'll deliver. Not what she'll cost.
     노아: 일레인은 또 비용 말고 뭘 해낼지 물으라고 했지.
 
-07. MARCUS: Then let her talk first. Whoever names a number first usually loses.
-    마커스: 그럼 그 사람이 먼저 말하게 해. 숫자를 먼저 말하는 쪽이 보통 져.
+07. MARCUS: Then let her talk first, and don't fill the silence. Whoever names a number first usually loses, because the other side just negotiates from that number. If she names it, we learn her real expectations for free.
+    마커스: 그럼 그 사람이 먼저 말하게 하고, 침묵을 채우지 마. 숫자를 먼저 말하는 쪽이 보통 져. 상대는 그 숫자를 기준으로 협상하면 되니까. 그 사람이 먼저 말하면, 우린 그쪽의 진짜 기대치를 공짜로 알게 되는 거야.
 
 08. NOAH: Is that an Army rule?
     노아: 그거 군대 규칙이야?
@@ -118,8 +118,8 @@
 33. NOAH: That's a big jump.
     노아: 큰 도약이네요.
 
-34. SOFIA: It's math. Each rep adds about six clinics a month. You need nine hundred.
-    소피아: 수학이에요. 영업 사원 한 명이 월 여섯 곳쯤 추가하죠. 900곳이 필요하잖아요.
+34. SOFIA: It's math. Each rep adds about six clinics a month, and a new rep needs a few months before they're fully productive. You need nine hundred active clinics. With six reps, you'd get there sometime after I retire.
+    소피아: 수학이에요. 영업 사원 한 명이 월 여섯 곳쯤 추가하고, 신입은 제대로 성과를 내기까지 몇 달이 걸려요. 활성 병원 900곳이 필요하잖아요. 여섯 명으로는 제가 은퇴한 뒤에나 도달할 거예요.
 
 35. MARCUS: She read Grace's numbers too.
     마커스: 그레이스 숫자까지 읽었네.
@@ -154,8 +154,8 @@
 45. MARCUS: Two weeks is generous. Some take months.
     마커스: 2주면 후한 거예요. 몇 달 걸리는 데도 있죠.
 
-46. SOFIA: Exactly. I've spent twenty years explaining slow companies to doctors. I'm tired of it.
-    소피아: 맞아요. 20년 동안 의사들한테 느린 회사를 해명해 왔어요. 지쳤어요.
+46. SOFIA: Exactly. I've spent twenty years sitting in doctors' offices explaining why my company was still 'investigating' a problem everyone could already see. I'm tired of defending slow companies. I'd rather sell for one that moves first.
+    소피아: 맞아요. 20년 동안 의사 진료실에 앉아서, 모두가 이미 보고 있는 문제를 왜 우리 회사는 아직 '조사 중'인지 해명해 왔어요. 느린 회사를 변호하는 데 지쳤어요. 먼저 움직이는 회사를 위해 팔고 싶어요.
 
 47. NOAH: That's exactly why we move fast. Now, may we ask you some questions?
     노아: 그게 바로 우리가 빨리 움직이는 이유예요. 이제 저희가 질문해도 될까요?
@@ -163,8 +163,8 @@
 48. MARCUS: What would you do in your first ninety days?
     마커스: 첫 90일 동안 뭘 하시겠어요?
 
-49. SOFIA: Thirty days, listen. Ride with every rep. Sixty days, hire twelve. Ninety days, close one chain.
-    소피아: 30일, 듣기. 모든 영업 사원과 동행. 60일, 12명 채용. 90일, 체인 하나 계약.
+49. SOFIA: First thirty days, I listen. I ride with every rep and sit in on real sales calls. By sixty days, I hire twelve more reps. By ninety days, I close one chain, starting with their medical director, not purchasing.
+    소피아: 첫 30일은 들어요. 모든 영업 사원과 동행하고 실제 영업 미팅에 들어가요. 60일까지 영업 사원 12명을 더 채용해요. 90일까지 체인 하나를 계약하고요. 구매팀이 아니라 의료 총괄부터 시작해서요.
 
 50. MARCUS: That's a plan. Not a promise.
     마커스: 그건 계획이네요. 약속이 아니라.
@@ -225,8 +225,8 @@
 68. NOAH: Without me?
     노아: 저 없이요?
 
-69. SOFIA: If I'm responsible for revenue, I need authority over the team. Responsibility without authority is a trap.
-    소피아: 매출을 책임진다면 팀에 대한 권한이 필요해요. 권한 없는 책임은 함정이에요.
+69. SOFIA: If I'm responsible for revenue, I need authority over the team that produces it. If I can't remove someone who isn't performing, then every missed number becomes your decision and my fault. Responsibility without authority is a trap.
+    소피아: 매출을 책임진다면, 그 매출을 만드는 팀에 대한 권한이 필요해요. 성과를 못 내는 사람을 내보낼 수 없다면, 놓친 숫자는 전부 당신의 결정인데 제 잘못이 되죠. 권한 없는 책임은 함정이에요.
 
 70. MARCUS: She's right. That's how the Army works too.
     마커스: 맞는 말이야. 군대도 그렇게 돌아가.
@@ -243,8 +243,8 @@
 74. SOFIA: Revenue, mostly. You tell me what else.
     소피아: 주로 매출이요. 그 외엔 당신이 말해 줘요.
 
-75. NOAH: Certified clinics. And compliance. Like our reps. Same rules, top to bottom.
-    노아: 인증 병원. 그리고 컴플라이언스. 우리 영업 사원들처럼. 위에서 아래까지 같은 규칙.
+75. NOAH: Certified clinics, and compliance. The same rules our reps already have, top to bottom. If a sales leader is paid only on revenue, the pressure to cut corners starts at the top, and that's exactly what we can't afford.
+    노아: 인증 병원. 그리고 컴플라이언스. 우리 영업 사원들이 이미 따르는 규칙과 같은 거요, 위에서 아래까지. 영업 리더가 매출로만 보상받으면 편법을 쓰라는 압박이 맨 위에서부터 시작돼요. 그게 바로 우리가 감당할 수 없는 거예요.
 
 76. SOFIA: Sixty percent revenue. Twenty-five certified clinics. Fifteen compliance. I like that. It's honest.
     소피아: 매출 60%. 인증 병원 25%. 컴플라이언스 15%. 좋아요. 정직하네요.
@@ -269,8 +269,8 @@
 82. NOAH: The shape?
     노아: 구조?
 
-83. MARCUS: A signing bonus covers her lost stock. Cash now. Instead of more equity forever.
-    마커스: 사이닝 보너스로 잃는 주식을 메워 줘. 지금 현금으로. 영원히 더 많은 지분 대신.
+83. MARCUS: A signing bonus covers the stock she loses at Brightline. It's cash now instead of more equity forever, which means it costs us once, it doesn't dilute anyone, and it answers her real problem instead of her headline number.
+    마커스: 사이닝 보너스로 브라이트라인에서 잃는 주식을 메워 줘. 영원히 더 많은 지분 대신 지금 현금으로. 그러면 비용은 한 번만 들고, 누구의 지분도 희석되지 않고, 그 사람의 겉으로 드러난 숫자가 아니라 진짜 문제를 해결해 주는 거야.
 
 84. NOAH: How much?
     노아: 얼마나?
@@ -281,8 +281,8 @@
 86. NOAH: And equity at one and a quarter?
     노아: 그리고 지분은 1.25%?
 
-87. MARCUS: Above our walk-away. But Elaine said ask what she'll deliver. Thirty reps. Nine hundred clinics.
-    마커스: 우리 결렬선은 넘지. 하지만 일레인이 뭘 해낼지 물으라고 했잖아. 영업 사원 30명. 병원 900곳.
+87. MARCUS: It's above our walk-away, I know. But Elaine told us to ask what she'll deliver, not what she'll cost. Thirty reps and nine hundred clinics. If she gets even close to that, a quarter of a percent is the cheapest thing on the table.
+    마커스: 우리 결렬선을 넘는 건 알아. 하지만 일레인이 비용 말고 뭘 해낼지 물으라고 했잖아. 영업 사원 30명에 병원 900곳. 그 근처에만 가도, 0.25%는 테이블 위에서 제일 싼 거야.
 
 88. NOAH: And the title? She'll want more than VP.
     노아: 그리고 직함은? VP 이상을 원할 거야.
@@ -323,8 +323,8 @@
 100. SOFIA: "Together." You keep saying that word.
      소피아: "함께." 그 단어를 계속 쓰시네요.
 
-101. NOAH: Because I'm not a sales leader. You are. I need you more than you need us.
-     노아: 전 영업 리더가 아니니까요. 당신은 그렇고요. 당신이 우릴 필요로 하는 것보다 제가 당신을 더 필요로 해요.
+101. NOAH: Because I'm not a sales leader, and I've known that for a while. You are. I can build the product and protect the rules, but I can't build a team of thirty. So honestly, I need you more than you need us.
+     노아: 전 영업 리더가 아니니까요. 그건 꽤 오래전부터 알고 있었어요. 당신은 그렇고요. 전 제품을 만들고 규칙을 지킬 수는 있지만, 30명짜리 팀은 못 만들어요. 그러니 솔직히, 당신이 우릴 필요로 하는 것보다 제가 당신을 더 필요로 해요.
 
 102. SOFIA: …That's the most honest thing a CEO has said to me in a negotiation.
      소피아: …협상에서 CEO가 나한테 한 말 중 가장 정직한 말이네요.
@@ -340,8 +340,8 @@
 
 ### 마무리 — 다음 날 오후, 교육실
 
-106. DIANE: Offer letter. Signed. Two copies. Sofia read every line. Twice. I like her already.
-     다이앤: 오퍼 레터. 서명 완료. 두 부. 소피아가 모든 줄을 읽었어요. 두 번. 벌써 마음에 들어요.
+106. DIANE: Offer letter, signed, two copies. Sofia read every line twice and asked better questions about the vesting clause than most lawyers do. Everything we agreed at dinner is in writing now. I like her already.
+     다이앤: 오퍼 레터, 서명 완료, 두 부. 소피아가 모든 줄을 두 번 읽었고, 베스팅 조항에 대해 대부분의 변호사보다 더 좋은 질문을 했어요. 저녁 자리에서 합의한 건 이제 전부 서면으로 남았어요. 벌써 마음에 들어요.
 
 107. SOFIA: One more thing before I start. I want the role play. The one your CEO failed.
      소피아: 시작하기 전에 하나 더. 롤플레이를 하고 싶어요. 당신네 CEO가 떨어진 그거.
@@ -361,8 +361,8 @@
 112. ELENA: Flex is cheaper. Why pay more?
      엘레나: 플렉스가 더 싸요. 왜 더 내요?
 
-113. SOFIA: Ninety-six dollars is real money. Can I ask what's included with Flex today? For your nurses?
-     소피아: 96달러는 큰돈이에요. 지금 플렉스엔 간호사분들을 위해 뭐가 포함돼 있는지 여쭤봐도 될까요?
+113. SOFIA: Ninety-six dollars is real money, and I won't pretend it isn't, especially with your margins. Before I compare anything, can I ask what's included with Flex today for your nurses? Training, follow-up, support, anything?
+     소피아: 96달러는 큰돈이에요. 아니라고 하지 않을게요, 특히 병원 마진을 생각하면요. 비교하기 전에, 지금 플렉스엔 간호사분들을 위해 뭐가 포함돼 있는지 여쭤봐도 될까요? 교육, 후속 관리, 지원, 뭐든지요?
 
 114. ELENA: …Time. Pass. First attempt. No violations.
      엘레나: …시간. 합격. 첫 시도. 위반 없음.
@@ -418,3 +418,17 @@
 | Signing bonus | — | (make-whole ~$200K) | **$100K** (50% day one, 50% at 12 months) |
 | Authority | — | Hire & fire reps (non-starter) | **Yes** — compliance terminations jointly with Medical (Elena) & Legal (Diane) |
 | Budget | — | 30 reps, year one | **Yes, in writing** |
+
+### ④ 긴 발화 분석
+
+> **69턴 SOFIA:** "If I'm responsible for revenue, I need authority over the team that produces it. If I can't remove someone who isn't performing, then every missed number becomes your decision and my fault. Responsibility without authority is a trap."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 원칙(조건 → 요구) | If I'm responsible for revenue, I need authority over the team that produces it. | 내 책임을 전제로 요구를 정당화 |
+| ② 반대 상황(결과 제시) | If I can't remove someone who isn't performing, then every missed number becomes your decision and my fault. | 요구가 없을 때 생기는 불공정을 구체적으로 보여 줌 |
+| ③ 압축(격언) | Responsibility without authority is a trap. | 협상 불가 조건을 한 문장 원칙으로 못 박음 |
+
+**활용 패턴:** If I'm responsible for A, I need B → If I can't B, then… → 한 줄 원칙
+**연결 표현:** If I'm responsible for…(~를 책임진다면) · then…becomes(그러면 ~가 된다) · A without B is a trap(B 없는 A는 함정이다)
+**연습:** 새 프로젝트를 맡으며 예산 결정권을 요구하는 상황을 같은 구조로 35단어 안팎으로 말해 보기.

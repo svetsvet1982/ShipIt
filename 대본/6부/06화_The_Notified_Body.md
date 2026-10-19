@@ -41,8 +41,8 @@
 08. LEO: Long is bad?
     레오: 긴 게 나빠요?
 
-09. KATRIN: Long is hiding. An auditor reads two thousand pages. He finds the one weak page. Always.
-    카트린: 긴 건 숨기는 거예요. 심사원은 2천 쪽을 읽어요. 약한 한 쪽을 찾아내죠. 항상.
+09. KATRIN: Long is hiding. An auditor reads two thousand pages, and he is not reading them for pleasure. He is looking for the one weak page, the one sentence that doesn't match the data. He finds it. Always. So every extra page is another place to fail.
+    카트린: 긴 건 숨기는 거예요. 심사원은 2천 쪽을 읽는데, 재미로 읽는 게 아니에요. 약한 한 쪽, 데이터와 안 맞는 한 문장을 찾는 거죠. 그리고 찾아내요. 항상. 그러니까 쪽이 하나 늘 때마다 실패할 곳이 하나 느는 거예요.
 
 10. ELENA: How many pages should it be?
     엘레나: 몇 쪽이어야 해요?
@@ -59,8 +59,8 @@
 14. PRIYA: And if the answer is complicated?
     프리야: 답이 복잡하면요?
 
-15. KATRIN: Then you make it simple. Or you say "I'll find out." Never explain more than he asked.
-    카트린: 그럼 단순하게 만들어요. 아니면 "알아보겠습니다"라고 해요. 그가 물은 것 이상은 절대 설명하지 마요.
+15. KATRIN: Then you make it simple. Or you say "I'll find out," and you find out, and you send it to him in writing. Never explain more than he asked, because every extra sentence gives him a new question, and new questions take time we do not have.
+    카트린: 그럼 단순하게 만들어요. 아니면 "알아보겠습니다"라고 하고, 실제로 알아봐서, 서면으로 보내요. 그가 물은 것 이상은 절대 설명하지 마요. 문장 하나 더할 때마다 새 질문이 생기고, 새 질문엔 우리에게 없는 시간이 들어요.
 
 ### 장면1 — 사전 점검: 기술 문서
 
@@ -91,8 +91,8 @@
 24. PRIYA: The history explains why the chemistry works.
     프리야: 그 역사가 화학이 왜 작동하는지 설명해요.
 
-25. KATRIN: The auditor doesn't need to know why. He needs to know that. With evidence.
-    카트린: 심사원은 왜를 알 필요가 없어요. 그렇다는 걸 알아야 해요. 증거와 함께.
+25. KATRIN: The auditor doesn't need to know why. He needs to know that. With evidence. Your history is interesting, but it is not proof. A test result is proof. A specification is proof. If a page doesn't prove something, it only gives him more to question.
+    카트린: 심사원은 왜를 알 필요가 없어요. 그렇다는 걸 알아야 해요. 증거와 함께. 당신의 역사는 흥미롭지만 증거는 아니에요. 시험 결과가 증거예요. 규격이 증거예요. 아무것도 증명하지 못하는 쪽은 그에게 질문거리만 더 줄 뿐이에요.
 
 26. PRIYA: …
     프리야: …
@@ -103,8 +103,8 @@
 28. MARCUS: That's half her work.
     마커스: 그건 그녀 작업의 절반이에요.
 
-29. KATRIN: It's half her pages. Not half her work. The work is in the data. The data stays.
-    카트린: 그녀 쪽수의 절반이죠. 작업의 절반이 아니라. 작업은 데이터에 있어요. 데이터는 남아요.
+29. KATRIN: It's half her pages. Not half her work. The work is in the data, and the data stays, every table and every validation result. What goes is the story around it. An auditor will respect the data. He will not read the story.
+    카트린: 그녀 쪽수의 절반이죠. 작업의 절반이 아니라. 작업은 데이터에 있고, 데이터는 남아요. 표 하나, 밸리데이션 결과 하나까지 전부. 빠지는 건 그 주변의 이야기예요. 심사원은 데이터는 존중해요. 이야기는 읽지 않아요.
 
 30. PRIYA: Excuse me. I need some air.
     프리야: 실례할게요. 바람 좀 쐬어야겠어요.
@@ -121,8 +121,8 @@
 34. KATRIN: I criticized the section. Not her. Those are different things.
     카트린: 섹션을 비판했어요. 그녀가 아니라. 그건 다른 거예요.
 
-35. ELENA: In Germany, maybe. In Texas, a document is a little bit of a person.
-    엘레나: 독일에선 그럴지도요. 텍사스에선 문서가 사람의 일부예요.
+35. ELENA: In Germany, maybe. In Texas, a document is a little bit of a person. Priya didn't just write those pages, she lived them for four months, late nights included. So when you call it a novel, she hears that you're calling her work a waste.
+    엘레나: 독일에선 그럴지도요. 텍사스에선 문서가 사람의 일부예요. 프리야는 그 쪽들을 그냥 쓴 게 아니라, 늦은 밤까지 포함해서 4개월을 그 안에서 살았어요. 그래서 당신이 그걸 소설이라고 하면, 그녀에겐 자기 일이 낭비라는 말로 들려요.
 
 36. KATRIN: Hmm. That is inefficient. But I understand. I'll talk to her later. Not now. Now we work.
     카트린: 흠. 비효율적이네요. 하지만 이해해요. 나중에 얘기할게요. 지금 말고. 지금은 일해요.
@@ -139,8 +139,8 @@
 40. ELENA: We searched the literature. All of it. English publications.
     엘레나: 문헌을 검색했어요. 전부. 영어 논문으로.
 
-41. KATRIN: To be precise, MDR wants a systematic search. Documented. With the method. Every database. Every keyword.
-    카트린: 정확히 말하면, MDR은 체계적 검색을 원해요. 문서화된. 방법과 함께. 모든 데이터베이스. 모든 키워드.
+41. KATRIN: To be precise, MDR wants a systematic search. Documented. With the method. Every database. Every keyword. Every article you included, and every article you excluded, and the reason why. The auditor must be able to repeat your search and get the same result.
+    카트린: 정확히 말하면, MDR은 체계적 검색을 원해요. 문서화된. 방법과 함께. 모든 데이터베이스. 모든 키워드. 포함한 논문 전부, 제외한 논문 전부, 그리고 그 이유까지. 심사원이 당신들 검색을 그대로 반복해서 같은 결과를 얻을 수 있어야 해요.
 
 42. ELENA: We did it. We didn't write down how.
     엘레나: 했어요. 어떻게 했는지 적지 않았을 뿐이죠.
@@ -160,8 +160,8 @@
 47. KATRIN: Post-market surveillance. Section eight. What do you have?
     카트린: 시판 후 감시. 섹션 8. 뭐가 있어요?
 
-48. ELENA: A real-world registry. Vascular events. Every case. Anonymous. Dr. Wade's group is the first site.
-    엘레나: 실사용 레지스트리. 혈관 사건. 모든 사례. 익명. 웨이드 선생님 그룹이 첫 사이트예요.
+48. ELENA: A real-world registry. Vascular events. Every case. Anonymous. Dr. Wade's group is the first site. We track what happened, how fast the team reacted, and how the patient recovered, so if there's a pattern, we see it before a regulator does.
+    엘레나: 실사용 레지스트리. 혈관 사건. 모든 사례. 익명. 웨이드 선생님 그룹이 첫 사이트예요. 무슨 일이 있었는지, 팀이 얼마나 빨리 대응했는지, 환자가 어떻게 회복했는지 추적해요. 그래서 어떤 패턴이 있으면 규제 당국보다 먼저 우리가 보게 되죠.
 
 49. KATRIN: …A registry. Started voluntarily? Before anyone asked?
     카트린: …레지스트리. 자발적으로 시작했어요? 누가 요구하기 전에?
@@ -192,8 +192,8 @@
 57. VOGEL: Since last year. Why last year?
     포겔: 작년부터요. 왜 작년부터죠?
 
-58. MARCUS: Because a supplier changed a stopper without telling us. We recalled three lots.
-    마커스: 공급사가 우리한테 말 없이 마개를 바꿨기 때문이에요. 세 로트를 회수했어요.
+58. MARCUS: Because a supplier changed a stopper without telling us. We recalled three lots. We learned the hard way, so now nothing changes without our signature. Not a stopper, not a label, not a material. If it touches the syringe, we approve it in writing first.
+    마커스: 공급사가 우리한테 말 없이 마개를 바꿨기 때문이에요. 세 로트를 회수했어요. 힘들게 배웠죠. 그래서 이제 우리 서명 없이는 아무것도 안 바뀌어요. 마개도, 라벨도, 재질도. 주사기에 닿는 거라면 먼저 서면으로 승인해요.
 
 59. VOGEL: I read about your recall. Before this audit. Class Two. Two hours to decide.
     포겔: 회수 건은 읽었어요. 이 심사 전에. 2등급. 결정까지 두 시간.
@@ -204,8 +204,8 @@
 61. VOGEL: Question two. Traceability. How do you track a syringe after it leaves your warehouse?
     포겔: 질문 둘. 추적성. 주사기가 창고를 떠난 뒤 어떻게 추적해요?
 
-62. LEO: Serial numbers. Every syringe. Scanned on arrival and use. Monthly reconciliation. In an app.
-    레오: 일련번호. 모든 주사기. 도착과 사용 시 스캔. 월간 대조. 앱으로.
+62. LEO: Serial numbers on every syringe. Each one is scanned when it arrives at the clinic and again when it's used on a patient. Once a month, we reconcile the scans in an app, so a missing syringe shows up within weeks, not years.
+    레오: 모든 주사기에 일련번호가 있어요. 하나하나 클리닉에 도착할 때 스캔하고, 환자에게 사용할 때 다시 스캔해요. 한 달에 한 번 앱에서 스캔 기록을 대조하니까, 없어진 주사기는 몇 년이 아니라 몇 주 안에 드러나요.
 
 63. VOGEL: Every syringe? Not just every lot?
     포겔: 모든 주사기요? 로트 단위가 아니라?
@@ -255,8 +255,8 @@
 78. VOGEL: Voluntary? Nobody required it?
     포겔: 자발적이요? 아무도 요구하지 않았는데?
 
-79. ELENA: Nobody. Our label says the clinical benefit isn't established. We want to know if it is.
-    엘레나: 아무도요. 우리 라벨엔 임상적 이점이 입증되지 않았다고 돼 있어요. 입증되는지 알고 싶어요.
+79. ELENA: Nobody. Our label says the clinical benefit isn't established, and I don't like that sentence. We could wait for someone to prove it for us, or we could collect the data ourselves. We want to know if it is, even if the answer is no.
+    엘레나: 아무도요. 우리 라벨엔 임상적 이점이 입증되지 않았다고 돼 있는데, 전 그 문장이 싫어요. 누가 대신 증명해 주길 기다릴 수도 있고, 우리가 직접 데이터를 모을 수도 있죠. 입증되는지 알고 싶어요. 답이 '아니요'라도요.
 
 80. VOGEL: …That is unusual. Most companies collect data to prove they're right. You collect it to find out.
     포겔: …특이하네요. 대부분 회사는 자기가 옳다는 걸 증명하려고 데이터를 모아요. 당신들은 알아내려고 모으고요.
@@ -281,8 +281,8 @@
 86. VOGEL: …Let me see.
     포겔: …봅시다.
 
-87. KATRIN: …She's right. "Pausieren" means pause. A nurse could pause. Then continue. That's dangerous.
-    카트린: …그녀 말이 맞아요. "pausieren"은 일시 정지예요. 간호사가 멈췄다가. 다시 이어 갈 수 있어요. 위험해요.
+87. KATRIN: …She's right. "Pausieren" means pause, not stop. A nurse in an emergency reads this, pauses, waits, and then maybe continues the injection into a blocked vessel. That is exactly the wrong action. It's dangerous, and I read that page and missed it.
+    카트린: …그녀 말이 맞아요. "pausieren"은 멈추는 게 아니라 일시 정지예요. 응급 상황에서 간호사가 이걸 읽으면, 잠깐 멈추고 기다렸다가, 막힌 혈관에 주입을 다시 이어 갈 수도 있어요. 정확히 잘못된 행동이죠. 위험해요. 그리고 난 그 쪽을 읽고도 놓쳤어요.
 
 88. ELENA: Our card says "stop." Completely. Step one.
     엘레나: 우리 카드엔 "멈춰라"예요. 완전히. 1단계.
@@ -290,8 +290,8 @@
 89. VOGEL: How did you find that, Dr. Raman? You don't speak German.
     포겔: 그걸 어떻게 찾았어요, 라만 박사? 독일어 못 하잖아요.
 
-90. PRIYA: I checked every emergency sentence against our English card. With a dictionary. Last night. At two a.m.
-    프리야: 모든 응급 문장을 영어 카드와 대조했어요. 사전으로. 어젯밤. 새벽 2시에.
+90. PRIYA: I checked every emergency sentence against our English card, one by one, with a dictionary. Last night. At two a.m. It took most of the night, and I wrote down every word I wasn't sure about.
+    프리야: 모든 응급 문장을 영어 카드와 하나하나 사전으로 대조했어요. 어젯밤. 새벽 2시에. 밤을 거의 다 썼고, 확신이 안 서는 단어는 전부 적어 뒀어요.
 
 91. KATRIN: Why?
     카트린: 왜요?
@@ -308,8 +308,8 @@
 95. LEO: We'll provide that by Friday. Both items.
     레오: 금요일까지 제공하겠습니다. 두 항목 다.
 
-96. VOGEL: Two minor nonconformities. One observation. No major findings. If your corrections are accepted, the certificate in about ten weeks.
-    포겔: 경미한 부적합 두 건. 관찰 사항 하나. 중대한 발견 없음. 시정이 수락되면 약 10주 후 인증서.
+96. VOGEL: To be precise: two minor nonconformities, one observation, and no major findings. You send both corrections by Friday, we review them, and if they are accepted, you will have the certificate in about ten weeks.
+    포겔: 정확히 말하면, 경미한 부적합 두 건, 관찰 사항 하나, 그리고 중대한 발견 없음. 금요일까지 두 건의 시정을 보내면 우리가 검토하고, 수락되면 약 10주 후에 인증서를 받게 됩니다.
 
 97. MARCUS: Ten weeks. Early June.
     마커스: 10주. 6월 초.
@@ -346,8 +346,8 @@
 107. PRIYA: Yes. Four months of my life. Called a novel.
      프리야: 네. 내 인생 4개월. 소설이라고 불렸어요.
 
-108. KATRIN: In Germany, I criticize the document. Never the person. If I criticize you, I'll say "you."
-     카트린: 독일에선 문서를 비판해요. 절대 사람을 비판하지 않아요. 당신을 비판한다면 "당신"이라고 할 거예요.
+108. KATRIN: In Germany, I criticize the document. Never the person. If I say the section is a novel, I am talking about the pages, not about you. If I criticize you, I'll say "you." And so far, I haven't said it once.
+     카트린: 독일에선 문서를 비판해요. 절대 사람을 비판하지 않아요. 내가 그 섹션이 소설이라고 하면, 그건 쪽들에 대한 말이지 당신에 대한 말이 아니에요. 당신을 비판한다면 "당신"이라고 할 거예요. 그리고 지금까지 한 번도 그렇게 말하지 않았어요.
 
 109. PRIYA: And in America, the person often hears it anyway.
      프리야: 그리고 미국에선 사람이 어차피 그렇게 들어요.
@@ -373,8 +373,8 @@
 116. NOAH: How did it go?
      노아: 어떻게 됐어?
 
-117. ELENA: Two minor findings. Fixable by Friday. Certificate in about ten weeks. And Priya caught a translation error. Katrin missed it.
-     엘레나: 경미한 지적 두 건. 금요일까지 수정 가능. 약 10주 후 인증서. 그리고 프리야가 번역 오류를 잡았어요. 카트린이 놓친 걸.
+117. ELENA: Two minor findings, both fixable by Friday. Certificate in about ten weeks, so early June. And the best part: Priya caught a translation error in the German emergency instructions at two in the morning. Even Katrin missed it.
+     엘레나: 경미한 지적 두 건, 둘 다 금요일까지 수정 가능. 약 10주 후 인증서, 그러니까 6월 초. 그리고 제일 좋은 소식은, 프리야가 새벽 2시에 독일어 응급 지침의 번역 오류를 잡았다는 거예요. 카트린조차 놓친 걸.
 
 118. NOAH: Priya! That's amazing. And Oliver confirmed. London, March twentieth.
      노아: 프리야! 대단하다. 그리고 올리버가 확정했어. 런던, 3월 20일.
@@ -417,3 +417,17 @@ EU에서 의료기기를 팔려면 **인증기관(notified body)**의 심사를 
 | Strengths | Per-syringe serialization (meets EU **UDI** early) · two audited suppliers with written change control · voluntary vascular registry (PMCF) | — | — | — | — |
 
 > **Outcome:** 2 minor NCs, 1 observation, 0 major → **certificate in ~10 weeks (early June)** if corrections accepted.
+
+### ④ 긴 발화 분석
+
+> **96턴 VOGEL:** "To be precise: two minor nonconformities, one observation, and no major findings. You send both corrections by Friday, we review them, and if they are accepted, you will have the certificate in about ten weeks."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 결과 요약(숫자) | To be precise: two minor nonconformities, one observation, and no major findings. | 심사 결과를 등급별 숫자로 먼저 정리 |
+| ② 다음 단계(순서) | You send both corrections by Friday, we review them, | 누가 언제 무엇을 하는지 순서대로 제시 |
+| ③ 조건+결과(기한) | and if they are accepted, you will have the certificate in about ten weeks. | "if A, then B"로 최종 결과와 일정 약속 |
+
+**활용 패턴:** 결과 숫자 요약 → 다음 단계(당신 → 우리) → if 조건 + 최종 일정
+**연결 표현:** To be precise(정확히 말하면) · by Friday(금요일까지) · if they are accepted(수락되면) · in about ten weeks(약 10주 후)
+**연습:** 품질 점검 결과를 팀장에게 보고하는 상황에서 같은 구조로 35단어 안팎으로 말해 보기.

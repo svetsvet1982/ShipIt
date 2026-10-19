@@ -53,8 +53,8 @@
 12. PRIYA: Thank you. That's very kind.
     프리야: 감사합니다. 정말 친절하세요.
 
-13. CAROL: Now. Somebody explain this company to me. Noah's emails make no sense.
-    캐럴: 자. 누가 이 회사 좀 설명해 줘. 노아 이메일은 도무지 이해가 안 돼.
+13. CAROL: Now. Somebody explain this company to me. Noah's emails make no sense. I read every one twice, and I still couldn't tell my book club what my son actually does.
+    캐럴: 자. 누가 이 회사 좀 설명해 줘. 노아 이메일은 도무지 이해가 안 돼. 매번 두 번씩 읽는데도, 우리 아들이 대체 무슨 일을 하는지 독서 모임에 설명을 못 하겠어.
 
 14. LILY: His emails are all buzzwords, Mom.
     릴리: 오빠 이메일은 전부 유행어뿐이야, 엄마.
@@ -82,8 +82,8 @@
 21. NOAH: Doctors can dissolve the filler. But today it's slow. Too slow.
     노아: 의사가 필러를 녹일 수 있어. 근데 지금은 느려. 너무 느려.
 
-22. PRIYA: Our filler lasts just as long. But it dissolves three times faster.
-    프리야: 우리 필러는 똑같이 오래가요. 하지만 세 배 빨리 녹아요.
+22. PRIYA: Our filler lasts just as long as the others, about a year. But if something goes wrong, the doctor's enzyme dissolves it three times faster. That's the whole idea.
+    프리야: 우리 필러는 다른 필러만큼 오래가요. 1년 정도요. 하지만 문제가 생기면, 의사가 쓰는 효소로 세 배 빨리 녹아요. 그게 핵심이에요.
 
 23. CAROL: So it's an emergency exit. Built into the product.
     캐럴: 그러니까 비상구네. 제품 안에 들어 있는.
@@ -112,8 +112,8 @@
 31. CAROL: So what is a target… profile?
     캐럴: 그래서 그 목표… 프로파일이 뭔데?
 
-32. PRIYA: It's a wish list for the product. Written before we build it.
-    프리야: 제품에 대한 희망 목록이에요. 만들기 전에 쓰는 거죠.
+32. PRIYA: It's a wish list for the product, written before we build it. Every decision we make later, the chemistry, the trials, the factory, gets checked against that one page.
+    프리야: 제품에 대한 희망 목록이에요. 만들기 전에 쓰는 거죠. 나중에 내리는 모든 결정, 그러니까 화학, 임상, 공장까지 전부 그 한 장과 맞춰 보는 거예요.
 
 33. NOAH: What it treats. How long it lasts. How it's stored. What it costs.
     노아: 뭘 치료하는지. 얼마나 오래가는지. 어떻게 보관하는지. 얼마인지.
@@ -148,8 +148,8 @@
 43. CAROL: The doctor. The one who saved my daughter's face.
     캐럴: 그 선생님. 우리 딸 얼굴을 살려 주신 분.
 
-44. ELENA: Mrs. Bennett. Lily did the hard part. She stayed calm.
-    엘레나: 베넷 여사님. 힘든 건 릴리가 했어요. 침착하게 있어 줬거든요.
+44. ELENA: Mrs. Bennett, Lily did the hard part. She stayed calm and let me work quickly, and in those first minutes, that's what protects the skin. I just did my job.
+    엘레나: 베넷 여사님, 힘든 건 릴리가 했어요. 침착하게 있어 줘서 제가 빨리 처치할 수 있었고, 처음 몇 분 동안은 그게 피부를 지켜 주거든요. 저는 제 일을 했을 뿐이에요.
 
 45. LILY: I did not stay calm. I cried and asked for my mom.
     릴리: 나 침착하지 않았어요. 울면서 엄마 찾았잖아요.
@@ -180,8 +180,8 @@
 53. ELENA: Smile lines. From your nose to the corners of your mouth.
     엘레나: 팔자주름이요. 코에서 입꼬리까지 이어지는 선.
 
-54. NOAH: I want lips. Lips are the fastest-growing market. Younger customers.
-    노아: 전 입술로 하고 싶어요. 입술이 가장 빨리 성장하는 시장이에요. 고객도 젊고.
+54. NOAH: I want lips. Lips are the fastest-growing market, and the customers are younger, which means they'll come back for years. Here's the thing: that's where the money is going.
+    노아: 전 입술로 하고 싶어요. 입술이 가장 빨리 성장하는 시장이고, 고객도 젊어요. 그 말은 몇 년이고 계속 다시 온다는 거죠. 요점은 이거예요. 돈이 그쪽으로 가고 있어요.
 
 55. ELENA: And I want smile lines. For the first trial, at least.
     엘레나: 그리고 난 팔자주름이요. 최소한 첫 임상은요.
@@ -201,8 +201,8 @@
 60. LILY: Well-known how?
     릴리: 어떻게 잘 알려졌는데요?
 
-61. ELENA: Most fillers got approved there first. There's a standard scale to measure results.
-    엘레나: 대부분의 필러가 거기서 먼저 승인받았어요. 결과를 측정하는 표준 척도도 있고요.
+61. ELENA: Most fillers got approved there first, so the FDA knows exactly what to expect. There's also a standard scale to measure results, so nobody argues about whether it worked.
+    엘레나: 대부분의 필러가 거기서 먼저 승인받았어요. 그래서 FDA가 뭘 기대해야 할지 정확히 알아요. 결과를 측정하는 표준 척도도 있어서, 효과가 있었는지를 두고 아무도 다투지 않아요.
 
 62. PRIYA: So the trial design is clearer. Less risk.
     프리야: 그러니까 임상 설계가 더 명확해요. 리스크가 적고요.
@@ -225,8 +225,8 @@
 68. NOAH: Of course, Mom.
     노아: 당연하지, 엄마.
 
-69. CAROL: I'm sixty-one. I don't want bigger lips. I'd want my smile lines first.
-    캐럴: 난 예순하나야. 입술 크게 하고 싶지 않아. 팔자주름을 먼저 하고 싶지.
+69. CAROL: I'm sixty-one. I don't want bigger lips. But every morning I look in the mirror and see these lines getting deeper. If I were your customer, I'd want my smile lines first.
+    캐럴: 난 예순하나야. 입술 크게 하고 싶지 않아. 그런데 매일 아침 거울을 보면 이 주름이 점점 깊어지는 게 보여. 내가 너희 고객이라면, 팔자주름을 먼저 하고 싶을 거야.
 
 70. LILY: And my friends want lips. Every single one.
     릴리: 그리고 내 친구들은 입술을 원해. 한 명도 빠짐없이.
@@ -249,8 +249,8 @@
 76. ELENA: Yes. And it also means our first trial could have more problems.
     엘레나: 네. 그리고 첫 임상에서 문제가 더 생길 수 있다는 뜻이기도 해요.
 
-77. PRIYA: The first trial has to be clean. If it fails, there's no second.
-    프리야: 첫 임상은 깔끔해야 해. 실패하면 두 번째는 없어.
+77. PRIYA: The first trial has to be clean. If it fails, there's no second. Investors will look at that one study and decide. Nobody gives a second chance to a company whose first trial failed.
+    프리야: 첫 임상은 깔끔해야 해. 실패하면 두 번째는 없어. 투자자들은 그 연구 하나만 보고 결정해. 첫 임상에서 실패한 회사에 두 번째 기회를 주는 사람은 없어.
 
 78. NOAH: Because the money is gone.
     노아: 돈이 바닥나니까.
@@ -317,8 +317,8 @@
 98. NOAH: And three product sizes. Small, medium, large.
     노아: 그리고 제품 크기 세 가지. 소, 중, 대.
 
-99. MARCUS: Park it. Every size is a separate production run.
-    마커스: 보류. 크기마다 생산을 따로 돌려야 해.
+99. MARCUS: Park it. Every size is a separate production run, with its own testing and its own paperwork. Start with one size, do it perfectly, then add more later.
+    마커스: 보류. 크기마다 생산을 따로 돌려야 하고, 시험도 서류도 따로야. 한 가지 크기로 시작해서 완벽하게 해내고, 나머지는 나중에 추가해.
 
 100. LILY: Noah, your list keeps growing. Is that normal?
      릴리: 오빠, 목록이 계속 늘어나. 그게 정상이야?
@@ -326,8 +326,8 @@
 101. ELENA: It's called scope creep. Every project suffers from it.
      엘레나: 그걸 범위 확장이라고 해요. 모든 프로젝트가 겪죠.
 
-102. PRIYA: Every "small" addition adds months. And money.
-     프리야: "작은" 추가 하나마다 몇 달이 늘어나요. 돈도요.
+102. PRIYA: Every "small" addition adds months. And money. A glow ingredient means new safety tests. A men's version means a new trial. Suddenly the plan doubles, and so does the budget.
+     프리야: "작은" 추가 하나마다 몇 달이 늘어나요. 돈도요. 광채 성분을 넣으면 안전성 시험을 새로 해야 하고, 남성용을 만들면 임상을 새로 해야 해요. 순식간에 계획이 두 배가 되고, 예산도 두 배가 되죠.
 
 103. CAROL: Like Thanksgiving. I wanted one pie. Now there are four.
      캐럴: 추수감사절 같네. 파이 하나만 하려 했는데 지금 네 개야.
@@ -346,8 +346,8 @@
 107. NOAH: Closing it. One second. Marcus, any news from Diane?
      노아: 덮을게. 잠깐만. 마커스, 다이앤한테서 소식 있어요?
 
-108. MARCUS: She sent the reply to Halvern yesterday. Three sentences. No answer yet.
-     마커스: 어제 할번에 답장 보냈대. 세 문장. 아직 답은 없고.
+108. MARCUS: She sent the reply to Halvern yesterday. Three sentences. She said a short, calm letter tells them we're not scared and we're not hiding anything. No answer yet.
+     마커스: 어제 할번에 답장 보냈대. 세 문장. 짧고 침착한 편지가 우리가 겁먹지도 않았고 숨기는 것도 없다는 걸 보여 준다더라. 아직 답은 없고.
 
 109. ELENA: Three sentences. That's Diane.
      엘레나: 세 문장. 다이앤답네요.
@@ -373,8 +373,8 @@
 116. NOAH: I'm grateful for all of you. And for Mom's recipe card idea.
      노아: 여러분 모두에게 감사해요. 그리고 엄마의 레시피 카드 아이디어에도.
 
-117. CAROL: And I'm grateful my children are alive. And brave. And a little crazy.
-     캐럴: 그리고 난 내 아이들이 살아 있어서 감사해. 용감하고. 조금 미친 것도.
+117. CAROL: And I'm grateful my children are alive. And brave. And a little crazy. Five years ago I lost your father, and some days I'm still scared of losing more. Today I'm not.
+     캐럴: 그리고 난 내 아이들이 살아 있어서 감사해. 용감하고. 조금 미친 것도. 5년 전에 너희 아빠를 잃고 나서, 아직도 어떤 날은 더 잃을까 봐 무서워. 오늘은 아니야.
 
 118. LILY: Mom.
      릴리: 엄마.
@@ -419,3 +419,17 @@
 | Lips, men's line, multiple sizes, "glow" | — | Parking lot |
 
 > *Our TPP for the first product: smile lines, twelve months, three times faster dissolution, lidocaine, room-temperature storage. Everything else goes in the parking lot.*
+
+### ④ 긴 발화 분석
+
+> **102턴 PRIYA:** "Every "small" addition adds months. And money. A glow ingredient means new safety tests. A men's version means a new trial. Suddenly the plan doubles, and so does the budget."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 주장(일반 원칙) | Every "small" addition adds months. And money. | 범위 확장의 대가를 시간·돈으로 먼저 제시 |
+| ② 예시(A means B) | A glow ingredient means new safety tests. A men's version means a new trial. | 추가 항목마다 숨은 비용을 1:1로 연결 |
+| ③ 결과(누적) | Suddenly the plan doubles, and so does the budget. | 작은 추가가 쌓인 최종 결과로 설득 |
+
+**활용 패턴:** 원칙(추가 = 비용) → "A means B" 예시 두 개 → 누적 결과
+**연결 표현:** A means B(A를 하면 B가 따라온다) · Suddenly(순식간에) · and so does…(~도 마찬가지다)
+**연습:** 회의 중 "기능 하나만 더 넣자"는 제안에 같은 구조로 30단어 안팎으로 답해 보기.

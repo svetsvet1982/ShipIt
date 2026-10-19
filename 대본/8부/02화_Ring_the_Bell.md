@@ -23,8 +23,8 @@
 02. NOAH: What can I celebrate?
     노아: 그럼 뭘 축하할 수 있어요?
 
-03. RUTH: People. Patients. Seven years. Anything that doesn't move every second on a screen.
-    루스: 사람. 환자. 7년. 화면에서 매초 움직이지 않는 건 뭐든지요.
+03. RUTH: People. Patients. Seven years. Anything that doesn't move every second on a screen. The stock will go up or down all day, and none of that is yours to celebrate. What you built over seven years is, so talk about that.
+    루스: 사람. 환자. 7년. 화면에서 매초 움직이지 않는 건 뭐든지요. 주가는 하루 종일 오르내릴 거고, 그중 어느 것도 당신이 축하할 몫이 아니에요. 7년 동안 당신이 만든 건 당신 몫이죠. 그러니 그 얘기를 해요.
 
 04. LILY: Noah. Look up. The screen. Eight stories.
     릴리: 오빠. 위를 봐. 스크린. 8층 높이.
@@ -47,8 +47,8 @@
 10. CAROL: Diane approved it. She said glitter is not a forward-looking statement.
     캐롤: 다이앤이 승인했어. 반짝이는 미래 예측 진술이 아니래.
 
-11. ELAINE: Good morning, Carol. You raised a remarkable son. He's late to most things. Not to this.
-    일레인: 좋은 아침이에요, 캐롤. 훌륭한 아들을 키우셨어요. 대부분 늦지만. 이건 아니었죠.
+11. ELAINE: Good morning, Carol. You raised a remarkable son. He's late to most things, and I've stopped pretending to be surprised. Not to this, though. For seven years, he's been early to the one thing that mattered: patients.
+    일레인: 좋은 아침이에요, 캐롤. 훌륭한 아들을 키우셨어요. 대부분 늦는데, 이젠 놀란 척도 안 해요. 그래도 이건 아니었죠. 7년 동안 그는 정말 중요한 한 가지에는 늘 일찍 와 있었어요. 환자요.
 
 12. MARCUS: Fifty employees just arrived by bus. Ben from logistics is crying already. It's seven forty.
     마커스: 직원 50명이 방금 버스로 도착했어요. 물류팀 벤은 벌써 울고 있어요. 7시 40분인데.
@@ -112,8 +112,8 @@
 31. RUTH: That's the best thing anyone has said on this floor today. And it's not about the stock.
     루스: 오늘 이 층에서 누가 한 말 중 최고예요. 그리고 주가 얘기가 아니고요.
 
-32. PAUL: The stock hasn't opened yet. IPOs open later. The market makers are still matching orders.
-    폴: 주식은 아직 안 열렸어요. IPO는 늦게 열려요. 시장 조성자들이 아직 주문을 맞추고 있어요.
+32. PAUL: The stock hasn't opened yet. IPOs open later than the rest of the market, because the market makers are still matching buy and sell orders to find a fair first price. Until they do, there's nothing to look at.
+    폴: 주식은 아직 안 열렸어요. IPO는 시장의 다른 종목보다 늦게 열려요. 시장 조성자들이 공정한 첫 가격을 찾으려고 매수·매도 주문을 아직 맞추고 있거든요. 그게 끝날 때까진 볼 게 없어요.
 
 33. BEN: When will it open?
     벤: 언제 열려요?
@@ -133,8 +133,8 @@
 38. BEN: Of course, Mr. Martinez.
     벤: 물론이죠, 마르티네스 부사장님.
 
-39. LEO: In year four, I watched a number rise for six weeks. Our injection force. I almost ignored it.
-    레오: 4년 차에, 6주 동안 숫자가 오르는 걸 봤어. 우리 주입력. 거의 무시할 뻔했지.
+39. LEO: In year four, I watched a number rise for six weeks. Our injection force. It went up so slowly that it never looked like a problem, and nothing on any screen looked urgent. I almost ignored it, and I'm still glad I didn't.
+    레오: 4년 차에, 6주 동안 숫자가 오르는 걸 봤어. 우리 주입력. 너무 천천히 올라서 문제처럼 보인 적이 없었고, 어느 화면에서도 급해 보이지 않았지. 거의 무시할 뻔했어. 그러지 않은 게 아직도 다행이야.
 
 40. BEN: The stopper story. They told it on my first day.
     벤: 마개 이야기. 첫날 들려줬어요.
@@ -186,8 +186,8 @@
 55. HOST: One last try. Where will the stock be in a year?
     진행자: 마지막으로 한 번만. 1년 뒤 주가는 어디쯤일까요?
 
-56. NOAH: I have no idea. But I know where our patients will be. With trained hands. That's my job.
-    노아: 전혀 모릅니다. 하지만 환자들이 어디 있을지는 압니다. 교육받은 손과 함께. 그게 제 일입니다.
+56. NOAH: I have no idea, and anyone who tells you they know is guessing. But I know where our patients will be: with trained hands, a traced syringe, and a hotline that answers. That's my job. The stock price is someone else's.
+    노아: 전혀 모릅니다. 안다고 말하는 사람은 추측하는 겁니다. 하지만 환자들이 어디 있을지는 압니다. 교육받은 손, 추적되는 주사기, 응답하는 핫라인과 함께요. 그게 제 일입니다. 주가는 다른 사람의 일이고요.
 
 57. RUTH: Three times. Same answer. No numbers. I may cry. Like Ben.
     루스: 세 번. 같은 답. 숫자 없이. 나도 울 것 같아요. 벤처럼.
@@ -207,14 +207,14 @@
 62. BEN: A hundred eighty days? That's… September.
     벤: 180일? 그럼… 9월이에요.
 
-63. RUTH: September. And even then, only in open windows. Not before earnings. Not if you know something the public doesn't.
-    루스: 9월. 그리고 그때도 열린 기간에만요. 실적 발표 전엔 안 돼요. 대중이 모르는 걸 알고 있을 때도 안 되고요.
+63. RUTH: September. And even then, only in open windows, which usually close a few weeks before earnings. And never if you know something the public doesn't, even something small from a hallway conversation. That's insider trading, and it's a crime, not a policy.
+    루스: 9월. 그리고 그때도 열린 기간에만요. 보통 실적 발표 몇 주 전에 닫혀요. 그리고 대중이 모르는 걸 알고 있을 땐 절대 안 돼요. 복도에서 들은 사소한 것이라도요. 그게 내부자 거래고, 그건 사내 방침이 아니라 범죄예요.
 
 64. BEN: So my eighty thousand dollars is…
     벤: 그러니까 내 8만 달러는…
 
-65. MARCUS: On paper. Until September. And it could be forty. Or a hundred and twenty. Nobody knows.
-    마커스: 서류상이야. 9월까지. 그리고 4만이 될 수도 있고. 12만이 될 수도 있어. 아무도 몰라.
+65. MARCUS: On paper. Until September. And by then it could be forty, or a hundred and twenty; nobody knows, including the people on television. So don't spend it, don't borrow against it, and don't plan your student loans around it yet.
+    마커스: 서류상이야. 9월까지. 그리고 그때쯤엔 4만이 될 수도 있고, 12만이 될 수도 있어. 아무도 몰라. 방송에 나오는 사람들도. 그러니까 쓰지 말고, 그걸 담보로 빌리지도 말고, 아직은 그걸 믿고 학자금 대출 계획을 세우지도 마.
 
 66. BEN: Then why is everyone celebrating?
     벤: 그럼 왜 다들 축하해요?
@@ -240,8 +240,8 @@
 73. NOAH: All of it?
     노아: 전부요?
 
-74. PAUL: All of it. A third of what he wanted. Flipped for a quick profit.
-    폴: 전부요. 원했던 것의 3분의 1. 빠른 차익을 위해 넘겼죠.
+74. PAUL: All of it. A third of what he wanted, flipped for a quick profit before lunch. He was never planning to hold it, which is exactly what his two questions on the roadshow told us. Lock-up and pop. Nothing else.
+    폴: 전부요. 원했던 것의 3분의 1을, 점심 전에 빠른 차익을 위해 넘겼죠. 처음부터 보유할 생각이 없었던 거예요. 로드쇼에서 그가 한 질문 두 개가 정확히 그걸 말해 줬죠. 보호예수와 상승. 그 외엔 없었어요.
 
 75. RUTH: That's why we chose. If he'd had his full order, he'd have dumped three times as much.
     루스: 그래서 우리가 고른 거예요. 주문 전량을 받았다면 세 배를 던졌을 거예요.
@@ -287,8 +287,8 @@
 88. PAUL: Down four percent today. Analysts mentioned us. In their notes.
     폴: 오늘 4% 하락. 애널리스트들이 우리를 언급했어요. 보고서에서.
 
-89. ELENA: Don't celebrate that either. Somebody's patients use Lumaderm too.
-    엘레나: 그것도 축하하지 마요. 누군가의 환자들은 루마덤도 써요.
+89. ELENA: Don't celebrate that either. Somebody's patients use Lumaderm too, and they didn't choose a stock; they chose a doctor. If Halvern's product fails someone, that's a patient in trouble, not a win for us. First, do no harm.
+    엘레나: 그것도 축하하지 마요. 누군가의 환자들은 루마덤도 써요. 그 사람들은 주식을 고른 게 아니라 의사를 고른 거예요. 할번 제품이 누군가에게 문제를 일으키면, 그건 위험에 처한 환자지 우리의 승리가 아니에요. 첫째, 해를 끼치지 말 것.
 
 90. NOAH: Agreed. No celebrating anyone's number. Not ours. Not theirs.
     노아: 동의해요. 누구의 숫자도 축하하지 않기. 우리 것도. 그들 것도.
@@ -308,8 +308,8 @@
 95. ELAINE: For a year. It would be seen by thousands. Founders. Students. Tourists.
     일레인: 1년간. 수천 명이 보겠죠. 창업자들. 학생들. 관광객들.
 
-96. NOAH: …No. I'm sorry. It belongs in Austin. In our lobby. Where Ben walks past it every morning.
-    노아: …아니요. 죄송해요. 그건 오스틴에 있어야 해요. 우리 로비에. 벤이 매일 아침 그 앞을 지나가는 곳에.
+96. NOAH: …No. I'm sorry, Elaine, and thank you. It belongs in Austin, in our lobby, where Ben walks past it every morning on his way to logistics. It should remind the people doing the work why we started, more than it impresses tourists.
+    노아: …아니요. 죄송해요, 일레인. 그리고 고마워요. 그건 오스틴에 있어야 해요. 우리 로비에. 벤이 매일 아침 물류팀으로 가면서 그 앞을 지나가는 곳에. 관광객에게 감탄을 주는 것보다, 일하는 사람들에게 우리가 왜 시작했는지 일깨워야 해요.
 
 97. ELAINE: That's what I hoped you'd say. I already told them no. I wanted to hear it from you.
     일레인: 그렇게 말하길 바랐어요. 이미 거절했어요. 당신한테서 듣고 싶었어요.
@@ -323,8 +323,8 @@
 100. NOAH: Of course, Mom.
      노아: 물론이죠, 엄마.
 
-101. CAROL: Seven years ago, Lily called me from a hospital with a bandage on her nose. I couldn't do anything.
-     캐롤: 7년 전에 릴리가 코에 반창고를 붙이고 병원에서 전화했어. 난 아무것도 할 수 없었지.
+101. CAROL: Seven years ago, Lily called me from a hospital with a bandage on her nose, and I was too far away to hold her hand. I couldn't do anything. I didn't even understand what the doctors were telling her. That's what a mother remembers.
+     캐롤: 7년 전에 릴리가 코에 반창고를 붙이고 병원에서 전화했어. 난 손잡아 주기엔 너무 멀리 있었지. 아무것도 할 수 없었어. 의사들이 뭐라고 하는지조차 이해 못 했고. 엄마는 그런 걸 기억하는 거야.
 
 102. LILY: You flew to Austin the next morning, Mom. That was plenty.
      릴리: 엄마는 다음 날 아침 오스틴으로 날아왔잖아. 그걸로 충분했어.
@@ -370,14 +370,14 @@
 115. RUTH: One sentence. "Execution risk on Line C. Asia losses may last longer than management expects."
      루스: 한 문장. "라인 C 실행 위험. 아시아 손실이 경영진 예상보다 오래갈 수 있음."
 
-116. PAUL: Line C is three weeks behind. It's not public yet. It will be at our first earnings call.
-     폴: 라인 C는 3주 늦어졌어요. 아직 공개 전이에요. 첫 실적 발표 때 공개될 거고요.
+116. PAUL: Line C is three weeks behind. It's not public yet. It will be at our first earnings call, and until then we can't discuss it with anyone outside, not even to defend ourselves against her report.
+     폴: 라인 C는 3주 늦어졌어요. 아직 공개 전이에요. 첫 실적 발표 때 공개될 거고, 그때까진 외부 누구와도 그 얘기를 할 수 없어요. 그녀의 보고서에 맞서 우리를 변호하기 위해서라도요.
 
 117. NOAH: So she guessed. Correctly.
      노아: 그러니까 그녀가 추측했네요. 정확하게.
 
-118. RUTH: She's very good. The best analyst in our sector. And now, she's ours. For as long as we're public.
-     루스: 아주 뛰어나요. 우리 섹터 최고의 애널리스트예요. 그리고 이제 우리 담당이죠. 상장사인 한.
+118. RUTH: She's very good. The best analyst in our sector, and she does her homework: suppliers, doctors, former employees. And now she's ours, for as long as we're public. Every quarter, she'll compare what we said with what we did.
+     루스: 아주 뛰어나요. 우리 섹터 최고의 애널리스트고, 조사를 철저히 해요. 공급업체, 의사, 전 직원까지. 그리고 이제 우리 담당이죠. 상장사인 한. 분기마다 우리가 한 말과 한 일을 비교할 거예요.
 
 119. NOAH: Then what do we do?
      노아: 그럼 우리는 뭘 해요?
@@ -420,3 +420,18 @@
 
 > **Employee FAQ — "The First Ten Seconds of Owning Stock" (Tasha)**
 > 1. Put the phone down. 2. **Lock-up: 180 days (until September).** 3. After that, sell only in **open windows** — never before earnings, never with non-public information. 4. Your options are worth money **on paper** — it may go up or down. 5. Mandatory insider-trading training next week. 6. *"The numbers that matter move slowly. And quietly."* — Leo
+
+### ④ 긴 발화 분석
+
+> **65턴 MARCUS:** "On paper. Until September. And by then it could be forty, or a hundred and twenty; nobody knows, including the people on television. So don't spend it, don't borrow against it, and don't plan your student loans around it yet."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 사실(현재 상태) | On paper. Until September. | 들뜬 상대에게 지금의 정확한 상태를 짧게 확인 |
+| ② 불확실성(범위) | And by then it could be forty, or a hundred and twenty; | 하나의 숫자 대신 범위를 제시해 기대치 조정 |
+| ③ 근거(아무도 모름) | nobody knows, including the people on television. | 예측의 권위 자체를 낮춰 불확실성 강조 |
+| ④ 행동 지침(목록) | So don't spend it, don't borrow against it, and don't plan your student loans around it yet. | "So"로 결론을 이끌고 구체적 금지 행동 3가지로 마무리 |
+
+**활용 패턴:** 현재 사실 → 가능한 범위 → "nobody knows" → So + 행동 3가지
+**연결 표현:** on paper(서류상) · by then(그때쯤엔) · borrow against(~을 담보로 빌리다) · plan … around it(~을 전제로 계획하다)
+**연습:** 아직 확정되지 않은 보너스에 들뜬 팀원에게 같은 구조로 40단어 안팎으로 기대치를 조정해 보기.

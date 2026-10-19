@@ -26,8 +26,8 @@
 03. ZOE: Which group is hardest?
     조이: 어느 그룹이 제일 어려워요?
 
-04. DEREK: The quiet ones. Angry people still talk to you.
-    데릭: 조용한 쪽이요. 화난 사람은 그래도 말을 하잖아요.
+04. DEREK: The quiet ones. Angry people still talk to you, so at least you know what they're thinking. Quiet people have already decided, and they don't tell you why.
+    데릭: 조용한 쪽이요. 화난 사람은 그래도 말을 하니까, 적어도 무슨 생각인지는 알 수 있어요. 조용한 사람은 이미 결정했고, 이유도 말해 주지 않아요.
 
 05. NOAH: And Haddad? Which group?
     노아: 하다드는요? 어느 그룹?
@@ -50,8 +50,8 @@
 11. NOAH: No. We don't buy trust. We earn it.
     노아: 안 돼요. 신뢰는 사는 게 아니에요. 얻는 거죠.
 
-12. DEREK: Also, it's unfair. Two hundred seventy-two clinics stayed. They pay full price?
-    데릭: 게다가 불공평해요. 272곳은 남았어요. 그 사람들은 정가를 내고요?
+12. DEREK: Also, it's unfair. Two hundred seventy-two clinics stayed with us through the recall. If we give discounts to the ones who left, the loyal ones pay full price?
+    데릭: 게다가 불공평해요. 272곳은 회수 내내 우리 곁에 남았어요. 떠난 곳에 할인을 주면, 충성스러운 곳은 정가를 내는 거예요?
 
 13. ZOE: …Good point. Loyal customers punished. Okay. No discount.
     조이: …좋은 지적이네요. 충성 고객이 벌받는 셈. 좋아요. 할인 없음.
@@ -79,8 +79,8 @@
 20. NOAH: You're right. We let you down. I'm here to say that in person.
     노아: 맞아요. 저희가 실망시켜 드렸어요. 직접 말씀드리려고 왔어요.
 
-21. HADDAD: Thirty syringes from lot fifteen. I injected nine. Then called all nine. At night.
-    하다드: 15번 로트 30개. 9개 썼어요. 그리고 아홉 명 전부 전화했죠. 밤에.
+21. HADDAD: I had thirty syringes from lot fifteen. I'd already injected nine of them. So I called all nine patients, at night, one by one, and told them what to watch for.
+    하다드: 15번 로트 주사기가 30개 있었어요. 그중 9개는 이미 썼고요. 그래서 환자 아홉 명 전부한테 밤에 한 명씩 전화해서 뭘 지켜봐야 하는지 말했어요.
 
 22. DEREK: Yourself?
     데릭: 직접요?
@@ -88,8 +88,8 @@
 23. HADDAD: Myself. Do you know how that feels, Bennett?
     하다드: 직접. 그게 어떤 기분인지 알아요, 베넷?
 
-24. NOAH: Not the way you do. I called clinics. You called patients. That's harder.
-    노아: 선생님만큼은 아니에요. 전 병원에 전화했고. 선생님은 환자에게 했죠. 그게 더 어려워요.
+24. NOAH: Not the way you do. I called clinics, and that was hard enough. You called patients who trusted you with their faces. That's much harder, and I'm sorry you had to.
+    노아: 선생님만큼은 아니에요. 전 병원에 전화했고, 그것만으로도 힘들었어요. 선생님은 얼굴을 맡긴 환자들에게 전화하셨죠. 그게 훨씬 더 어려워요. 그러셔야 했던 게 죄송합니다.
 
 25. HADDAD: It is. All nine are okay, by the way.
     하다드: 그래요. 그나저나 아홉 명 다 괜찮아요.
@@ -142,8 +142,8 @@
 41. HADDAD: Months before? Then why didn't you act months before?
     하다드: 몇 달 전에요? 그럼 왜 몇 달 전에 조치하지 않았어요?
 
-42. NOAH: Fair question. The trend was inside the spec. We investigated. Not fast enough.
-    노아: 정당한 질문이에요. 추세는 규격 안이었어요. 조사했지만. 충분히 빠르지 않았어요.
+42. NOAH: Fair question. The trend was still inside the spec, so we investigated instead of stopping. But we didn't move fast enough. That was our mistake, and I won't defend it.
+    노아: 정당한 질문이에요. 추세가 아직 규격 안이어서, 멈추는 대신 조사를 했어요. 하지만 충분히 빠르게 움직이지 않았어요. 그건 저희 실수였고, 변명하지 않겠습니다.
 
 43. HADDAD: You admit that?
     하다드: 그걸 인정해요?
@@ -160,8 +160,8 @@
 47. HADDAD: Not even a little? For an angry doctor?
     하다드: 조금도요? 화난 의사한테?
 
-48. NOAH: Discount you, and the clinics who stayed pay for your anger. Not fair.
-    노아: 선생님께 할인하면 남은 병원들이 선생님의 분노 값을 내는 셈이에요. 공정하지 않죠.
+48. NOAH: Here's the thing. If we discount you, the clinics who stayed with us pay for your anger. That's not fair to them, and honestly, you wouldn't respect us if we did it.
+    노아: 중요한 건 이거예요. 선생님께 할인하면, 저희 곁에 남은 병원들이 선생님의 분노 값을 내는 셈이에요. 그분들께 공정하지 않고, 솔직히 저희가 그렇게 하면 선생님도 저희를 존중하지 않으실 거예요.
 
 49. HADDAD: …That's the first rep answer I've liked in years.
     하다드: …몇 년 만에 마음에 드는 영업 답변이네요.
@@ -201,8 +201,8 @@
 60. NOAH: Even with zero infections?
     노아: 감염이 0건인데도요?
 
-61. MENDES: They don't read that far. In my market, perception is everything.
-    멘데스: 거기까지 안 읽어요. 우리 시장에선 인식이 전부예요.
+61. MENDES: They don't read that far. In my market, perception is everything. My patients pay a lot, and they want to feel safe. One bad word in the news is enough.
+    멘데스: 거기까지 안 읽어요. 우리 시장에선 인식이 전부예요. 우리 환자들은 돈을 많이 내고, 안전하다고 느끼고 싶어 해요. 뉴스에 나쁜 단어 하나면 충분해요.
 
 62. NOAH: That's fair. You know your patients better than we do.
     노아: 그럴 만하네요. 환자분들은 선생님이 저희보다 더 잘 아시니까요.
@@ -210,8 +210,8 @@
 63. MENDES: You're not going to argue?
     멘데스: 반박 안 해요?
 
-64. NOAH: No. We let you down. I'm sorry this happened. The door stays open.
-    노아: 아니요. 저희가 실망시켜 드렸어요. 이런 일이 생겨 죄송해요. 문은 열려 있어요.
+64. NOAH: No. We let you down, and I'm sorry this happened. I won't try to change your mind today. But I want you to know the door stays open, whenever you're ready.
+    노아: 아니요. 저희가 실망시켜 드렸고, 이런 일이 생겨 죄송해요. 오늘 마음을 바꾸시라고 설득하지 않을게요. 하지만 준비되시면 언제든 문은 열려 있다는 걸 알아 주셨으면 해요.
 
 65. MENDES: The door stays open. Hmm. Most companies slam it. Or keep calling.
     멘데스: 문은 열려 있다. 흠. 대부분 회사는 쾅 닫거나. 계속 전화하죠.
@@ -237,8 +237,8 @@
 72. AVA: Keisha! You were angry three weeks ago.
     에이바: 키샤! 3주 전엔 화났었잖아요.
 
-73. KEISHA: I was. Then you sat with me. Called twenty patients. Ate cold pizza.
-    키샤: 그랬죠. 그다음 당신이 내 옆에 앉아서. 환자 스무 명한테 전화하고. 식은 피자 먹었잖아요.
+73. KEISHA: I was. Then you sat with me that night and called twenty patients, one after another, and ate cold pizza. Nobody from any company ever did that for me.
+    키샤: 그랬죠. 그런데 그날 밤 당신이 내 옆에 앉아서 환자 스무 명한테 한 명씩 전화하고, 식은 피자를 먹었잖아요. 어느 회사 사람도 나한테 그렇게 해 준 적 없어요.
 
 74. AVA: I'd do it again. Cold pizza and all.
     에이바: 또 할 거예요. 식은 피자까지 전부.
@@ -275,8 +275,8 @@
 84. HADDAD: …Stop injecting. Right. I skipped it. Twenty years, and I skipped step one.
     하다드: …주입 중단. 맞다. 건너뛰었네. 20년인데 1단계를 건너뛰었어요.
 
-85. TASHA: Everyone does. Even our CEO. That's why it's on the card.
-    타샤: 다들 그래요. 우리 CEO도요. 그래서 카드에 있는 거예요.
+85. TASHA: Everyone does, even our CEO. When you've done this for years, your hands go straight to the fix. That's exactly why step one is on the card.
+    타샤: 다들 그래요. 우리 CEO도요. 몇 년씩 하다 보면 손이 바로 해결책으로 가거든요. 바로 그래서 1단계가 카드에 있는 거예요.
 
 86. HADDAD: Again. Stop injecting. Call for help. Start the timer. Flip the card.
     하다드: 다시. 주입 중단. 도움 요청. 타이머 시작. 카드 뒤집기.
@@ -305,8 +305,8 @@
 94. NOAH: Three?
     노아: 세 명이요?
 
-95. HADDAD: One read your recall article. She said, "That company tells the truth. I want theirs."
-    하다드: 한 명은 당신네 회수 기사를 읽었대요. "그 회사는 진실을 말해요. 그 회사 걸로 할래요."
+95. HADDAD: One of them read your recall article. She told me, "That company tells the truth. I want theirs." Fifteen years of Halvern ads, and a recall story won her over.
+    하다드: 그중 한 명이 당신네 회수 기사를 읽었대요. "그 회사는 진실을 말해요. 그 회사 걸로 할래요."라고 하더군요. 15년 동안의 할번 광고 대신, 회수 기사 하나가 그 환자 마음을 얻은 거예요.
 
 96. DEREK: The recall article? Brought you a patient?
     데릭: 회수 기사가요? 환자를 데려왔다고요?
@@ -346,8 +346,8 @@
 107. ZOE: Fourteen out of eighteen. Without a single discount.
      조이: 18곳 중 14곳. 할인 하나 없이.
 
-108. DEREK: And Haddad. Twelve Dallas doctors will hear about it. By Monday.
-     데릭: 그리고 하다드. 댈러스 의사 열두 명이 듣게 될 거예요. 월요일까지.
+108. DEREK: And Haddad matters most. Twelve Dallas doctors follow what he does, and they'll hear about it by Monday. One win in the right clinic is worth ten cold calls.
+     데릭: 그리고 하다드가 제일 중요해요. 댈러스 의사 열두 명이 그를 따라 하고, 월요일까지 이 얘기를 듣게 될 거예요. 제대로 된 병원 하나를 얻는 게 콜드콜 열 통보다 나아요.
 
 109. NOAH: What worked? In one sentence.
      노아: 뭐가 효과 있었어요? 한 문장으로.
@@ -379,8 +379,8 @@
 118. NOAH: Already? We just survived a recall.
      노아: 벌써? 회수에서 겨우 살아남았는데.
 
-119. MARCUS: That's why. He says, "Survivors raise money. The clock is ticking."
-     마커스: 그래서래. "살아남은 자가 투자를 받는다. 시간이 없다."
+119. MARCUS: That's exactly why. He says, "Survivors raise money. The clock is ticking." Investors read that article too, Noah, and right now our story is the best it's ever been.
+     마커스: 바로 그래서래. "살아남은 자가 투자를 받는다. 시간이 없다." 투자자들도 그 기사를 읽었어, 노아. 그리고 지금 우리 이야기는 그 어느 때보다 좋아.
 
 120. ZOE: And there's something else. Halvern sent a press invite. For next Thursday. Same day.
      조이: 그리고 또 있어요. 할번이 언론 초대장을 보냈어요. 다음 주 목요일. 같은 날.
@@ -420,3 +420,18 @@
 | — | Next step | Staff training (lunch sessions) → then decide |
 
 > **Win-back results (4 weeks):** 18 paused → 14 back · 2 no (door open) · 2 pending
+
+### ④ 긴 발화 분석
+
+> **48턴 NOAH:** "Here's the thing. If we discount you, the clinics who stayed with us pay for your anger. That's not fair to them, and honestly, you wouldn't respect us if we did it."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 신호(주의 집중) | Here's the thing. | 거절 전에 핵심을 말하겠다는 신호 |
+| ② 결과 제시(조건) | If we discount you, the clinics who stayed with us pay for your anger. | if절로 요청을 들어줬을 때의 결과를 구체적으로 보여 줌 |
+| ③ 공정성 근거 | That's not fair to them, | 제3자(남은 고객)를 근거로 거절을 정당화 |
+| ④ 상대 관점 | and honestly, you wouldn't respect us if we did it. | 상대의 가치관에 호소해 거절을 존중으로 바꿈 |
+
+**활용 패턴:** 신호 → If + 들어줬을 때의 결과 → 공정성 → 상대 입장에서 본 이유
+**연결 표현:** Here's the thing(중요한 건 이거예요) · pay for(~의 대가를 치르다) · honestly(솔직히)
+**연습:** 할인을 요구하는 화난 고객에게, 같은 구조로 30단어 안팎으로 정중하게 거절해 보기.

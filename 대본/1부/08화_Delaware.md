@@ -70,8 +70,8 @@
 17. NOAH: Delaware? We're in Texas. Just to clarify, why Delaware?
     노아: 델라웨어요? 저희는 텍사스에 있는데요. 확인차 여쭤볼게요. 왜 델라웨어죠?
 
-18. DIANE: Because investors expect it. Delaware has the clearest corporate law.
-    다이앤: 투자자들이 그걸 기대하니까요. 델라웨어의 회사법이 가장 명확해요.
+18. DIANE: Because investors expect it. Delaware has the clearest corporate law in the country, and most venture-backed startups are set up there, so lawyers on both sides already know the rules.
+    다이앤: 투자자들이 그걸 기대하니까요. 델라웨어의 회사법이 미국에서 가장 명확하고, 벤처 투자를 받는 스타트업 대부분이 거기 설립돼요. 그래서 양쪽 변호사 모두 이미 규칙을 알고 있죠.
 
 19. PRIYA: Clearest how?
     프리야: 어떻게 명확한데요?
@@ -130,8 +130,8 @@
 37. NOAH: What happens if we miss it?
     노아: 놓치면 어떻게 돼요?
 
-38. DIANE: You could pay tax on shares you can't sell. Possibly a lot.
-    다이앤: 팔지도 못하는 지분에 세금을 낼 수 있어요. 어쩌면 아주 많이요.
+38. DIANE: You could pay tax on shares you can't sell. Possibly a lot. Without the form, the IRS can tax your shares as they vest, at whatever the company is worth then.
+    다이앤: 팔지도 못하는 지분에 세금을 낼 수 있어요. 어쩌면 아주 많이요. 그 서류가 없으면 국세청이 지분이 베스팅될 때마다, 그 시점의 회사 가치로 세금을 매길 수 있거든요.
 
 39. PRIYA: Thirty days. No exceptions?
     프리야: 30일. 예외 없어요?
@@ -148,8 +148,8 @@
 43. DIANE: Go ahead.
     다이앤: 말해 보세요.
 
-44. NOAH: If she says a product isn't safe, it doesn't ship. She wants that written.
-    노아: 제품이 안전하지 않다고 그녀가 말하면 출시는 없어요. 그걸 문서로 원해요.
+44. NOAH: If she says a product isn't safe, it doesn't ship. No arguments, no exceptions, not even if investors are pushing. It's her condition for joining, and she wants that written.
+    노아: 제품이 안전하지 않다고 그녀가 말하면 출시는 없어요. 논쟁도, 예외도 없고, 투자자들이 밀어붙여도 마찬가지예요. 그게 합류 조건이고, 그걸 문서로 원해요.
 
 45. DIANE: A safety veto. I've never seen that in a founders' agreement.
     다이앤: 안전 거부권이라. 창업자 계약서에서 그런 건 본 적이 없네요.
@@ -180,8 +180,8 @@
 53. DIANE: Yes. When was it published?
     다이앤: 네. 언제 발표됐죠?
 
-54. PRIYA: Four years ago. Before Halvern hired me. I made sure of that date.
-    프리야: 4년 전이요. 할번이 저를 뽑기 전이에요. 날짜는 확실히 확인했어요.
+54. PRIYA: Four years ago. Before Halvern hired me. I made sure of that date, because I knew their contract says anything I invent while I work there belongs to them.
+    프리야: 4년 전이요. 할번이 저를 뽑기 전이에요. 날짜는 확실히 확인했어요. 거기서 일하는 동안 제가 발명하는 건 전부 회사 소유라고 계약서에 쓰여 있다는 걸 알았거든요.
 
 55. DIANE: Good. Then Halvern can't claim it. That date matters. Write it down, Josh.
     다이앤: 좋아요. 그럼 할번은 소유권을 주장할 수 없어요. 그 날짜가 중요해요. 조시, 적어 둬요.
@@ -204,11 +204,11 @@
 61. NOAH: Wait. Not even Priya? It's her idea.
     노아: 잠깐만요. 프리야도요? 프리야 아이디어잖아요.
 
-62. DIANE: In the US, you have one year after publishing to file a patent. That passed.
-    다이앤: 미국에선 발표 후 1년 안에 특허를 출원해야 해요. 그 기간이 지났어요.
+62. DIANE: In the US, you have one year after publishing to file a patent. Your thesis came out four years ago, so that window closed three years ago. For you and for everyone else.
+    다이앤: 미국에선 발표 후 1년 안에 특허를 출원해야 해요. 논문이 4년 전에 나왔으니, 그 기회는 3년 전에 닫혔어요. 박사님에게도, 다른 모든 사람에게도요.
 
-63. PRIYA: Nobody told me that. I was a student.
-    프리야: 아무도 그런 말 안 해 줬어요. 전 학생이었어요.
+63. PRIYA: Nobody told me that. I was a student. I was thinking about getting published and finishing my degree, not about patents. If I'd known, I would have done it differently.
+    프리야: 아무도 그런 말 안 해 줬어요. 전 학생이었어요. 논문 내고 학위 마치는 것만 생각했지, 특허는 생각도 안 했어요. 알았더라면 다르게 했을 거예요.
 
 64. DIANE: Nobody tells students. It's one of my least favorite facts.
     다이앤: 학생들한텐 아무도 안 알려 주죠. 내가 제일 싫어하는 사실 중 하나예요.
@@ -284,8 +284,8 @@
 87. NOAH: No product for years. No customers. No secrets.
     노아: 몇 년간 제품 없음. 고객 없음. 기밀 없음.
 
-88. DIANE: Then for the next twelve months, you're doing research. Not competing in the market.
-    다이앤: 그럼 앞으로 12개월 동안 당신은 연구를 하는 거예요. 시장에서 경쟁하는 게 아니라.
+88. DIANE: Then for the next twelve months, you're doing research. Not competing in the market. You have no product to sell and no customers to take, so it's hard to argue you're hurting Halvern.
+    다이앤: 그럼 앞으로 12개월 동안 당신은 연구를 하는 거예요. 시장에서 경쟁하는 게 아니라. 팔 제품도 없고 빼 갈 고객도 없으니, 할번에 피해를 준다고 주장하기 어렵죠.
 
 89. NOAH: Is that enough?
     노아: 그걸로 충분해요?
@@ -296,8 +296,8 @@
 91. NOAH: What does "clean" mean, exactly?
     노아: "깨끗이"가 정확히 뭘 뜻해요?
 
-92. DIANE: No Halvern files. No Halvern customer lists. Don't call Halvern's doctors.
-    다이앤: 할번 파일 금지. 할번 고객 명단 금지. 할번 거래 의사들한테 전화 금지.
+92. DIANE: No Halvern files. No Halvern customer lists. Don't call Halvern's doctors. If they ever sue, their lawyers will look for exactly those three things, so give them nothing to find.
+    다이앤: 할번 파일 금지. 할번 고객 명단 금지. 할번 거래 의사들한테 전화 금지. 그쪽에서 소송을 걸면 변호사들이 바로 그 세 가지를 찾을 테니, 찾을 거리를 하나도 주지 마세요.
 
 93. NOAH: Understood. Should we ask Halvern for a written release?
     노아: 알겠어요. 할번에 서면으로 면제를 요청해야 할까요?
@@ -326,8 +326,8 @@
 101. PRIYA: Forty-something. Maybe forty-five.
      프리야: 40몇 번이요. 45번쯤?
 
-102. DIANE: It's a start. We'd need more evidence. Articles, awards, expert letters. It takes time.
-     다이앤: 시작은 되네요. 증거가 더 필요해요. 논문, 수상, 전문가 추천서. 시간이 걸려요.
+102. DIANE: It's a start. We'd need more evidence. Articles, awards, expert letters from people in your field. You build that kind of record over months, sometimes years, so it takes time.
+     다이앤: 시작은 되네요. 증거가 더 필요해요. 논문, 수상, 같은 분야 사람들의 전문가 추천서. 그런 기록은 몇 달, 때로는 몇 년에 걸쳐 쌓는 거라 시간이 걸려요.
 
 103. NOAH: And option B?
      노아: B안은요?
@@ -340,8 +340,8 @@
 
 ### 마무리 — 함정, 그리고 액션 아이템
 
-106. DIANE: Veyra must pay you a real salary. A full market salary.
-     다이앤: Veyra가 박사님께 진짜 급여를 줘야 해요. 시장 수준의 급여 전액이요.
+106. DIANE: Veyra must pay you a real salary. A full market salary, not founder's pocket money. Immigration checks that, so the company needs enough cash in the bank to pay you every month.
+     다이앤: Veyra가 박사님께 진짜 급여를 줘야 해요. 창업자 용돈이 아니라 시장 수준의 급여 전액이요. 이민국이 그걸 확인하니까, 회사 통장에 매달 급여를 줄 만큼 현금이 있어야 해요.
 
 107. NOAH: With money we don't have yet.
      노아: 아직 없는 돈으로요.
@@ -361,14 +361,14 @@
 112. DIANE: For now. And check Halvern's conflict-of-interest policy. You may need to disclose.
      다이앤: 당분간은요. 그리고 할번의 이해충돌 정책을 확인하세요. 공개해야 할 수도 있어요.
 
-113. PRIYA: Disclose that I co-own a future competitor? That conversation would be fun.
-     프리야: 미래의 경쟁사를 공동 소유하고 있다고 공개하라고요? 아주 재밌는 대화가 되겠네요.
+113. PRIYA: Disclose that I co-own a future competitor? That conversation would be fun. My manager would smile, say thank you, and probably walk me to the door the same afternoon.
+     프리야: 미래의 경쟁사를 공동 소유하고 있다고 공개하라고요? 아주 재밌는 대화가 되겠네요. 상사가 웃으면서 고맙다고 하고, 아마 그날 오후에 바로 저를 문밖까지 배웅하겠죠.
 
 114. DIANE: Read the policy first. Then we'll talk. Josh, the action items?
      다이앤: 정책부터 읽으세요. 그다음에 얘기해요. 조시, 액션 아이템은?
 
-115. JOSH: Incorporate in Delaware. Buy founder shares. File 83(b) within thirty days.
-     조시: 델라웨어 법인 설립. 창업자 지분 매입. 30일 안에 83(b) 제출.
+115. JOSH: Incorporate in Delaware, then register in Texas. Buy founder shares at the low price today. File the 83(b) within thirty days, and I've marked that one in red.
+     조시: 델라웨어에 법인 설립 후 텍사스에 등록. 오늘 낮은 가격으로 창업자 지분 매입. 30일 안에 83(b) 제출, 그건 빨간색으로 표시해 뒀습니다.
 
 116. DIANE: Plus the founders' agreement with a safety committee. UT check. Halvern policy. O-1 evidence.
      다이앤: 안전위원회 포함 창업자 계약서. UT 확인. 할번 정책 확인. O-1 증거 준비 시작.
@@ -426,3 +426,18 @@
 > **[Name]**
 
 예시 행: *File 83(b) election | Noah, Priya, Marcus, Elena | within 30 days of share purchase*
+
+### ④ 긴 발화 분석
+
+> **62턴 DIANE:** "In the US, you have one year after publishing to file a patent. Your thesis came out four years ago, so that window closed three years ago. For you and for everyone else."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 규칙(일반 원칙) | In the US, you have one year after publishing to file a patent. | 전문가가 먼저 적용되는 규칙을 한 문장으로 제시 |
+| ② 적용(사실 대입) | Your thesis came out four years ago, | 상대의 구체적 상황을 규칙에 대입 |
+| ③ 결론(결과) | so that window closed three years ago. | "so"로 규칙 + 사실 → 결론을 연결 |
+| ④ 범위(강조) | For you and for everyone else. | 결론이 누구에게 적용되는지 짧게 덧붙여 오해를 막음 |
+
+**활용 패턴:** 규칙 → 우리 상황 → so 결론 → 적용 범위
+**연결 표현:** you have … to …(~할 기한이 …이다) · so(그래서) · that window closed(그 기회는 닫혔다)
+**연습:** 신청 마감이 지난 이유를 묻는 동료에게, 규칙 → 사실 → 결론 순서로 30단어 안팎으로 설명해 보기.

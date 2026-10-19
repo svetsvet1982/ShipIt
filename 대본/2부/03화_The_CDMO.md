@@ -44,8 +44,8 @@
 09. NOAH: Our request for quote. Marcus wrote it.
     노아: 저희 견적 요청서요. 마커스가 썼어요.
 
-10. KEVIN: It was very clear. Specs, volumes, timeline. Rare for a startup.
-    케빈: 아주 명확했어요. 사양, 물량, 일정. 스타트업치고 드물죠.
+10. KEVIN: It was very clear. Specs, volumes, timeline, all clearly listed. That's rare for a startup. Most send me a pitch deck and ask me to guess what they need.
+    케빈: 아주 명확했어요. 사양, 물량, 일정이 전부 깔끔하게 정리돼 있었죠. 스타트업치고 드물어요. 대부분은 피치 덱을 보내 놓고 뭐가 필요한지 저보고 짐작하라고 하거든요.
 
 11. MARCUS: Army habit. If it's not written down, it didn't happen.
     마커스: 군대 버릇이에요. 적혀 있지 않으면 일어나지 않은 거죠.
@@ -82,8 +82,8 @@
 21. NOAH: Three thousand. That's more than we need.
     노아: 3,000개요. 저희가 필요한 것보다 많네요.
 
-22. KEVIN: I understand. But setting up the line costs the same. Big batch or small.
-    케빈: 이해해요. 하지만 라인 세팅 비용은 똑같아요. 배치가 크든 작든.
+22. KEVIN: I understand. But setting up the line costs the same, big batch or small. Cleaning, calibration, validation, the same people and the same hours. A smaller batch just spreads that cost over fewer syringes.
+    케빈: 이해해요. 하지만 라인 세팅 비용은 배치가 크든 작든 똑같아요. 세척, 보정, 밸리데이션, 같은 인력에 같은 시간이 들죠. 배치가 작으면 그 비용을 더 적은 주사기로 나눌 뿐이에요.
 
 23. MARCUS: True. Setup is the expensive part. I've run those numbers myself.
     마커스: 맞아요. 세팅이 비싼 부분이죠. 저도 직접 계산해 봤어요.
@@ -100,8 +100,8 @@
 27. KEVIN: Usually four to six months. Three test batches before we make anything real.
     케빈: 보통 4개월에서 6개월이요. 진짜 제품 전에 시험 배치 세 번.
 
-28. PRIYA: And our recipe isn't final yet. We're still fixing extrusion.
-    프리야: 그리고 저희 레시피는 아직 확정이 아니에요. 압출 문제를 고치는 중이에요.
+28. PRIYA: And to be honest, our recipe isn't final yet. We're still fixing extrusion, the gel is too stiff for the needle, so anything we teach you today might change next month.
+    프리야: 그리고 솔직히 말씀드리면, 저희 레시피는 아직 확정이 아니에요. 압출 문제를 고치는 중이에요. 젤이 바늘을 통과하기엔 너무 뻑뻑해서, 오늘 알려 드리는 건 다음 달에 바뀔 수도 있어요.
 
 29. KEVIN: Honest. I appreciate that. Many startups pretend everything is ready.
     케빈: 솔직하시네요. 고마워요. 많은 스타트업이 다 준비된 척하거든요.
@@ -133,8 +133,8 @@
 38. MARCUS: A hundred and fifty thousand per batch. Plus tech transfer.
     마커스: 배치당 15만 달러. 거기에 기술 이전 비용.
 
-39. NOAH: That's almost a third of our money. Before a single patient.
-    노아: 우리 돈의 거의 3분의 1이에요. 환자 한 명 보기도 전에.
+39. NOAH: That's almost a third of our money, before a single patient. And we still need animal studies, salaries, and lab space from the same account. That's a very big bite.
+    노아: 우리 돈의 거의 3분의 1이에요. 환자 한 명 보기도 전에. 그런데 같은 계좌에서 동물 시험, 월급, 실험실 공간까지 다 나가야 해요. 엄청나게 큰 지출이죠.
 
 40. KEVIN: I know it's a lot for a young company. That's normal in this business.
     케빈: 신생 회사엔 큰돈이라는 거 알아요. 이 업계에선 정상이에요.
@@ -204,8 +204,8 @@
 61. PRIYA: Honestly? Two. In a shared lab.
     프리야: 솔직히요? 두 배치요. 공유 실험실에서.
 
-62. SANDRA: Then we'll need more data before tech transfer. At least five batches.
-    산드라: 그럼 기술 이전 전에 데이터가 더 필요해요. 최소 다섯 배치.
+62. SANDRA: Then we'll need more data before tech transfer. At least five batches. Two batches can look good by luck. Five batches tells me your process is stable, not just your best day.
+    산드라: 그럼 기술 이전 전에 데이터가 더 필요해요. 최소 다섯 배치. 두 배치는 운이 좋아서 잘 나올 수도 있어요. 다섯 배치는 그게 제일 잘된 날이 아니라 공정이 안정적이라는 걸 보여 주죠.
 
 63. PRIYA: Understood. That's fair.
     프리야: 알겠습니다. 합당하네요.
@@ -243,8 +243,8 @@
 74. NOAH: You kicked me.
     노아: 저를 찼잖아요.
 
-75. MARCUS: Same thing. Kevin, year three is still clinical. Zero commercial sales.
-    마커스: 그게 그거지. 케빈, 3년 차는 아직 임상 단계예요. 상업 판매는 0개.
+75. MARCUS: Same thing. Kevin, year three is still clinical. Zero commercial sales. We'll be running trials and waiting for the FDA, so every syringe you make for us goes into a study, not a store.
+    마커스: 그게 그거지. 케빈, 3년 차는 아직 임상 단계예요. 상업 판매는 0개. 임상을 진행하면서 FDA를 기다리고 있을 테니, 저희 주사기는 전부 매장이 아니라 연구에 들어가요.
 
 76. KEVIN: Thank you. I hear "a million easily" every week. It's never true.
     케빈: 고마워요. "쉽게 100만 개" 소리는 매주 들어요. 한 번도 맞은 적이 없죠.
@@ -252,8 +252,8 @@
 77. NOAH: Sorry. Marketing habit.
     노아: 죄송해요. 마케팅 버릇이에요.
 
-78. KEVIN: No problem. A realistic forecast helps me plan your capacity. And price.
-    케빈: 괜찮아요. 현실적인 예측이 있어야 생산 능력도, 가격도 계획할 수 있어요.
+78. KEVIN: No problem. A realistic forecast helps me plan your capacity and your price. If you promise a million and order two thousand, I've held a line empty for nothing.
+    케빈: 괜찮아요. 현실적인 예측이 있어야 생산 능력도, 가격도 계획할 수 있어요. 100만 개를 약속하고 2,000개를 주문하시면, 저는 라인을 괜히 비워 둔 셈이 되거든요.
 
 79. MARCUS: I'll send you a conservative forecast. Three scenarios. Low, base, high.
     마커스: 보수적인 예측을 보낼게요. 시나리오 세 개. 낮음, 기본, 높음.
@@ -272,8 +272,8 @@
 83. KEVIN: Sandra wants five test batches, not three. More batches, more cost.
     케빈: 산드라가 시험 배치를 세 번이 아니라 다섯 번 원해서요. 배치가 늘면 비용도 늘죠.
 
-84. SANDRA: Quality is never free. But it's cheaper than a recall.
-    산드라: 품질은 절대 공짜가 아니에요. 하지만 리콜보다는 싸죠.
+84. SANDRA: Quality is never free. But it's cheaper than a recall. Two extra test batches cost you money now. A failed batch in a clinical trial costs you the whole trial.
+    산드라: 품질은 절대 공짜가 아니에요. 하지만 리콜보다는 싸죠. 시험 배치 두 번 더 하면 지금 돈이 들어요. 하지만 임상시험에서 배치 하나가 실패하면 임상 전체를 잃어요.
 
 85. MARCUS: I agree with Sandra. But the price is above our target.
     마커스: 산드라 말에 동의해요. 하지만 가격이 저희 목표보다 높아요.
@@ -293,8 +293,8 @@
 90. KEVIN: That's hard. The line costs the same to set up.
     케빈: 그건 어려워요. 라인 세팅 비용은 똑같거든요.
 
-91. NOAH: What if we commit to you long-term? If the trial succeeds, you make everything.
-    노아: 장기적으로 약속하면 어때요? 임상이 성공하면 전부 여기서 생산하는 걸로요.
+91. NOAH: Here's the thing. What if we commit to you long-term? If the trial succeeds, you make everything. So a small order today becomes a much bigger customer for you later.
+    노아: 요점은 이거예요. 장기적으로 약속하면 어때요? 임상이 성공하면 전부 여기서 생산하는 거죠. 그러니까 오늘의 작은 주문이 나중엔 훨씬 큰 고객이 되는 거예요.
 
 92. KEVIN: Exclusive commercial supply?
     케빈: 상업 생산을 독점으로요?
@@ -332,8 +332,8 @@
 103. PRIYA: That protects our cash. And motivates everyone.
      프리야: 그럼 우리 현금이 보호되고, 모두에게 동기도 되겠네요.
 
-104. KEVIN: One condition. You sign after your seed round. I need to know you'll survive.
-     케빈: 조건 하나. 시드 라운드 후에 서명하세요. 살아남을 거라는 걸 알아야 해서요.
+104. KEVIN: One condition. You sign after your seed round. I like you, but I've seen young companies run out of money halfway through tech transfer, and then nobody wins. I need to know you'll survive.
+     케빈: 조건 하나. 시드 라운드 후에 서명하세요. 여러분이 마음에 들지만, 신생 회사가 기술 이전 도중에 돈이 떨어지는 걸 봐 왔어요. 그러면 아무도 이기지 못하죠. 살아남을 거라는 걸 알아야 해요.
 
 105. NOAH: Fair. We'd rather sign when we can actually pay.
      노아: 합당해요. 저희도 실제로 낼 수 있을 때 서명하는 게 나아요.
@@ -370,8 +370,8 @@
 115. MARCUS: Understood. We respect that.
      마커스: 이해해요. 존중합니다.
 
-116. KEVIN: I told them we were full until next year. You, I'm making room for.
-     케빈: 그쪽엔 내년까지 꽉 찼다고 했어요. 여러분을 위해선 자리를 만드는 거고요.
+116. KEVIN: I told them we were full until next year. You, I'm making room for. Our slots are limited, so I choose partners carefully. Not every company that calls gets one.
+     케빈: 그쪽엔 내년까지 꽉 찼다고 했어요. 여러분을 위해선 자리를 만드는 거고요. 저희 슬롯은 한정돼 있어서 파트너를 신중하게 골라요. 전화하는 회사가 다 자리를 얻는 건 아니에요.
 
 117. NOAH: Why us?
      노아: 왜 저희예요?
@@ -379,8 +379,8 @@
 118. KEVIN: Your RFQ was honest. And they said "a million easily" three times.
      케빈: RFQ가 솔직했어요. 그리고 그쪽은 "쉽게 100만 개"를 세 번이나 말했거든요.
 
-119. PRIYA: Enzyme-sensitive. Noah, the idea is public. Someone's reading chapter four.
-     프리야: 효소 감응성. 노아, 아이디어는 공개돼 있어. 누군가 4장을 읽고 있어.
+119. PRIYA: Enzyme-sensitive. Noah, the idea is public. My thesis is published, and someone's reading chapter four very carefully. If they're already calling manufacturers, they're not far behind us.
+     프리야: 효소 감응성. 노아, 아이디어는 공개돼 있어. 내 논문은 출판됐고, 누군가 4장을 아주 꼼꼼히 읽고 있어. 벌써 생산업체에 전화하고 있다면, 우리 바로 뒤에 있는 거야.
 
 120. NOAH: Then we'd better move faster than whoever they are.
      노아: 그럼 그게 누구든 우리가 더 빨리 움직여야겠네.
@@ -419,3 +419,17 @@
 
 예시:
 > *Product: 1 mL prefilled syringe, hyaluronic acid gel with lidocaine. Specifications: terminally sterilized, room-temperature storage, 24-month shelf life. Volumes: 500 (preclinical), 2,000 (clinical); commercial forecast in three scenarios. Timeline: tech transfer start Q2 next year.*
+
+### ④ 긴 발화 분석
+
+> **22턴 KEVIN:** "I understand. But setting up the line costs the same, big batch or small. Cleaning, calibration, validation, the same people and the same hours. A smaller batch just spreads that cost over fewer syringes."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 공감 + 반론 | I understand. But setting up the line costs the same, big batch or small. | 상대 입장을 먼저 인정한 뒤 핵심 사실로 반박 |
+| ② 근거(목록) | Cleaning, calibration, validation, the same people and the same hours. | 고정비가 무엇인지 구체적으로 나열 |
+| ③ 결론(계산 논리) | A smaller batch just spreads that cost over fewer syringes. | 작은 주문이 왜 단가를 올리는지 한 줄로 정리 |
+
+**활용 패턴:** I understand. But + 핵심 사실 → 구체적 목록 → 그래서 생기는 결과
+**연결 표현:** I understand. But…(이해합니다만…) · A or B(…든 …든) · spread the cost over…(비용을 …로 나누다)
+**연습:** 소량 주문 할인을 요구하는 고객에게 공급사 입장에서 같은 구조로 30단어 안팎으로 설명해 보기.

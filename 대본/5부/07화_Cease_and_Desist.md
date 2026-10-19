@@ -17,8 +17,8 @@
 
 ### 도입 — 밤 9시, 긴급 회의
 
-01. DIANE: Everyone, sit. Breathe. A cease-and-desist letter is not a lawsuit. Not yet.
-    다이앤: 다들 앉아요. 숨 쉬어요. 경고장은 소송이 아니에요. 아직은.
+01. DIANE: Everyone, sit. Breathe. A cease-and-desist letter is not a lawsuit. Not yet. It's a demand, written to scare you into acting quickly, and the worst thing we can do tonight is decide anything while we're frightened.
+    다이앤: 모두 앉아요. 숨 쉬고. 경고장은 소송이 아니에요. 아직은. 요구서예요. 겁을 줘서 서둘러 행동하게 만들려고 쓴 거죠. 그리고 오늘 밤 우리가 할 수 있는 최악의 일은 겁먹은 상태로 뭔가를 결정하는 거예요.
 
 02. ZOE: It says "stop selling Veyra Fill within thirty days." That sounds like the end of the world.
     조이: "30일 내에 베이라 필 판매를 중단하라"고 돼 있어요. 세상의 종말처럼 들려요.
@@ -41,8 +41,8 @@
 08. NOAH: Priya. Look at me. Are you okay?
     노아: 프리야. 날 봐. 괜찮아?
 
-09. PRIYA: No. I worked at Halvern for four years. What if they think I took it from them?
-    프리야: 아니. 할번에서 4년 일했잖아. 내가 그걸 거기서 가져왔다고 생각하면 어떡해?
+09. PRIYA: No. I worked at Halvern for four years. What if they think I took it from them? And what if, somewhere in your heads, all of you start wondering the same thing? I don't think I could live with that.
+    프리야: 아니. 나 할번에서 4년 일했어. 그 사람들이 내가 거기서 가져왔다고 생각하면 어떡해? 그리고 혹시라도 여러분 머릿속 어딘가에서 다들 똑같은 생각을 하기 시작하면? 난 그건 못 견딜 것 같아.
 
 10. ELENA: Your thesis was published before you joined Halvern. Diane has it in writing. Since year one.
     엘레나: 당신 논문은 할번 입사 전에 발표됐어요. 다이앤이 서면으로 갖고 있어요. 1년 차부터.
@@ -70,8 +70,8 @@
 17. NOAH: Why four times for the letter?
     노아: 서한은 왜 네 번이에요?
 
-18. RAYMOND: Because letters tell you what they want. Patents tell you what they have. They're often different.
-    레이먼드: 서한은 그쪽이 뭘 원하는지 알려 주거든요. 특허는 뭘 갖고 있는지 알려 주고요. 종종 달라요.
+18. RAYMOND: Because letters tell you what they want, and patents tell you what they actually have. They're often very different. A letter is written to frighten a CEO at nine p.m. A patent is written for a judge, and judges read the exact words.
+    레이먼드: 서한은 상대가 원하는 걸 말해 주고, 특허는 상대가 실제로 가진 걸 말해 주니까요. 둘은 종종 아주 달라요. 서한은 밤 9시에 CEO를 겁주려고 쓰는 거고, 특허는 판사를 위해 쓰는 거예요. 그리고 판사는 정확한 문구를 읽죠.
 
 19. DIANE: Josh, the claims. On the screen.
     다이앤: 조시, 청구항. 화면에.
@@ -100,8 +100,8 @@
 27. ELENA: Fragile how?
     엘레나: 어떻게 깨지기 쉬워요?
 
-28. RAYMOND: If someone published the same idea before the filing date, the claim can be invalid. That's called prior art.
-    레이먼드: 출원일 전에 누군가 같은 아이디어를 발표했다면 청구항이 무효가 될 수 있어요. 그걸 선행기술이라고 해요.
+28. RAYMOND: If someone published the same idea before the filing date, the claim can be invalid. That's called prior art. The patent office isn't supposed to give anyone ownership of something the world already knew, so a broad claim with old prior art is a house with no foundation.
+    레이먼드: 누군가 출원일 전에 같은 아이디어를 공개했다면, 그 청구항은 무효가 될 수 있어요. 그걸 선행기술이라고 해요. 특허청은 세상이 이미 알던 걸 누구에게도 소유하게 해 줘선 안 되거든요. 그래서 오래된 선행기술이 있는 넓은 청구항은 기초 없는 집이에요.
 
 29. PRIYA: My thesis. Chapter four. Enzyme-sensitive crosslinks. Faster dissolution. Published years before.
     프리야: 내 논문. 4장. 효소 감응성 가교. 더 빠른 용해. 몇 년 전에 발표됐어요.
@@ -127,8 +127,8 @@
 36. PRIYA: Five years ago, you made fun of me. You said I "sat in a library."
     프리야: 5년 전에 날 놀렸잖아. 내가 "도서관에 앉아 있었다"고.
 
-37. NOAH: I was wrong then. That library might save the company now.
-    노아: 그때 내가 틀렸어. 그 도서관이 지금 회사를 구할지도 몰라.
+37. NOAH: I was wrong then, and I've thought about it more than once since. I wanted speed, and I thought research was just a delay. Now that same library might save the company, so please accept a very late apology.
+    노아: 그때 내가 틀렸어요. 그 뒤로도 여러 번 생각했어요. 난 속도를 원했고, 연구는 그냥 지연이라고 생각했죠. 이제 바로 그 도서관이 회사를 구할지도 몰라요. 그러니 아주 늦은 사과지만 받아 줘요.
 
 38. MARCUS: Can I ask the scary question? What if we lose anyway?
     마커스: 무서운 질문 해도 돼요? 그래도 지면요?
@@ -148,8 +148,8 @@
 43. ELENA: And if Halvern wins?
     엘레나: 할번이 이기면요?
 
-44. RAYMOND: Worst case, an injunction. You stop selling. Plus damages. That's why we don't ignore this.
-    레이먼드: 최악의 경우, 금지 명령. 판매 중단. 거기에 손해배상. 그래서 무시하면 안 돼요.
+44. RAYMOND: Worst case, an injunction. You stop selling, and you pay damages on top of that. I'm not saying this to scare you. I'm saying it because companies that ignore letters like this sometimes discover the worst case in a courtroom.
+    레이먼드: 최악의 경우, 판매 금지 명령이에요. 판매를 중단하고, 거기에 손해배상까지 하죠. 겁주려고 하는 말이 아니에요. 이런 서한을 무시한 회사들이 가끔 법정에서 최악의 경우를 직접 겪게 되니까 하는 말이에요.
 
 45. NOAH: Why now? Their patent is six years old. We've sold for a full year.
     노아: 왜 지금이에요? 특허는 6년 됐어요. 우린 꼬박 1년 동안 팔았고요.
@@ -189,8 +189,8 @@
 56. RAYMOND: They'll ask for ten to fifteen percent of sales. Forever. Or until the patent expires.
     레이먼드: 매출의 10~15%를 요구할 거예요. 영원히. 아니면 특허 만료까지.
 
-57. NOAH: Paying for an idea Priya published first? That feels wrong.
-    노아: 프리야가 먼저 발표한 아이디어에 돈을 낸다고요? 그건 잘못된 느낌이에요.
+57. NOAH: Paying for an idea Priya published first? That feels wrong. And here's the thing: if we pay once, Halvern learns that a scary letter works, and every competitor with a lawyer will try the same move next year.
+    노아: 프리야가 먼저 공개한 아이디어에 돈을 낸다고요? 그건 옳지 않은 것 같아요. 그리고 중요한 건 이거예요. 한 번 돈을 내면, 할번은 무서운 서한이 통한다는 걸 배우고, 변호사를 둔 모든 경쟁사가 내년에 같은 수를 쓸 거예요.
 
 58. RAYMOND: Feelings don't count in court. But prior art does. Option three. Fight.
     레이먼드: 법정에서 감정은 안 통해요. 하지만 선행기술은 통하죠. 3안. 싸운다.
@@ -216,8 +216,8 @@
 65. NOAH: What do we say to Halvern? Right now? They gave us thirty days.
     노아: 할번한테는 뭐라고 해요? 지금 당장? 30일을 줬잖아요.
 
-66. DIANE: We answer in fourteen. Not thirty. Speed shows confidence.
-    다이앤: 14일 안에 답해요. 30일이 아니라. 속도가 자신감을 보여 줘요.
+66. DIANE: We answer in fourteen days, not thirty. Speed shows confidence. If we wait until day twenty-nine, they'll assume we spent four weeks searching for a defense. If we answer quickly, they'll assume we already had one.
+    다이앤: 30일이 아니라 14일 안에 답해요. 속도는 자신감을 보여 줘요. 29일째까지 기다리면, 우리가 4주 동안 방어 논리를 찾아 헤맸다고 생각할 거예요. 빨리 답하면, 이미 방어 논리가 있었다고 생각하겠죠.
 
 67. ZOE: What's the tone? Angry? Calm?
     조이: 어조는요? 화난? 차분한?
@@ -252,8 +252,8 @@
 77. MARCUS: Richard will panic. Series B.
     마커스: 리처드가 당황할 거야. 시리즈 B.
 
-78. NOAH: Then we tell him first. With Raymond's analysis. Facts calm people down.
-    노아: 그럼 그 사람한테 먼저 말해요. 레이먼드의 분석과 함께. 사실이 사람을 진정시켜요.
+78. NOAH: Then we tell him first, before any rumor reaches him, and we give him Raymond's analysis instead of my feelings. Facts calm people down. If Richard hears this from a stranger at a conference, no analysis in the world will fix his trust.
+    노아: 그럼 소문이 닿기 전에 그분한테 먼저 말해요. 내 감정 말고 레이먼드의 분석을 드리고요. 사실은 사람을 진정시켜요. 리처드가 이걸 콘퍼런스에서 모르는 사람한테 듣게 되면, 세상 어떤 분석도 그분의 신뢰를 되돌리지 못할 거예요.
 
 79. PRIYA: Raymond. One question. Should I be afraid?
     프리야: 레이먼드. 질문 하나. 내가 두려워해야 해요?
@@ -287,8 +287,8 @@
 88. ELAINE: Noah. I'm on. Marcus said bad news. How bad?
     일레인: 노아. 연결됐어요. 마커스가 나쁜 소식이라던데. 얼마나 나빠요?
 
-89. NOAH: Halvern sent a cease-and-desist. Patent infringement. We have a strong defense. Priya's thesis.
-    노아: 할번이 경고장을 보냈어요. 특허 침해. 강한 방어 수단이 있어요. 프리야의 논문.
+89. NOAH: Halvern sent a cease-and-desist claiming patent infringement, and they want us to stop selling within thirty days. But we have a strong defense. Priya's thesis was published about six years before their filing, which makes their broad claim look invalid.
+    노아: 할번이 특허 침해를 주장하는 경고장을 보냈어요. 30일 안에 판매를 중단하래요. 하지만 우리에겐 강력한 방어 수단이 있어요. 프리야의 논문이 그쪽 출원보다 약 6년 먼저 공개됐거든요. 그래서 그쪽의 넓은 청구항은 무효로 보여요.
 
 90. ELAINE: Her library thesis? The one you made fun of?
     일레인: 그 도서관 논문? 당신이 놀렸던 그거?
@@ -326,8 +326,8 @@
 101. NOAH: Tom.
      노아: 톰.
 
-102. TOM: Noah. You got our letter. I wanted you to hear it from me. It's not about the memo.
-     톰: 노아. 우리 서한 받았지. 나한테서 직접 듣길 바랐어. 메모 때문이 아니야.
+102. TOM: Noah. You got our letter. I wanted you to hear it from me, not just from the lawyers. Whatever people say, it's not about the memo. Halvern has to protect its patents, and I'd be doing my job badly if we didn't.
+     톰: 노아. 우리 서한 받았죠. 변호사들한테서만이 아니라 나한테서도 직접 듣게 하고 싶었어요. 사람들이 뭐라 하든, 메모 때문이 아니에요. 할번은 자기 특허를 지켜야 하고, 그러지 않으면 내가 일을 제대로 못 하는 거예요.
 
 103. NOAH: Our lawyers will respond. I can't discuss it, Tom.
      노아: 우리 변호사들이 답할 거예요. 그 얘긴 할 수 없어요, 톰.
@@ -361,14 +361,14 @@
 112. PRIYA: Then what do I do? Right now?
      프리야: 그럼 난 뭘 해? 지금 당장?
 
-113. RAYMOND: Find every copy of your thesis. Every draft. Every lab notebook. Every email with your advisor.
-     레이먼드: 논문의 모든 사본을 찾아요. 모든 초안. 모든 실험 노트. 지도 교수와의 모든 이메일.
+113. RAYMOND: Find every copy of your thesis, every draft, every lab notebook, and every email with your advisor. In court, the date is everything, so the boring paper is the valuable paper. If it has a date on it, I want it.
+     레이먼드: 논문 사본 전부, 초안 전부, 실험 노트 전부, 지도교수와 주고받은 이메일 전부를 찾아요. 법정에선 날짜가 전부예요. 그러니 지루한 서류가 값진 서류예요. 날짜가 적혀 있으면, 전부 가져와요.
 
 114. PRIYA: Twelve years of files. They're in my mother's garage. In Houston.
      프리야: 12년 치 파일. 휴스턴의 엄마 차고에 있어요.
 
-115. MARCUS: I'll drive you. This weekend. I'll bring boxes. And a scanner.
-     마커스: 내가 태워 줄게. 이번 주말에. 상자 가져갈게. 스캐너도.
+115. MARCUS: I'll drive you this weekend. I'll bring boxes and a scanner, and we'll label everything as we go, the way we did in the field. Evidence that nobody can find is the same as evidence that doesn't exist.
+     마커스: 이번 주말에 내가 태워 줄게. 상자랑 스캐너 챙기고, 현장에서 하던 것처럼 하나씩 라벨을 붙이면서 하자. 아무도 못 찾는 증거는 존재하지 않는 증거나 마찬가지야.
 
 116. PRIYA: Thank you, Marcus.
      프리야: 고마워, 마커스.
@@ -420,3 +420,17 @@
 | Response (14 days) | Lawyer to lawyer · Firm, polite, short · Don't name the thesis yet · "We will continue to sell" → "open to professional discussion" |
 | Stakeholders | Board/investors told **first, in writing** · Customers: not yet (a letter isn't news) |
 | Evidence to collect | All thesis copies, drafts, lab notebooks, advisor emails (Houston garage) |
+
+### ④ 긴 발화 분석
+
+> **66턴 DIANE:** "We answer in fourteen days, not thirty. Speed shows confidence. If we wait until day twenty-nine, they'll assume we spent four weeks searching for a defense. If we answer quickly, they'll assume we already had one."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 결론(대비) | We answer in fourteen days, not thirty. | "A, not B"로 결정을 한 줄에 제시 |
+| ② 원칙 | Speed shows confidence. | 결정의 이유를 짧은 원칙으로 압축 |
+| ③ 시나리오 비교 | If we wait until day twenty-nine, they'll assume… If we answer quickly, they'll assume… | 두 가지 "if" 가정을 나란히 놓아 상대의 해석 차이를 보여 줌 |
+
+**활용 패턴:** 결정(A, not B) → 한 줄 원칙 → If X, they'll assume… / If Y, they'll assume…
+**연결 표현:** not thirty(30일이 아니라) · they'll assume(그들은 ~라고 여길 것이다) · already(이미)
+**연습:** 고객 클레임에 언제 답할지 묻는 팀원에게 같은 구조로 35단어 안팎으로 설명해 보기.

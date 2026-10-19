@@ -50,8 +50,8 @@
 11. ELENA: I'd prefer to start with it.
     엘레나: 전 그걸로 시작하고 싶어요.
 
-12. OLIVER: With the greatest respect, Dr. Ruiz, it's easier after lunch. Everything is easier after lunch.
-    올리버: 최대한의 존경을 담아, 루이즈 박사님, 점심 이후가 더 쉬워요. 점심 이후엔 모든 게 더 쉽죠.
+12. OLIVER: With the greatest respect, Dr. Ruiz, it's easier after lunch. By then we'll have agreed on the simple points, we'll trust each other a little more, and the difficult conversation will feel less difficult. Everything is easier after lunch.
+    올리버: 최대한의 존경을 담아, 루이즈 박사님, 점심 이후가 더 쉬워요. 그때쯤이면 간단한 쟁점들은 합의했을 테고, 서로를 조금 더 신뢰하게 될 테고, 어려운 대화도 덜 어렵게 느껴질 거예요. 점심 이후엔 모든 게 더 쉽죠.
 
 13. ELENA: …Fine. After lunch.
     엘레나: …좋아요. 점심 이후.
@@ -59,8 +59,8 @@
 14. SOFIA: Elena. "With the greatest respect." Remember Zoe's card?
     소피아: 엘레나. "최대한의 존경을 담아." 조이 카드 기억해요?
 
-15. ELENA: I remember. He thinks I'm wrong. Politely.
-    엘레나: 기억해요. 내가 틀렸다고 생각하는 거죠. 정중하게.
+15. ELENA: I remember. He thinks I'm wrong. Politely. In Texas, we'd just say "no" and move on, but here the disagreement is wrapped in so much courtesy that you could miss it completely. Fine. I can wait one lunch.
+    엘레나: 기억해요. 내가 틀렸다고 생각하는 거죠. 정중하게. 텍사스에선 그냥 "아니요" 하고 넘어갈 텐데, 여기선 반대 의견이 너무 많은 예의에 싸여 있어서 완전히 놓칠 수도 있어요. 좋아요. 점심 한 번은 기다릴 수 있어요.
 
 ### 장면1 — 독점권·지역·물량·가격
 
@@ -70,8 +70,8 @@
 17. SOFIA: We usually start with three. With performance targets. Then renew.
     소피아: 저흰 보통 3년으로 시작해요. 성과 목표와 함께. 그다음 갱신.
 
-18. FIONA: Three years is barely enough to train the market. You'd leave just as we succeed.
-    피오나: 3년은 시장을 교육하기에도 빠듯해요. 우리가 성공할 즈음 떠나시게 되죠.
+18. FIONA: Three years is barely enough to train the market. We'd spend the first year finding clinics, the second year training them, and the third year finally selling. You'd leave just as we succeed, and someone else would enjoy our work.
+    피오나: 3년은 시장을 교육하기에도 빠듯해요. 첫해는 클리닉을 찾고, 둘째 해는 교육하고, 셋째 해에야 겨우 팔기 시작하죠. 우리가 성공할 즈음 떠나시게 되고, 우리가 한 일의 열매는 다른 누군가가 누리게 돼요.
 
 19. NOAH: That's a fair concern. What if renewal is automatic? If targets are met?
     노아: 정당한 우려예요. 목표를 달성하면 갱신이 자동이면요?
@@ -94,8 +94,8 @@
 25. HARRIET: Correct. Ireland needs your CE mark. The UK accepts it too. For now. Until the government changes its mind.
     해리엇: 맞아요. 아일랜드는 CE 마크가 필요해요. 영국도 지금은 인정하고요. 정부가 마음을 바꿀 때까지.
 
-26. DIANE: Then the contract needs a clause. If UK rules change, we renegotiate. Not terminate.
-    다이앤: 그럼 계약서에 조항이 필요해요. 영국 규정이 바뀌면 재협상. 해지가 아니라.
+26. DIANE: Then the contract needs a clause. If UK rules change, we renegotiate. Not terminate. Nobody should lose a good partnership because of a government decision that neither company controls, so let's write the solution now, while everyone is still friendly.
+    다이앤: 그럼 계약서에 조항이 필요해요. 영국 규정이 바뀌면 재협상. 해지가 아니라. 어느 회사도 통제할 수 없는 정부 결정 때문에 좋은 파트너십을 잃어선 안 되니까, 모두가 아직 우호적일 때 해결책을 지금 써 둡시다.
 
 27. HARRIET: Sensible. I won't sigh at that.
     해리엇: 합리적이네요. 그건 한숨 안 쉴게요.
@@ -127,8 +127,8 @@
 36. SOFIA: And your selling price to clinics?
     소피아: 그럼 클리닉 판매가는요?
 
-37. FIONA: About three hundred twenty. Our margin covers sales, warehousing, and training support.
-    피오나: 약 320파운드. 우리 마진으로 영업, 창고, 교육 지원을 충당해요.
+37. FIONA: About three hundred twenty. That sounds like a large margin, I know, but it isn't all profit. It covers our sales team, warehousing, and training support for every new clinic. Without that, clinics simply won't switch from the brand they know.
+    피오나: 약 320파운드. 마진이 커 보인다는 거 알아요. 하지만 전부 이익은 아니에요. 영업팀, 창고, 그리고 새 클리닉마다 드는 교육 지원을 충당하죠. 그게 없으면 클리닉들은 익숙한 브랜드에서 절대 갈아타지 않아요.
 
 38. ELENA: Training is ours. Our trainers. Our certification. Not yours.
     엘레나: 교육은 우리 거예요. 우리 트레이너. 우리 인증. 당신들 게 아니라.
@@ -151,8 +151,8 @@
 44. NOAH: Elena, let's eat. We've agreed on four out of five. That's a good morning.
     노아: 엘레나, 먹읍시다. 다섯 개 중 네 개 합의했어요. 좋은 오전이에요.
 
-45. ELENA: Four out of five. And the fifth is the only one that matters.
-    엘레나: 다섯 개 중 네 개. 그리고 다섯 번째가 유일하게 중요한 거예요.
+45. ELENA: Four out of five. And the fifth is the only one that matters. Price, volume and territory are about money, and we can always adjust money later. Who holds the syringe is about patients, and that's the one thing I can't adjust.
+    엘레나: 다섯 개 중 네 개. 그리고 다섯 번째가 유일하게 중요한 거예요. 가격, 물량, 지역은 돈 문제고, 돈은 나중에 언제든 조정할 수 있어요. 누가 주사기를 드느냐는 환자 문제고, 그건 내가 조정할 수 없는 단 하나예요.
 
 46. DIANE: I'll stay on mute. It's five-thirty a.m. I'm making coffee.
     다이앤: 음소거로 있을게요. 새벽 5시 반이에요. 커피 만들 거예요.
@@ -180,8 +180,8 @@
 53. ELENA: Sixty percent. Without medical training.
     엘레나: 60%. 의료 교육 없이.
 
-54. FIONA: Some have Level Seven qualifications. Serious courses. A year long. Not all are cowboys.
-    피오나: 일부는 레벨 7 자격이 있어요. 진지한 과정. 1년짜리. 다 카우보이는 아니에요.
+54. FIONA: Some have Level Seven qualifications. Serious courses, a year long, with real anatomy and supervised practice. I'm not saying every beautician is safe, because they aren't. I'm saying not all are cowboys, and the good ones are some of our best customers.
+    피오나: 일부는 레벨 7 자격이 있어요. 진지한 과정이고, 1년짜리에, 제대로 된 해부학과 감독하 실습이 있어요. 모든 미용사가 안전하다는 말은 아니에요. 그렇지 않으니까요. 다 카우보이는 아니라는 거고, 실력 있는 사람들은 우리 최고의 고객 중 일부예요.
 
 55. ELENA: Can they prescribe hyaluronidase? If something goes wrong?
     엘레나: 그 사람들이 히알루로니다아제를 처방할 수 있어요? 문제가 생기면?
@@ -204,8 +204,8 @@
 61. SOFIA: Six thousand is still a real business.
     소피아: 6,000개도 여전히 진짜 사업이에요.
 
-62. FIONA: For you. For us, it's a small product line. Our sales team visits beauticians every day.
-    피오나: 당신들한텐요. 우리한텐 작은 제품군이죠. 우리 영업팀은 매일 미용사를 방문해요.
+62. FIONA: For you. For us, it's a small product line. Our sales team visits beauticians every day, because that's where most of the volume is. If we sell Veyra only to doctors and nurses, we're building a separate business for forty percent of the market.
+    피오나: 당신들한텐요. 우리한텐 작은 제품군이죠. 우리 영업팀은 매일 미용사를 방문해요. 물량 대부분이 거기 있으니까요. 베이라를 의사와 간호사에게만 판다면, 시장의 40%를 위해 별도 사업을 하나 만드는 셈이에요.
 
 63. OLIVER: May I suggest a compromise? A rather elegant one.
     올리버: 절충안을 제안해도 될까요? 꽤 우아한 걸로.
@@ -228,8 +228,8 @@
 69. FIONA: That's a bit unfair. You don't know our people.
     피오나: 그건 좀 불공평해요. 우리 사람들을 모르잖아요.
 
-70. ELENA: You're right. I don't. That's why I need a contract that doesn't depend on knowing them.
-    엘레나: 맞아요. 몰라요. 그래서 그 사람들을 아는 것에 의존하지 않는 계약이 필요해요.
+70. ELENA: You're right. I don't. And that's exactly my point. I'm sure most of your reps are excellent, but I can't build patient safety on being sure. I need a contract that doesn't depend on knowing them, one that still works on their worst day.
+    엘레나: 맞아요. 몰라요. 그게 바로 내 요점이에요. 영업 사원 대부분이 훌륭하겠죠. 하지만 환자 안전을 '그렇겠지'라는 확신 위에 세울 순 없어요. 그 사람들을 아는 것에 의존하지 않는 계약, 그 사람들의 최악의 날에도 작동하는 계약이 필요해요.
 
 71. HARRIET: What would that look like?
     해리엇: 그건 어떤 모습이에요?
@@ -249,8 +249,8 @@
 76. OLIVER: With the greatest respect, that's rather extreme.
     올리버: 최대한의 존경을 담아, 그건 꽤 극단적이네요.
 
-77. NOAH: Oliver, I understand it sounds extreme. But that's what our name means. Everywhere.
-    노아: 올리버, 극단적으로 들리는 거 이해해요. 하지만 그게 우리 이름의 의미예요. 어디서든.
+77. NOAH: Oliver, I understand it sounds extreme, and in most businesses it would be. But we built Veyra on one promise: our syringes go only into trained medical hands. If we break that in one country, the promise means nothing anywhere. That's what our name means.
+    노아: 올리버, 극단적으로 들리는 거 이해해요. 대부분의 사업에선 실제로 그렇겠죠. 하지만 우린 베이라를 하나의 약속 위에 세웠어요. 우리 주사기는 훈련받은 의료인의 손에만 간다. 한 나라에서 그걸 어기면 그 약속은 어디서도 의미가 없어요. 그게 우리 이름의 의미예요.
 
 78. OLIVER: I hear what you say.
     올리버: 말씀하시는 바는 들었습니다.
@@ -296,8 +296,8 @@
 91. SOFIA: That went well. Four agreed. One "interesting challenge."
     소피아: 잘 됐어요. 네 개 합의. 하나는 "흥미로운 도전."
 
-92. NOAH: "Very close." "Lovely word." "Interesting challenge." I think it's a yes.
-    노아: "아주 가깝다." "사랑스러운 단어." "흥미로운 도전." 예스인 것 같아요.
+92. NOAH: Think about what he said. "Close" is a "lovely word." Point five is an "interesting challenge." And they're sending their thoughts in writing within the week. Nobody does that for a deal they're going to refuse. I think it's a yes.
+    노아: 그가 한 말을 생각해 봐요. "가깝다"는 "사랑스러운 단어." 5번은 "흥미로운 도전." 그리고 이번 주 안에 서면으로 생각을 보내 준대요. 거절할 거래에 그렇게 하는 사람은 없어요. 예스인 것 같아요.
 
 93. ELENA: I'm not sure. He said "quite interesting." And "let me reflect."
     엘레나: 확신이 없어요. "꽤 흥미롭다"고 했어요. 그리고 "생각해 보겠다"고.
@@ -320,8 +320,8 @@
 99. NOAH: Please.
     노아: 그러세요.
 
-100. DIANE: I read the transcript notes. Point five has zero written agreement. In writing, it says nothing.
-     다이앤: 녹취 메모를 읽었어요. 5번엔 서면 합의가 하나도 없어요. 서면으로는 아무 말도 안 한 거예요.
+100. DIANE: I read the transcript notes. Points one to four have numbers, and Harriet is sending a draft. Point five has zero written agreement, just adjectives. "Interesting" is not a term. "Reflect" is not a date. In writing, it says nothing.
+     다이앤: 녹취 메모를 읽었어요. 1번부터 4번까지는 숫자가 있고, 해리엇이 초안을 보내기로 했죠. 5번엔 서면 합의가 하나도 없어요. 형용사뿐이에요. "흥미롭다"는 계약 조건이 아니에요. "생각해 보겠다"는 날짜가 아니고요. 서면으로는 아무 말도 안 한 거예요.
 
 101. NOAH: But the tone was positive.
      노아: 하지만 분위기는 긍정적이었어요.
@@ -358,8 +358,8 @@
 111. NOAH: I'm fine.
      노아: 난 괜찮아요.
 
-112. ELENA: You're hearing "yes" in British sentences that might mean "no." That's not fine. That's tired.
-     엘레나: 아니요일 수도 있는 영국 문장에서 예스를 듣고 있잖아요. 그건 괜찮은 게 아니에요. 피곤한 거예요.
+112. ELENA: You're hearing "yes" in British sentences that might mean "no." That's not fine. That's tired. When you're exhausted, you hear what you want to hear, and today you wanted a yes so badly that you stopped listening for anything else.
+     엘레나: 아니요일 수도 있는 영국 문장에서 예스를 듣고 있잖아요. 그건 괜찮은 게 아니에요. 피곤한 거예요. 지치면 듣고 싶은 것만 들려요. 오늘 당신은 예스를 너무 듣고 싶어서, 다른 소리엔 귀를 닫아 버렸어요.
 
 113. SOFIA: Noah's phone. An email. From Oliver. Already.
      소피아: 노아 전화요. 이메일. 올리버한테서. 벌써.
@@ -379,8 +379,8 @@
 118. SOFIA: "Most interesting." "Reflect carefully." "Enjoy London."
      소피아: "아주 흥미로운." "신중히 생각." "런던을 즐기시길."
 
-119. ELENA: Noah. That's not a yes. I think that's a very polite goodbye.
-     엘레나: 노아. 그건 예스가 아니에요. 아주 정중한 작별 인사 같아요.
+119. ELENA: Noah. That's not a yes. "Most interesting" and "reflect carefully" are what you say when you've already decided, and "enjoy London" means there's no reason to stay for another meeting. I think that's a very polite goodbye.
+     엘레나: 노아. 그건 예스가 아니에요. "아주 흥미로운"과 "신중히 생각"은 이미 결정했을 때 하는 말이고, "런던을 즐기시길"은 회의를 또 하려고 남아 있을 이유가 없다는 뜻이에요. 아주 정중한 작별 인사 같아요.
 
 120. NOAH: …Then I need someone who speaks British. Tonight.
      노아: …그럼 영국어를 하는 사람이 필요해요. 오늘 밤.
@@ -418,3 +418,18 @@
 | 5 | Who they sell to | "Aesthetic practitioners" incl. Level 7 non-medics; compromise: same sales team sells other brands to beauticians | **Red line:** regulated healthcare professionals only · monthly serial scans + audit rights · **one sale to a non-medic = immediate termination** | ❌ **Pending** — "quite interesting… let me reflect" |
 
 > **Signals missed:** "With the greatest respect" · "I hear what you say" · "Let me reflect" · "A most interesting day" · "Do enjoy London" → *likely a polite no on point 5.*
+
+### ④ 긴 발화 분석
+
+> **70턴 ELENA:** "You're right. I don't. And that's exactly my point. I'm sure most of your reps are excellent, but I can't build patient safety on being sure. I need a contract that doesn't depend on knowing them, one that still works on their worst day."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 인정(양보) | You're right. I don't. | 상대의 반박을 먼저 받아들여 감정을 낮춤 |
+| ② 전환(논점 뒤집기) | And that's exactly my point. | 상대의 말을 내 주장의 근거로 바꿈 |
+| ③ 우려(원칙) | I'm sure most of your reps are excellent, but I can't build patient safety on being sure. | 상대를 존중하면서 "믿음"이 아닌 "원칙"이 필요하다고 설명 |
+| ④ 요구(해결책) | I need a contract that doesn't depend on knowing them, one that still works on their worst day. | 구체적인 요구를 한 문장으로 제시 |
+
+**활용 패턴:** 인정 → "That's exactly my point." → 존중 + but 우려 → I need… 요구
+**연결 표현:** That's exactly my point(그게 바로 내 요점이다) · I'm sure…, but…(~라고 믿지만) · doesn't depend on(~에 의존하지 않는) · still works(그래도 작동하는)
+**연습:** 협력사가 "우리 직원을 못 믿느냐"고 반박할 때, 같은 구조로 40단어 안팎의 답을 말해 보기.

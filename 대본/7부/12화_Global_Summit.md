@@ -38,8 +38,8 @@
 07. ELENA: Before we start, Noah has three rules. This room has never met in one room before.
     엘레나: 시작하기 전에 노아에게 규칙 세 개가 있어요. 이 방 사람들은 한 방에 모인 적이 없으니까요.
 
-08. NOAH: One. You all got the materials forty-eight hours ago. Nobody should be reading for the first time.
-    노아: 하나. 자료는 48시간 전에 모두 받으셨죠. 처음 읽는 사람이 없어야 해요.
+08. NOAH: One. You all got the materials forty-eight hours ago. Nobody should be reading for the first time in this room. Many of you work in your second language, and reading takes longer that way, so the pre-read is how we make sure everyone starts equal.
+    노아: 하나. 자료는 48시간 전에 모두 받으셨죠. 이 방에서 처음 읽는 사람이 없어야 해요. 많은 분들이 제2 언어로 일하시고, 그러면 읽는 데 시간이 더 걸리니까요. 사전 자료는 모두가 같은 출발선에 서게 하는 방법이에요.
 
 09. KENJI: Thank you for that. In Japan, a meeting without a pre-read is a meeting without respect.
     겐지: 감사합니다. 일본에선 사전 자료 없는 회의는 존중 없는 회의예요.
@@ -79,8 +79,8 @@
 20. SOFIA: Licensed. So they count?
     소피아: 면허가 있다. 그럼 포함돼요?
 
-21. ANKE: If they count, our rule has a hole. Some did a weekend course. Exactly like Sarah's kitchens in London.
-    안케: 포함되면 우리 규칙에 구멍이 생겨요. 일부는 주말 과정만 들었어요. 런던의 사라 부엌이랑 똑같이.
+21. ANKE: If they count, our rule has a hole in it. Some Heilpraktiker are excellent, but some did a weekend course and nothing more. That is exactly like Sarah's kitchens in London, and I don't want to explain that to a journalist in Munich.
+    안케: 포함되면 우리 규칙에 구멍이 생겨요. 하일프락티커 중엔 훌륭한 사람도 있지만, 주말 과정만 듣고 끝난 사람도 있어요. 런던의 사라 부엌이랑 똑같죠. 그걸 뮌헨의 기자한테 설명하고 싶진 않아요.
 
 22. ELENA: Can they prescribe hyaluronidase? If something goes wrong?
     엘레나: 히알루로니다아제를 처방할 수 있어요? 문제가 생기면?
@@ -100,14 +100,14 @@
 27. NOAH: Could you elaborate? Even a little?
     노아: 조금 더 설명해 주시겠어요? 조금이라도?
 
-28. KENJI: In Japan, only doctors may inject filler. Nurses may assist. Under a doctor's direction. In the same room.
-    겐지: 일본에선 의사만 필러를 주사할 수 있어요. 간호사는 보조 가능. 의사 지시하에. 같은 방에서.
+28. KENJI: In Japan, only doctors may inject filler. Nurses may assist, but only under a doctor's direction and in the same room. So if Austin writes a rule that allows nurses everywhere, our doctors will read it as a sign that we don't understand Japan.
+    겐지: 일본에선 의사만 필러를 주사할 수 있어요. 간호사는 보조할 수 있지만, 의사 지시하에, 같은 방에서만요. 그래서 오스틴이 어디서나 간호사를 허용하는 규칙을 쓰면, 저희 의사들은 우리가 일본을 이해하지 못한다는 신호로 읽을 거예요.
 
 29. GRACE: Korea is the same. Doctors only. Legally. Nurses can't inject filler independently.
     그레이스: 한국도 같아요. 의사만. 법적으로. 간호사는 독자적으로 필러를 주사할 수 없어요.
 
-30. JAMES: And in Britain, my best injectors are nurse prescribers. If we said "doctors only," I'd lose Margaret. And Sarah.
-    제임스: 그리고 영국에선 최고의 시술자가 간호사 처방권자예요. "의사만"이라고 하면 마거릿을 잃어요. 사라도.
+30. JAMES: And in Britain, my best injectors are nurse prescribers. They're trained, they're careful, and they can prescribe the enzyme. If we said "doctors only," I'd lose Margaret and Sarah overnight, and frankly, our patients would be slightly less safe, not more.
+    제임스: 그리고 영국에선 최고의 시술자가 간호사 처방권자예요. 훈련받았고, 신중하고, 그 효소를 처방할 수 있죠. "의사만"이라고 하면 마거릿과 사라를 하룻밤 새 잃을 거고, 솔직히 환자들은 더 안전해지는 게 아니라 약간 덜 안전해질 거예요.
 
 31. SOFIA: So one country's rule is another country's disaster.
     소피아: 그러니까 한 나라의 규칙이 다른 나라에선 재앙이네요.
@@ -118,8 +118,8 @@
 33. NOAH: Please, Ms. Han.
     노아: 부탁드려요, 한 상무님.
 
-34. HAN: Don't write one rule. Write a floor. The minimum everywhere. Countries can build higher. Never lower.
-    한서연: 규칙 하나를 쓰지 마세요. 바닥을 쓰세요. 어디서나 최소 기준. 나라마다 더 높게 지을 순 있지만. 절대 더 낮게는 안 되는.
+34. HAN: Don't write one rule. Write a floor, which is the minimum standard everywhere. Countries can build higher if their law or their doctors require it, but never lower. That way, Japan and Korea keep their rules, Britain keeps its nurses, and nobody falls through the hole.
+    한서연: 규칙 하나를 쓰지 마세요. 바닥, 즉 어디서나 적용되는 최소 기준을 쓰세요. 그 나라 법이나 의사들이 요구하면 더 높게 지을 수 있지만, 절대 더 낮게는 안 되는. 그러면 일본과 한국은 자기 규칙을 지키고, 영국은 간호사를 지키고, 아무도 구멍으로 빠지지 않아요.
 
 35. ELENA: A floor. Licensed to prescribe hyaluronidase. Korea and Japan build higher. Doctors only.
     엘레나: 바닥. 히알루로니다아제 처방 면허. 한국과 일본은 더 높게. 의사만.
@@ -148,8 +148,8 @@
 43. HAEUN: That I can say. In Korean. And in English.
     하은: 그건 말할 수 있어요. 한국어로. 그리고 영어로.
 
-44. NOAH: To summarize. The global floor: licensed to prescribe hyaluronidase. Countries may go higher. Never lower. The strictest rule wins.
-    노아: 요약하면. 글로벌 바닥: 히알루로니다아제 처방 면허. 나라마다 더 높게 가능. 낮게는 불가. 가장 엄격한 규칙이 이긴다.
+44. NOAH: To summarize. The global floor is "licensed to prescribe hyaluronidase," because whoever injects must be able to reverse a complication. Countries may go higher, like Korea and Japan, but never lower. And when two rules differ, the strictest rule wins.
+    노아: 요약하면. 글로벌 바닥은 "히알루로니다아제 처방 면허"입니다. 주사하는 사람은 누구든 합병증을 되돌릴 수 있어야 하니까요. 한국과 일본처럼 나라마다 더 높게는 갈 수 있지만, 절대 낮게는 안 됩니다. 그리고 두 규칙이 다르면, 가장 엄격한 규칙이 이깁니다.
 
 45. ELENA: Objections? Ten seconds.
     엘레나: 이의 있나요? 10초.
@@ -192,8 +192,8 @@
 57. NOAH: And there's more. Sofia, would you share it? You found it.
     노아: 그리고 더 있어요. 소피아, 공유해 줄래요? 당신이 찾았잖아요.
 
-58. SOFIA: Two reps in Texas offered off-book discounts. Outside the volume tiers. To hit their quarter.
-    소피아: 텍사스 영업 사원 두 명이 장부 외 할인을 제안했어요. 볼륨 등급 밖으로. 분기 목표를 맞추려고.
+58. SOFIA: Two reps in Texas offered off-book discounts, outside the volume tiers, to hit their quarter. I found it in the invoices myself, and I'm not proud of it, because the volume tiers exist precisely so that every clinic pays a fair, predictable price.
+    소피아: 텍사스 영업 사원 두 명이 분기 목표를 맞추려고 볼륨 등급 밖에서 장부 외 할인을 제안했어요. 제가 직접 송장에서 찾았고, 자랑스럽지 않아요. 볼륨 등급은 바로 모든 클리닉이 공정하고 예측 가능한 가격을 내도록 하려고 있는 거니까요.
 
 59. ANKE: Off-book discounts. That's how it starts. First the price. Then the customer.
     안케: 장부 외 할인. 그렇게 시작하죠. 처음엔 가격. 그다음엔 고객.
@@ -219,8 +219,8 @@
 66. HAEUN: A stopper?
     하은: 마개요?
 
-67. LEO: The rubber stopper. Batch B-2207. Our supplier changed it without telling us. Injection force started rising.
-    레오: 고무 마개. 배치 B-2207. 공급사가 우리에게 알리지 않고 바꿨어요. 주입력이 올라가기 시작했죠.
+67. LEO: The rubber stopper on our syringes. Batch B-2207. Our supplier changed it without telling us. Nothing failed, but the injection force started rising, a little more each week, and a filler that's harder to push is a filler that's harder to control.
+    레오: 우리 주사기의 고무 마개요. 배치 B-2207. 공급사가 우리에게 알리지 않고 바꿨어요. 고장 난 건 없었지만, 주입력이 매주 조금씩 올라가기 시작했죠. 밀기 어려운 필러는 통제하기 어려운 필러예요.
 
 68. ELENA: It was still within specification. Nobody had to report it.
     엘레나: 그래도 규격 안이었어요. 아무도 보고할 의무가 없었죠.
@@ -237,8 +237,8 @@
 72. KENJI: What happened?
     겐지: 어떻게 됐어요?
 
-73. LEO: We recalled lots thirteen to fifteen. It cost millions. The press called. Doctors left. Some came back.
-    레오: 13번에서 15번 로트를 회수했어요. 수백만 달러가 들었죠. 언론이 전화했고. 의사들이 떠났어요. 일부는 돌아왔고요.
+73. LEO: We recalled lots thirteen to fifteen. It cost millions. The press called, and some doctors left us, which hurt more than the money. Some came back later, and when I asked why, they said it was because we told them first, before anybody forced us to.
+    레오: 13번에서 15번 로트를 회수했어요. 수백만 달러가 들었죠. 언론이 전화했고, 의사 몇 명이 떠났는데, 그게 돈보다 더 아팠어요. 일부는 나중에 돌아왔는데, 이유를 물으니 누가 강요하기 전에 우리가 먼저 말해 줬기 때문이래요.
 
 74. ANKE: And you?
     안케: 그럼 당신은요?
@@ -252,8 +252,8 @@
 77. NOAH: That's the problem. Seven hundred people. And our best stories live in forty heads.
     노아: 그게 문제예요. 700명. 그런데 우리 최고의 이야기들은 머리 40개 안에 살아요.
 
-78. SOFIA: Then I'll say it. My reps aren't bad. They broke the rule because we pay them for numbers.
-    소피아: 그럼 내가 말할게요. 우리 영업 사원들이 나쁜 게 아니에요. 숫자에 돈을 주니까 규칙을 깬 거죠.
+78. SOFIA: Then I'll say it, because it's my team. My reps aren't bad people. They broke the rule because we pay them for numbers and nothing else. If the only thing we celebrate is the quarter, then the quarter is what they'll protect, even against our own principles.
+    소피아: 그럼 내가 말할게요, 내 팀이니까. 우리 영업 사원들은 나쁜 사람들이 아니에요. 우리가 숫자에만 돈을 주니까 규칙을 깬 거죠. 우리가 축하하는 게 분기 실적뿐이라면, 그들이 지키는 것도 분기 실적일 거예요. 우리 원칙에 맞서서라도요.
 
 79. ANKE: Thank you. That's what I meant. That's not a culture problem. That's incentive design.
     안케: 고마워요. 그게 내 뜻이었어요. 그건 문화 문제가 아니라. 인센티브 설계 문제예요.
@@ -272,8 +272,8 @@
 83. ANKE: Only thirty?
     안케: 30%만요?
 
-84. SOFIA: Thirty is enough to change behaviour. Fifty and my best reps leave for Halvern. Hannah Lloyd would hire them.
-    소피아: 30%면 행동을 바꾸기 충분해요. 50%면 최고 영업 사원들이 할번으로 가요. 해나 로이드가 채용할 거고요.
+84. SOFIA: Thirty is enough to change behaviour without breaking the team. If we go to fifty, my best reps leave for Halvern, and Hannah Lloyd would hire them within a week. Then we'd have perfect compliance and nobody left to sell anything.
+    소피아: 30%면 팀을 무너뜨리지 않고 행동을 바꾸기에 충분해요. 50%로 가면 최고 영업 사원들이 할번으로 가고, 해나 로이드는 일주일 안에 채용할 거예요. 그럼 준수율은 완벽한데 팔 사람은 아무도 안 남겠죠.
 
 85. JAMES: She would. She's very good. Annoyingly.
     제임스: 그럴 거예요. 아주 잘해요. 짜증 나게도.
@@ -284,8 +284,8 @@
 87. GRACE: Korea, both. Bonus and recognition. And no one wants to be the person who embarrassed the team.
     그레이스: 한국은 둘 다요. 보너스와 인정. 그리고 아무도 팀을 창피하게 만든 사람이 되고 싶어 하지 않죠.
 
-88. ELENA: And onboarding. Every new hire, first day, one hour with a founder. Not a video. A person. With the stories.
-    엘레나: 그리고 온보딩. 모든 신입, 첫날, 창업자와 한 시간. 영상 말고. 사람. 이야기와 함께.
+88. ELENA: And onboarding. Every new hire, on their first day, spends one hour with a founder. Not a video. A person, with the stories. Forty-one percent couldn't name principle one, and I don't blame them. Nobody remembers a rule they've only seen on a wall.
+    엘레나: 그리고 온보딩. 모든 신입은 첫날 창업자와 한 시간을 보내요. 영상 말고. 사람, 이야기와 함께. 41%가 원칙 1번을 못 댔는데, 그 사람들 탓은 안 해요. 벽에서만 본 규칙을 기억하는 사람은 없으니까요.
 
 89. LEO: Can I do the stopper story? Every month?
     레오: 마개 이야기 제가 해도 돼요? 매달?
@@ -358,8 +358,8 @@
 111. GRACE: And the ten seconds. Nobody drowned. Not even the Americans.
      그레이스: 그리고 10초. 아무도 안 빠졌어요. 미국인들조차.
 
-112. HAN: Mr. Bennett. In June, you said "twelve accents." Today, I heard one voice. Inside, they argued. Outside, one voice.
-     한서연: 베넷 대표님. 6월에 "억양 열두 개"라고 하셨죠. 오늘 한 목소리를 들었어요. 안에선 논쟁했고. 밖에선 한목소리.
+112. HAN: Mr. Bennett, in June you said "twelve accents." Today, I heard one voice. Inside this room, people argued, sometimes quite hard, and nobody pretended to agree. But outside, there will be one voice. In my experience, that is rare in any company.
+     한서연: 베넷 대표님, 6월에 "억양 열두 개"라고 하셨죠. 오늘 저는 한 목소리를 들었어요. 이 방 안에선 사람들이 때로 꽤 세게 논쟁했고, 아무도 동의하는 척하지 않았죠. 하지만 밖에선 한목소리일 거예요. 제 경험상 그건 어느 회사에서든 드문 일이에요.
 
 113. ELENA: Principle two. Ms. Han knows our principles better than forty percent of our new hires.
      엘레나: 원칙 2번. 한 상무님이 우리 신입 40%보다 원칙을 더 잘 아시네요.
@@ -419,3 +419,18 @@
 | People | **Sofia Alvarez → Chief Commercial Officer** (18-month path, delivered at 20) | Noah |
 
 > *Meeting rules:* pre-read 48h · round robin · 10 seconds of silence · "Let's make sure everyone's heard." · "To summarize…"
+
+### ④ 긴 발화 분석
+
+> **78턴 SOFIA:** "Then I'll say it, because it's my team. My reps aren't bad people. They broke the rule because we pay them for numbers and nothing else. If the only thing we celebrate is the quarter, then the quarter is what they'll protect, even against our own principles."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 책임 인정 | Then I'll say it, because it's my team. | 방어 대신 책임자로서 먼저 나서며 발언권을 가져옴 |
+| ② 사람과 문제 분리 | My reps aren't bad people. | 개인 비난을 차단해 논의의 초점을 바꿈 |
+| ③ 원인(구조) | They broke the rule because we pay them for numbers and nothing else. | because로 행동의 원인을 '보상 구조'에 둠 |
+| ④ 일반화(조건→결과) | If the only thing we celebrate is the quarter, then the quarter is what they'll protect… | If…, then…으로 구조가 행동을 만든다는 원리를 제시 |
+
+**활용 패턴:** 책임 인정 → 사람 ≠ 문제 → because + 구조적 원인 → If…, then… 원리
+**연결 표현:** Then I'll say it(그럼 내가 말할게요) · because we pay them for…(~에 보상하니까) · If the only thing we… is X, then X is what…(우리가 ~하는 게 X뿐이면, 결국 X를 …한다) · even against…(~에 맞서서라도)
+**연습:** 팀원의 실수를 지적받은 관리자로서, 개인이 아니라 평가·보상 구조의 문제로 전환하는 발언을 40단어 안팎으로 말해 보기.

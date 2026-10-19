@@ -29,8 +29,8 @@
 04. PRIYA: Should we watch it? Live?
     프리야: 우리 봐야 해? 생으로?
 
-05. NOAH: Yes. Together. With the board. No surprises. Even from Halvern.
-    노아: 응. 다 같이. 이사회랑. 놀랄 일은 없게. 할번한테서라도.
+05. NOAH: Yes, together, with the board. If we watch it alone and report later, it looks like we're hiding something from them. No surprises, not even from Halvern.
+    노아: 응. 다 같이, 이사회랑. 우리끼리 보고 나중에 보고하면, 이사회한테 뭔가 숨기는 것처럼 보여. 놀랄 일은 없게. 할번한테서라도.
 
 06. ELENA: What do you think they'll announce?
     엘레나: 뭘 발표할 것 같아요?
@@ -59,8 +59,8 @@
 14. ELAINE: Let's begin. Noah, six months since launch. Tell us the story. Then the numbers.
     일레인: 시작하죠. 노아, 출시 6개월. 이야기를 해 줘요. 그다음 숫자.
 
-15. NOAH: Numbers first. Then the story. That's what I learned this year.
-    노아: 숫자 먼저요. 그다음 이야기. 올해 그걸 배웠어요.
+15. NOAH: Numbers first, then the story. That's what I learned this year. A good story without numbers sounds like an excuse, and a board deserves the facts before the feelings.
+    노아: 숫자 먼저요. 그다음 이야기. 올해 그걸 배웠어요. 숫자 없는 좋은 이야기는 변명처럼 들리고, 이사회는 감정보다 사실을 먼저 들을 자격이 있어요.
 
 ### 장면1 — 이사회 보고
 
@@ -70,8 +70,8 @@
 17. RICHARD: Plan was twenty-eight thousand.
     리처드: 계획은 2만 8천이었죠.
 
-18. NOAH: Correct. We're twelve percent below plan. The recall cost us about six weeks.
-    노아: 맞아요. 계획보다 12% 아래예요. 회수로 약 6주를 잃었어요.
+18. NOAH: Correct. We're twelve percent below plan, and I won't hide that. The recall cost us about six weeks of sales, but without the recall, I think we'd have lost much more.
+    노아: 맞아요. 계획보다 12% 아래이고, 그걸 숨기지 않겠습니다. 회수로 약 6주치 매출을 잃었지만, 회수하지 않았다면 훨씬 더 많이 잃었을 거라고 생각해요.
 
 19. MARCUS: Active clinics, three hundred eighty-six. Reorder rate, sixty-eight percent.
     마커스: 활성 병원 386곳. 재주문율 68%.
@@ -85,8 +85,8 @@
 22. RICHARD: That's strange. Explain.
     리처드: 이상하네요. 설명해 봐요.
 
-23. ZOE: Doctors who stayed trust us more now. They saw how we handled it.
-    조이: 남은 의사들이 지금 우릴 더 믿어요. 우리가 어떻게 처리했는지 봤으니까요.
+23. ZOE: Because the doctors who stayed trust us more now. They saw how we handled it: the calls, the letter, the hotline. Most of them had never seen a company act that fast.
+    조이: 남은 의사들이 지금 우릴 더 믿기 때문이에요. 우리가 어떻게 처리했는지 봤으니까요. 전화, 서한, 핫라인까지요. 대부분은 그렇게 빨리 움직이는 회사를 본 적이 없었어요.
 
 24. NOAH: Revenue, about nine point four million. Gross margin, eighty-nine percent.
     노아: 매출 약 940만 달러. 매출총이익률 89%.
@@ -166,16 +166,16 @@
 49. LEO: Yes, ma'am.
     레오: 네, 맞습니다.
 
-50. ELAINE: Then you're the reason we're still here. Don't be nervous.
-    일레인: 그럼 당신 덕분에 우리가 아직 여기 있는 거예요. 긴장하지 마요.
+50. ELAINE: Then you're the reason we're still here, Leo. You saw a problem inside the spec, and you didn't stay quiet. So please, don't be nervous. Just tell us what you learned.
+    일레인: 그럼 당신 덕분에 우리가 아직 여기 있는 거예요, 레오. 규격 안에 숨은 문제를 봤고, 침묵하지 않았죠. 그러니 긴장하지 마요. 배운 걸 그냥 말해 줘요.
 
 ### 장면2 — 교훈 회고
 
 51. LEO: Lesson one. Watch the trends. Not just the limits.
     레오: 교훈 하나. 한계치만 보지 말고. 추세를 보세요.
 
-52. PRIYA: Everything was "in spec." But Leo's chart was whispering. We listened too late.
-    프리야: 모든 게 "규격 안"이었어요. 하지만 레오의 차트가 속삭이고 있었죠. 너무 늦게 들었어요.
+52. PRIYA: Show me the data, I always say. Well, the data was there. Everything was "in spec," but Leo's chart was whispering for months. We just listened too late.
+    프리야: 전 늘 데이터를 보여 달라고 하죠. 그런데 데이터는 거기 있었어요. 모든 게 "규격 안"이었지만, 레오의 차트는 몇 달 동안 속삭이고 있었어요. 우리가 너무 늦게 들었을 뿐이에요.
 
 53. RICHARD: What changes now?
     리처드: 이제 뭐가 바뀌어요?
@@ -189,8 +189,8 @@
 56. VICTORIA: You argued for six, I heard.
     빅토리아: 6개월을 주장했다고 들었어요.
 
-57. MARCUS: I did. Four was enough. Barely. Now I'm asking for five.
-    마커스: 그랬죠. 4개월로 충분했어요. 간신히. 이제 5개월을 요청해요.
+57. MARCUS: I did. Four months was enough, but barely, and I don't like barely. If Korea had been one month late, we'd have been in trouble. So now I'm asking for five.
+    마커스: 그랬죠. 4개월로 충분했지만 간신히였고, 전 '간신히'가 싫어요. 한국이 한 달만 늦었어도 곤란했을 거예요. 그래서 이제 5개월을 요청하는 겁니다.
 
 58. PRIYA: Lesson three. Two sources. Korea came online just in time.
     프리야: 교훈 셋. 공급처 둘. 한국이 딱 맞춰 가동됐어요.
@@ -213,8 +213,8 @@
 64. VICTORIA: I like people who say that in board meetings.
     빅토리아: 이사회에서 그런 말 하는 사람 좋아요.
 
-65. ZOE: Lesson five. Transparency sells. I didn't believe it. Now I have data.
-    조이: 교훈 다섯. 투명성이 팔려요. 안 믿었어요. 이제 데이터가 있어요.
+65. ZOE: Lesson five. Transparency sells. To be honest, I didn't believe it at first. I thought it was just a nice slogan. Now I have data, and the data says it's true.
+    조이: 교훈 다섯. 투명성이 팔려요. 솔직히 처음엔 안 믿었어요. 그냥 듣기 좋은 슬로건이라고 생각했죠. 이제 데이터가 있는데, 데이터가 그게 사실이라고 말해요.
 
 66. NOAH: Patients now ask for "the one you can take back." Some read the recall article.
     노아: 이제 환자들이 "되돌릴 수 있는 그거"를 찾아요. 일부는 회수 기사를 읽고요.
@@ -237,8 +237,8 @@
 72. ELAINE: Noah. What's the one thing you'd do differently?
     일레인: 노아. 다르게 할 한 가지가 뭐예요?
 
-73. NOAH: Listen to whispers. Leo's chart. Pierce's post. Kyle's lines. They were all early warnings.
-    노아: 속삭임에 귀 기울이기. 레오의 차트. 피어스의 글. 카일의 대사. 다 조기 경보였어요.
+73. NOAH: Listen to whispers, earlier. Leo's chart, Pierce's post, Kyle's lines. They were all early warnings, and we didn't always hear them in time. Next time, I want to hear them first.
+    노아: 속삭임에 더 일찍 귀 기울이기. 레오의 차트, 피어스의 글, 카일의 대사. 다 조기 경보였는데, 우린 늘 제때 듣지는 못했어요. 다음엔 제가 먼저 듣고 싶어요.
 
 74. ELAINE: Good answer. Now, Richard. Your questions.
     일레인: 좋은 대답이에요. 자, 리처드. 질문하세요.
@@ -308,8 +308,8 @@
 95. VICTORIA: Can I offer a different view? A competitor validates the category.
     빅토리아: 다른 관점을 말해도 될까요? 경쟁자는 시장을 입증해 줘요.
 
-96. ELENA: Last year, "dissolvable" was our idea. Today, it's an industry standard.
-    엘레나: 작년엔 "녹일 수 있는"이 우리 아이디어였어요. 오늘은 업계 표준이에요.
+96. ELENA: Think about it. Last year, "dissolvable" was our idea, and nobody else was talking about it. Today, it's an industry standard. Halvern copying us means we were right.
+    엘레나: 생각해 봐요. 작년엔 "녹일 수 있는"이 우리 아이디어였고, 아무도 그 얘기를 안 했어요. 오늘은 업계 표준이에요. 할번이 우릴 따라 한다는 건 우리가 옳았다는 뜻이에요.
 
 97. ELAINE: Then the question is simple. Why Veyra? When Flex is cheaper?
     일레인: 그럼 질문은 간단해요. 플렉스가 더 싼데 왜 베이라죠?
@@ -317,8 +317,8 @@
 98. NOAH: Faster. Proven head-to-head. Training before every order. And a company that recalls itself.
     노아: 더 빠름. 1:1 비교로 입증. 모든 주문 전 교육. 그리고 스스로 회수하는 회사.
 
-99. RICHARD: That's a story. Stories don't beat ninety-six dollars forever.
-    리처드: 그건 이야기예요. 이야기가 96달러를 영원히 이기진 못해요.
+99. RICHARD: That's a good story, I admit. But stories don't beat ninety-six dollars forever. Clinics have budgets, and sooner or later, someone in purchasing will just compare the two prices.
+    리처드: 좋은 이야기인 건 인정해요. 하지만 이야기가 96달러를 영원히 이기진 못해요. 병원에도 예산이 있고, 조만간 구매 담당 누군가가 그냥 두 가격을 비교할 거예요.
 
 100. NOAH: Then we need scale. More reps. Bigger accounts. Fast.
      노아: 그럼 규모가 필요해요. 더 많은 영업 사원. 더 큰 거래처. 빠르게.
@@ -329,8 +329,8 @@
 102. ELAINE: Eighty? That's ambitious.
      일레인: 8천이요? 야심 차네요.
 
-103. RICHARD: Halvern just raised the stakes. We match them. Or we shrink.
-     리처드: 할번이 판돈을 올렸어요. 우리가 맞추든가. 쪼그라들든가.
+103. RICHARD: Halvern just raised the stakes. They have the money, the reps, and now a cheaper product. Either we match them, or we shrink. There's no comfortable middle.
+     리처드: 할번이 판돈을 올렸어요. 돈도 있고, 영업 사원도 있고, 이제 더 싼 제품까지 있죠. 우리가 맞추든가, 쪼그라들든가. 편안한 중간은 없어요.
 
 104. NOAH: Nine months.
      노아: 9개월.
@@ -349,8 +349,8 @@
 108. PRIYA: More than four years. Since the first time. Marcus said yes here.
      프리야: 4년도 넘었어요. 처음 온 지. 마커스가 여기서 승낙했잖아요.
 
-109. ELENA: And now we have a product. A recall. A competitor. And a board.
-     엘레나: 그리고 이제 우린 제품이 있어요. 회수도. 경쟁자도. 이사회도.
+109. ELENA: And now look at us. We have a product, a recall behind us, a competitor copying us, and a board. Four years ago, we just had this booth and an idea.
+     엘레나: 그리고 지금 우릴 봐요. 제품이 있고, 회수도 지나왔고, 우릴 따라 하는 경쟁자도 있고, 이사회도 있어요. 4년 전엔 이 자리와 아이디어 하나뿐이었는데.
 
 110. NOAH: And trust. That's the one thing we kept.
      노아: 그리고 신뢰. 그게 우리가 지킨 한 가지예요.
@@ -370,8 +370,8 @@
 115. PRIYA: And tomorrow?
      프리야: 그리고 내일은?
 
-116. NOAH: Tomorrow, we grow. More reps. More channels. A sales leader who's better than me.
-     노아: 내일은 성장해요. 영업 사원 더. 채널 더. 나보다 나은 영업 리더.
+116. NOAH: Tomorrow, we grow. More reps, more channels. Here's the thing. I'm not the best seller in this company, so we need a sales leader who's better than me.
+     노아: 내일은 성장해요. 영업 사원 더, 채널 더. 중요한 건 이거야. 난 이 회사 최고의 영업맨이 아니야. 그러니까 나보다 나은 영업 리더가 필요해.
 
 117. MARCUS: Better than you? That's a low bar.
      마커스: 너보다 나은? 기준이 낮네.
@@ -423,3 +423,18 @@
 | Next | **Series B: $80M in 9 months** | — | Scale: reps, accounts, channels |
 
 > **Lessons learned:** ① Watch trends, not just limits (3 points → CEO in 1 week) ② Buffer stock (4 → 5 months) ③ Two sources ④ Bad news from a person ⑤ Transparency sells
+
+### ④ 긴 발화 분석
+
+> **18턴 NOAH:** "Correct. We're twelve percent below plan, and I won't hide that. The recall cost us about six weeks of sales, but without the recall, I think we'd have lost much more."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 인정(숫자) | Correct. We're twelve percent below plan, | 불리한 숫자를 먼저, 정확하게 인정 |
+| ② 태도 표명 | and I won't hide that. | 투명하게 보고하겠다는 신뢰 신호 |
+| ③ 원인 설명 | The recall cost us about six weeks of sales, | 차이의 원인을 구체적인 기간으로 설명 |
+| ④ 관점 전환(가정) | but without the recall, I think we'd have lost much more. | but + 가정법으로 손실을 올바른 결정의 대가로 재해석 |
+
+**활용 패턴:** 숫자 인정 → "I won't hide that" → 원인 → but + 가정(안 했다면 더 나빴다)
+**연결 표현:** below plan(계획 미달) · cost us(~을 잃게 했다) · without X, we'd have…(X가 없었다면 ~했을 것이다)
+**연습:** 목표에 못 미친 분기 실적을 상사에게 보고하며, 같은 구조로 30단어 안팎으로 말해 보기.

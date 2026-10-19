@@ -56,8 +56,8 @@
 13. ZOE: Great. Who's bringing tissues?
     조이: 좋네요. 휴지는 누가 챙겨요?
 
-14. GRACE: Dr. Choi is coming with us. Doctors listen to doctors. Not to sales people. Not even to me.
-    그레이스: 최 원장님이 같이 가요. 의사는 의사 말을 들어요. 영업 사람 말은 안 듣고. 나도 마찬가지고.
+14. GRACE: Dr. Choi is coming with us, because doctors listen to doctors. Not to sales people, and honestly, not even to me. If I say Veyra is safer, it sounds like marketing. If Dr. Choi says it, with his own cases behind him, it sounds like medicine.
+    그레이스: 최 원장님이 같이 가요. 의사는 의사 말을 들으니까요. 영업 사람 말은 안 듣고, 솔직히 내 말도 안 들어요. 내가 베이라가 더 안전하다고 하면 마케팅처럼 들려요. 최 원장님이 본인 사례를 바탕으로 말하면 의학처럼 들리죠.
 
 15. ZOE: Then we go in with a doctor. And a plan. What's the plan?
     조이: 그럼 의사랑 같이 들어가요. 계획이랑. 계획이 뭐예요?
@@ -79,8 +79,8 @@
 20. BAE: That's a Korean price. Your American price works in America. Here, there are fifty fillers.
     배승호: 그게 한국 가격이에요. 미국 가격은 미국에서 통하죠. 여긴 필러가 50종이에요.
 
-21. GRACE: I understand. But if we cut to one-forty, Bellacare goes to seventy. Then we go to one-twenty.
-    그레이스: 이해합니다. 하지만 우리가 14만으로 내리면, 벨라케어는 7만으로 가요. 그럼 우린 12만으로 가고.
+21. GRACE: I understand, Dr. Bae. But if we cut to one-forty, Bellacare goes to seventy, and then we're under pressure to go to one-twenty. Every cut invites another cut, and nobody stops until someone runs out of money.
+    그레이스: 이해합니다, 배 원장님. 하지만 우리가 14만으로 내리면 벨라케어는 7만으로 가고, 그럼 우린 12만으로 내리라는 압박을 받게 돼요. 인하는 또 다른 인하를 부르고, 누군가 돈이 바닥날 때까지 아무도 멈추지 않아요.
 
 22. ZOE: That's a race to the bottom. We won't join it. Not because we're proud. Because nobody wins it.
     조이: 그건 바닥으로의 경주예요. 우린 참여하지 않을 거예요. 자존심 때문이 아니라. 아무도 못 이기니까요.
@@ -112,8 +112,8 @@
 31. BAE: Nine were nose or forehead. Two were lips.
     배승호: 아홉 건이 코나 이마. 두 건이 입술.
 
-32. CHOI: Nose, forehead, glabella. Thirty percent of filler volume in Korea. Eighty percent of serious complications.
-    최민준: 코, 이마, 미간. 한국 필러 시술량의 30%. 심각한 합병증의 80%.
+32. CHOI: Nose, forehead, glabella. Those areas are thirty percent of filler volume in Korea, but eighty percent of serious complications, because the vessels there are small and connected to the eye. Your nine cases fit the national pattern exactly, Seung-ho. That isn't bad luck. That's anatomy.
+    최민준: 코, 이마, 미간. 그 부위들이 한국 필러 시술량의 30%인데, 심각한 합병증의 80%야. 거기 혈관은 작고 눈과 연결돼 있으니까. 네 아홉 건은 전국 패턴과 정확히 맞아, 승호야. 그건 운이 나빴던 게 아니야. 해부학이지.
 
 33. GRACE: That's from the Korean Dermatological Society data. Appendix C of our launch plan.
     그레이스: 그건 한국 피부과학회 자료예요. 우리 출시 계획 부록 C에 있어요.
@@ -121,8 +121,8 @@
 34. BAE: So you want me to switch everything to Veyra? At three times the price?
     배승호: 그러니까 전부 베이라로 바꾸라는 거예요? 세 배 가격에?
 
-35. CHOI: No. Use Bellacare for cheeks and lips. Low risk. Use Veyra where the risk is highest.
-    최민준: 아니. 볼과 입술엔 벨라케어를 써. 위험이 낮으니까. 위험이 가장 높은 곳에 베이라를 써.
+35. CHOI: No. Use Bellacare for cheeks and lips, where the risk is low and price matters more. Use Veyra where the risk is highest. You don't need to pay premium prices everywhere, Seung-ho, only in the places where one mistake becomes a disaster.
+    최민준: 아니. 볼과 입술엔 벨라케어를 써. 위험이 낮고 가격이 더 중요한 곳이니까. 위험이 가장 높은 곳에 베이라를 써. 모든 곳에 프리미엄 가격을 낼 필요는 없어, 승호야. 실수 하나가 재앙이 되는 곳에서만.
 
 36. ZOE: …We didn't plan that.
     조이: …그건 계획에 없었는데요.
@@ -136,8 +136,8 @@
 39. CHOI: And eighty percent of your midnight phone calls. And your lawsuits.
     최민준: 그리고 자정 전화의 80%. 그리고 소송도.
 
-40. BAE: Do you know what one blindness case costs a clinic in Gangnam? Not the lawsuit. The reputation.
-    배승호: 강남에서 실명 사건 하나가 클리닉에 뭘 남기는지 알아? 소송 말고. 평판.
+40. BAE: Do you know what one blindness case costs a clinic in Gangnam? Not the lawsuit. The reputation. One post online, one news story, and patients stop booking at every branch, not just the one where it happened. Twenty branches means twenty times the exposure.
+    배승호: 강남에서 실명 사건 하나가 클리닉에 뭘 남기는지 알아? 소송 말고. 평판. 온라인 게시글 하나, 뉴스 하나면, 사건이 난 지점만이 아니라 모든 지점에서 환자들이 예약을 끊어. 지점이 20곳이면 노출도 20배야.
 
 41. CHOI: I know. That's why I'm here.
     최민준: 알아. 그래서 내가 여기 온 거야.
@@ -148,8 +148,8 @@
 43. ZOE: Then let's talk about what the price includes. Not just the syringe.
     조이: 그럼 가격에 무엇이 포함되는지 얘기하죠. 주사기만이 아니라.
 
-44. GRACE: Korean Veyra Ready training for every injector. Free. An emergency kit in every room. A Korean hotline. Twenty-four hours.
-    그레이스: 모든 시술자에게 한국어 베이라 레디 교육. 무료. 모든 시술실에 응급 키트. 한국어 핫라인. 24시간.
+44. GRACE: Korean Veyra Ready training for every injector, free of charge. An emergency kit in every treatment room. A Korean-language hotline, twenty-four hours a day, so your doctors never face an occlusion alone at three in the morning. Bellacare sells you a syringe. We're offering you a safety system.
+    그레이스: 모든 시술자에게 한국어 베이라 레디 교육, 무료로. 모든 시술실에 응급 키트. 한국어 핫라인 24시간 운영이라, 원장님 의사들이 새벽 3시에 혈관 폐색을 혼자 마주할 일이 없어요. 벨라케어는 주사기를 팔죠. 저희는 안전 시스템을 제안하는 거예요.
 
 45. ZOE: And serial scanning. Every syringe traced. If a regulator asks, you have the answer in one minute.
     조이: 그리고 일련번호 스캔. 모든 주사기 추적. 규제 기관이 물으면 1분 안에 답할 수 있어요.
@@ -225,8 +225,8 @@
 68. ZOE: So what can we do? Without a testimonial? Without the brand?
     조이: 그럼 뭘 할 수 있어요? 경험담 없이? 브랜드 없이?
 
-69. YUNA: Education. My viewers trust me because I don't sell. I teach. Mostly skincare. Sometimes mistakes.
-    유나: 교육이요. 시청자들이 날 믿는 건 내가 안 팔기 때문이에요. 가르쳐요. 주로 스킨케어. 가끔 실수도.
+69. YUNA: Education. My viewers trust me because I don't sell. I teach. Mostly skincare, sometimes my own mistakes. The moment I start selling a product, I lose the one thing that makes my channel valuable, so whatever we do has to help them even if they never buy anything.
+    유나: 교육이요. 시청자들이 날 믿는 건 내가 안 팔기 때문이에요. 가르치죠. 주로 스킨케어, 가끔은 내 실수도요. 제품을 팔기 시작하는 순간 내 채널을 가치 있게 만드는 단 하나를 잃어요. 그러니 뭘 하든, 시청자들이 아무것도 안 사더라도 도움이 되는 거여야 해요.
 
 70. HAEUN: The "Two Questions" video? Our idea?
     하은: "두 가지 질문" 영상? 우리 아이디어?
@@ -243,8 +243,8 @@
 74. GRACE: You had a complication?
     그레이스: 합병증이 있었어요?
 
-75. YUNA: The skin went grey. My doctor dissolved it fast. I was lucky. Most of my viewers won't ask that question.
-    유나: 피부가 회색이 됐어요. 의사가 빨리 녹여 줬죠. 운이 좋았어요. 시청자 대부분은 그 질문을 안 할 거예요.
+75. YUNA: The skin went grey, right here, and I was terrified. My doctor recognised it and dissolved it fast, so I was lucky. But I never asked about dissolving before the treatment. Most of my viewers won't ask that question either.
+    유나: 피부가 회색이 됐어요, 바로 여기. 너무 무서웠어요. 의사가 알아보고 빨리 녹여 줘서 운이 좋았죠. 그런데 시술 전에 녹일 수 있는지는 한 번도 안 물어봤어요. 시청자 대부분도 그 질문은 안 할 거예요.
 
 76. ZOE: You've never told your viewers?
     조이: 시청자들한테 말한 적 없어요?
@@ -269,8 +269,8 @@
 82. GRACE: Two options. Cut to one-forty for everyone and fight Bellacare. Or hold two-thirty, and win the risk zones.
     그레이스: 두 가지 안. 전체를 14만으로 내리고 벨라케어와 싸우거나. 아니면 23만을 지키고, 위험 부위를 이기거나.
 
-83. PAUL: The numbers. Cutting to one-forty, volume plus forty percent. But gross margin falls from seventy-eight to sixty-one.
-    폴: 숫자. 14만으로 내리면 물량 +40%. 하지만 매출총이익률이 78%에서 61%로 떨어져요.
+83. PAUL: Here are the numbers. Cutting to one-forty, volume goes up about forty percent, which sounds great. But gross margin falls from seventy-eight to sixty-one, and that's before we pay for free training and the hotline. We'd be selling much more and earning less on every syringe.
+    폴: 숫자 말씀드릴게요. 14만으로 내리면 물량이 약 40% 늘어요. 근사하게 들리죠. 하지만 매출총이익률이 78%에서 61%로 떨어지고, 그것도 무료 교육과 핫라인 비용을 내기 전이에요. 훨씬 많이 팔면서 주사기 하나당 덜 버는 거예요.
 
 84. GRACE: And it resets the price in every market. Japan will hear about it. So will the UK.
     그레이스: 그리고 모든 시장의 가격을 리셋해요. 일본이 듣게 될 거예요. 영국도요.
@@ -290,14 +290,14 @@
 89. ZOE: And the premium segment is eighteen percent of volume, thirty-five of value. We don't need the other eighty-two.
     조이: 그리고 프리미엄 세그먼트는 물량의 18%, 금액의 35%예요. 나머지 82%는 필요 없어요.
 
-90. NOAH: Here's the thing. Safety is worth paying for. That's our whole idea. Cut the price, and we say it isn't.
-    노아: 요점은 이거예요. 안전은 돈을 낼 가치가 있다. 그게 우리의 전부예요. 가격을 내리면, 아니라고 말하는 거예요.
+90. NOAH: Here's the thing. Safety is worth paying for. That's our whole idea, from the first napkin to this launch. If we cut the price to match Bellacare, we're telling every doctor in Korea that safety isn't worth paying for after all, and we can't take that message back later.
+    노아: 요점은 이거예요. 안전은 돈을 낼 가치가 있다. 첫 냅킨부터 이번 출시까지 그게 우리의 전부예요. 벨라케어에 맞춰 가격을 내리면, 한국의 모든 의사에게 결국 안전은 돈을 낼 가치가 없다고 말하는 거고, 그 메시지는 나중에 되돌릴 수 없어요.
 
 91. PAUL: That's a values argument. I need a business argument too.
     폴: 그건 가치관 논리예요. 비즈니스 논리도 필요해요.
 
-92. GRACE: Here's one. Bellacare dropped to eighty-five last week. Today, Ha-eun heard seventy-nine. They're losing money.
-    그레이스: 여기 있어요. 벨라케어가 지난주 8만 5천으로 내렸어요. 오늘 하은이가 7만 9천이라고 들었어요. 손해 보고 있는 거예요.
+92. GRACE: Here's one. Bellacare dropped to eighty-five last week, and today Ha-eun heard seventy-nine. At that price, they're almost certainly losing money on every syringe. A price war only works if you can outlast your opponent, and we don't need to, because we're not in their race.
+    그레이스: 여기 있어요. 벨라케어가 지난주 8만 5천으로 내렸고, 오늘 하은이가 7만 9천이라고 들었어요. 그 가격이면 거의 확실히 주사기마다 손해를 보고 있어요. 가격 전쟁은 상대보다 오래 버틸 수 있을 때만 통하는데, 우린 그럴 필요가 없어요. 그 경주에 들어가 있지 않으니까요.
 
 93. HAEUN: Their sales rep told me. Off the record. They have six months of cash.
     하은: 그쪽 영업 사원이 말해 줬어요. 비공식으로. 현금이 6개월 치 있대요.
@@ -352,8 +352,8 @@
 109. ZOE: Can I go to Tokyo? Please? I've never been.
      조이: 도쿄 가도 돼요? 제발요? 한 번도 안 가 봤어요.
 
-110. GRACE: Bring patience. In Tokyo, nothing will be decided in the meeting. Nothing.
-     그레이스: 인내심을 챙겨요. 도쿄에선 회의에서 아무것도 결정되지 않아요. 아무것도.
+110. GRACE: Bring patience. In Tokyo, nothing will be decided in the meeting itself. Nothing. The real decisions happen before, in small conversations, and the meeting just confirms them. If you push for a yes at the table, you'll make everyone uncomfortable and go home with less than you came with.
+     그레이스: 인내심을 챙겨요. 도쿄에선 회의 자체에서는 아무것도 결정되지 않아요. 아무것도. 진짜 결정은 그 전에 작은 대화들에서 이뤄지고, 회의는 그걸 확인할 뿐이에요. 테이블에서 예스를 밀어붙이면 모두를 불편하게 만들고, 가져온 것보다 적게 들고 돌아가게 될 거예요.
 
 111. NOAH: And the second thing?
      노아: 그리고 두 번째는요?
@@ -365,7 +365,7 @@
      노아: 읽어 줘요.
 
 114. PAUL: "Back from Seoul? Dinner May twenty-eighth. I'm not asking a third time. T."
-     폴: "서울에서 돌아왔어? 5월 8일 저녁. 세 번째는 안 물어. T."
+     폴: "서울에서 돌아왔어? 5월 28일 저녁. 세 번째는 안 물어. T."
 
 115. ZOE: "Not asking a third time." That sounds like a threat.
      조이: "세 번째는 안 묻는다." 협박처럼 들리네요.
@@ -373,8 +373,8 @@
 116. GRACE: Or an offer. In Korea, the third invitation is the last polite one.
      그레이스: 아니면 제안이죠. 한국에선 세 번째 초대가 마지막으로 정중한 거예요.
 
-117. NOAH: Paul, if he makes an offer at dinner, Bluewater hears within forty-eight hours. Right?
-     노아: 폴, 그가 저녁에 제안하면, 블루워터는 48시간 안에 들어야 하죠?
+117. NOAH: Paul, if Tom makes an offer at dinner, I don't want any confusion later about what I knew and when. I'll write down whatever he says that same night, and Bluewater hears within forty-eight hours. That's the rule, right?
+     노아: 폴, 톰이 저녁에 제안을 하면, 나중에 내가 언제 뭘 알았는지 혼란이 없었으면 해요. 그가 하는 말은 그날 밤에 다 적어 둘 거고, 블루워터는 48시간 안에 듣게 되죠. 그게 규칙 맞죠?
 
 118. PAUL: In writing. Diane already drafted the notice. Just in case.
      폴: 서면으로. 다이앤이 통지문 초안을 이미 써 놨어요. 혹시 몰라서.
@@ -424,3 +424,18 @@
 > **Lumi Clinic (Dr. Bae):** 20 branches · **nose / forehead / glabella only** · ₩215,000 (written volume tier 6.5%) · all injectors certified within 60 days or tier pauses · "Don't tell Bellacare."
 > **Influencer (Seo Yuna, 3.2M):** paid **education** video "Two questions before any filler: Can it be dissolved? How fast?" · own forehead story as a warning · no brand, no testimonial · pre-review first.
 > **Competitor:** Bellacare ₩90,000 → ₩85,000 → ₩79,000 · ~6 months of cash (unconfirmed).
+
+### ④ 긴 발화 분석
+
+> **92턴 GRACE:** "Here's one. Bellacare dropped to eighty-five last week, and today Ha-eun heard seventy-nine. At that price, they're almost certainly losing money on every syringe. A price war only works if you can outlast your opponent, and we don't need to, because we're not in their race."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 요청에 응답 | Here's one. | "비즈니스 논리도 필요하다"는 요구에 바로 답함 |
+| ② 사실(숫자 추이) | Bellacare dropped to eighty-five last week, and today Ha-eun heard seventy-nine. | 경쟁사 가격 변화를 시점과 함께 제시 |
+| ③ 추론(헤지) | At that price, they're almost certainly losing money on every syringe. | almost certainly로 확신의 정도를 조절하며 해석 |
+| ④ 전략 결론(원리 + 이유) | A price war only works if you can outlast your opponent, and we don't need to, because we're not in their race. | 일반 원리 → 우리에게 적용 → because로 마무리 |
+
+**활용 패턴:** Here's one → 숫자 추이 → 헤지한 해석 → only works if… + 우리의 입장
+**연결 표현:** almost certainly(거의 확실히) · only works if(~할 때만 통한다) · outlast(~보다 오래 버티다)
+**연습:** 경쟁사가 할인 공세를 벌일 때 "우리도 내리자"는 동료에게, 숫자를 근거로 같은 구조로 40~50단어로 반대해 보기.

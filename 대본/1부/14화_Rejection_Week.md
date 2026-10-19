@@ -53,8 +53,8 @@
 12. ELENA: Twenty-eight percent weaker. Is that bad?
     엘레나: 28퍼센트 약해졌다. 그게 나쁜 거예요?
 
-13. MARCUS: It means the gel is softer. It might not last twelve months.
-    마커스: 젤이 더 물러졌다는 뜻이야. 12개월을 못 버틸 수도 있어.
+13. MARCUS: It means the gel is softer. A softer gel breaks down faster in the body, so it might not last twelve months. And twelve months is half of our one thing.
+    마커스: 젤이 더 물러졌다는 뜻이야. 젤이 무르면 몸속에서 더 빨리 분해되니까 12개월을 못 버틸 수도 있어. 그리고 12개월은 우리 핵심의 절반이고.
 
 14. PRIYA: I can't comment. Chemistry-free zone. But I'm screaming inside.
     프리야: 난 말 못 해요. 화학 금지 구역. 근데 속으로 비명 지르는 중이에요.
@@ -70,8 +70,8 @@
 17. NOAH: Thank you, Brad. What did you think of the opportunity?
     노아: 감사해요, 브래드. 이 기회에 대해 어떻게 생각하세요?
 
-18. BRAD: Honestly? It's too early for us. No animal data yet.
-    브래드: 솔직히요? 저희한텐 너무 일러요. 아직 동물 데이터가 없잖아요.
+18. BRAD: Honestly? It's too early for us. You have no animal data yet, and our partners won't invest in a medical product until they've seen it work in animals at least.
+    브래드: 솔직히요? 저희한텐 너무 일러요. 아직 동물 데이터가 없잖아요. 저희 파트너들은 적어도 동물에서 효과가 확인되기 전까지는 의료 제품에 투자하지 않아요.
 
 19. NOAH: That's what this round is for. To get the animal data.
     노아: 이번 라운드가 바로 그걸 위한 거예요. 동물 데이터를 얻으려고요.
@@ -97,8 +97,8 @@
 26. MONICA: Every founder says five. It's always ten.
     모니카: 창업자들은 다 5년이라고 해요. 늘 10년이 걸리죠.
 
-27. NOAH: Our CMO has watched three companies try this. She built in a contingency.
-    노아: 저희 CMO가 이런 시도를 세 번 지켜봤어요. 예비비를 반영했어요.
+27. NOAH: Our CMO has watched three companies try this, so she knows where the delays usually happen. She built in a contingency, which is why our timeline is realistic, not optimistic.
+    노아: 저희 CMO가 이런 시도를 세 번 지켜봐서, 보통 어디서 지연이 생기는지 알아요. 예비 기간을 반영했어요. 그래서 저희 일정은 낙관적인 게 아니라 현실적이에요.
 
 28. MONICA: That's thoughtful. Still, our fund ends in eight years. It's not a fit.
     모니카: 신중하네요. 그래도 저희 펀드는 8년 뒤에 끝나요. 맞지 않아요.
@@ -106,8 +106,8 @@
 29. NOAH: I appreciate the honesty.
     노아: 솔직하게 말씀해 주셔서 감사해요.
 
-30. MONICA: Don't take it personally. It's about our timeline, not your team.
-    모니카: 개인적으로 받아들이지 마세요. 저희 일정 문제지, 팀 문제가 아니에요.
+30. MONICA: Don't take it personally. It's about our timeline, not your team. If our fund were newer, we might have a different conversation. Keep talking to investors with longer funds.
+    모니카: 개인적으로 받아들이지 마세요. 저희 일정 문제지, 팀 문제가 아니에요. 저희 펀드가 좀 더 최근에 만들어졌다면 다른 얘기를 했을 수도 있어요. 기간이 더 긴 펀드를 가진 투자자들과 계속 얘기해 보세요.
 
 31. ELENA: Number two?
     엘레나: 2번이에요?
@@ -151,8 +151,8 @@
 44. ELENA: And they still said no?
     엘레나: 그런데도 거절했어요?
 
-45. NOAH: They said, "Single-product risk. Too much depends on one formula."
-    노아: "단일 제품 리스크. 배합 하나에 너무 많은 게 달려 있다."
+45. NOAH: They said, 'Single-product risk.' If our one formula fails, the whole company fails, because we don't have a second product to fall back on. Too much depends on one formula.
+    노아: "단일 제품 리스크"래요. 배합 하나가 실패하면 회사 전체가 실패한다는 거죠. 기댈 두 번째 제품이 없으니까요. 배합 하나에 너무 많은 게 달려 있대요.
 
 46. PRIYA: That's… actually true.
     프리야: 그건… 사실 맞는 말이야.
@@ -166,8 +166,8 @@
 49. NOAH: Five meetings. Five rejections. In three days.
     노아: 미팅 다섯 번. 거절 다섯 번. 사흘 만에.
 
-50. ELENA: That's actually normal. Most founders hear fifty no's before one yes.
-    엘레나: 그거 사실 정상이에요. 대부분의 창업자는 "예스" 한 번 전에 "노"를 쉰 번 들어요.
+50. ELENA: That's actually normal. Most founders hear fifty no's before one yes. Every rejection tells us something, so let's write the reasons down. Each one is something to fix before the next pitch.
+    엘레나: 그거 사실 정상이에요. 대부분의 창업자는 "예스" 한 번 전에 "노"를 쉰 번 들어요. 거절마다 알려 주는 게 있으니까 이유를 적어 둬요. 하나하나가 다음 피칭 전에 고쳐야 할 것들이에요.
 
 ### 장면2 — 수요일 밤, Priya의 소식
 
@@ -195,8 +195,8 @@
 58. NOAH: Priya, you didn't tell us.
     노아: 프리야, 우리한테 말 안 했잖아.
 
-59. PRIYA: You were in investor meetings all week. I didn't want to distract you.
-    프리야: 넌 일주일 내내 투자자 미팅이었잖아. 방해하고 싶지 않았어.
+59. PRIYA: You were in investor meetings all week, and every call was a no. I didn't want to distract you. And honestly, I thought it would be a simple form, not a big meeting.
+    프리야: 넌 일주일 내내 투자자 미팅이었고, 통화마다 거절이었잖아. 방해하고 싶지 않았어. 그리고 솔직히, 그냥 간단한 서류일 줄 알았지 큰 미팅이 될 줄은 몰랐어.
 
 60. ELENA: What did Halvern say?
     엘레나: 할번은 뭐래요?
@@ -213,8 +213,8 @@
 64. NOAH: They fired you? For being honest?
     노아: 해고했다고? 정직하게 말했다고?
 
-65. PRIYA: For being honest about co-owning a competitor. From their side, it's logical.
-    프리야: 경쟁사를 공동 소유한다고 정직하게 말해서. 그쪽 입장에선 논리적이야.
+65. PRIYA: For being honest about co-owning a competitor. From their side, it's logical. I work in their research lab every day, and I also own part of a company making fillers.
+    프리야: 경쟁사를 공동 소유한다고 정직하게 말해서. 그쪽 입장에선 논리적이야. 난 매일 그 회사 연구실에서 일하는데, 동시에 필러를 만드는 회사 지분도 갖고 있으니까.
 
 66. ELENA: Did anyone mention Noah? Or Tom?
     엘레나: 누가 노아나 톰 얘기를 했어요?
@@ -240,8 +240,8 @@
 73. PRIYA: No. I made my own choice. With my eyes open.
     프리야: 아니야. 내가 선택한 거야. 다 알고서.
 
-74. MARCUS: Let's not do blame. Let's do options. What are they?
-    마커스: 탓하지 말자. 선택지를 보자. 뭐가 있지?
+74. MARCUS: Let's not do blame. Blame doesn't change anything, and we don't have time for it. Let's do options instead. Put them on the board, one by one. What are they?
+    마커스: 탓하지 말자. 탓해 봤자 바뀌는 건 없고, 그럴 시간도 없어. 대신 선택지를 보자. 하나씩 보드에 적어. 뭐가 있지?
 
 75. NOAH: Option B from Diane. Veyra sponsors Priya's H-1B.
     노아: 다이앤의 B안. Veyra가 프리야의 H-1B 스폰서가 되는 거.
@@ -296,8 +296,8 @@
 91. NOAH: Meaning?
     노아: 무슨 뜻이에요?
 
-92. MARCUS: Don't bet everything on one path. Run two at the same time.
-    마커스: 한 길에 전부 걸지 마. 두 개를 동시에 굴려.
+92. MARCUS: Don't bet everything on one path. In the field, if your only radio fails, you're alone. So we run two paths at the same time, and if one fails, we still have the other.
+    마커스: 한 길에 전부 걸지 마. 현장에서 무전기가 하나뿐인데 그게 고장 나면 혼자가 되는 거야. 그러니까 두 길을 동시에 굴리는 거지. 하나가 실패해도 다른 하나가 남아 있게.
 
 93. ELENA: Path one, raise money fast. For the H-1B transfer.
     엘레나: 첫 번째 길, 빨리 투자받기. H-1B 이전을 위해.
@@ -314,8 +314,8 @@
 97. MARCUS: Including Elaine?
     마커스: 일레인도 포함해서?
 
-98. NOAH: She said, "Prove the one thing, then call me." We haven't proven it.
-    노아: "핵심을 증명하고 나서 전화하라"고 했잖아요. 우린 아직 증명 못 했어요.
+98. NOAH: She said, 'Prove the one thing, then call me.' We haven't proven it. If I call her now with nothing new, I'm just another founder who doesn't listen.
+    노아: "핵심을 증명하고 나서 전화하라"고 했잖아요. 우린 아직 증명 못 했어요. 새로운 것 없이 지금 전화하면, 저는 말을 안 듣는 흔한 창업자 중 하나가 될 뿐이에요.
 
 99. ELENA: But things changed. Your CTO is free. You learned your numbers.
     엘레나: 하지만 상황이 바뀌었잖아요. CTO가 풀려났고, 숫자도 익혔고.
@@ -326,8 +326,8 @@
 101. NOAH: So I don't call to ask for money. I call to give an honest update.
      노아: 그러니까 돈을 달라고 전화하는 게 아니라, 정직한 업데이트를 하려고 전화하는 거네.
 
-102. ELENA: Exactly. Investors respect updates. Especially bad news, told early.
-     엘레나: 바로 그거예요. 투자자들은 업데이트를 존중해요. 특히 일찍 알린 나쁜 소식은요.
+102. ELENA: Exactly. Investors respect updates, especially bad news told early. If they hear it from you first, they trust you. If they hear it later from someone else, they never forget it.
+     엘레나: 바로 그거예요. 투자자들은 업데이트를 존중해요. 특히 일찍 알린 나쁜 소식은요. 당신한테서 먼저 들으면 당신을 믿어요. 나중에 다른 사람한테서 들으면 절대 잊지 않고요.
 
 103. NOAH: Okay. I'll email her tonight. Good news and bad news. Both.
      노아: 좋아요. 오늘 밤 이메일 보낼게요. 좋은 소식이랑 나쁜 소식 둘 다.
@@ -370,8 +370,8 @@
 115. TOM: We'll see. Nothing personal. Drive safe, both of you.
      톰: 두고 보지. 개인적인 감정은 없어. 둘 다 조심히 가.
 
-116. PRIYA: He's going to be a problem. For a long time.
-     프리야: 저 사람 문제가 될 거야. 오랫동안.
+116. PRIYA: He's going to be a problem for a long time. He didn't come to this parking lot by coincidence. He came to see us, and he wanted us to know he's watching.
+     프리야: 저 사람 오랫동안 문제가 될 거야. 이 주차장에 우연히 온 게 아니야. 우리를 보러 온 거고, 자기가 지켜보고 있다는 걸 우리가 알길 바란 거야.
 
 117. NOAH: I know. My phone's buzzing. It's… Elaine.
      노아: 알아. 전화가 울리네. 이건… 일레인이야.
@@ -426,3 +426,18 @@
 
 예시:
 > *The good news: our gel survived sterilization, and our CTO can now work full-time on the formula. The bad news: it lost 28% of its strength, and our CTO now has 60 days to secure a visa sponsor. Here's how we're handling it: we're reformulating and running two visa paths in parallel.*
+
+### ④ 긴 발화 분석
+
+> **102턴 ELENA:** "Exactly. Investors respect updates, especially bad news told early. If they hear it from you first, they trust you. If they hear it later from someone else, they never forget it."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 동의 | Exactly. | 상대의 결론을 한 단어로 확인 |
+| ② 원칙 | Investors respect updates, especially bad news told early. | 일반 원칙을 제시하고 especially로 핵심을 좁힘 |
+| ③ 대조 조건 1 | If they hear it from you first, they trust you. | 좋은 경우의 결과 |
+| ④ 대조 조건 2 | If they hear it later from someone else, they never forget it. | 나쁜 경우의 결과로 원칙을 강하게 뒷받침 |
+
+**활용 패턴:** 동의 → 원칙(especially…) → If A, 좋은 결과 → If B, 나쁜 결과
+**연결 표현:** especially(특히) · If…first(먼저 ~하면) · later(나중에) · never forget(절대 잊지 않는다)
+**연습:** 프로젝트 지연 사실을 상사에게 일찍 알려야 하는 이유를 같은 구조로 30단어 안팎으로 말해 보기.

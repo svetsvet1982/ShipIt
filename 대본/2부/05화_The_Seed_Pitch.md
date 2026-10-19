@@ -35,8 +35,8 @@
 06. ELENA: And if we can't answer?
     엘레나: 우리가 답을 못 하면요?
 
-07. ELAINE: Then you're a nice science project. He doesn't fund science projects.
-    일레인: 그럼 괜찮은 과학 프로젝트일 뿐이에요. 그 사람은 과학 프로젝트에 투자 안 해요.
+07. ELAINE: Then you're a nice science project. He doesn't fund science projects. He funds companies that could return his whole fund, so every answer you give should point toward size.
+    일레인: 그럼 괜찮은 과학 프로젝트일 뿐이에요. 그 사람은 과학 프로젝트에 투자 안 해요. 펀드 전체를 돌려줄 수 있는 회사에 투자하죠. 그러니까 모든 대답이 규모를 향해야 해요.
 
 08. NOAH: Got it. Anything else?
     노아: 알겠어요. 또 있어요?
@@ -82,8 +82,8 @@
 21. RICHARD: Good line. Skip to the one thing. Elaine told me about it.
     리처드: 좋은 문장이네요. 핵심으로 넘어가요. 일레인이 말해 줬어요.
 
-22. NOAH: Twelve months of results. Three times faster dissolution. At the same time.
-    노아: 12개월 효과. 세 배 빠른 용해. 동시에.
+22. NOAH: Twelve months of results and three times faster dissolution, at the same time. Today, doctors have to choose between a filler that lasts and one that dissolves easily. We don't.
+    노아: 12개월 효과와 세 배 빠른 용해를 동시에요. 지금 의사들은 오래가는 필러와 쉽게 녹는 필러 중 하나를 골라야 해요. 저희는 고를 필요가 없죠.
 
 23. RICHARD: Where are you today on those numbers?
     리처드: 그 숫자들에서 지금 어디쯤 와 있어요?
@@ -100,8 +100,8 @@
 27. JORDAN: And the twelve months? How do you know it lasts?
     조던: 12개월은요? 오래가는 건 어떻게 알아요?
 
-28. PRIYA: We don't yet. That's what the animal study is for.
-    프리야: 아직 몰라요. 그걸 위해 동물 시험을 하는 거예요.
+28. PRIYA: We don't yet. That's what the animal study is for. The lab can show how fast it dissolves, but only real tissue can show how long it really lasts.
+    프리야: 아직 몰라요. 그걸 위해 동물 시험을 하는 거예요. 실험실에선 얼마나 빨리 녹는지는 보여 줄 수 있지만, 실제로 얼마나 오래가는지는 진짜 조직에서만 알 수 있어요.
 
 29. RICHARD: Honest. Good. Continue, Noah. Market size.
     리처드: 솔직하네요. 좋아요. 계속해요, 노아. 시장 규모.
@@ -145,8 +145,8 @@
 42. JORDAN: Ten percent. Why ten? Why not five or twenty?
     조던: 10퍼센트요. 왜 10이에요? 5나 20이 아니고?
 
-43. NOAH: Because a new filler with a clear advantage usually reaches five to fifteen.
-    노아: 뚜렷한 장점이 있는 새 필러는 보통 5에서 15퍼센트에 도달하거든요.
+43. NOAH: Because a new filler with a clear advantage usually reaches five to fifteen percent. Ten is the middle of that range, so it's realistic, not optimistic. I'd rather under-promise here.
+    노아: 뚜렷한 장점이 있는 새 필러는 보통 5에서 15퍼센트에 도달하거든요. 10은 그 범위의 중간이라 낙관적인 게 아니라 현실적인 숫자예요. 여기선 차라리 덜 약속하는 게 낫다고 봐요.
 
 44. RICHARD: Usually. Who says?
     리처드: 보통이라. 누가 그래요?
@@ -186,8 +186,8 @@
 55. RICHARD: And?
     리처드: 그리고요?
 
-56. NOAH: Fillers have high margins. Over eighty percent. Acquirers pay several times revenue.
-    노아: 필러는 마진이 높아요. 80퍼센트 이상이요. 인수자들은 매출의 몇 배를 지불하죠.
+56. NOAH: Fillers have high margins, over eighty percent. And when a big company buys a filler business, they usually pay several times revenue. So three hundred million in sales gets us past a billion.
+    노아: 필러는 마진이 높아요. 80퍼센트 이상이요. 그리고 대기업이 필러 사업을 인수할 때는 보통 매출의 몇 배를 지불해요. 그러니까 매출 3억 달러면 10억 달러를 넘는 거죠.
 
 57. RICHARD: So the first product alone could get there. What else?
     리처드: 그러니까 첫 제품만으로도 갈 수 있다. 또 뭐가 있죠?
@@ -210,8 +210,8 @@
 63. RICHARD: That's a dangerous thing to admit in a pitch.
     리처드: 피칭에서 인정하기엔 위험한 얘기네요.
 
-64. PRIYA: It's more dangerous to hide it. You'd find it in due diligence.
-    프리야: 숨기는 게 더 위험해요. 실사에서 어차피 찾으실 거잖아요.
+64. PRIYA: It's more dangerous to hide it. You'd find it in due diligence anyway, and then you'd wonder what else we were hiding. I'd rather you hear it from me today.
+    프리야: 숨기는 게 더 위험해요. 어차피 실사에서 찾으실 거고, 그러면 저희가 또 뭘 숨기는지 의심하시겠죠. 차라리 오늘 제 입으로 듣는 게 나아요.
 
 65. RICHARD: Fair. So what's your moat?
     리처드: 맞아요. 그럼 해자가 뭐예요?
@@ -234,8 +234,8 @@
 71. NOAH: We've heard others are exploring the space. We don't know who.
     노아: 이 분야를 탐색하는 곳들이 있다고 들었어요. 누군지는 몰라요.
 
-72. RICHARD: Of course they are. Good ideas are never lonely.
-    리처드: 당연히 있겠죠. 좋은 아이디어는 절대 혼자가 아니에요.
+72. RICHARD: Of course they are. Good ideas are never lonely. When something works, several teams discover it at once. The winner isn't the one with the idea. It's the one who executes fastest.
+    리처드: 당연히 있겠죠. 좋은 아이디어는 절대 혼자가 아니에요. 뭔가 통하면 여러 팀이 동시에 발견하죠. 이기는 건 아이디어를 가진 쪽이 아니라 가장 빨리 실행하는 쪽이에요.
 
 73. ELENA: That's why we need to move faster. With your money.
     엘레나: 그래서 더 빨리 움직여야 해요. 당신의 돈으로요.
@@ -278,8 +278,8 @@
 85. NOAH: Thank you.
     노아: 감사합니다.
 
-86. RICHARD: But it's early. You have test tube data. No animal data.
-    리처드: 하지만 일러요. 시험관 데이터뿐이죠. 동물 데이터가 없어요.
+86. RICHARD: But it's early. You have test tube data. No animal data. Right now I'd be betting five million on a lab result, and my partners will ask me why I didn't wait.
+    리처드: 하지만 일러요. 시험관 데이터뿐이죠. 동물 데이터가 없어요. 지금 투자하면 실험실 결과 하나에 500만 달러를 거는 셈이고, 파트너들은 왜 기다리지 않았냐고 물을 거예요.
 
 87. NOAH: That's what the money is for.
     노아: 그걸 위한 돈이에요.
@@ -305,8 +305,8 @@
 94. JORDAN: In plain English?
     조던: 쉬운 말로요?
 
-95. PRIYA: A test tube isn't a living body. Bodies are messy. Numbers usually drop.
-    프리야: 시험관은 살아 있는 몸이 아니에요. 몸은 복잡해요. 숫자는 보통 떨어지죠.
+95. PRIYA: A test tube isn't a living body. Bodies are messy. There's blood flow, inflammation, and enzymes at different levels in every body. So numbers from the lab usually drop in animals.
+    프리야: 시험관은 살아 있는 몸이 아니에요. 몸은 복잡해요. 혈류도 있고, 염증도 있고, 효소 수치도 몸마다 달라요. 그래서 실험실 숫자는 동물에선 보통 떨어지죠.
 
 96. RICHARD: How much do they drop?
     리처드: 얼마나 떨어져요?
@@ -326,8 +326,8 @@
 101. NOAH: Ninety days. The animal study takes about eight weeks.
      노아: 90일. 동물 시험은 약 8주 걸려요.
 
-102. ELENA: That leaves four weeks of margin. Not much.
-     엘레나: 그럼 여유가 4주 남아요. 많지 않네요.
+102. ELENA: That leaves four weeks of margin. Not much. If one animal gets sick or the lab has a delay, those four weeks disappear fast. In medicine, studies almost never run on time.
+     엘레나: 그럼 여유가 4주 남아요. 많지 않네요. 동물 한 마리가 아프거나 실험실에 지연이 생기면, 그 4주는 금방 사라져요. 의학에선 연구가 제때 끝나는 일이 거의 없어요.
 
 103. NOAH: We'll take it. Thank you, Richard.
      노아: 받아들일게요. 감사합니다, 리처드.
@@ -349,8 +349,8 @@
 108. PRIYA: With a number I can't promise. In ninety days.
      프리야: 내가 약속할 수 없는 숫자랑 같이. 90일 안에.
 
-109. ELENA: She's right, Noah. Inside, argue. Outside, one voice. You skipped the inside part.
-     엘레나: 프리야 말이 맞아요, 노아. 안에선 논쟁, 밖에선 한목소리. 안쪽 단계를 건너뛰었어요.
+109. ELENA: She's right, Noah. Inside, argue. Outside, one voice. You skipped the inside part. Priya is the one who has to deliver that number, so she deserved a say before you agreed.
+     엘레나: 프리야 말이 맞아요, 노아. 안에선 논쟁, 밖에선 한목소리. 안쪽 단계를 건너뛰었어요. 그 숫자를 만들어 내야 하는 사람은 프리야니까, 동의하기 전에 프리야도 의견을 말할 자격이 있었어요.
 
 110. NOAH: You're right. I'm sorry. I got excited.
      노아: 맞아요. 미안해요. 너무 들떴어요.
@@ -373,8 +373,8 @@
 116. NOAH: What do you mean?
      노아: 무슨 뜻이에요?
 
-117. ELAINE: It looks like a gift. Miss the number, and he walks. Everyone knows.
-     일레인: 선물처럼 보이죠. 하지만 숫자를 못 맞추면 그 사람은 떠나요. 그리고 다들 알게 되죠.
+117. ELAINE: It looks like a gift. But miss the number, and he walks. And everyone in Austin will know he walked, which makes the next investor much harder to convince. That's the handcuffs.
+     일레인: 선물처럼 보이죠. 하지만 숫자를 못 맞추면 그 사람은 떠나요. 그리고 오스틴 사람들은 다 그가 떠났다는 걸 알게 될 거고, 그러면 다음 투자자를 설득하기가 훨씬 어려워져요. 그게 수갑이에요.
 
 118. ELENA: So the animal study has to be perfect.
      엘레나: 그러니까 동물 시험이 완벽해야 하네요.
@@ -415,3 +415,17 @@
 
 예시:
 > *TAM: every dermal filler sold in the US, about two to three billion dollars a year. SAM: smile lines and cheeks, the segments our first product targets. SOM: ten percent in five years, based on past launches of fillers with a clear advantage.*
+
+### ④ 긴 발화 분석
+
+> **43턴 NOAH:** "Because a new filler with a clear advantage usually reaches five to fifteen percent. Ten is the middle of that range, so it's realistic, not optimistic. I'd rather under-promise here."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 근거(기준 범위) | Because a new filler with a clear advantage usually reaches five to fifteen percent. | 내 숫자가 아니라 시장의 일반 기준부터 제시 |
+| ② 위치(내 숫자) | Ten is the middle of that range, so it's realistic, not optimistic. | 기준 범위 안에서 내 숫자의 위치를 보여 주며 "A, not B"로 성격 규정 |
+| ③ 태도(신뢰) | I'd rather under-promise here. | 보수적으로 잡았다는 태도로 투자자의 신뢰 확보 |
+
+**활용 패턴:** 업계 기준 범위 → 내 숫자는 그 안의 어디인가 → "I'd rather under-promise."
+**연결 표현:** usually reaches…(보통 ~에 도달한다) · so it's A, not B(그래서 B가 아니라 A다) · I'd rather…(차라리 ~하겠다)
+**연습:** 내년 매출 성장률 20%를 왜 그렇게 잡았는지 묻는 상사에게 같은 구조로 30단어 안팎으로 답해 보기.

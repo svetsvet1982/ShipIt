@@ -38,8 +38,8 @@
 07. NOVAK: Blinded experts, reading photos. Two point eight times faster. Still highly significant.
     노박: 눈가림 전문가들이 사진을 판독했어요. 2.8배 빠름. 여전히 매우 유의미해요.
 
-08. ELENA: We reported it in June. Exactly as it came out.
-    엘레나: 6월에 보고했어요. 나온 그대로요.
+08. ELENA: We reported it in June, as it came out. We didn't wait, and we didn't try to explain it away first. Whatever the panel thinks of the number, they can't say we hid it.
+    엘레나: 6월에 나온 그대로 보고했어요. 미루지도 않았고, 먼저 변명하려 하지도 않았어요. 패널이 그 숫자를 어떻게 보든, 우리가 숨겼다고는 못 할 거예요.
 
 09. REESE: Good. The panel will ask why it dropped. Be ready.
     리스: 좋아요. 패널은 왜 떨어졌는지 물을 거예요. 준비해요.
@@ -70,8 +70,8 @@
 17. PRIYA: Stop talking? That's it?
     프리야: 말을 멈춘다고요? 그게 다예요?
 
-18. REESE: Most sponsors lose because they keep talking. They add, explain, and guess.
-    리스: 대부분의 스폰서는 계속 말해서 져요. 덧붙이고, 설명하고, 추측하죠.
+18. REESE: Most sponsors lose because they keep talking. They add, they explain, they guess. Every extra sentence is a new door for another question, and some of those doors you don't want opened.
+    리스: 대부분의 스폰서는 계속 말해서 져요. 덧붙이고, 설명하고, 추측하죠. 한 문장 더할 때마다 또 다른 질문으로 가는 문이 하나 생기는데, 그중엔 절대 열고 싶지 않은 문도 있어요.
 
 19. STEIN: So rule two is "never guess"?
     스타인: 그러니까 규칙 2는 "절대 추측하지 마라"네요?
@@ -97,8 +97,8 @@
 26. NOAH: Nothing? I'm the CEO.
     노아: 아무 말도요? 전 CEO인데요.
 
-27. REESE: You're also a former marketing director. One wrong word sounds like a sales pitch.
-    리스: 전직 마케팅 디렉터이기도 하죠. 말 한마디 잘못하면 영업 피칭처럼 들려요.
+27. REESE: You're also a former marketing director, Noah. Everyone in that room will know it. One wrong word from you, even an innocent one, and the whole presentation sounds like a sales pitch.
+    리스: 당신은 전직 마케팅 디렉터이기도 해요, 노아. 그 방에 있는 사람은 다 알 거예요. 당신이 말 한마디만 잘못해도, 아무리 악의 없는 말이라도, 발표 전체가 영업 피칭처럼 들려요.
 
 28. ELENA: He's right, Noah.
     엘레나: 그 말이 맞아요, 노아.
@@ -180,14 +180,14 @@
 53. REESE: Mm. Go on.
     리스: 음. 계속해요.
 
-54. PRIYA: A realistic dose gave two point seven. And the human result is…
-    프리야: 현실적인 용량에선 2.7이 나왔습니다. 그리고 사람 결과는…
+54. PRIYA: A realistic dose gave two point seven. That's much closer to a real emergency. And the human result, which honestly is the strongest part of the whole story, is two point eight, so…
+    프리야: 현실적인 용량에선 2.7이 나왔습니다. 실제 응급 상황에 훨씬 가깝죠. 그리고 사람 결과는, 솔직히 전체 이야기에서 가장 강력한 부분인데요, 2.8이라서…
 
 55. REESE: Stop. You answered, then kept going. I said "go on" on purpose.
     리스: 멈춰요. 답을 했는데 계속 말했어요. "계속해요"는 일부러 한 말이에요.
 
-56. PRIYA: But the human result is the strongest part.
-    프리야: 하지만 사람 결과가 가장 강력한 부분인데요.
+56. PRIYA: But I was just getting to the best part.
+    프리야: 하지만 이제 막 제일 좋은 부분으로 가려던 참이었는데요.
 
 57. REESE: Then wait for them to ask. Or one sentence: "Slide eleven."
     리스: 그럼 물어볼 때까지 기다려요. 아니면 한 문장으로: "11번 슬라이드."
@@ -204,8 +204,8 @@
 61. REESE: Good. That last sentence is powerful. Keep it.
     리스: 좋아요. 마지막 문장이 강력해요. 유지해요.
 
-62. STEIN: Dr. Ruiz. Two point eight times faster. So what? Does it prevent blindness?
-    스타인: 루이스 박사. 2.8배 빠르다. 그래서 뭐요? 실명을 막아 주나요?
+62. STEIN: Dr. Ruiz. Two point eight times faster. That sounds impressive, but so what? Faster dissolution only matters if it actually helps the patient. Does it prevent blindness?
+    스타인: 루이스 박사. 2.8배 빠르다. 인상적으로 들리네요. 그래서 뭐요? 더 빨리 녹는 건 실제로 환자에게 도움이 될 때만 의미가 있어요. 실명을 막아 주나요?
 
 63. ELENA: We don't claim that. We measured dissolution speed. Not clinical outcomes.
     엘레나: 그건 주장하지 않습니다. 저희는 용해 속도를 측정했습니다. 임상 결과가 아니라.
@@ -252,8 +252,8 @@
 77. GRACE: How are we doing, Gordon? Honestly?
     그레이스: 우리 어때요, 고든? 솔직하게요?
 
-78. REESE: Better than most. Your weakest point is not data. It's talking too much.
-    리스: 대부분보다 나아요. 가장 약한 건 데이터가 아니에요. 말을 너무 많이 하는 거죠.
+78. REESE: Better than most, honestly. Your weakest point is not the data. The data is solid. It's talking too much, because every extra sentence gives the panel something new to doubt.
+    리스: 솔직히 대부분보다 나아요. 가장 약한 건 데이터가 아니에요. 데이터는 탄탄해요. 말을 너무 많이 하는 거죠. 한 문장 더할 때마다 패널에게 의심할 거리를 새로 주니까요.
 
 79. PRIYA: That's me.
     프리야: 그거 저네요.
@@ -269,8 +269,8 @@
 82. REESE: For five minutes. Patients, doctors, even competitors.
     리스: 5분 동안요. 환자, 의사, 심지어 경쟁사까지.
 
-83. STEIN: Sometimes Halvern sends someone. To raise doubts. I've seen it.
-    스타인: 가끔 할번이 사람을 보내요. 의심을 퍼뜨리려고. 내가 봤어요.
+83. STEIN: Sometimes Halvern sends someone, a doctor or a consultant, to raise doubts in a very polite way. I've seen it before. They never attack. They just ask questions.
+    스타인: 가끔 할번이 의사나 컨설턴트를 보내서 아주 정중한 방식으로 의심을 퍼뜨려요. 전에 봤어요. 절대 공격하지 않아요. 그냥 질문만 하죠.
 
 84. NOAH: Can they do that?
     노아: 그래도 돼요?
@@ -281,8 +281,8 @@
 86. STEIN: Then we should have patients speak too. Linda would come.
     스타인: 그럼 우리도 환자들이 말하게 해야죠. 린다라면 올 거예요.
 
-87. ELENA: No. We don't recruit speakers. That looks like a campaign.
-    엘레나: 안 돼요. 발언자를 모집하진 않아요. 캠페인처럼 보여요.
+87. ELENA: No. We don't recruit speakers. If the panel sees a line of our patients at the microphone, it looks like a campaign, and that would damage everything we've done honestly so far.
+    엘레나: 안 돼요. 발언자를 모집하진 않아요. 우리 환자들이 마이크 앞에 줄 서 있는 걸 패널이 보면 캠페인처럼 보이고, 그러면 지금까지 정직하게 해 온 모든 게 손상될 거예요.
 
 88. REESE: Elena's right. If patients come, they come on their own.
     리스: 엘레나 말이 맞아요. 환자들이 온다면 스스로 와야 해요.
@@ -302,8 +302,8 @@
 93. NOAH: Lil, you said you're not our marketing story.
     노아: 릴, 너 우리 마케팅 스토리가 아니라고 했잖아.
 
-94. LILY: I'm not. This isn't marketing. It's my story. I decide where I tell it.
-    릴리: 아니야. 이건 마케팅이 아니야. 내 이야기야. 어디서 말할지는 내가 정해.
+94. LILY: I'm not. This isn't marketing, Noah. It's my story. I lived it, not you and not the company. So I decide where I tell it, and I've decided to tell it there.
+    릴리: 아니야. 이건 마케팅이 아니야, 오빠. 내 이야기야. 그걸 겪은 건 나지, 오빠도 회사도 아니야. 그러니까 어디서 말할지는 내가 정해. 그리고 거기서 말하기로 정했어.
 
 95. NOAH: Elena, Gordon. Lily signed up to speak. On her own.
     노아: 엘레나, 고든. 릴리가 발언을 신청했대요. 스스로요.
@@ -323,8 +323,8 @@
 100. ELENA: Lily, it's Elena. Are you sure? It will be public. Recorded.
      엘레나: 릴리, 엘레나예요. 확실해요? 공개되고, 녹화돼요.
 
-101. LILY: I'm sure. Almost four years of concealer. I'm tired of hiding it.
-     릴리: 확실해요. 4년 가까이 컨실러를 발랐어요. 숨기는 거 지쳤어요.
+101. LILY: I'm sure. Almost four years of concealer, every single morning. I'm tired of hiding it. And if my five minutes help one person on that panel understand, then it's worth it.
+     릴리: 확실해요. 4년 가까이 매일 아침 컨실러를 발랐어요. 숨기는 거 지쳤어요. 그리고 제 5분이 패널 중 한 사람이라도 이해하는 데 도움이 된다면, 그걸로 충분히 가치 있어요.
 
 102. STEIN: Who is this? I like her already.
      스타인: 누구예요? 벌써 마음에 드네요.
@@ -346,8 +346,8 @@
 107. PRIYA: That's your final advice? After twenty-two years at the FDA?
      프리야: 그게 마지막 조언이에요? FDA 22년 경력에서?
 
-108. REESE: Hungry people talk too much. Tired people guess.
-     리스: 배고픈 사람은 말이 많아지고, 피곤한 사람은 추측해요.
+108. REESE: Hungry people talk too much. Tired people guess. I've watched good products lose votes because someone skipped breakfast and rambled. So yes, that's my final advice, and I mean it.
+     리스: 배고픈 사람은 말이 많아지고, 피곤한 사람은 추측해요. 누군가 아침을 거르고 횡설수설하는 바람에 좋은 제품이 표를 잃는 걸 봤어요. 그러니까 네, 그게 내 마지막 조언이고 진심이에요.
 
 109. STEIN: That's actually wise.
      스타인: 그거 사실 현명하네요.
@@ -373,8 +373,8 @@
 116. ELENA: Noah, can you do that? Honestly?
      엘레나: 노아, 할 수 있어요? 솔직하게요?
 
-117. NOAH: For eight hours? With Tom in the room?
-     노아: 여덟 시간 동안? 톰이 같은 방에 있는데?
+117. NOAH: For eight hours? With Tom in the room, smiling at me? You know me, Elena. Staying quiet is the hardest thing you could ask. But for this, I'll try.
+     노아: 여덟 시간 동안? 톰이 같은 방에서 저를 보고 웃고 있는데? 저 아시잖아요, 엘레나. 조용히 있는 게 저한테 제일 어려운 부탁이에요. 그래도 이번엔 해 볼게요.
 
 118. PRIYA: You held your tongue for the Pre-Sub. Mostly.
      프리야: 사전상담 때도 입 다물었잖아. 대부분은.
@@ -417,3 +417,18 @@ FDA는 새로운 주장이나 판단이 어려운 제품에 대해 외부 전문
 
 예시:
 > *"Yes, I own shares in Veyra. That's disclosed on slide two. The data was analyzed by an independent statistician — slide three."* (Stop.)
+
+### ④ 긴 발화 분석
+
+> **18턴 REESE:** "Most sponsors lose because they keep talking. They add, they explain, they guess. Every extra sentence is a new door for another question, and some of those doors you don't want opened."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 결론(원인 진단) | Most sponsors lose because they keep talking. | 실패의 원인을 첫 문장에 한 줄로 |
+| ② 구체화(동사 세 개) | They add, they explain, they guess. | 짧은 동사 나열로 "말이 많다"의 실제 모습을 보여 줌 |
+| ③ 비유(결과) | Every extra sentence is a new door for another question, | 추상적 위험을 "문"이라는 그림으로 전환 |
+| ④ 경고(강조) | and some of those doors you don't want opened. | 비유를 이어 가며 위험을 마무리 |
+
+**활용 패턴:** 원인 진단(because) → 동사 세 개로 구체화 → 비유 → 경고
+**연결 표현:** keep -ing(계속 ~하다) · Every extra… is…(~가 하나 늘 때마다 ~이다) · you don't want opened(열리길 원치 않는)
+**연습:** 고객 미팅에서 신입 사원에게 "묻지 않은 정보까지 말하지 마라"는 조언을 같은 구조로 30단어 안팎으로 해 보기.

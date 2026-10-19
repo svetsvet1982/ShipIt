@@ -38,8 +38,8 @@
 07. ELENA: That's when the real questions start. Swelling. Bruising. Worry.
     엘레나: 진짜 질문은 그때부터 시작돼요. 부기. 멍. 걱정.
 
-08. NINA: And at night. When the clinic is closed. She searches online. And panics.
-    니나: 그리고 밤에요. 병원이 닫혔을 때. 온라인을 검색하고. 공황에 빠지죠.
+08. NINA: And mostly at night, when the clinic is closed. She feels a little swelling, searches online, finds the worst possible story, and panics. Nobody is there to tell her it's normal.
+    니나: 그리고 주로 밤에요. 병원이 닫혔을 때. 조금 부은 걸 느끼고, 온라인을 검색하고, 최악의 이야기를 찾아내고, 공황에 빠지죠. 그게 정상이라고 말해 줄 사람이 아무도 없어요.
 
 09. MARCUS: So the app is for nights?
     마커스: 그럼 앱은 밤용이야?
@@ -50,8 +50,8 @@
 11. ZOE: And for loyalty. Jess comes back to the same injector. With Veyra.
     조이: 그리고 충성도를 위한 거죠. 제스가 같은 시술자에게 돌아오게. 베이라와 함께.
 
-12. ELENA: Safety first. Loyalty second. In that order. Please.
-    엘레나: 안전이 먼저. 충성도는 두 번째. 그 순서로. 부탁해요.
+12. ELENA: Safety first, loyalty second, in that order, please. If the app keeps Jess safe, she'll come back on her own. If it only chases loyalty, she'll feel sold to.
+    엘레나: 안전이 먼저, 충성도는 두 번째, 그 순서로 부탁해요. 앱이 제스를 안전하게 지켜 주면 그녀는 알아서 돌아와요. 충성도만 좇으면 물건을 강매당하는 기분이 들 거예요.
 
 13. NINA: Agreed. Let's walk the journey. Day zero first.
     니나: 동의해요. 여정을 따라가 보죠. 0일 차부터.
@@ -76,8 +76,8 @@
 19. ZOE: Her before photo. And "Welcome to the Circle." With confetti.
     조이: 그녀의 비포 사진. 그리고 "서클에 오신 걸 환영해요." 꽃가루와 함께.
 
-20. ELENA: No. The first screen is warning signs. When to call your injector.
-    엘레나: 아니요. 첫 화면은 경고 신호예요. 시술자에게 전화해야 할 때.
+20. ELENA: No. The first screen is warning signs, when to call your injector. If something goes wrong, it usually happens early, so that's when Jess needs the information most.
+    엘레나: 아니요. 첫 화면은 경고 신호, 시술자에게 전화해야 할 때예요. 문제가 생긴다면 보통 초기에 생기니까, 제스에게 그 정보가 가장 필요한 때가 바로 그때예요.
 
 21. ZOE: Warning signs? On a welcome screen? That's terrifying.
     조이: 경고 신호요? 환영 화면에? 무섭잖아요.
@@ -103,8 +103,8 @@
 28. NINA: Second button. "Call 911." Or go to the nearest ER.
     니나: 두 번째 버튼. "911에 전화." 아니면 가까운 응급실로.
 
-29. NOAH: My sister didn't have that. She waited two hours to call anyone.
-    노아: 제 동생한텐 그게 없었어요. 누구한테 전화하기까지 두 시간을 기다렸어요.
+29. NOAH: My sister didn't have that. She waited two hours to call anyone. If she'd had one button in her hand, those two hours could have been ten minutes.
+    노아: 제 동생한텐 그게 없었어요. 누구한테 전화하기까지 두 시간을 기다렸어요. 손에 버튼 하나만 있었어도, 그 두 시간이 10분이 될 수 있었을 거예요.
 
 30. ELENA: Then that's the most important button in the app.
     엘레나: 그럼 그게 앱에서 가장 중요한 버튼이네요.
@@ -112,8 +112,8 @@
 31. NINA: What about a symptom checker? Jess uploads a photo. The app says "normal" or not.
     니나: 증상 체크 기능은요? 제스가 사진을 올리면. 앱이 "정상"인지 말해 줘요.
 
-32. DIANE: Stop there. If the app diagnoses, the app becomes a medical device.
-    다이앤: 거기서 멈춰요. 앱이 진단하면 앱이 의료기기가 돼요.
+32. DIANE: Stop there, Nina. If the app diagnoses anything, even just normal or not normal, the app itself becomes a medical device. And that changes our whole timeline and budget.
+    다이앤: 거기서 멈춰요, 니나. 앱이 뭔가를 진단하면, 그게 정상인지 아닌지뿐이라도, 앱 자체가 의료기기가 돼요. 그러면 일정과 예산이 통째로 바뀌어요.
 
 33. NINA: Software as a medical device. I know. We avoided that at my last job.
     니나: 의료기기 소프트웨어. 알아요. 전 직장에서 그걸 피했어요.
@@ -157,8 +157,8 @@
 46. NOAH: Why does that matter?
     노아: 그게 왜 중요해요?
 
-47. ELENA: Same injector knows her face. Her history. Continuity is safety.
-    엘레나: 같은 시술자가 그녀의 얼굴을 알아요. 병력도. 연속성이 안전이에요.
+47. ELENA: Because the same injector knows her face, her history, and exactly what was injected last time. A new injector starts from zero. In medicine, continuity is safety.
+    엘레나: 같은 시술자는 그녀의 얼굴, 병력, 그리고 지난번에 정확히 뭘 주입했는지 알거든요. 새 시술자는 0부터 시작해요. 의료에선 연속성이 곧 안전이에요.
 
 48. NINA: Continuity is also retention. Elena, you just made Zoe happy.
     니나: 연속성은 유지율이기도 해요. 엘레나, 방금 조이를 행복하게 해 줬네요.
@@ -180,8 +180,8 @@
 53. MARCUS: And if they don't?
     마커스: 안 보내면?
 
-54. NINA: If Jess enters her own data, HIPAA may not apply. But other laws do.
-    니나: 제스가 직접 데이터를 입력하면 HIPAA는 적용 안 될 수도 있어요. 하지만 다른 법이 적용돼요.
+54. NINA: If Jess enters her own data, HIPAA may not apply, because we're not her doctor. But that doesn't mean we're free. Other laws still apply, and they're getting stricter.
+    니나: 제스가 직접 데이터를 입력하면, 우리가 그녀의 의사가 아니니까 HIPAA는 적용 안 될 수도 있어요. 그렇다고 자유로운 건 아니에요. 다른 법은 여전히 적용되고, 점점 더 엄격해지고 있어요.
 
 55. DIANE: The FTC. State privacy laws. And common sense.
     다이앤: FTC. 주 개인정보법. 그리고 상식.
@@ -201,8 +201,8 @@
 60. ZOE: Unchecked? Nobody checks boxes. We'll lose eighty percent.
     조이: 해제 상태로요? 아무도 체크 안 해요. 80퍼센트를 잃을 거예요.
 
-61. DIANE: Then earn the twenty percent. Pre-checked boxes are a lawsuit waiting to happen.
-    다이앤: 그럼 20퍼센트를 얻어 내요. 미리 체크된 박스는 소송을 기다리는 거예요.
+61. DIANE: Then earn the twenty percent. People who choose to hear from us actually want to. Pre-checked boxes might look good on a dashboard, but they're a lawsuit waiting to happen.
+    다이앤: 그럼 20퍼센트를 얻어 내요. 스스로 연락받기를 선택한 사람들은 진짜로 원하는 거예요. 미리 체크된 박스는 대시보드에선 좋아 보일지 몰라도, 소송을 기다리는 거예요.
 
 62. NINA: At my last company, opt-in users opened emails three times more. Quality over quantity.
     니나: 전 회사에선 옵트인 사용자가 이메일을 세 배 더 열었어요. 양보다 질.
@@ -231,8 +231,8 @@
 70. ZOE: One button to leave? That's so easy.
     조이: 떠나는 버튼이 하나라고요? 너무 쉬운데요.
 
-71. NINA: It should be easy. If leaving is hard, people don't trust joining.
-    니나: 쉬워야 해요. 떠나기 어려우면 가입을 믿지 않아요.
+71. NINA: It should be easy. Think about it from Jess's side. If leaving is hard, people don't trust joining. If leaving is one tap, joining feels safe, and they usually stay.
+    니나: 쉬워야 해요. 제스 입장에서 생각해 봐요. 떠나기 어려우면 가입을 믿지 않아요. 떠나는 게 한 번 탭이면 가입이 안전하게 느껴지고, 오히려 대개 남아요.
 
 72. MARCUS: What about a data breach? Who's responsible?
     마커스: 데이터 유출은? 누가 책임져?
@@ -272,8 +272,8 @@
 83. ZOE: It's not "more needles." It's loyalty.
     조이: "더 많은 바늘"이 아니에요. 충성도예요.
 
-84. ELENA: Points for treatments push people to treat sooner. Or more. That's a medical decision.
-    엘레나: 시술 포인트는 사람들이 더 빨리. 더 많이 시술하도록 밀어요. 그건 의학적 결정이에요.
+84. ELENA: Points for treatments push people to treat sooner, or treat more, just to get a discount. But when to inject is a medical decision, and a loyalty program shouldn't be making it.
+    엘레나: 시술 포인트는 할인을 받으려고 더 빨리, 더 많이 시술하도록 사람들을 밀어요. 하지만 언제 주입할지는 의학적 결정이고, 그걸 로열티 프로그램이 내려선 안 돼요.
 
 85. NINA: Can I add data? Our diabetes app had rewards. For logging insulin.
     니나: 데이터를 보태도 될까요? 우리 당뇨 앱에 보상이 있었어요. 인슐린 기록에.
@@ -281,8 +281,8 @@
 86. ZOE: See? Rewards in health apps!
     조이: 봤죠? 헬스 앱에 보상!
 
-87. NINA: For healthy behavior. Not for buying more insulin. That's the difference.
-    니나: 건강한 행동에 대해서요. 인슐린을 더 사는 것에 대해서가 아니라. 그게 차이예요.
+87. NINA: Rewards for healthy behavior, like logging insulin every day. Not for buying more insulin. That's the whole difference. We rewarded what kept patients well, not what made us money.
+    니나: 건강한 행동에 대한 보상이었어요. 매일 인슐린을 기록하는 것 같은. 인슐린을 더 사는 것에 대해서가 아니라요. 그게 차이의 전부예요. 우린 돈 버는 행동이 아니라 환자를 건강하게 지키는 행동에 보상했어요.
 
 88. ZOE: …That's a good point.
     조이: …좋은 지적이네요.
@@ -320,8 +320,8 @@
 99. NINA: We don't gamify needles. Zoe, write that on the wall.
     니나: 우린 바늘을 게임으로 만들지 않는다. 조이, 그거 벽에 써요.
 
-100. ZOE: Fine. But one day, we'll sell something that isn't a needle. Then I want points.
-     조이: 좋아요. 하지만 언젠가 바늘이 아닌 걸 팔게 될 거예요. 그때는 포인트를 원해요.
+100. ZOE: Fine, I give up on points for now. But one day, we'll sell something that isn't a needle, and when that happens, I want points. Lots of them.
+     조이: 좋아요, 포인트는 일단 포기할게요. 하지만 언젠가 바늘이 아닌 걸 팔게 될 거예요. 그때가 오면 포인트를 원해요. 아주 많이요.
 
 101. ELENA: Skincare? Aftercare cream?
      엘레나: 스킨케어? 사후 관리 크림?
@@ -352,8 +352,8 @@
 109. ZOE: That's very… responsible.
      조이: 아주… 책임감 있네요.
 
-110. NINA: Responsible is a feature. Especially in health.
-     니나: 책임감이 기능이에요. 특히 건강 분야에선.
+110. NINA: Responsible is a feature, especially in health. Users can't see our privacy rules or our careful design, but they can feel them. That's what makes them stay.
+     니나: 책임감이 기능이에요. 특히 건강 분야에선요. 사용자들은 우리 개인정보 규칙이나 신중한 설계를 볼 순 없지만, 느낄 순 있어요. 그게 그들을 머물게 하죠.
 
 111. NOAH: Nina, welcome. You fit in already.
      노아: 니나, 환영해요. 벌써 잘 어울리네요.
@@ -370,8 +370,8 @@
 115. NOAH: What kind of something?
      노아: 어떤 뭔가요?
 
-116. AVA: A long post. With a video. Four thousand shares in two hours.
-     에이바: 긴 글이요. 영상이랑. 두 시간 만에 공유 4천.
+116. AVA: It's a long post, with a video. Four thousand shares in two hours, and it's still climbing. The comments are coming in faster than I can read them.
+     에이바: 영상이 달린 긴 글이에요. 두 시간 만에 공유 4천, 아직도 올라가고 있어요. 댓글이 제가 읽는 것보다 빨리 달려요.
 
 117. ELENA: Alan. He took module four in March. He beat Cole's time.
      엘레나: 앨런. 3월에 모듈 4를 들었는데. 콜의 기록을 깼고요.
@@ -423,3 +423,18 @@
 | ✗ | Selling data (even anonymized) | ❌ | "We don't sell your data." |
 
 > **Budget:** $220K · **Timeline:** 10 weeks · **Reward:** finish aftercare guide → free skincare sample
+
+### ④ 긴 발화 분석
+
+> **84턴 ELENA:** "Points for treatments push people to treat sooner, or treat more, just to get a discount. But when to inject is a medical decision, and a loyalty program shouldn't be making it."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 문제(행동 결과) | Points for treatments push people to treat sooner, or treat more, | 제안된 기능이 사용자 행동을 어떻게 바꾸는지 지적 |
+| ② 동기 폭로 | just to get a discount. | just to로 그 행동의 '잘못된 이유'를 드러냄 |
+| ③ 원칙(But) | But when to inject is a medical decision, | 대비 접속사로 지켜야 할 원칙을 세움 |
+| ④ 결론(누가 결정할 수 없는가) | and a loyalty program shouldn't be making it. | 결정 주체가 틀렸다는 것으로 반대를 마무리 |
+
+**활용 패턴:** X pushes people to A, just to B → But C is a ___ decision → and X shouldn't be making it.
+**연결 표현:** push people to(~하도록 밀다) · just to(단지 ~하려고) · shouldn't be making it(그 결정을 내려선 안 된다)
+**연습:** 영업 인센티브가 고객에게 불필요한 업그레이드를 권하게 만드는 상황에서, 같은 구조로 반대 의견을 30단어 안팎으로 말해 보기.

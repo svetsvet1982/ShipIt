@@ -38,8 +38,8 @@
 07. NOAH: They didn't ask her.
     노아: 걔한테 묻지도 않았네요.
 
-08. ZOE: Agencies don't ask. They pitch. Then the client asks.
-    조이: 에이전시는 묻지 않아요. 피칭하죠. 그다음에 고객이 묻는 거예요.
+08. ZOE: Agencies don't ask. They pitch. They find the strongest material they can, and they show it to us first. Then the client asks, and the client takes the responsibility.
+    조이: 에이전시는 묻지 않아요. 피칭하죠. 찾을 수 있는 가장 강한 소재를 찾아서 우리한테 먼저 보여 줘요. 그다음에 고객이 묻고, 책임도 고객이 지는 거예요.
 
 09. ELENA: There are also rules. Patient testimonials in medical device ads are tricky.
     엘레나: 규정도 있어요. 의료기기 광고의 환자 후기는 까다로워요.
@@ -47,8 +47,8 @@
 10. MARCUS: Tricky how?
     마커스: 어떻게 까다로운데?
 
-11. ELENA: Lily was injured by a different product. That's an implied comparison.
-    엘레나: 릴리는 다른 제품에 다쳤어요. 그건 암묵적 비교예요.
+11. ELENA: Lily was injured by a different product. If we put her in our ad, viewers will think ours would have prevented it. That's an implied comparison, and we can't support it.
+    엘레나: 릴리는 다른 제품에 다쳤어요. 그녀를 우리 광고에 넣으면, 보는 사람들은 우리 제품이었다면 막을 수 있었다고 생각할 거예요. 그건 암묵적 비교고, 우린 그걸 뒷받침할 수 없어요.
 
 12. NOAH: Let's hear them out. Then decide. Respectfully.
     노아: 일단 들어 봐요. 그다음 결정해요. 정중하게.
@@ -127,8 +127,8 @@
 36. MARCUS: I was in the room. I believe you.
     마커스: 난 그 자리에 있었어요. 믿어요.
 
-37. MARCO: Emotion sells. Without a face, you're a spec sheet.
-    마르코: 감정이 팔아요. 얼굴이 없으면 그냥 사양서예요.
+37. MARCO: Emotion sells. I've done this for a long time, and doctors are people too. They don't remember numbers, they remember how they felt. Without a face, you're a spec sheet.
+    마르코: 감정이 팔아요. 이 일을 오래 했는데, 의사들도 사람이에요. 숫자는 기억 못 해도, 어떤 느낌이었는지는 기억하죠. 얼굴이 없으면 그냥 사양서예요.
 
 38. ELENA: May I raise the regulatory side first?
     엘레나: 규제 측면부터 말씀드려도 될까요?
@@ -151,14 +151,14 @@
 44. JENNA: …Readable letters.
     제나: …읽을 수 있는 글씨로요.
 
-45. ELENA: A disclaimer doesn't fix a misleading feeling. The feeling is the claim.
-    엘레나: 면책 문구가 오해를 부르는 느낌을 고치진 못해요. 그 느낌이 곧 주장이에요.
+45. ELENA: A disclaimer doesn't fix a misleading feeling. People remember the face and the scar, not the small print underneath. The feeling is the claim, and the feeling says our filler prevents injuries.
+    엘레나: 면책 문구가 오해를 부르는 느낌을 고치진 못해요. 사람들은 얼굴과 흉터를 기억하지, 그 밑의 작은 글씨는 기억 안 해요. 그 느낌이 곧 주장이고, 그 느낌은 우리 필러가 부상을 막는다고 말하죠.
 
 46. MARCO: Okay. Regulatory is one issue. Is there another?
     마르코: 좋아요. 규제가 한 가지 문제고요. 다른 것도 있나요?
 
-47. NOAH: Yes. A bigger one. Nobody asked Lily.
-    노아: 네. 더 큰 게요. 아무도 릴리에게 묻지 않았어요.
+47. NOAH: Yes. A bigger one. Nobody asked Lily. That video was her testimony to regulators, not an audition for an ad. Before anyone decides anything, she gets to say yes or no.
+    노아: 네. 더 큰 게요. 아무도 릴리에게 묻지 않았어요. 그 영상은 규제 당국 앞에서 한 증언이지, 광고 오디션이 아니었어요. 누가 뭘 결정하기 전에, 그 애가 예스든 노든 말할 권리가 있어요.
 
 48. MARCO: Then ask her. Today. We'll wait. We'll eat donuts.
     마르코: 그럼 물어보세요. 오늘. 기다릴게요. 도넛 먹으면서.
@@ -186,8 +186,8 @@
 55. LILY: And what do you think?
     릴리: 그래서 오빠 생각은?
 
-56. NOAH: I think it's your decision. Only yours. I'll support either answer.
-    노아: 네 결정이라고 생각해. 오직 너의. 어느 대답이든 지지할게.
+56. NOAH: I think it's your decision. Only yours. You were the one in the ER, not me, and you'll be the one people recognize. Whatever you choose, I'll support it completely.
+    노아: 네 결정이라고 생각해. 오직 너의. 응급실에 있었던 건 내가 아니라 너고, 사람들이 알아볼 사람도 너야. 네가 뭘 선택하든 전적으로 지지할게.
 
 57. LILY: That's a good answer. Did Zoe teach you that?
     릴리: 좋은 대답이네. 조이가 가르쳐 줬어?
@@ -219,8 +219,8 @@
 66. NOAH: Even if the company is your brother's?
     노아: 그 회사가 오빠 회사여도?
 
-67. LILY: Especially then. People would say you used me. Tom would say it first.
-    릴리: 특히 그래서. 사람들이 오빠가 날 이용했다고 할 거야. 톰이 제일 먼저.
+67. LILY: Especially then. People would say you used your own sister's injury to sell syringes. Tom would say it first, and honestly, part of me would wonder if he was right.
+    릴리: 특히 그래서. 사람들이 오빠가 친동생의 부상을 이용해서 주사기를 판다고 할 거야. 톰이 제일 먼저 그러겠지. 솔직히 나도 어느 정도는 그 말이 맞나 싶을 거고.
 
 68. NOAH: He'd say it on stage. With slides.
     노아: 무대에서 말하겠지. 슬라이드까지 띄워서.
@@ -255,8 +255,8 @@
 78. NOAH: The injector?
     노아: 시술자를?
 
-79. LILY: When I was in the ER, I didn't need a story. I needed someone ready.
-    릴리: 응급실에 있을 때 난 이야기가 필요하지 않았어. 준비된 사람이 필요했지.
+79. LILY: When I was in the ER, I didn't need a story. I needed someone ready, someone who knew what to do and had what they needed. That's what doctors want to see too.
+    릴리: 응급실에 있을 때 난 이야기가 필요하지 않았어. 준비된 사람이 필요했지. 뭘 해야 하는지 알고, 필요한 걸 갖춘 사람. 의사들이 보고 싶은 것도 그거야.
 
 80. NOAH: Ready. Elena wrote that word last week. Okay. I'm going.
     노아: 준비된. 엘레나가 지난주에 그 단어를 썼어. 좋아. 갈게.
@@ -269,8 +269,8 @@
 82. MARCO: Can I ask why? So we learn.
     마르코: 이유를 물어도 될까요? 배우려고요.
 
-83. NOAH: Two reasons. The label. And Lily's face is not a logo. Her words.
-    노아: 이유 둘. 라벨. 그리고 릴리의 얼굴은 로고가 아니라는 것. 그 애의 말이에요.
+83. NOAH: Two reasons. First, the label. Her injury came from another product, so the ad would imply a benefit we can't claim. Second, Lily's face is not a logo. Her words.
+    노아: 이유 둘. 첫째, 라벨. 그 애의 부상은 다른 제품에서 왔으니, 광고는 우리가 주장할 수 없는 이점을 암시하게 돼요. 둘째, 릴리의 얼굴은 로고가 아니에요. 그 애의 말이에요.
 
 84. MARCO: I respect that. Truly. But we still need emotion.
     마르코: 존중해요. 진심으로. 하지만 여전히 감정이 필요해요.
@@ -290,8 +290,8 @@
 89. ELENA: Careful. No emergency drama. No implied rescue.
     엘레나: 조심해요. 응급 드라마는 안 돼요. 구조를 암시해도 안 되고요.
 
-90. MARCO: Then not midnight. Morning. Before the first patient. She checks the kit.
-    마르코: 그럼 자정 말고. 아침. 첫 환자 전. 그녀가 키트를 확인해요.
+90. MARCO: Then not midnight. Morning, before the first patient walks in. She checks the kit, calmly, the way a pilot checks the plane. Nothing goes wrong. That's the point. She's prepared.
+    마르코: 그럼 자정 말고. 아침, 첫 환자가 들어오기 전. 그녀가 조종사가 비행기를 점검하듯 침착하게 키트를 확인해요. 아무 일도 일어나지 않아요. 그게 핵심이에요. 그녀는 준비돼 있죠.
 
 91. JENNA: Then she checks her training certificate on the wall.
     제나: 그다음 벽에 걸린 교육 수료증을 확인하고.
@@ -314,8 +314,8 @@
 97. MARCO: You people are strange. And I like it.
     마르코: 여러분 이상해요. 그리고 그게 좋아요.
 
-98. JENNA: It's honest. Doctors will see themselves. Not a victim.
-    제나: 정직해요. 의사들이 피해자가 아니라 자기 자신을 보게 될 거예요.
+98. JENNA: It's honest. Doctors will see themselves, not a victim, and that's a much stronger feeling. Nobody wants to imagine a disaster. Everybody wants to feel like the professional who's ready.
+    제나: 정직해요. 의사들이 피해자가 아니라 자기 자신을 보게 될 거고, 그게 훨씬 강한 감정이에요. 재난을 상상하고 싶은 사람은 없어요. 다들 준비된 전문가처럼 느끼고 싶어 하죠.
 
 99. ELENA: And no patient was used to sell. I can live with that.
     엘레나: 그리고 판매에 환자를 이용하지 않았고요. 그건 받아들일 수 있어요.
@@ -349,8 +349,8 @@
 108. LILY: Don't be. Noah said you'd have a plan B.
      릴리: 그러지 마요. 노아가 플랜 B가 있을 거라고 했어요.
 
-109. ZOE: Honestly? The plan B was yours. The hands. It's better.
-     조이: 솔직히요? 플랜 B는 당신 거였어요. 손. 그게 더 나아요.
+109. ZOE: Honestly? The plan B was yours. The hands. It's better than anything on my sticky notes, because it puts the doctor at the center instead of a patient's pain.
+     조이: 솔직히요? 플랜 B는 당신 거였어요. 손. 제 포스트잇에 있던 어떤 것보다 나아요. 환자의 고통 대신 의사를 중심에 두니까요.
 
 110. LILY: Don't tell anyone. No credit. I'm not your marketing story.
      릴리: 아무한테도 말하지 마요. 크레딧 없이. 난 당신네 마케팅 스토리가 아니에요.
@@ -415,3 +415,18 @@
 > **Guardrails:** No emergency drama. Metaphor plus data. Limitation statement in readable size.
 > **Approval order:** Medical → Legal → Regulatory → Marketing → CEO.
 > **Timeline:** Rough cut in 3 weeks. Final before launch. Print version for booth.
+
+### ④ 긴 발화 분석
+
+> **83턴 NOAH:** "Two reasons. First, the label. Her injury came from another product, so the ad would imply a benefit we can't claim. Second, Lily's face is not a logo. Her words."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 예고(개수) | Two reasons. | 이유가 몇 개인지 먼저 알려 듣는 사람이 따라오게 함 |
+| ② 이유 1(규정) | First, the label. Her injury came from another product, so the ad would imply a benefit we can't claim. | 객관적 근거를 so로 결과까지 연결 |
+| ③ 이유 2(가치) | Second, Lily's face is not a logo. | 감정·원칙의 이유를 짧고 단호하게 |
+| ④ 출처(존중) | Her words. | 결정의 주인이 본인임을 밝혀 거절을 개인 의견이 아닌 존중으로 만듦 |
+
+**활용 패턴:** "Two reasons." → First(규정·사실) → Second(원칙·가치) → 출처 한마디
+**연결 표현:** Two reasons(이유는 두 가지) · First / Second(첫째 / 둘째) · so the… would imply(그러면 ~을 암시하게 된다) · we can't claim(주장할 수 없다)
+**연습:** 협력사의 제안을 거절하는 상황에서 같은 구조로 이유 두 가지를 들어 30단어 안팎으로 말해 보기.

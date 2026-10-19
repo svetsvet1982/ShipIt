@@ -32,8 +32,8 @@
 05. RICHARD: Morning, Victor. Go easy on them. Or don't. They're better when they're pushed.
     리처드: 좋은 아침이에요, 빅터. 살살 해 줘요. 아니면 말고요. 압박받을 때 더 잘하는 사람들이니까.
 
-06. VICTOR: We don't go easy. We go thorough. It's a crossover fund. We invest privately, then we hold through the IPO.
-    빅터: 살살은 안 해요. 철저하게 하죠. 크로스오버 펀드니까요. 비상장일 때 투자하고, 상장 이후까지 보유합니다.
+06. VICTOR: We don't go easy. We go thorough. It's a crossover fund, which means we invest privately now and then keep holding through the IPO and beyond. So if there's a weakness in your story, I'd much rather find it in this room than read about it later in an analyst report.
+    빅터: 살살은 안 해요. 철저하게 하죠. 크로스오버 펀드라서, 지금 비상장 단계에서 투자하고 상장 이후까지 계속 보유한다는 뜻이에요. 그러니 당신들 스토리에 약점이 있다면, 나중에 애널리스트 보고서에서 읽느니 이 방에서 찾아내는 편이 훨씬 낫죠.
 
 07. PRIYA: So you're asking the questions public investors will ask. Eighteen months early.
     프리야: 그러니까 상장 투자자들이 할 질문을 하시는 거네요. 18개월 먼저.
@@ -47,8 +47,8 @@
 10. REBECCA: That's roughly sixteen times trailing revenue. Ambitious.
     리베카: 직전 매출의 대략 16배네요. 야심 차군요.
 
-11. PAUL: Sixteen times trailing. About ten times forward. We grew fifty-eight percent last year.
-    폴: 직전 기준 16배. 예상 기준 약 10배. 작년에 58% 성장했습니다.
+11. PAUL: Sixteen times trailing, yes, but about ten times forward, and forward is the multiple that matters for a company growing this fast. We grew fifty-eight percent last year, and our gross margin is eighty-six percent, so this isn't growth we're buying at any cost.
+    폴: 직전 기준으로는 16배가 맞아요. 하지만 예상 기준으로는 약 10배고, 이렇게 빠르게 성장하는 회사에서 중요한 건 예상 기준 배수예요. 작년에 58% 성장했고 매출총이익률이 86%니까, 어떤 대가를 치르고서라도 사들인 성장이 아닙니다.
 
 12. VICTOR: Growth gets you the meeting. It doesn't get you the price. Walk us through it.
     빅터: 성장은 미팅을 잡아 줘요. 가격을 잡아 주진 않죠. 차근차근 설명해 주세요.
@@ -70,8 +70,8 @@
 17. REBECCA: Sixty million for Asia. Before you've sold a single syringe there. Why so much? Why now?
     리베카: 아시아에 6천만. 거기서 주사기 하나 팔기 전에. 왜 그렇게 많이요? 왜 지금이죠?
 
-18. NOAH: Because Asia is the largest filler market in the world. And it's moving fast. Late entrants pay double.
-    노아: 아시아가 세계 최대 필러 시장이니까요. 그리고 빠르게 움직여요. 늦게 들어가면 두 배를 내죠.
+18. NOAH: Because Asia is the largest filler market in the world, and it's moving fast. Clinics there are choosing their long-term suppliers right now, and once those relationships are set, they're very hard to break. Late entrants pay double, in marketing and in time, so waiting would actually cost us more.
+    노아: 아시아가 세계 최대 필러 시장이고, 빠르게 움직이고 있으니까요. 그곳 클리닉들은 지금 장기 공급사를 고르고 있고, 한번 관계가 굳어지면 깨기가 아주 어려워요. 늦게 들어가는 회사는 마케팅에서도 시간에서도 두 배를 내니까, 기다리는 게 사실 더 비싸게 먹혀요.
 
 19. REBECCA: Korea is also the most competitive. Dozens of domestic fillers. At half your price. Some lower.
     리베카: 한국은 가장 경쟁이 치열하기도 하죠. 국산 필러 수십 종. 당신들 가격의 절반에. 더 낮은 것도 있고요.
@@ -112,8 +112,8 @@
 31. VICTOR: You're telling me you'll lose money on purpose.
     빅터: 일부러 돈을 잃겠다고 말하는 거군요.
 
-32. PAUL: I'm telling you exactly how much, and for how long. Then group-level profitability in year nine. That's the number.
-    폴: 정확히 얼마를, 얼마 동안인지 말씀드리는 겁니다. 그다음 9년 차에 그룹 전체 흑자. 그게 숫자예요.
+32. PAUL: I'm telling you exactly how much, and for how long, which is very different from losing money by accident. The US and the UK keep funding themselves, Asia absorbs losses for about six quarters while we build the market, and then we reach group-level profitability in year nine. That's the number.
+    폴: 정확히 얼마를, 얼마 동안인지 말씀드리는 거예요. 실수로 돈을 잃는 것과는 전혀 다르죠. 미국과 영국은 스스로 자금을 대고, 아시아는 시장을 만드는 약 6분기 동안 적자를 흡수하고, 그다음 9년 차에 그룹 전체 흑자에 도달합니다. 그게 숫자예요.
 
 33. REBECCA: Customer acquisition cost. What's your payback period?
     리베카: 고객 획득 비용. 회수 기간은요?
@@ -130,8 +130,8 @@
 37. REBECCA: Go on.
     리베카: 계속하세요.
 
-38. NOAH: We ran a blameless post-mortem in week twelve. Found the root cause. Rebuilt the message. Sales quadrupled in eight weeks.
-    노아: 12주 차에 비난 없는 포스트모템을 했어요. 근본 원인을 찾았죠. 메시지를 다시 짰고요. 8주 만에 판매가 네 배가 됐어요.
+38. NOAH: We ran a blameless post-mortem in week twelve, because I didn't want anyone hiding mistakes to protect themselves. We found the root cause, rebuilt the message, and sales quadrupled in eight weeks. The forecast was wrong, but the response was fast, and that's the part you can actually rely on.
+    노아: 12주 차에 비난 없는 포스트모템을 했어요. 누구도 자기를 지키려고 실수를 숨기길 원하지 않았거든요. 근본 원인을 찾고 메시지를 다시 짰더니, 8주 만에 판매가 네 배가 됐어요. 예측은 틀렸지만 대응은 빨랐고, 실제로 믿으셔도 되는 건 바로 그 부분이에요.
 
 39. REBECCA: And the root cause?
     리베카: 그래서 근본 원인은요?
@@ -148,8 +148,8 @@
 43. REBECCA: Thirty million for "new products." That's vague. What exactly?
     리베카: "신제품"에 3천만. 모호하네요. 정확히 뭐죠?
 
-44. PRIYA: Two programmes. A skin booster using FlexLink chemistry. And early work on a neurotoxin. Through a partner.
-    프리야: 프로그램 두 개. FlexLink 화학을 쓴 스킨부스터. 그리고 파트너를 통한 뉴로톡신 초기 작업.
+44. PRIYA: Two programmes. The first is a skin booster using FlexLink chemistry, so we're building on technology we already own and understand. The second is early work on a neurotoxin, through a partner, because we don't have that expertise in-house, and pretending otherwise would simply waste your money.
+    프리야: 프로그램 두 개예요. 첫째는 FlexLink 화학을 쓴 스킨부스터라서, 이미 보유하고 잘 아는 기술 위에 짓는 거예요. 둘째는 파트너를 통한 뉴로톡신 초기 작업인데, 그 전문성이 사내에 없기 때문이에요. 있는 척하면 그냥 투자금을 낭비하는 거고요.
 
 45. REBECCA: Which partner?
     리베카: 어느 파트너요?
@@ -189,8 +189,8 @@
 56. REBECCA: Why is that a moat? Halvern could build a training programme.
     리베카: 그게 왜 해자죠? 할번도 교육 프로그램을 만들 수 있잖아요.
 
-57. ELENA: They could. But our registry gets better with every injection. Six years of real-world data. You can't buy six years.
-    엘레나: 만들 수 있죠. 하지만 우리 레지스트리는 주사할 때마다 좋아져요. 6년 치 실사용 데이터. 6년은 살 수 없어요.
+57. ELENA: They could, and they probably will. But our registry gets better with every injection, because every vascular event teaches us something about prevention and treatment. That's six years of real-world data from twelve thousand certified injectors. A competitor can copy a training manual in a month, but you can't buy six years.
+    엘레나: 만들 수 있죠. 아마 만들 거예요. 하지만 우리 레지스트리는 주사할 때마다 좋아져요. 혈관 사건 하나하나가 예방과 치료에 대해 뭔가를 가르쳐 주니까요. 인증 시술자 1만 2천 명에게서 모은 6년 치 실사용 데이터예요. 경쟁사가 교육 매뉴얼은 한 달이면 베낄 수 있어도, 6년은 살 수 없어요.
 
 58. VICTOR: A network effect. In medical safety. Interesting.
     빅터: 네트워크 효과. 의료 안전에서. 흥미롭군요.
@@ -201,8 +201,8 @@
 60. REBECCA: That's a restriction. Not a moat.
     리베카: 그건 제약이지. 해자가 아니에요.
 
-61. NOAH: To copy it, Halvern would have to stop selling to beauticians. In the UK, that's sixty percent of their volume.
-    노아: 이걸 따라 하려면 할번은 미용사 판매를 끊어야 해요. 영국에선 그게 그들 물량의 60%예요.
+61. NOAH: Here's the thing. To copy it, Halvern would have to stop selling to beauticians, and in the UK, that's sixty percent of their volume. So the question isn't whether they could do it technically. It's whether their shareholders would accept losing most of that business just to imitate us, and I don't think they would.
+    노아: 요점은 이거예요. 이걸 따라 하려면 할번은 미용사 판매를 끊어야 하는데, 영국에선 그게 그들 물량의 60%예요. 그러니 문제는 기술적으로 할 수 있느냐가 아니에요. 우리를 흉내 내려고 그 사업 대부분을 잃는 걸 그들의 주주가 받아들이겠느냐는 거죠. 저는 안 받아들일 거라고 봐요.
 
 62. VICTOR: So your moat is a rule your competitor can't afford to follow.
     빅터: 그러니까 당신들의 해자는 경쟁사가 따를 여유가 없는 규칙이군요.
@@ -228,8 +228,8 @@
 69. VICTOR: That's a careful answer.
     빅터: 신중한 답이군요.
 
-70. NOAH: It's a true answer. If I said "never," you'd worry I was ignoring my fiduciary duty.
-    노아: 사실인 답이에요. "절대 안 판다"고 하면 제가 신인의무를 무시한다고 걱정하셨을 거예요.
+70. NOAH: It's a true answer. If I said "never," you'd worry I was ignoring my fiduciary duty to our shareholders, which would include you, if this round closes. The board and I owe everyone a fair hearing of any serious offer. Listening isn't the same as wanting to sell, and I'd rather be precise than reassuring.
+    노아: 사실인 답이에요. 제가 "절대 안 판다"고 하면, 이 라운드가 성사될 경우 당신들도 포함될 주주들에 대한 신인의무를 제가 무시한다고 걱정하셨을 거예요. 이사회와 저는 진지한 제안이라면 무엇이든 공정하게 들어 볼 의무가 있어요. 듣는 건 팔고 싶은 것과 다르고, 저는 안심시키는 말보다 정확한 말을 하고 싶어요.
 
 71. RICHARD: And if he said "maybe," you'd worry he wanted to cash out. He found the narrow path.
     리처드: 그리고 "어쩌면"이라고 했으면 현금화하려 한다고 걱정하셨겠죠. 좁은 길을 찾은 거예요.
@@ -258,8 +258,8 @@
 79. VICTOR: Please.
     빅터: 그러세요.
 
-80. PRIYA: I left Halvern because they wouldn't let me build this. I didn't build it to give it back.
-    프리야: 할번이 이걸 만들게 해 주지 않아서 할번을 떠났어요. 돌려주려고 만든 게 아니에요.
+80. PRIYA: I left Halvern because they wouldn't let me build this. I asked more than once, I showed them the data, and the answer was always no. So I walked out and built it somewhere else. I didn't spend all these years on it just to hand it back to the people who said no.
+    프리야: 할번이 이걸 만들게 해 주지 않아서 할번을 떠났어요. 여러 번 요청했고, 데이터도 보여 줬지만, 답은 언제나 '안 된다'였어요. 그래서 나와서 다른 곳에서 만들었죠. 그 모든 세월을 쏟은 게, 안 된다고 했던 사람들한테 돌려주려고 그런 게 아니에요.
 
 ### 절정·전환 — 오후 1시, 조건
 
@@ -281,8 +281,8 @@
 86. NOAH: Richard, if Halvern does make an offer, where will you stand?
     노아: 리처드, 할번이 정말 제안하면, 당신은 어느 편에 설 거예요?
 
-87. RICHARD: Wherever the return is. That's my job. You knew that in the seed round.
-    리처드: 수익이 있는 곳에요. 그게 내 일이에요. 시드 라운드 때 알았잖아요.
+87. RICHARD: Wherever the return is. That's my job, and I've never pretended otherwise. You knew that in the seed round. But I'll say this too: a serious offer would have to beat what this company can become on its own, and after today, that bar just got a lot higher.
+    리처드: 수익이 있는 곳에요. 그게 내 일이고, 그렇지 않은 척한 적도 없어요. 시드 라운드 때 알았잖아요. 하지만 이것도 말해 둘게요. 진지한 제안이라면 이 회사가 스스로 될 수 있는 모습보다 나아야 하는데, 오늘 이후로 그 기준이 훨씬 높아졌어요.
 
 88. NOAH: I did. I just wanted to hear you say it out loud.
     노아: 알았죠. 소리 내서 말하는 걸 듣고 싶었을 뿐이에요.
@@ -296,8 +296,8 @@
 91. VICTOR: Seven hundred eighty pre-money. Asia adds risk. And six quarters of losses.
     빅터: 프리머니 7억 8천. 아시아가 리스크를 더하니까요. 그리고 6분기 적자.
 
-92. NOAH: We anchored at eight-fifty for a reason. The UK proved we can recover from a bad quarter in eight weeks.
-    노아: 8억 5천으로 앵커를 둔 데는 이유가 있어요. 영국이 나쁜 분기를 8주 만에 회복할 수 있다는 걸 증명했죠.
+92. NOAH: We anchored at eight-fifty for a reason. The UK proved we can recover from a bad quarter in eight weeks, which is exactly the risk you're pricing in Korea. You've already seen what happens when one of our launches goes wrong. We find the cause, we fix it, and we grow faster afterwards.
+    노아: 8억 5천으로 앵커를 둔 데는 이유가 있어요. 영국이 나쁜 분기를 8주 만에 회복할 수 있다는 걸 증명했는데, 그게 바로 한국에서 가격에 반영하시려는 리스크예요. 우리 출시가 잘못됐을 때 어떻게 되는지 이미 보셨잖아요. 원인을 찾고, 고치고, 그 후엔 더 빨리 성장하죠.
 
 93. VICTOR: And Korea could take eight quarters. I'm pricing the uncertainty.
     빅터: 그리고 한국은 8분기가 걸릴 수도 있죠. 저는 불확실성에 가격을 매기는 거예요.
@@ -343,14 +343,14 @@
 106. ELENA: Eight-twenty. Clean. One hundred fifty million. How do you feel?
      엘레나: 8억 2천. 깔끔하게. 1억 5천만. 기분이 어때요?
 
-107. NOAH: Relieved. And slightly afraid. Now we have to deliver Asia. By the third quarter.
-     노아: 안도감. 그리고 약간의 두려움. 이제 아시아를 해내야 해요. 3분기까지.
+107. NOAH: Relieved, mostly. And slightly afraid, to be honest. Today was about making promises, and now we actually have to deliver Asia, with a partner signed by the third quarter. For years, raising money felt like the finish line. Now it just feels like the starting gun.
+     노아: 대체로 안도감이요. 그리고 솔직히 약간 두렵기도 해요. 오늘은 약속을 하는 날이었고, 이제는 3분기까지 파트너 서명까지 해서 아시아를 실제로 해내야 하니까요. 몇 년 동안은 투자 유치가 결승선 같았는데, 지금은 그냥 출발 신호 같아요.
 
 108. PRIYA: Partner signed by Q3. That means Seoul. That means Daeyang. Or Seorin. Or both.
      프리야: 3분기까지 파트너 서명. 그건 서울이라는 뜻이에요. 대양이라는 뜻이고요. 아니면 서린. 아니면 둘 다.
 
-109. ELENA: Mr. Park has a first-negotiation right for Asia. In writing. Since year three.
-     엘레나: 박 대표에겐 아시아 우선 협상권이 있어요. 서면으로. 3년 차부터.
+109. ELENA: Mr. Park has a first-negotiation right for Asia. In writing, since year three. Before anyone gets excited about Daeyang, remember that Seorin trusted us when we were small. First, do no harm. That applies to partnerships as much as it applies to patients.
+     엘레나: 박 대표에겐 아시아 우선 협상권이 있어요. 서면으로, 3년 차부터요. 누구든 대양 얘기에 들뜨기 전에, 서린은 우리가 작았을 때 우릴 믿어 줬다는 걸 기억해요. 첫째, 해를 끼치지 말 것. 그건 환자에게만큼이나 파트너십에도 적용돼요.
 
 110. NOAH: I know. I haven't forgotten. We call Seorin before we meet anyone else.
      노아: 알아요. 안 잊었어요. 다른 누구를 만나기 전에 서린에 먼저 전화해요.
@@ -421,3 +421,18 @@
 | For sale? | "Not running a process… listen to anything serious." Tom dinner postponed | — |
 
 > **Agreed (subject to diligence):** $150M · **$820M pre-money** (asked $850M, offered $780M) · clean structure (no ratchets, no guaranteed returns) · Asia partner signed by **Q3** · board seat (Victor) · IPO readiness in **24 months** · **notify Bluewater within 48 hours of any serious Halvern offer** · term sheet by Friday.
+
+### ④ 긴 발화 분석
+
+> **61턴 NOAH:** "Here's the thing. To copy it, Halvern would have to stop selling to beauticians, and in the UK, that's sixty percent of their volume. So the question isn't whether they could do it technically. It's whether their shareholders would accept losing most of that business just to imitate us, and I don't think they would."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 신호(주의 집중) | Here's the thing. | 반론에 답하기 전에 핵심이 온다는 신호 |
+| ② 근거(조건 + 숫자) | To copy it, Halvern would have to stop selling to beauticians, and in the UK, that's sixty percent of their volume. | "따라 하려면 ~해야 한다"로 모방 비용을 숫자로 제시 |
+| ③ 논점 재설정(대비) | So the question isn't whether they could do it technically. It's whether their shareholders would accept… | "A가 문제가 아니라 B가 문제"로 상대 질문의 틀을 바꿈 |
+| ④ 판단(의견) | and I don't think they would. | 짧은 개인 판단으로 마무리 |
+
+**활용 패턴:** Here's the thing → 모방하려면 치러야 할 비용(숫자) → "The question isn't A. It's B." → 내 판단
+**연결 표현:** would have to(~해야만 할 것이다) · So the question isn't…(그러니 문제는 ~가 아니다) · just to(단지 ~하려고)
+**연습:** "경쟁사가 우리 서비스를 금방 베끼지 않을까요?"라는 투자자 질문에 같은 구조로 40~50단어로 답해 보기.

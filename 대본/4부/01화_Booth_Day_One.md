@@ -44,8 +44,8 @@
 09. AVA: What's the difference?
     에이바: 차이가 뭐예요?
 
-10. ZOE: A wants a visit this month. B is interested. C just wanted a pen.
-    조이: A는 이번 달 방문을 원함. B는 관심 있음. C는 그냥 펜을 원했음.
+10. ZOE: A means they want a visit or training this month. B means they're interested, but not in a hurry. C means they wanted a pen. Be honest, because the follow-up team trusts your letter.
+    조이: A는 이번 달에 방문이나 교육을 원하는 사람. B는 관심은 있지만 급하지 않은 사람. C는 펜을 원했던 사람. 정직하게 써요. 후속 조치 팀은 여러분이 쓴 글자를 믿으니까요.
 
 11. MARCUS: And our goal?
     마커스: 그리고 목표는?
@@ -70,8 +70,8 @@
 17. ZOE: Ouch. He didn't even look at you.
     조이: 아야. 쳐다보지도 않았네요.
 
-18. DEREK: "Have you heard about" is a yes-or-no question. The answer is always no.
-    데릭: "들어 보셨어요"는 예/아니요 질문이에요. 대답은 항상 아니요죠.
+18. DEREK: Because "Have you heard about" is a yes-or-no question, and the answer is always no. Busy doctors walk past a product name, but they stop for a question about their own patients.
+    데릭: "들어 보셨어요"는 예/아니요 질문이고, 대답은 항상 아니요예요. 바쁜 의사들은 제품 이름은 그냥 지나치지만, 자기 환자에 관한 질문에는 멈춰 서요.
 
 19. AVA: So what do I say?
     에이바: 그럼 뭐라고 해요?
@@ -97,8 +97,8 @@
 26. MARIA: What drill?
     마리아: 무슨 훈련이요?
 
-27. TASHA: A simulated occlusion. Open the kit. Take your first action. Can you beat two seconds?
-    타샤: 모의 혈관 폐색. 키트를 열고. 첫 행동을 하세요. 2초를 이길 수 있어요?
+27. TASHA: It's a simulated occlusion. You open the kit and take your first action, like you would with a real patient. The clock starts when the patient complains. Can you beat two seconds?
+    타샤: 모의 혈관 폐색이에요. 실제 환자한테 하듯이 키트를 열고 첫 행동을 하는 거예요. 시계는 환자가 통증을 호소할 때 시작돼요. 2초를 이길 수 있어요?
 
 28. MARIA: Two seconds? Easy.
     마리아: 2초요? 쉽죠.
@@ -133,8 +133,8 @@
 38. MARIA: Scan it. Do you sell to nurse injectors?
     마리아: 스캔하세요. 간호사 시술자한테도 팔아요?
 
-39. AVA: Only certified ones. Doctor or nurse. Training comes first.
-    에이바: 인증받은 분들께만요. 의사든 간호사든. 교육이 먼저예요.
+39. AVA: Only certified ones, doctor or nurse, it doesn't matter. Training comes first, because a filler is only as safe as the hands using it. So we teach the emergency steps before we ship a box.
+    에이바: 인증받은 분들께만요. 의사든 간호사든 상관없어요. 교육이 먼저예요. 필러는 그걸 쓰는 손만큼만 안전하니까요. 그래서 상자 하나 보내기 전에 응급 단계부터 가르쳐요.
 
 40. MARIA: Finally. Someone who sells training first. Sign us up.
     마리아: 드디어. 교육을 먼저 파는 사람이네. 우리 등록해 줘요.
@@ -154,8 +154,8 @@
 45. AVA: Why is the note important?
     에이바: 메모가 왜 중요해요?
 
-46. DEREK: Next month, four hundred badges look the same. The note is the memory.
-    데릭: 다음 달이면 배지 400개가 다 똑같아 보여요. 메모가 기억이에요.
+46. DEREK: Because next month, four hundred badges will all look the same on a spreadsheet. You won't remember Maria's face or her five nurses. The note is the memory, so write it now.
+    데릭: 다음 달이 되면 스프레드시트 위의 배지 400개가 다 똑같아 보이거든요. 마리아 얼굴도, 간호사 다섯 명도 기억 못 할 거예요. 메모가 기억이에요. 그러니까 지금 써요.
 
 47. ZOE: Look. Doctors are watching the drill. Three are waiting.
     조이: 봐요. 의사들이 훈련을 구경하고 있어요. 세 명이 기다려요.
@@ -201,11 +201,11 @@
 60. NOAH: I learned something. The slogan didn't say everything.
     노아: 배운 게 있어서요. 그 슬로건이 전부를 말하진 않았어요.
 
-61. PIERCE: Let me be honest. I think this is a solution looking for a problem.
-    피어스: 솔직히 말하죠. 이건 문제를 찾아다니는 해결책 같아요.
+61. PIERCE: Let me be honest with you. I think this is a solution looking for a problem. In my practice, good technique prevents most occlusions before they start.
+    피어스: 솔직히 말하죠. 이건 문제를 찾아다니는 해결책 같아요. 내 병원에선 좋은 술기가 폐색 대부분을 시작되기 전에 막아요.
 
-62. ELENA: Alan, you know the numbers. Occlusions are rare. But not zero.
-    엘레나: 앨런, 숫자 알잖아요. 폐색은 드물어요. 하지만 0은 아니에요.
+62. ELENA: Alan, you know the numbers as well as I do. Occlusions are rare, but they're not zero, and when one happens, the first few minutes decide everything. That's when speed matters.
+    엘레나: 앨런, 숫자는 당신도 나만큼 알잖아요. 폐색은 드물지만 0은 아니에요. 그리고 한 번 생기면 처음 몇 분이 모든 걸 결정해요. 바로 그때 속도가 중요한 거예요.
 
 63. PIERCE: In good hands, close to zero. Train people. Don't sell gadgets.
     피어스: 좋은 손에선 거의 0이죠. 사람을 교육해요. 장치를 팔지 말고.
@@ -228,8 +228,8 @@
 69. PIERCE: A salesperson quoting her own limitations. That's new.
     피어스: 자기 제품 한계를 인용하는 영업 사원이라. 새롭네요.
 
-70. AVA: What we measured is speed. Two point eight times. Forty subjects. Blinded.
-    에이바: 저희가 측정한 건 속도예요. 2.8배. 40명. 눈가림.
+70. AVA: What we measured is speed, and only speed. It dissolved two point eight times faster, in a blinded study with forty subjects. We don't claim more than that, because the data doesn't show more.
+    에이바: 저희가 측정한 건 속도, 오직 속도예요. 40명을 대상으로 한 눈가림 연구에서 2.8배 빨리 녹았어요. 그 이상은 주장하지 않아요. 데이터가 그 이상을 보여 주지 않으니까요.
 
 71. PIERCE: Speed in a study. Not saved faces in a clinic.
     피어스: 연구 속 속도죠. 병원에서 구한 얼굴이 아니라.
@@ -240,8 +240,8 @@
 73. PIERCE: Hmm. Honest. I'll give you that. But I'm not convinced.
     피어스: 흠. 정직하네요. 그건 인정하죠. 하지만 설득되진 않았어요.
 
-74. NOAH: That's fair. Can we follow up in six months? With real-world data?
-    노아: 그럴 만해요. 6개월 뒤에 다시 연락해도 될까요? 실사용 데이터를 가지고?
+74. NOAH: That's fair, and I wouldn't be convinced either. Here's the thing. Can we follow up in six months with real-world data? If the numbers don't hold, you can tell everyone.
+    노아: 그럴 만해요. 저라도 설득되지 않았을 거예요. 이렇게 하죠. 6개월 뒤에 실사용 데이터를 가지고 다시 연락드려도 될까요? 숫자가 버티지 못하면, 모두에게 말씀하셔도 돼요.
 
 75. PIERCE: You can try. I post my opinions online, you know. Thirty thousand followers.
     피어스: 해 보세요. 나 온라인에 의견 올리는 거 알죠. 팔로워 3만 명.
@@ -281,8 +281,8 @@
 86. KYLE: …Derek. Hey, man. I was just curious.
     카일: …데릭. 어, 형. 그냥 궁금해서요.
 
-87. NOAH: That's fine, Kyle. Our list price is public. Four twenty-five. Launch price, three ninety-five.
-    노아: 괜찮아요, 카일. 정가는 공개돼 있어요. 425. 출시가 395.
+87. NOAH: That's fine, Kyle. Our list price is public, so I'm happy to share it. Four twenty-five per syringe, and the launch price is three ninety-five. Anyone at this show can ask.
+    노아: 괜찮아요, 카일. 정가는 공개돼 있으니 기꺼이 알려 드리죠. 주사기당 425, 출시가는 395예요. 이 전시회에 온 누구든 물어볼 수 있는 거예요.
 
 88. KYLE: And volume discounts?
     카일: 대량 할인은요?
@@ -320,11 +320,11 @@
 99. ZOE: Count check. Leo?
     조이: 숫자 확인. 레오?
 
-100. LEO: Two hundred eighty scans. Forty-one A leads. It's only three o'clock.
-     레오: 스캔 280건. A 리드 41건. 아직 3시밖에 안 됐어요.
+100. LEO: Two hundred eighty scans and forty-one A leads, and it's only three o'clock. If the drill line keeps moving like this, we'll pass both goals before the doors close.
+     레오: 스캔 280건에 A 리드 41건, 그런데 아직 3시밖에 안 됐어요. 훈련 줄이 이렇게 계속 돌아가면, 문 닫기 전에 두 목표를 다 넘을 거예요.
 
-101. ZOE: We're going to beat the goal.
-     조이: 목표를 넘기겠어요.
+101. ZOE: Don't jinx it. Keep scanning.
+     조이: 부정 타요. 계속 스캔해요.
 
 102. AVA: A doctor just asked if it works in lips. I said "not on our label."
      에이바: 방금 의사가 입술에 되냐고 물었어요. "라벨에 없다"고 했어요.
@@ -343,8 +343,8 @@
 106. ZOE: Final count. Four hundred twelve scans. Sixty-three A leads.
      조이: 최종 집계. 스캔 412건. A 리드 63건.
 
-107. MARCUS: Goals were three hundred and fifty. We beat both. Denise would be proud.
-     마커스: 목표는 300건과 50건. 둘 다 넘었어. 데니스가 자랑스러워하겠네.
+107. MARCUS: The goals were three hundred scans and fifty A leads, and we beat both of them. Halvern had free espresso. We had a timer. Denise would be proud of this team.
+     마커스: 목표는 스캔 300건과 A 리드 50건이었는데, 둘 다 넘었어. 할번은 공짜 에스프레소, 우린 타이머. 데니스가 이 팀을 자랑스러워하겠네.
 
 108. TASHA: Two hundred and six drills. Fastest time, one point six.
      타샤: 훈련 206회. 최고 기록 1.6초.
@@ -364,8 +364,8 @@
 113. ELENA: And how many registered?
      엘레나: 등록은 몇 명이에요?
 
-114. RACHEL: Five hundred and twenty. People will stand. Some came to attack.
-     레이첼: 520명. 서서 듣는 사람도 있을 거예요. 공격하러 오는 사람도 있고요.
+114. RACHEL: Five hundred and twenty, so people will be standing at the back. And to be honest, not everyone is coming to learn. Some of them are coming to attack.
+     레이첼: 520명이요. 그러니 뒤에 서서 듣는 사람도 있을 거예요. 그리고 솔직히, 모두가 배우러 오는 건 아니에요. 공격하러 오는 사람도 있어요.
 
 115. NOAH: Attack?
      노아: 공격이요?
@@ -420,3 +420,17 @@
 | A | Visit/training this month | "A. Houston. 5 nurses. Wants training. Drill 1.9s." |
 | B | Interested, not urgent | "B. Westlake. Skeptical (Pierce). Follow up in 6 months w/ real-world data." |
 | C | Low interest | "C. Wanted a pen." |
+
+### ④ 긴 발화 분석
+
+> **46턴 DEREK:** "Because next month, four hundred badges will all look the same on a spreadsheet. You won't remember Maria's face or her five nurses. The note is the memory, so write it now."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 이유(미래 상황) | Because next month, four hundred badges will all look the same on a spreadsheet. | "왜?"라는 질문에 앞으로 벌어질 문제로 답함 |
+| ② 구체화(실제 사례) | You won't remember Maria's face or her five nurses. | 방금 만난 고객을 예로 들어 문제를 실감 나게 |
+| ③ 결론+지시 | The note is the memory, so write it now. | 핵심 원칙을 한 줄로 말하고 바로 행동을 요청 |
+
+**활용 패턴:** 미래의 문제 → 구체적 사례 → 원칙 + "so, 지금 행동"
+**연결 표현:** Because…(~이니까) · will all look the same(다 똑같아 보일 것이다) · so…now(그러니까 지금)
+**연습:** 회의록을 왜 바로 써야 하냐고 묻는 신입에게 같은 구조로 30단어 안팎으로 설명해 보기.

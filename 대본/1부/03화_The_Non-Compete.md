@@ -23,8 +23,8 @@
 02. NOAH: Not yet. Good morning, Tom.
     노아: 아직요. 좋은 아침입니다, 톰.
 
-03. TOM: Lumaderm is up eighteen percent. Your campaign did that.
-    톰: 루마덤이 18퍼센트 올랐어. 자네 캠페인 덕분이야.
+03. TOM: Lumaderm is up eighteen percent. Your campaign did that, Noah. The board noticed, the sales team noticed, and honestly, I noticed too. That's why I wanted to see you first thing.
+    톰: 루마덤이 18퍼센트 올랐어. 자네 캠페인 덕분이야, 노아. 이사회도 알아챘고, 영업팀도 알아챘고, 솔직히 나도 알아챘지. 그래서 아침 일찍 자네를 보고 싶었던 거야.
 
 04. NOAH: That's great news. The whole team worked hard.
     노아: 좋은 소식이네요. 팀 전체가 열심히 했죠.
@@ -82,8 +82,8 @@
 21. TOM: Then is it the title? Director is on the table today.
     톰: 그럼 직함이야? 디렉터 자리는 오늘이라도 줄 수 있어.
 
-22. NOAH: It's not the title either. I want to build something of my own.
-    노아: 직함도 아니에요. 제 걸 직접 만들어 보고 싶어요.
+22. NOAH: It's not the title either. I've learned a lot here, and I'm grateful for that. But I want to build something of my own, and if I don't try now, I never will.
+    노아: 직함도 아니에요. 여기서 많이 배웠고, 그건 감사하게 생각해요. 하지만 제 걸 직접 만들어 보고 싶어요. 지금 시도하지 않으면 영영 못 할 것 같아요.
 
 23. TOM: Ah. A startup. Everybody wants a startup these days.
     톰: 아. 스타트업. 요즘은 다들 스타트업 하고 싶어 하지.
@@ -118,11 +118,11 @@
 33. TOM: Then that's the injector's fault, not the product's.
     톰: 그럼 시술자 잘못이지, 제품 잘못이 아니잖아.
 
-34. NOAH: Maybe. But the enzyme took hours to dissolve it.
-    노아: 그럴 수도요. 근데 효소로 녹이는 데 몇 시간이 걸렸어요.
+34. NOAH: Maybe. But the enzyme took hours to dissolve it, Tom. I sat in that room and watched her nose change color, and all I could think was, our product did this.
+    노아: 그럴 수도요. 근데 효소로 녹이는 데 몇 시간이 걸렸어요, 톰. 그 방에 앉아서 동생 코 색이 변하는 걸 지켜봤는데, 머릿속엔 '우리 제품이 이렇게 만들었구나' 그 생각뿐이었어요.
 
-35. TOM: That's the trade-off. Long-lasting means harder to dissolve. It's on the label.
-    톰: 그게 트레이드오프지. 오래간다는 건 녹이기 어렵다는 뜻이야. 라벨에도 있어.
+35. TOM: That's the trade-off. Long-lasting means harder to dissolve, and every doctor who uses it knows that. It's on the label, Noah, and our customers chose it for exactly that reason.
+    톰: 그게 트레이드오프지. 오래간다는 건 녹이기 어렵다는 뜻이고, 그걸 쓰는 의사라면 다 알아. 라벨에도 있어, 노아. 그리고 고객들은 바로 그 이유 때문에 우리 제품을 고른 거야.
 
 36. NOAH: I know it's on the label. I just can't stop thinking about it.
     노아: 라벨에 있는 거 알아요. 그냥 그 생각이 머리를 떠나질 않아요.
@@ -148,8 +148,8 @@
 43. TOM: And the Lumaderm Lips launch?
     톰: 루마덤 립스 출시는?
 
-44. NOAH: I'll write a full handover plan. Jenna can take it over.
-    노아: 인수인계 계획서를 꼼꼼히 쓸게요. 제나가 맡으면 돼요.
+44. NOAH: I'll write a full handover plan, with timelines, contacts, and the open decisions. Jenna can take it over, and I'll spend my last two weeks making sure she's ready.
+    노아: 일정, 연락처, 아직 결정 안 된 사항까지 담아서 인수인계 계획서를 꼼꼼히 쓸게요. 제나가 맡으면 되고, 남은 2주 동안 제나가 준비될 수 있게 확실히 도울게요.
 
 45. TOM: Jenna isn't you.
     톰: 제나는 자네가 아니야.
@@ -213,8 +213,8 @@
 64. NOAH: Just to clarify, what does that cover exactly?
     노아: 확인차 여쭤볼게요. 그게 정확히 어디까지예요?
 
-65. MEGAN: Anything you invented here, during your employment, belongs to Halvern.
-    메건: 재직 중에 여기서 발명한 건 전부 할번 소유예요.
+65. MEGAN: Anything you invented here, during your employment, belongs to Halvern. That includes formulas, processes, and even marketing ideas, as long as they were created while you worked for the company.
+    메건: 재직 중에 여기서 발명한 건 전부 할번 소유예요. 제형, 공정, 심지어 마케팅 아이디어까지 포함돼요. 회사에 다니는 동안 만들어진 거라면요.
 
 66. NOAH: Even ideas I had at home? On a weekend?
     노아: 집에서 떠올린 아이디어도요? 주말에요?
@@ -231,8 +231,8 @@
 70. NOAH: What does that mean in practice?
     노아: 실제로는 어떤 의미죠?
 
-71. MEGAN: For one year, you can't work for a competitor. Or start one.
-    메건: 1년 동안 경쟁사에서 일할 수 없어요. 경쟁사를 차리는 것도요.
+71. MEGAN: For one year, you can't work for a competitor in aesthetic injectables. And you can't start one either, which means no new company in that space until the twelve months are over.
+    메건: 1년 동안 미용 주사제 분야의 경쟁사에서 일할 수 없어요. 경쟁사를 차리는 것도 안 되고요. 그러니까 12개월이 끝날 때까지 그 분야에서 새 회사는 안 된다는 뜻이에요.
 
 72. NOAH: Start one. That's in there?
     노아: 차리는 것도요. 그게 들어 있어요?
@@ -249,8 +249,8 @@
 76. NOAH: Of course. Sorry. I shouldn't have asked you that.
     노아: 그렇죠. 죄송해요. 그건 여쭤보면 안 되는 거였네요.
 
-77. MEGAN: It's okay. Off the record? Get your own lawyer. Soon.
-    메건: 괜찮아요. 사적으로 말씀드리면요? 따로 변호사를 구하세요. 빨리요.
+77. MEGAN: It's okay. Off the record? Get your own lawyer, and do it soon. Contracts like this are written to protect the company, not you, so someone should read it on your side.
+    메건: 괜찮아요. 사적으로 말씀드리면요? 따로 변호사를 구하세요. 빨리요. 이런 계약서는 노아 씨가 아니라 회사를 보호하려고 쓰인 거예요. 그러니까 노아 씨 편에서 읽어 줄 사람이 있어야 해요.
 
 78. NOAH: That's the second time I've heard that this week.
     노아: 이번 주에만 그 말을 두 번째 듣네요.
@@ -275,8 +275,8 @@
 84. NOAH: Tom, please. I've already decided.
     노아: 톰, 제발요. 이미 결정했어요.
 
-85. TOM: Senior Director. Thirty percent raise. Plus stock.
-    톰: 시니어 디렉터. 연봉 30퍼센트 인상. 주식도 얹어서.
+85. TOM: Senior Director. Thirty percent raise. Plus stock. Noah, I had to fight for this offer today, so before you say anything, at least think about what it means for your future.
+    톰: 시니어 디렉터. 연봉 30퍼센트 인상. 주식도 얹어서. 노아, 오늘 이 제안 받아 내느라 내가 싸워야 했어. 그러니까 뭐라고 하기 전에, 적어도 이게 자네 미래에 어떤 의미인지 생각해 봐.
 
 86. NOAH: That's very generous. But my answer is still no.
     노아: 정말 후한 제안이네요. 하지만 제 대답은 그대로 '아니요'예요.
@@ -299,8 +299,8 @@
 92. NOAH: Is that a warning?
     노아: 그거 경고예요?
 
-93. TOM: It's a fact. This industry is small. Everyone talks.
-    톰: 사실이야. 이 업계는 좁아. 다들 말이 많고.
+93. TOM: It's a fact. This industry is small, and everyone talks. Doctors talk to reps, reps talk to managers, and sooner or later, every new filler project ends up on my desk.
+    톰: 사실이야. 이 업계는 좁고, 다들 말이 많아. 의사는 영업 담당자한테 말하고, 영업 담당자는 매니저한테 말하지. 그러다 보면 결국 새로운 필러 프로젝트는 전부 내 책상 위로 올라와.
 
 94. NOAH: I'll respect my contract, Tom. Every word of it.
     노아: 계약은 지킬게요, 톰. 한 글자도 빠짐없이.
@@ -323,8 +323,8 @@
 100. NOAH: I won't. I also saw what it did to my sister.
      노아: 안 잊을게요. 그게 제 동생한테 무슨 일을 했는지도 봤고요.
 
-101. TOM: That's emotional. Business can't run on emotion.
-     톰: 그건 감정이야. 비즈니스는 감정으로 굴러가지 않아.
+101. TOM: That's emotional, and I understand it. But business can't run on emotion. Investors want numbers, regulators want data, and nobody will fund a company because your sister had a bad night.
+     톰: 그건 감정이야. 이해는 해. 하지만 비즈니스는 감정으로 굴러가지 않아. 투자자는 숫자를 원하고, 규제 당국은 데이터를 원해. 자네 동생이 힘든 밤을 보냈다고 회사에 돈을 대 줄 사람은 없어.
 
 102. NOAH: Maybe not. But maybe it can start with one.
      노아: 그럴지도요. 하지만 감정에서 시작할 수는 있겠죠.
@@ -349,8 +349,8 @@
 108. PRIYA: Wow. How do you feel?
      프리야: 와. 기분이 어때?
 
-109. NOAH: Terrified. And weirdly light. Like I put down a heavy bag.
-     노아: 무서워. 그리고 이상하게 가벼워. 무거운 가방을 내려놓은 것처럼.
+109. NOAH: Terrified. And weirdly light, like I put down a heavy bag. For four years I sold a product I believed in, and today I walked away from it without a real plan.
+     노아: 무서워. 그리고 이상하게 가벼워. 무거운 가방을 내려놓은 것처럼. 4년 동안 내가 믿는 제품을 팔았는데, 오늘 제대로 된 계획도 없이 거기서 걸어 나왔어.
 
 110. PRIYA: How did Tom take it?
      프리야: 톰은 어떻게 받아들였어?
@@ -379,8 +379,8 @@
 118. PRIYA: Manufacturing. Sterile injectables. Do you know anyone?
      프리야: 생산. 무균 주사제. 아는 사람 있어?
 
-119. NOAH: I know one guy. He runs the fill line at Corwin. Ex-Army.
-     노아: 한 명 알아. 코윈에서 충전 라인을 맡고 있어. 군인 출신이야.
+119. NOAH: I know one guy. He runs the fill line at Corwin, and he's ex-Army, so he's very strict about process. If anyone can make sterile injectables properly, it's him.
+     노아: 한 명 알아. 코윈에서 충전 라인을 맡고 있는데, 군인 출신이라 공정에 엄청 철저해. 무균 주사제를 제대로 만들 수 있는 사람이 있다면, 바로 그 사람이야.
 
 120. PRIYA: Corwin makes Lumaderm, Noah. This is going to be interesting.
      프리야: 코윈은 루마덤을 만드는 데잖아, 노아. 이거 재밌어지겠는데.
@@ -421,3 +421,18 @@
 >
 > Best regards,
 > **[Your Name]**
+
+### ④ 긴 발화 분석
+
+> **22턴 NOAH:** "It's not the title either. I've learned a lot here, and I'm grateful for that. But I want to build something of my own, and if I don't try now, I never will."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 부정(오해 정리) | It's not the title either. | 상대가 짐작한 이유를 먼저 지워 대화를 정리 |
+| ② 감사(관계 유지) | I've learned a lot here, and I'm grateful for that. | 떠나는 쪽이 회사에 대한 존중을 표현 |
+| ③ 진짜 이유 | But I want to build something of my own, | "But"으로 전환해 핵심 동기를 밝힘 |
+| ④ 긴급성(조건문) | and if I don't try now, I never will. | "if… never"로 지금이어야 하는 이유를 강조 |
+
+**활용 패턴:** "It's not A." → 감사 → "But I want…" → "if I don't… now, I never will."
+**연결 표현:** either(~도 아니다) · I'm grateful for that(그 점은 감사하다) · if I don't try now(지금 시도하지 않으면)
+**연습:** 연봉 인상으로 붙잡는 상사에게 퇴사 이유를 같은 구조로 30단어 안팎으로 말해 보기.

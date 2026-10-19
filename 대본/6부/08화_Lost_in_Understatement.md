@@ -44,8 +44,8 @@
 09. JAMES: A pint of bitter, then. It matches the mood.
     제임스: 그럼 비터 한 파인트. 분위기에 맞네요.
 
-10. SARAH: James was an A and E nurse for twelve years. Then he trained injectors. He knows everyone.
-    사라: 제임스는 12년간 응급실 간호사였어요. 그다음 시술자를 교육했고요. 모두를 알아요.
+10. SARAH: James was an A and E nurse for twelve years, so nothing frightens him. Then he trained injectors for years. If anyone can translate Oliver for you, it's him, because he knows everyone in this industry, and everyone knows him.
+    사라: 제임스는 12년간 응급실 간호사였어요. 그래서 무서운 게 없죠. 그다음엔 몇 년 동안 시술자를 교육했고요. 누가 올리버를 통역해 줄 수 있다면 바로 이 사람이에요. 이 업계 사람을 다 알고, 다들 이 사람을 알거든요.
 
 11. JAMES: Everyone knows everyone. London's a village with a tube map.
     제임스: 다들 서로 알아요. 런던은 지하철 노선도가 있는 마을이죠.
@@ -59,8 +59,8 @@
 14. SOFIA: That's what we thought! He never said no.
     소피아: 우리도 그렇게 생각했어요! 아니라고 한 적이 없어요.
 
-15. JAMES: No. He never says it. That's not the same as never meaning it.
-    제임스: 네. 말을 안 하죠. 그게 그런 뜻이 아니라는 거랑은 같지 않아요.
+15. JAMES: No. He never says it. That's not the same as never meaning it. In London, "no" is considered a little rude, so we hide it inside compliments, tea and invitations to reflect. The skill is finding it.
+    제임스: 네. 말을 안 하죠. 그게 그런 뜻이 아니라는 거랑은 같지 않아요. 런던에선 "아니요"가 좀 무례하게 여겨져서, 칭찬이랑 차랑 "생각해 보겠다"는 말 속에 숨겨요. 그걸 찾아내는 게 기술이죠.
 
 ### 장면1 — 번역 게임
 
@@ -142,8 +142,8 @@
 41. SARAH: The British Museum is free. It's very good for disappointment.
     사라: 대영박물관은 무료예요. 실망했을 때 아주 좋아요.
 
-42. NOAH: So I spent a whole day hearing yes. And he spent a whole day saying no.
-    노아: 그러니까 난 하루 종일 예스를 들었고. 그는 하루 종일 노라고 말했네요.
+42. NOAH: I walked out of that office telling everyone we were very close, and when Elena warned me in the taxi, I didn't want to listen. So I spent a whole day hearing yes. And he spent a whole day saying no.
+    노아: 그 사무실을 나서면서 다들한테 아주 가까워졌다고 말했고, 택시에서 엘레나가 경고했을 때도 듣고 싶지 않았어요. 그러니까 난 하루 종일 예스를 들었고. 그는 하루 종일 노라고 말했네요.
 
 43. JAMES: Very politely. Over nine kinds of tea.
     제임스: 아주 정중하게. 아홉 종류의 차를 곁들여서.
@@ -157,8 +157,8 @@
 46. ELENA: Only one eyebrow. The other one is being supportive.
     엘레나: 한쪽 눈썹만요. 다른 쪽은 응원하고 있어요.
 
-47. NOAH: It's not Sofia's fault. I was in charge. I heard what I wanted to hear.
-    노아: 소피아 잘못이 아니에요. 내가 책임자였어요. 듣고 싶은 걸 들은 거예요.
+47. NOAH: It's not Sofia's fault. I was in charge, and I was the one telling everyone it was a yes. I heard what I wanted to hear, because I needed this deal to work and I was too tired to notice the signals. That's on me.
+    노아: 소피아 잘못이 아니에요. 내가 책임자였고, 예스라고 다들한테 말한 것도 나였어요. 듣고 싶은 걸 들은 거예요. 이 거래가 꼭 성사돼야 했고, 너무 피곤해서 신호를 알아채지 못했으니까요. 그건 내 책임이에요.
 
 48. JAMES: That's the most British thing you've said all night. Self-criticism. Have another pint.
     제임스: 오늘 밤 한 말 중에 제일 영국적이네요. 자기비판. 한 잔 더 하세요.
@@ -166,13 +166,13 @@
 49. SARAH: Noah, don't feel bad. Americans say "awesome" about sandwiches. We say "not bad" about weddings.
     사라: 노아, 기분 나빠하지 마요. 미국인은 샌드위치에 "끝내준다"고 하죠. 우린 결혼식에 "나쁘지 않네"라고 해요.
 
-50. JAMES: My mother is Nigerian. She says exactly what she means. Loudly. I had to learn both languages.
-    제임스: 우리 어머니는 나이지리아 분이에요. 뜻한 바를 정확히 말해요. 크게. 난 두 언어를 다 배워야 했죠.
+50. JAMES: My mother is Nigerian. She says exactly what she means. Loudly. I grew up in Peckham, so at home I heard every word directly, and at school I had to decode every teacher's "interesting." I had to learn both languages.
+    제임스: 우리 어머니는 나이지리아 분이에요. 뜻한 바를 정확히 말해요. 크게. 난 페컴에서 자랐는데, 집에선 모든 말을 직설적으로 들었고, 학교에선 선생님들의 "흥미롭네"를 하나하나 해독해야 했어요. 두 언어를 다 배워야 했죠.
 
 ### 장면2 — 왜 노였는가, 그리고 다음 이메일
 
-51. ELENA: James, why no? We agreed on price, territory, volumes. Everything except point five.
-    엘레나: 제임스, 왜 노예요? 가격, 지역, 물량 다 합의했어요. 5번만 빼고.
+51. ELENA: James, why no? We agreed on price, territory, volumes, everything except point five. And point five isn't even about money for them. It's just a rule about who can buy the product. I don't understand why that alone kills the whole deal.
+    엘레나: 제임스, 왜 노예요? 가격, 지역, 물량, 5번 빼고 다 합의했어요. 그리고 5번은 그쪽한테 돈 문제도 아니에요. 그냥 누가 제품을 살 수 있느냐에 관한 규칙일 뿐이죠. 그것 하나 때문에 거래 전체가 깨지는 게 이해가 안 돼요.
 
 52. JAMES: Because point five is his business. How much of his revenue comes from beauticians?
     제임스: 5번이 그의 사업이니까요. 그의 매출에서 미용사 비중이 얼마예요?
@@ -192,8 +192,8 @@
 57. ELENA: Then he should separate the teams.
     엘레나: 그럼 팀을 분리해야죠.
 
-58. JAMES: For six thousand syringes? He'd need new reps, new cars, new managers. It doesn't pay.
-    제임스: 6,000개 때문에? 새 영업 사원, 새 차, 새 관리자가 필요해요. 수지가 안 맞아요.
+58. JAMES: For six thousand syringes? He'd need new reps, new cars, new managers. That's a whole second company for one product that only sells to forty percent of the market. It doesn't pay, and Oliver can count.
+    제임스: 6,000개 때문에? 새 영업 사원, 새 차, 새 관리자가 필요해요. 시장의 40%에만 팔리는 제품 하나를 위해 회사를 하나 더 세우는 셈이죠. 수지가 안 맞아요. 그리고 올리버는 계산할 줄 알아요.
 
 59. NOAH: So he's not being difficult. He's being rational.
     노아: 그러니까 까다롭게 구는 게 아니라. 합리적인 거네요.
@@ -210,8 +210,8 @@
 63. NOAH: Then what? Wait?
     노아: 그럼 뭐요? 기다려요?
 
-64. JAMES: Write to him. Tonight. Short. Warm. One clear question. Make it easy for him to say no.
-    제임스: 그에게 써요. 오늘 밤. 짧게. 따뜻하게. 분명한 질문 하나. 그가 쉽게 노라고 할 수 있게.
+64. JAMES: Write to him. Tonight. Short. Warm. One clear question. Thank him, show that you understand his position, and then ask him directly whether he can accept your terms. Make it easy for him to say no.
+    제임스: 그에게 써요. 오늘 밤. 짧게. 따뜻하게. 분명한 질문 하나. 감사 인사를 하고, 그의 입장을 이해한다는 걸 보여 주고, 그다음 당신들 조건을 받아들일 수 있는지 직접 물어요. 그가 쉽게 노라고 할 수 있게.
 
 65. ELENA: Easy to say no? We want a yes.
     엘레나: 쉽게 노라고 하게요? 우린 예스를 원하는데요.
@@ -281,8 +281,8 @@
 86. NOAH: Why did you leave?
     노아: 왜 그만뒀어요?
 
-87. JAMES: They started a three-day course. For beauticians. Very profitable. I resigned the same week.
-    제임스: 미용사 대상 3일 과정을 시작했어요. 아주 수익성이 좋았죠. 같은 주에 사직했어요.
+87. JAMES: They started a three-day course. For beauticians. Very profitable. Three days to learn what took me twelve years in A and E, including what to do when a vessel blocks. I told them it wasn't safe. They said it was popular. I resigned the same week.
+    제임스: 미용사 대상 3일 과정을 시작했어요. 아주 수익성이 좋았죠. 내가 응급실에서 12년 걸려 배운 걸 사흘 만에, 혈관이 막혔을 때 뭘 해야 하는지까지요. 안전하지 않다고 했어요. 그쪽은 인기 있다고 했고요. 같은 주에 사직했어요.
 
 88. ELENA: Same week? That's a red line.
     엘레나: 같은 주에? 그게 레드라인이네요.
@@ -305,8 +305,8 @@
 94. NOAH: Direct. In a country we don't understand. After today, that's clear.
     노아: 직접. 우리가 이해 못 하는 나라에서. 오늘 이후로 그건 분명하고요.
 
-95. JAMES: Then hire someone who does understand. Not a translator. Someone who knows the clinics.
-    제임스: 그럼 이해하는 사람을 고용해요. 통역사 말고. 클리닉을 아는 사람.
+95. JAMES: Then hire someone who does understand. Not a translator. Someone who knows the clinics, the nurse prescribers, the training schools, and which doors open only if the right person knocks. In this market, trust is local, and it takes years to build.
+    제임스: 그럼 이해하는 사람을 고용해요. 통역사 말고. 클리닉, 간호사 처방권자, 교육 기관을 알고, 어떤 문이 딱 맞는 사람이 두드려야만 열리는지 아는 사람. 이 시장에서 신뢰는 지역적이고, 쌓는 데 몇 년이 걸려요.
 
 96. ELENA: Someone like you.
     엘레나: 당신 같은 사람.
@@ -314,8 +314,8 @@
 97. JAMES: Ha. No. I don't work for companies anymore. Companies start three-day courses.
     제임스: 하. 아니요. 난 이제 회사를 위해 일하지 않아요. 회사들은 3일 과정을 시작하거든요.
 
-98. NOAH: Ours doesn't. Ours lost a hundred thousand dollars. Refusing to sell to a chain.
-    노아: 우리 회사는 안 해요. 체인에 판매를 거절하느라 10만 달러를 잃었어요.
+98. NOAH: Ours doesn't. Ours lost a hundred thousand dollars refusing to sell to a chain. It hurt, and some people thought we were crazy. But we didn't change the rule then, and we're not changing it for Oliver now.
+    노아: 우리 회사는 안 해요. 체인에 판매를 거절하느라 10만 달러를 잃었어요. 아팠고, 우리가 미쳤다고 생각한 사람들도 있었죠. 하지만 그때 규칙을 바꾸지 않았고, 지금 올리버 때문에 바꾸지도 않을 거예요.
 
 99. JAMES: That's quite interesting.
     제임스: 꽤 흥미롭네요.
@@ -352,8 +352,8 @@
 109. NOAH: A friend. A British one. Finally.
      노아: 친구가요. 영국인 친구. 드디어.
 
-110. FIONA: Then I'll be candid. Oliver won't say it. So I will. It's a no. On point five.
-     피오나: 그럼 솔직하게 말할게요. 올리버는 말 안 할 거예요. 그래서 내가 해요. 노예요. 5번에 대해선.
+110. FIONA: Then I'll be candid. Oliver won't say it. So I will. It's a no. On point five. Too much of our business is with beauticians, and we can't risk all of it on one rep making one mistake. I'd rather tell you today than let you wait for weeks.
+     피오나: 그럼 솔직하게 말할게요. 올리버는 말 안 할 거예요. 그래서 내가 해요. 노예요. 5번에 대해선. 우리 사업에서 미용사 비중이 너무 커서, 영업 사원 하나의 실수 하나에 전부를 걸 순 없어요. 몇 주 기다리게 하느니 오늘 말하는 게 나아요.
 
 111. NOAH: Thank you. Honestly. That's the most useful thing anyone has said in two days.
      노아: 고마워요. 진심으로. 이틀 동안 누가 한 말 중에 제일 유용해요.
@@ -373,8 +373,8 @@
 116. ELENA: Noah, you're smiling. Why are you smiling?
      엘레나: 노아, 웃고 있네요. 왜 웃어요?
 
-117. NOAH: Because a clear no is better than a polite maybe. Now we can move.
-     노아: 분명한 노가 정중한 어쩌면보다 나으니까요. 이제 움직일 수 있어요.
+117. NOAH: Because a clear no is better than a polite maybe. For two days I was waiting for an answer that was never coming. Now we know where we stand, we know what we won't change, and we know who to call. Now we can move.
+     노아: 분명한 노가 정중한 어쩌면보다 나으니까요. 이틀 동안 절대 오지 않을 답을 기다리고 있었어요. 이제 우리가 어디에 서 있는지 알고, 무엇을 바꾸지 않을지 알고, 누구에게 전화해야 할지 알아요. 이제 움직일 수 있어요.
 
 118. SOFIA: Move where?
      소피아: 어디로요?
@@ -429,3 +429,18 @@
 > Noah
 >
 > *Rules: Short. Warm. One clear question. A deadline. No "amazing," no "super," no "Best!!"*
+
+### ④ 긴 발화 분석
+
+> **47턴 NOAH:** "It's not Sofia's fault. I was in charge, and I was the one telling everyone it was a yes. I heard what I wanted to hear, because I needed this deal to work and I was too tired to notice the signals. That's on me."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 동료 보호 | It's not Sofia's fault. | 책임을 다른 사람에게 돌리지 않겠다고 먼저 선언 |
+| ② 책임 인정(사실) | I was in charge, and I was the one telling everyone it was a yes. | 내 역할과 실제 행동을 구체적으로 인정 |
+| ③ 원인 분석 | I heard what I wanted to hear, because I needed this deal to work and I was too tired to notice the signals. | 변명이 아니라 실수의 원인을 because로 설명 |
+| ④ 마무리(소유) | That's on me. | 짧은 한 문장으로 책임을 확정 |
+
+**활용 패턴:** "It's not X's fault." → 내 역할 인정 → because 원인 → "That's on me."
+**연결 표현:** I was in charge(내가 책임자였다) · I was the one -ing(~한 사람은 나였다) · I heard what I wanted to hear(듣고 싶은 걸 들었다) · That's on me(내 책임이다)
+**연습:** 팀원의 보고 실수가 사실은 내 판단 착오였던 상황에서, 같은 구조로 40단어 안팎의 사과를 말해 보기.

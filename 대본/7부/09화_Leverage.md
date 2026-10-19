@@ -32,8 +32,8 @@
 05. DIANE: Here's how today works. First, BATNAs. Ours and Halvern's. Then prices. Then Seoul. Then Richard.
     다이앤: 오늘 진행은 이래요. 먼저 BATNA. 우리 것과 할번 것. 그다음 가격. 그다음 서울. 그다음 리처드.
 
-06. PAUL: Best alternative to a negotiated agreement. In plain English, Noah: what happens if we walk away?
-    폴: 협상 합의에 대한 최선의 대안. 쉬운 영어로, 노아: 우리가 걸어 나가면 무슨 일이 생기냐는 거예요.
+06. PAUL: Best alternative to a negotiated agreement. In plain English, Noah: what happens if we walk away? Whoever has the better answer to that question has the power in the room, no matter how big the other side is or how loudly they talk.
+    폴: 협상 합의에 대한 최선의 대안. 쉬운 영어로, 노아: 우리가 걸어 나가면 무슨 일이 생기냐는 거예요. 그 질문에 더 나은 답을 가진 쪽이 방 안의 힘을 가져요. 상대가 얼마나 크든, 얼마나 큰 소리로 말하든 상관없이.
 
 07. NOAH: I know what a BATNA is, Paul. I've just never had a good one before.
     노아: BATNA가 뭔지 알아요, 폴. 좋은 걸 가져 본 적이 없을 뿐이죠.
@@ -53,8 +53,8 @@
 12. NOAH: And Halvern's BATNA?
     노아: 그럼 할번의 BATNA는요?
 
-13. DIANE: Lumaderm Flex. Growing slowly. Losing to you in every survey. And Tom's CEO decision in September.
-    다이앤: 루마덤 플렉스. 느리게 성장 중. 모든 조사에서 당신들에게 지고. 그리고 9월의 톰 CEO 결정.
+13. DIANE: Lumaderm Flex, growing slowly and losing to you in every survey. That's their alternative if you say no. And there's a clock on it: Tom's CEO decision in September. Without Veyra, he walks into that decision with nothing new to show.
+    다이앤: 루마덤 플렉스. 느리게 성장하고, 모든 조사에서 당신들에게 지고 있죠. 당신들이 거절하면 그게 그들의 대안이에요. 게다가 시계까지 붙어 있어요. 9월의 톰 CEO 결정. 베이라가 없으면 그는 보여 줄 새로운 것 하나 없이 그 결정에 들어가는 거예요.
 
 14. ELENA: So Tom's BATNA is weaker than ours. He just talks louder.
     엘레나: 그러니까 톰의 BATNA가 우리보다 약하네요. 목소리만 클 뿐.
@@ -79,8 +79,8 @@
 20. GRACE: Twelve to eighteen months. Minimum. Ours took fourteen. With a Korean manufacturer.
     그레이스: 12개월에서 18개월. 최소. 우리 건 14개월 걸렸어요. 한국 제조사와 함께해서.
 
-21. PAUL: So "this fall" is impossible. Unless they sell an unapproved product. Which they won't. Halvern's lawyers aren't stupid.
-    폴: 그러니까 "올가을"은 불가능하네요. 미승인 제품을 팔지 않는 한. 그러진 않겠죠. 할번 변호사들이 바보는 아니니까.
+21. PAUL: So 'this fall' is impossible, unless they sell an unapproved product, which they won't. Halvern's lawyers aren't stupid, and one regulatory scandal in Korea would cost them far more than our market share is worth. The timeline simply doesn't work.
+    폴: 그러니까 '올가을'은 불가능하네요. 미승인 제품을 팔지 않는 한. 그러진 않겠죠. 할번 변호사들이 바보는 아니고, 한국에서 규제 스캔들 하나만 터져도 우리 시장 점유율의 가치보다 훨씬 큰 대가를 치를 테니까요. 일정이 그냥 안 맞아요.
 
 22. DIANE: Then the threat is a bluff. And bluffs have one weakness. You can call them.
     다이앤: 그럼 그 위협은 허세예요. 허세엔 약점이 하나 있죠. 확인해 볼 수 있다는 거.
@@ -100,8 +100,8 @@
 27. PAUL: Secondaries usually trade at a discount. Ten, twenty percent. We're about to ask for a premium to the last round.
     폴: 세컨더리는 보통 할인된 가격에 거래돼요. 10에서 20%. 우린 지난 라운드보다 프리미엄을 요구하려는 거예요.
 
-28. NOAH: Because the last round was before Halvern put a number on us. One point three is now the market's opinion.
-    노아: 지난 라운드는 할번이 우리에게 숫자를 매기기 전이었으니까요. 13억이 이제 시장의 의견이에요.
+28. NOAH: Because the last round was before Halvern put a number on us. Since then, a serious buyer has offered one point three in writing, so one point three is now the market's opinion, whether Victor likes it or not.
+    노아: 지난 라운드는 할번이 우리에게 숫자를 매기기 전이었으니까요. 그 뒤로 진지한 인수자가 서면으로 13억을 제안했어요. 그러니 빅터가 좋아하든 말든, 13억이 이제 시장의 의견이에요.
 
 29. DIANE: Then anchor high. But not silly. Who's calling Victor?
     다이앤: 그럼 높게 앵커를 둬요. 하지만 터무니없지 않게. 빅터한텐 누가 전화해요?
@@ -136,8 +136,8 @@
 39. VICTOR: And if you say no to Halvern, nobody values you at one point three tomorrow.
     빅터: 그리고 할번을 거절하면, 내일은 아무도 13억으로 평가 안 하죠.
 
-40. NOAH: Then let's meet between tomorrow and today. One point zero eight. Above your Series C. Below Halvern.
-    노아: 그럼 내일과 오늘 사이에서 만나죠. 10억 8천. 시리즈 C보다 위. 할번보다 아래.
+40. NOAH: Then let's meet between tomorrow and today. One point zero eight. It's above your Series C, so you're not buying at a loss on paper, and it's below Halvern, so you're still getting a discount to the only real offer on the table.
+    노아: 그럼 내일과 오늘 사이에서 만나죠. 10억 8천. 시리즈 C보다 위니까 장부상 손해 보고 사는 게 아니고, 할번보다 아래니까 테이블 위의 유일한 실제 제안보다 여전히 할인된 가격에 사는 거예요.
 
 41. VICTOR: …One point zero eight. How much of Northgate's stake?
     빅터: …10억 8천. 노스게이트 지분은 얼마나요?
@@ -186,8 +186,8 @@
 55. ELENA: And?
     엘레나: 그래서요?
 
-56. HAN: Our board decided last night. We will not renew. Halvern has been our customer. Not our partner.
-    한서연: 어젯밤 이사회가 결정했습니다. 갱신하지 않겠습니다. 할번은 고객이었어요. 파트너가 아니라.
+56. HAN: Our board decided last night. We will not renew. Halvern has been our customer for many years, but never our partner. A customer asks for a better price every year. A partner asks what we can build together. We know the difference.
+    한서연: 어젯밤 이사회가 결정했습니다. 갱신하지 않겠습니다. 할번은 오랫동안 저희 고객이었지만, 파트너였던 적은 없어요. 고객은 매년 더 좋은 가격을 요구하죠. 파트너는 함께 무엇을 만들 수 있는지 묻고요. 저희는 그 차이를 압니다.
 
 57. PARK: Five years ago, Halvern left me with one email. Now Daeyang leaves Halvern with one board decision.
     박 대표: 5년 전 할번은 이메일 한 통으로 저를 떠났죠. 이제 대양이 이사회 결정 하나로 할번을 떠나네요.
@@ -210,14 +210,14 @@
 63. SUJIN: Quality is decided by the Seorin quality team. Me. In writing. Mr. Park insisted.
     수진: 품질은 서린 품질팀이 결정합니다. 저요. 서면으로. 대표님이 고집하셨어요.
 
-64. PARK: And safety by Dr. Ruiz. With a veto. In the joint venture's articles. Or Seorin stays home.
-    박 대표: 그리고 안전은 루이즈 박사. 거부권과 함께. 합작법인 정관에. 아니면 서린은 집에 있겠습니다.
+64. PARK: And safety by Dr. Ruiz, with a veto, written into the joint venture's articles. Not a side letter, not a promise over dinner. I trusted a big company's promise once. It ended with one email. Without that veto in the articles, Seorin stays home.
+    박 대표: 그리고 안전은 루이즈 박사. 거부권과 함께, 합작법인 정관에 명시해서. 부속 서한도, 저녁 자리의 약속도 아니고요. 큰 회사의 약속을 한 번 믿은 적이 있어요. 이메일 한 통으로 끝났죠. 정관에 그 거부권이 없으면 서린은 집에 있겠습니다.
 
 65. ELENA: A veto in the joint venture? Ms. Han, you'd accept that?
     엘레나: 합작법인에 거부권을? 한 상무님, 그걸 받아들이시겠어요?
 
-66. HAN: Dr. Ruiz, I watched your training in Paris. For ten minutes. I'd rather have your veto than your apology.
-    한서연: 루이즈 박사님, 파리에서 교육을 봤어요. 10분 동안. 사과보다는 거부권을 갖는 게 낫죠.
+66. HAN: Dr. Ruiz, I watched your training in Paris, for ten minutes. That was enough. A partner whose safety officer can stop a product is a partner I can explain to my board. I'd rather have your veto than your apology.
+    한서연: 루이즈 박사님, 파리에서 교육을 10분 동안 봤어요. 그걸로 충분했죠. 안전 책임자가 제품을 멈출 수 있는 파트너라면, 저희 이사회에 설명할 수 있는 파트너예요. 사과보다는 거부권을 갖는 게 낫습니다.
 
 67. PAUL: Line C?
     폴: 라인 C는요?
@@ -275,14 +275,14 @@
 84. ELENA: Noah. That's not a condition. That's a promise. From them to us. And from us to them.
     엘레나: 노아. 그건 조건이 아니에요. 약속이죠. 그들이 우리에게. 그리고 우리가 그들에게.
 
-85. DIANE: Legally, it's a poison pill. Strategically, it's better. That's not a clause. That's a moat with a drawbridge.
-    다이앤: 법적으로는 독약 조항이에요. 전략적으로는 더 좋아요. 그건 조항이 아니라. 도개교 달린 해자죠.
+85. DIANE: Legally, it's a poison pill. It makes Veyra less valuable to one specific buyer. Strategically, it's better than that, because it protects us and we still control who gets across. That's not a clause. That's a moat with a drawbridge.
+    다이앤: 법적으로는 독약 조항이에요. 특정 인수자 한 곳에게 베이라의 가치를 떨어뜨리죠. 전략적으로는 그보다 나아요. 우릴 보호하면서도, 누가 건너올지는 여전히 우리가 정하니까요. 그건 조항이 아니라, 도개교 달린 해자예요.
 
 86. PAUL: Richard will hate it. It caps what anyone would pay for us. For years.
     폴: 리처드가 싫어할 거예요. 누가 우리에게 낼 금액에 수년간 상한을 씌우니까.
 
-87. NOAH: Only for Halvern. Not for an IPO. Victor's IPO gets stronger with a partner like Daeyang.
-    노아: 할번에게만이요. IPO엔 아니고. 빅터의 IPO는 대양 같은 파트너가 있으면 더 강해져요.
+87. NOAH: Only for Halvern. Not for an IPO, and not for any other buyer. In fact, Victor's IPO story gets stronger with a partner like Daeyang, because public investors pay for growth they can see, and a signed joint venture in Korea is visible growth.
+    노아: 할번에게만이요. IPO에도, 다른 인수자에게도 아니에요. 오히려 빅터의 IPO 스토리는 대양 같은 파트너가 있으면 더 강해져요. 공개 시장 투자자들은 눈에 보이는 성장에 돈을 내는데, 서명된 한국 합작법인은 눈에 보이는 성장이니까요.
 
 88. HAN: And only Halvern is named. I'm protecting my company. Not trapping yours.
     한서연: 그리고 할번만 명시됩니다. 저는 제 회사를 보호하는 거예요. 당신 회사를 가두는 게 아니라.
@@ -332,8 +332,8 @@
 103. RICHARD: My problem?
      리처드: 내 문제?
 
-104. NOAH: Your fund is in year nine. You need liquidity, not a sale. Sixty million. At one point zero eight.
-     노아: 펀드가 9년 차죠. 매각이 아니라 유동성이 필요하죠. 6천만. 10억 8천 기준으로.
+104. NOAH: Your fund is in year nine. You need liquidity, not a sale, and those are different problems. So here's a solution to yours: sixty million dollars for forty percent of Northgate's stake, at one point zero eight, without selling the company.
+     노아: 펀드가 9년 차죠. 매각이 아니라 유동성이 필요하고, 그 둘은 다른 문제예요. 그래서 당신 문제의 해법이 여기 있어요. 노스게이트 지분의 40%에 6천만 달러, 10억 8천 기준, 회사를 팔지 않고요.
 
 105. RICHARD: …Who's buying?
      리처드: …누가 사요?
@@ -355,8 +355,8 @@
 110. NOAH: A tender offer. Fifteen percent of vested options. Same price. Twenty million.
      노아: 텐더 오퍼. 기득 옵션의 15%. 같은 가격. 2천만.
 
-111. RICHARD: You found my real problem. Not the one I said out loud. The one I had.
-     리처드: 내 진짜 문제를 찾았네요. 내가 소리 내 말한 것 말고. 내가 갖고 있던 것.
+111. RICHARD: You found my real problem. Not the one I said out loud in that boardroom, but the one I had. Everyone else spent two weeks arguing with my position, Noah. You're the first person who bothered to look at my fund.
+     리처드: 내 진짜 문제를 찾았네요. 그 이사회실에서 소리 내 말한 것 말고, 내가 실제로 갖고 있던 것. 다들 2주 동안 내 입장과 싸우기만 했어요, 노아. 내 펀드를 들여다본 건 당신이 처음이에요.
 
 112. NOAH: Priya found it. She said, "Define the problem."
      노아: 프리야가 찾았어요. "문제를 정의하라"고 했거든요.
@@ -421,3 +421,18 @@
 | **Richard** | Votes **no** on Halvern if secondary closes within 60 days (in writing) |
 
 > *"It's the path to a billion without selling the reason we're worth one."*
+
+### ④ 긴 발화 분석
+
+> **40턴 NOAH:** "Then let's meet between tomorrow and today. One point zero eight. It's above your Series C, so you're not buying at a loss on paper, and it's below Halvern, so you're still getting a discount to the only real offer on the table."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 제안 틀(중간 지점) | Then let's meet between tomorrow and today. | 상대의 논리("내일")와 내 논리("오늘")를 모두 인정하며 절충을 제안 |
+| ② 숫자 | One point zero eight. | 앵커와 역제안 사이의 구체적 숫자를 짧게 |
+| ③ 상대 이익 1(하한) | It's above your Series C, so you're not buying at a loss on paper, | 상대가 걱정하는 손실이 없음을 보여 줌 |
+| ④ 상대 이익 2(상한) | and it's below Halvern, so you're still getting a discount to the only real offer on the table. | 상대가 여전히 '싸게 산다'는 명분을 줌 |
+
+**활용 패턴:** "Let's meet between A and B" → 숫자 → It's above X, so… / It's below Y, so…
+**연결 표현:** let's meet between…(~사이에서 만나자) · on paper(장부상) · a discount to…(~대비 할인) · the only real offer on the table(테이블 위의 유일한 실제 제안)
+**연습:** 공급 단가 협상에서 우리 제시가와 상대 제시가 사이의 숫자를 같은 구조로 제안해 보기(40단어 안팎).

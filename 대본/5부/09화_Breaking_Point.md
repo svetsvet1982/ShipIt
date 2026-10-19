@@ -32,8 +32,8 @@
 05. MARCUS: You look like it. What happened?
     마커스: 그래 보여. 무슨 일이야?
 
-06. NOAH: Richard texted at midnight. Two Series B investors paused. The lawsuit and the Glow news.
-    노아: 리처드가 자정에 문자했어. 시리즈 B 투자자 두 곳이 보류했대. 소송이랑 글로우 뉴스 때문에.
+06. NOAH: Richard texted at midnight. Two Series B investors paused, because of the lawsuit and the Glow news. He didn't say they were gone, but he didn't sound hopeful either, and I spent the rest of the night staring at the ceiling.
+    노아: 리처드가 자정에 문자했어. 시리즈 B 투자자 두 곳이 보류했대. 소송이랑 글로우 뉴스 때문에. 떠났다고 하진 않았지만, 희망적으로 들리지도 않았어. 그리고 난 남은 밤 내내 천장만 쳐다봤지.
 
 07. MARCUS: Paused. Not passed.
     마커스: 보류야. 거절이 아니라.
@@ -53,8 +53,8 @@
 12. NOAH: What does he want?
     노아: 뭘 원해요?
 
-13. DEREK: Quarterly counts. Self-reported. No audits. And the pilot comes back.
-    데릭: 분기별 재고 조사. 자체 보고. 감사 없음. 그러면 파일럿 재개.
+13. DEREK: Quarterly counts, self-reported, with no audits, and the pilot comes back right away. Honestly, it's the same system they had before, just with a calendar attached. I wanted to tell you before the meeting, so you're not surprised in front of everyone.
+    데릭: 분기별 재고 대조, 자체 보고, 감사 없음. 그리고 파일럿은 바로 재개. 솔직히, 전에 하던 방식에 달력만 붙인 거예요. 회의 전에 말씀드리고 싶었어요. 다들 앞에서 놀라시지 않게요.
 
 14. MARCUS: Self-reported. Like the two boxes they never reported.
     마커스: 자체 보고. 그쪽이 보고하지 않았던 상자 두 개처럼.
@@ -64,8 +64,8 @@
 
 ### 장면1 — 오전 10시, 회의실
 
-16. SOFIA: Facts first. Glow is twenty-two percent of next year's forecast. Without Glow, we miss sixty thousand.
-    소피아: 사실 먼저. 글로우는 내년 예측의 22%예요. 글로우 없으면 6만 개를 못 맞춰요.
+16. SOFIA: Facts first. Glow is twenty-two percent of next year's forecast. Without Glow, we miss sixty thousand, the target everyone in this room agreed to. I'm not trying to scare anyone. I just want us arguing about the same numbers before we argue about anything else.
+    소피아: 사실부터요. 글로우는 내년 예측의 22%예요. 글로우가 없으면, 이 방에 있는 모두가 동의한 목표 6만 개를 못 맞춰요. 누굴 겁주려는 게 아니에요. 다른 걸로 다투기 전에, 같은 숫자를 놓고 이야기했으면 하는 거예요.
 
 17. PRIYA: By how much?
     프리야: 얼마나?
@@ -109,8 +109,8 @@
 30. SOFIA: Elena, no system catches everything before.
     소피아: 엘레나, 미리 다 잡아내는 시스템은 없어요.
 
-31. ELENA: Monthly counts would have caught two missing boxes. Within thirty days. Before the party.
-    엘레나: 월간 조사였으면 사라진 상자 두 개를 잡았을 거예요. 30일 안에. 파티 전에.
+31. ELENA: Monthly counts would have caught two missing boxes within thirty days, before the party. That's not a theory. It's arithmetic. Quarterly self-reports give a thief three months, and a clinic that's embarrassed has every reason to round the numbers.
+    엘레나: 월간 재고 대조였다면 사라진 상자 두 개를 30일 안에, 파티 전에 잡았을 거예요. 이건 이론이 아니에요. 산수예요. 분기별 자체 보고는 도둑에게 석 달을 주고, 창피한 병원은 숫자를 대충 맞출 이유가 충분해요.
 
 32. MARCUS: She's right about that. The boxes went missing eight weeks before the party.
     마커스: 그건 엘레나 말이 맞아. 상자는 파티 8주 전에 사라졌어.
@@ -148,8 +148,8 @@
 43. ELENA: Then what did you say?
     엘레나: 그럼 뭐라고 했는데요?
 
-44. SOFIA: I said a slightly lower standard at three hundred locations beats no standard at three hundred locations.
-    소피아: 300곳에서 약간 낮은 기준이 300곳에서 기준이 없는 것보다 낫다고 했어요.
+44. SOFIA: I said a slightly lower standard at three hundred locations beats no standard at three hundred locations. If Glow walks away, those clinics don't stop injecting. They just buy from someone who never asks how many boxes are on the shelf.
+    소피아: 300곳에 약간 낮은 기준이 있는 게 300곳에 기준이 아예 없는 것보다 낫다고 했어요. 글로우가 떠나도, 그 병원들은 시술을 멈추지 않아요. 선반에 상자가 몇 개 있는지 절대 묻지 않는 곳에서 사 갈 뿐이에요.
 
 45. ELENA: "Slightly lower." Tell that to the next Destiny.
     엘레나: "약간 낮은." 다음 데스티니한테 그렇게 말해 봐요.
@@ -210,8 +210,8 @@
 63. NOAH: I'm here. I'm hearing you.
     노아: 여기 있어요. 듣고 있어요.
 
-64. ELENA: When we started, I said one thing. I'd only join if I could stop anything unsafe.
-    엘레나: 우리가 시작할 때 한 가지를 말했어요. 위험한 건 뭐든 막을 수 있을 때만 합류하겠다고.
+64. ELENA: When we started, I said one thing. I'd only join if I could stop anything unsafe, even if it cost money, even if it made you angry. I left the ER for that promise, Noah, and I've never once used it.
+    엘레나: 우리가 시작할 때, 나는 한 가지만 말했어요. 위험한 건 무엇이든 멈출 수 있어야만 합류하겠다고. 돈이 들더라도, 당신이 화가 나더라도. 난 그 약속 때문에 응급실을 떠났어요, 노아. 그리고 한 번도 그걸 쓴 적이 없어요.
 
 65. NOAH: And I gave you a veto. In writing. Richard tried to weaken it. We kept it.
     노아: 그리고 난 당신한테 거부권을 줬어요. 서면으로. 리처드가 약화시키려 했지만. 우린 지켰죠.
@@ -234,8 +234,8 @@
 71. ELENA: I know the process. I helped write it.
     엘레나: 절차는 알아요. 내가 쓰는 걸 도왔으니까.
 
-72. PRIYA: Elena. Noah. Please. We've never been like this. Not even when we fought about equity.
-    프리야: 엘레나. 노아. 제발. 우리 이런 적 없었잖아. 지분 때문에 싸울 때도.
+72. PRIYA: Elena. Noah. Please. We've never been like this, not even when we fought about equity, and that fight was about money we didn't have yet. This one is about who we are, and I'm scared of what we'll say next.
+    프리야: 엘레나. 노아. 제발. 우리 이런 적 없었어. 지분 때문에 싸웠을 때도. 그땐 아직 있지도 않은 돈 때문에 싸운 거였잖아. 이번엔 우리가 어떤 사람들인지에 대한 싸움이고, 다음에 무슨 말이 나올지 무서워.
 
 73. MARCUS: Priya's right. Five years. Four of us. We've never used the veto.
     마커스: 프리야 말이 맞아. 5년. 우리 넷. 거부권을 쓴 적이 없어.
@@ -255,8 +255,8 @@
 78. ELENA: Go ahead.
     엘레나: 하세요.
 
-79. SOFIA: I'm not the enemy. I joined for your standards. But standards with no customers protect nobody.
-    소피아: 난 적이 아니에요. 당신들의 기준 때문에 합류했어요. 하지만 고객이 없는 기준은 아무도 보호하지 못해요.
+79. SOFIA: I'm not the enemy. I joined this company because of your standards. But standards with no customers protect nobody. If we lose every partner who can't be perfect, our rules end up protecting an empty room.
+    소피아: 전 적이 아니에요. 여러분의 기준 때문에 이 회사에 들어왔어요. 하지만 고객 없는 기준은 아무도 보호하지 못해요. 완벽할 수 없는 파트너를 전부 잃으면, 우리 규칙은 결국 빈방을 지키게 될 거예요.
 
 80. PRIYA: She's right too, Elena. Both things can be true.
     프리야: 소피아 말도 맞아, 엘레나. 둘 다 사실일 수 있어.
@@ -305,8 +305,8 @@
 94. MARCUS: Stop. Both of you. Right now.
     마커스: 그만. 둘 다. 지금 당장.
 
-95. PRIYA: Elena, you're tired. You saw a girl's lips on the news. Noah, you didn't sleep.
-    프리야: 엘레나, 지쳤잖아. 뉴스에서 그 애 입술을 봤고. 노아, 넌 잠을 못 잤고.
+95. PRIYA: Elena, you're tired. You saw a girl's lips on the news, and you're still carrying that. Noah, you didn't sleep, and you've got investors in your ear. Neither of you is thinking clearly right now, and honestly, neither am I.
+    프리야: 엘레나, 넌 지쳤어. 뉴스에서 그 여자애 입술을 봤고, 아직도 그걸 짊어지고 있어. 노아, 넌 잠을 못 잤고, 귀에선 투자자들이 떠들고 있어. 지금 둘 다 제대로 생각을 못 하고 있어. 솔직히, 나도 그래.
 
 96. MARCUS: Nobody decides anything today. Not Glow. Not the veto. Nothing.
     마커스: 오늘은 아무도 아무것도 결정하지 않아. 글로우도. 거부권도. 아무것도.
@@ -332,16 +332,16 @@
 103. SOFIA: I'm sorry. I didn't come here to break the founders.
      소피아: 미안해요. 창업자들을 갈라놓으려고 온 게 아니었어요.
 
-104. NOAH: You didn't break anything, Sofia. It was already cracked. We just never looked.
-     노아: 당신이 깨뜨린 게 아니에요, 소피아. 이미 금이 가 있었어요. 우리가 안 봤을 뿐.
+104. NOAH: You didn't break anything, Sofia. It was already cracked. We just never looked, because we were busy, and because looking would have meant admitting that four friends had quietly become a company with different jobs and different fears.
+     노아: 아무것도 망가뜨리지 않았어요, 소피아. 이미 금이 가 있었어요. 우리가 안 봤을 뿐이죠. 바빴고, 들여다보면 네 친구가 어느새 서로 다른 일과 서로 다른 두려움을 가진 회사가 됐다는 걸 인정해야 했으니까요.
 
-105. PRIYA: Cracked how?
-     프리야: 어떻게 금이 갔는데?
+105. PRIYA: Different fears? What do you mean?
+     프리야: 서로 다른 두려움? 무슨 뜻이야?
 
 ### 마무리 — 밤 9시, 빈 사무실
 
-106. NOAH: When we started, there were four of us. And one rule. Now there are sixty-two people. And a hundred rules.
-     노아: 시작할 때는 우리 넷이었어. 그리고 규칙 하나. 지금은 62명. 그리고 규칙 백 개.
+106. NOAH: When we started, there were four of us and one rule. Now there are sixty-two people and a hundred rules. Elena guards safety, Sofia guards revenue, I guard everything, and somewhere along the way we stopped trusting each other to care about the rest.
+     노아: 우리가 시작할 땐 넷이었고, 규칙은 하나였어. 지금은 62명에 규칙이 백 개야. 엘레나는 안전을 지키고, 소피아는 매출을 지키고, 나는 전부를 지키고. 그러다 어느새 우리는 서로가 나머지도 신경 쓴다고 믿지 않게 됐어.
 
 107. MARCUS: And nobody remembers who owns which rule.
      마커스: 그리고 누가 어떤 규칙의 주인인지 아무도 기억 못 하지.
@@ -358,8 +358,8 @@
 111. NOAH: A lawyer? A board member?
      노아: 변호사? 이사?
 
-112. MARCUS: A coach. Denise's college roommate. Dr. Miriam Fischer. She works with founders. And fighting families.
-     마커스: 코치. 데니스의 대학 룸메이트. 미리엄 피셔 박사. 창업자들이랑 일해. 그리고 싸우는 가족들이랑도.
+112. MARCUS: A coach. Denise's college roommate, Dr. Miriam Fischer. She works with founders, and with fighting families, which is basically what we are right now. In the army, when a unit stops talking, you bring in someone neutral before somebody gets hurt.
+     마커스: 코치. 데니스의 대학 룸메이트, 미리엄 피셔 박사. 창업자들이랑 일하고, 싸우는 가족들이랑도 일해. 지금 우리가 딱 그거잖아. 군대에선 부대가 서로 말을 안 하기 시작하면, 누가 다치기 전에 중립적인 사람을 데려와.
 
 113. PRIYA: A therapist for companies?
      프리야: 회사용 치료사?
@@ -418,3 +418,17 @@
 | Investors (Richard) | "Is Glow secure? By Friday." | Predictable revenue | Lawsuit + chain risk |
 
 > **Agreed today:** No decisions. Elena's veto letter is written but **not sent**. Next step: outside coach (Dr. Miriam Fischer).
+
+### ④ 긴 발화 분석
+
+> **31턴 ELENA:** "Monthly counts would have caught two missing boxes within thirty days, before the party. That's not a theory. It's arithmetic. Quarterly self-reports give a thief three months, and a clinic that's embarrassed has every reason to round the numbers."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 주장(가정법 과거완료) | Monthly counts would have caught two missing boxes within thirty days, before the party. | "~했더라면 …했을 것"으로 내 안이 실제 사고를 막았을 것임을 제시 |
+| ② 강조(대비) | That's not a theory. It's arithmetic. | "A가 아니라 B"로 반박 여지를 줄임 |
+| ③ 반대안의 위험 | Quarterly self-reports give a thief three months, and a clinic that's embarrassed has every reason to round the numbers. | 상대 안의 구체적 허점 두 가지를 짚음 |
+
+**활용 패턴:** would have + p.p.(과거 사례로 증명) → That's not A. It's B. → 상대안의 허점 두 가지
+**연결 표현:** would have caught(잡았을 것이다) · That's not a theory(이론이 아니다) · has every reason to(~할 이유가 충분하다)
+**연습:** 주간 점검을 월간으로 줄이자는 제안에 같은 구조로 35단어 안팎으로 반대해 보기.

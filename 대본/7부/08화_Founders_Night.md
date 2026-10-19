@@ -26,8 +26,8 @@
 03. RITA: Bench fourteen is a microbiome startup now. They're very nice. They leave their samples everywhere.
     리타: 14번 실험대는 지금 마이크로바이옴 스타트업이에요. 아주 착해요. 샘플을 아무 데나 두지만.
 
-04. PRIYA: Bench fourteen. Next to the fume hood. I cried there twice. Once from chemistry. Once from fumes.
-    프리야: 14번 실험대. 흄 후드 옆. 거기서 두 번 울었어요. 한 번은 화학 때문에. 한 번은 연기 때문에.
+04. PRIYA: Bench fourteen, next to the fume hood. I cried there twice, if you want to know. Once from chemistry, after a week of failed batches. And once from fumes, because somebody left the hood open. I still don't know who.
+    프리야: 14번 실험대. 흄 후드 옆. 알고 싶다면, 거기서 두 번 울었어요. 한 번은 화학 때문에, 일주일 내내 배치가 실패한 뒤에. 한 번은 연기 때문에, 누가 후드를 열어 놔서. 그게 누군지는 아직도 몰라요.
 
 05. ELENA: And the neighbours? The edible packaging people? The Friday snacks?
     엘레나: 그럼 이웃은요? 먹는 포장재 회사? 금요일 간식?
@@ -59,8 +59,8 @@
 14. ELENA: And in the corner. My handwriting. "Second, don't lose the napkin."
     엘레나: 그리고 모서리에. 내 글씨. "둘째, 냅킨을 잃어버리지 말 것."
 
-15. NOAH: One and a half million dollars. Four conditions. And my signature. It looks like a child signed it.
-    노아: 150만 달러. 조건 네 개. 그리고 내 서명. 애가 서명한 것 같네요.
+15. NOAH: One and a half million dollars. Four conditions. And my signature, which looks like a child signed it. I remember my hand was shaking, because I knew that if this didn't work, I'd lose Elaine's money and your careers at the same time.
+    노아: 150만 달러. 조건 네 개. 그리고 내 서명. 애가 서명한 것 같네요. 손이 떨렸던 게 기억나요. 이게 안 되면 일레인의 돈과 여러분의 경력을 한꺼번에 날린다는 걸 알았으니까요.
 
 ### 장면1 — 냅킨과 화이트보드
 
@@ -79,8 +79,8 @@
 20. NOAH: And we did. We broke it. FDA approved it. Four hundred people sell it. In four countries.
     노아: 그리고 해냈죠. 깼어요. FDA가 승인했고. 400명이 팔아요. 네 나라에서.
 
-21. ELENA: So the one thing is done. That's the problem, isn't it? We need a new one.
-    엘레나: 그러니까 그 한 가지는 끝났네요. 그게 문제죠? 새로운 게 필요해요.
+21. ELENA: So the one thing is done. We broke the trade-off, and now everybody wants to buy the result. That's the problem, isn't it? A company that has finished its one thing starts to drift, or gets sold. We need a new one.
+    엘레나: 그러니까 그 한 가지는 끝났네요. 트레이드오프를 깼고, 이제 다들 그 결과를 사고 싶어 하죠. 그게 문제죠? 자기 한 가지를 끝낸 회사는 표류하거나, 팔려요. 새로운 게 필요해요.
 
 22. MARCUS: Before that, the whiteboard. Rita still has one. Same place.
     마커스: 그 전에 화이트보드. 리타한테 아직 있어요. 같은 자리에.
@@ -145,7 +145,7 @@
 42. MARCUS: Denise and I still have a mortgage. Jamal got into Rice. Do you know what Rice costs?
     마커스: 데니스랑 난 아직 주택 대출이 있어요. 자말이 라이스 대학에 붙었어요. 라이스가 얼마인지 알아요?
 
-43. NOAH: Congratulations. I didn't know she got in.
+43. NOAH: Congratulations. I didn't know he got in.
     노아: 축하해요. 합격한 줄 몰랐어요.
 
 44. MARCUS: Last week. I didn't tell anyone. It felt wrong. In the middle of all this.
@@ -154,8 +154,8 @@
 45. ELENA: Marcus, that's the best news anyone's had in two weeks.
     엘레나: 마커스, 2주 동안 들은 소식 중 최고예요.
 
-46. MARCUS: But I'm not alone. That's the point. Four people built this. I won't sell my quarter of it for tuition.
-    마커스: 하지만 난 혼자가 아니에요. 그게 핵심이죠. 넷이서 이걸 만들었어요. 학비 때문에 내 4분의 1을 팔진 않을 거예요.
+46. MARCUS: But I'm not alone. That's the point. Four people built this, in this building, at that bench, with no money and one idea. I won't sell my quarter of it for tuition, and I won't ask the other three to sell theirs so I can.
+    마커스: 하지만 난 혼자가 아니에요. 그게 핵심이죠. 넷이서 이걸 만들었어요. 이 건물에서, 저 실험대에서, 돈도 없이 아이디어 하나로. 학비 때문에 내 4분의 1을 팔진 않을 거예요. 그리고 내가 팔 수 있게 나머지 셋한테 팔라고 하지도 않을 거고요.
 
 47. PRIYA: Your quarter. Even though your shares are only eighteen percent.
     프리야: 당신의 4분의 1. 지분은 18%밖에 안 되는데도.
@@ -189,8 +189,8 @@
 56. MARCUS: And if we don't sell?
     마커스: 그럼 안 팔면요?
 
-57. ELENA: Then I don't need it either. Because this company keeps its promises. I've stopped waiting for it not to.
-    엘레나: 그래도 필요 없어요. 이 회사는 약속을 지키니까요. 안 지킬 거라고 기다리는 걸 그만뒀어요.
+57. ELENA: Then I don't need it either, because this company keeps its promises. For two years, part of me kept that letter ready, just in case we broke one. We never did. So I've stopped waiting, and that's why I tore it up.
+    엘레나: 그래도 필요 없어요. 이 회사는 약속을 지키니까요. 2년 동안 내 일부는 혹시 우리가 약속을 하나라도 어길까 봐 그 편지를 준비해 뒀어요. 한 번도 어기지 않았죠. 그래서 기다리는 걸 그만뒀고, 그래서 찢었어요.
 
 58. NOAH: Elena. That's the nicest thing you've ever said to me.
     노아: 엘레나. 나한테 한 말 중 가장 다정하네요.
@@ -204,8 +204,8 @@
 61. NOAH: Take your time.
     노아: 천천히 해요.
 
-62. PRIYA: I love this company. But I don't love being CTO anymore. Budgets. Hiring. Board slides. I miss the bench.
-    프리야: 이 회사를 사랑해요. 하지만 CTO는 더 이상 사랑하지 않아요. 예산. 채용. 이사회 슬라이드. 실험대가 그리워요.
+62. PRIYA: I love this company. But I don't love being CTO anymore. My days are budgets, hiring and board slides, and the last time I ran an experiment myself, I had to ask a junior chemist where the pipettes were. I miss the bench.
+    프리야: 이 회사를 사랑해요. 하지만 CTO는 더 이상 사랑하지 않아요. 내 하루는 예산, 채용, 이사회 슬라이드고, 마지막으로 직접 실험했을 땐 신입 화학자한테 피펫이 어디 있냐고 물어야 했어요. 실험대가 그리워요.
 
 63. MARCUS: You want to leave?
     마커스: 떠나고 싶어요?
@@ -231,8 +231,8 @@
 70. ELENA: Go on.
     엘레나: 해요.
 
-71. NOAH: It wasn't the money. I was afraid you'd all want to sell. And I'd be the only one who didn't.
-    노아: 돈 때문이 아니었어요. 다들 팔고 싶어 할까 봐 무서웠어요. 그리고 나만 아닐까 봐.
+71. NOAH: It wasn't the money. The eighteen million never tempted me. I was afraid you'd all want to sell, and I'd be the only one who didn't. Then I'd have to choose between the company and the three people I built it with.
+    노아: 돈 때문이 아니었어요. 1,800만은 한 번도 유혹이 안 됐어요. 다들 팔고 싶어 하고 나만 아닐까 봐 무서웠어요. 그러면 회사와, 함께 회사를 만든 세 사람 중에서 골라야 하니까요.
 
 72. PRIYA: So you stayed silent. To protect us from your opinion.
     프리야: 그래서 침묵했군요. 당신 의견으로부터 우릴 보호하려고.
@@ -266,8 +266,8 @@
 81. MARCUS: Okay. New column. Who needs what. Not who wants what.
     마커스: 좋아요. 새 칸. 누가 무엇을 필요로 하나. 원하는 게 아니라.
 
-82. ELENA: Richard. His fund is in year nine. He doesn't need a sale. He needs liquidity. Cash for his investors.
-    엘레나: 리처드. 펀드가 9년 차예요. 매각이 필요한 게 아니에요. 유동성이 필요하죠. 출자자들을 위한 현금.
+82. ELENA: Richard. His fund is in year nine, and his investors are pensions and firefighters. He doesn't actually need a sale. He needs liquidity, cash he can return to his investors. A sale is just the only way he's seen to get it.
+    엘레나: 리처드. 펀드가 9년 차고, 출자자는 연금과 소방관들이에요. 사실 매각이 필요한 게 아니에요. 유동성이 필요하죠. 출자자들에게 돌려줄 수 있는 현금. 매각은 그가 아는 유일한 방법일 뿐이에요.
 
 83. PRIYA: So he sells some of his shares. Not the company. Just his shares.
     프리야: 그럼 자기 지분 일부를 팔면 되죠. 회사가 아니라. 자기 지분만.
@@ -287,8 +287,8 @@
 88. PRIYA: Next. The four hundred. They don't need Halvern. They need liquidity too.
     프리야: 다음. 400명. 할번이 필요한 게 아니에요. 그들도 유동성이 필요하죠.
 
-89. MARCUS: A tender offer. Employees sell part of their vested options. Same buyers. Same price.
-    마커스: 텐더 오퍼. 직원들이 기득 옵션 일부를 팔아요. 같은 매수자. 같은 가격.
+89. MARCUS: A tender offer. Employees sell part of their vested options, to the same buyers, at the same price as Richard. It's voluntary, so nobody is forced to sell, and nobody has to wait for an IPO to pay off a loan.
+    마커스: 텐더 오퍼. 직원들이 기득 옵션 일부를 팔아요. 같은 매수자에게, 리처드와 같은 가격으로. 자발적이니까 아무도 억지로 팔 필요 없고, 대출을 갚으려고 IPO를 기다릴 필요도 없어요.
 
 90. ELENA: How much?
     엘레나: 얼마나요?
@@ -308,8 +308,8 @@
 95. NOAH: And Mitsukawa's ringi. Same date. Two partners. On paper. Before the vote counts.
     노아: 그리고 미쓰카와 링기. 같은 날짜. 파트너 둘. 서면으로. 표가 세어지기 전에.
 
-96. MARCUS: That's not a defence. That's leverage. Tom's threat only works if we're alone in Asia.
-    마커스: 그건 방어가 아니라. 레버리지예요. 톰의 위협은 우리가 아시아에서 혼자일 때만 통해요.
+96. MARCUS: That's not a defence. That's leverage. Tom's threat only works if we're alone in Asia. If Daeyang and Mitsukawa are on paper with us, a price war in Korea becomes a fight against three companies, not one. That's a fight Tom can't sell to his board.
+    마커스: 그건 방어가 아니라 레버리지예요. 톰의 위협은 우리가 아시아에서 혼자일 때만 통해요. 대양과 미쓰카와가 서면으로 우리 편이면, 한국의 가격 전쟁은 한 회사가 아니라 세 회사와의 싸움이 돼요. 그건 톰이 자기 이사회에 납득시킬 수 없는 싸움이죠.
 
 97. ELENA: So. Say no to Halvern. Secondary for Richard. Tender offer for the four hundred. Partners in Asia by June thirtieth.
     엘레나: 그러니까. 할번엔 노. 리처드에겐 세컨더리. 400명에겐 텐더 오퍼. 6월 30일까지 아시아 파트너.
@@ -355,8 +355,8 @@
 110. MARCUS: Ji-woo's hands. Margaret's. Sarah's. Not a beautician in a kitchen.
      마커스: 지우의 손. 마거릿의. 사라의. 부엌의 미용사가 아니라.
 
-111. NOAH: The chemistry made us different. The hands make us impossible to copy.
-     노아: 화학이 우릴 다르게 만들었고. 손이 우릴 따라 할 수 없게 만들어요.
+111. NOAH: The chemistry made us different. Anyone with enough money and time can copy chemistry eventually. But they can't copy who we choose to sell to, because big companies can't afford to turn customers away. The hands make us impossible to copy.
+     노아: 화학이 우릴 다르게 만들었어요. 돈과 시간만 있으면 누구든 결국 화학은 따라 할 수 있어요. 하지만 우리가 누구에게 팔기로 하는지는 따라 할 수 없어요. 큰 회사들은 고객을 돌려보낼 여유가 없으니까요. 손이 우릴 따라 할 수 없게 만들어요.
 
 112. ELENA: Write it on the napkin. Next to my joke.
      엘레나: 냅킨에 써요. 내 농담 옆에.
@@ -376,8 +376,8 @@
 117. MARCUS: Sorry, Rita. Put it on my tab. I'll pay in edible spoons.
      마커스: 미안해요, 리타. 내 외상으로 달아 둬요. 먹는 숟가락으로 갚을게요.
 
-118. NOAH: Tomorrow. Diane at nine. Ms. Han at eight p.m., Seoul morning. Thursday is leverage day.
-     노아: 내일. 아침 9시 다이앤. 저녁 8시 한 상무, 서울은 아침. 목요일은 레버리지의 날이에요.
+118. NOAH: Tomorrow, Diane at nine, so the secondary and the tender offer are legally possible before Friday. Then Ms. Han at eight p.m., which is Seoul morning, to push the Daeyang term sheet. Thursday is leverage day. Friday is the board.
+     노아: 내일. 아침 9시 다이앤, 세컨더리와 텐더 오퍼가 금요일 전에 법적으로 가능하게. 그다음 저녁 8시, 서울은 아침인 시간에 한 상무, 대양 텀시트를 밀어붙이려고. 목요일은 레버리지의 날. 금요일은 이사회예요.
 
 119. ELENA: Noah. It's two a.m. Your rules.
      엘레나: 노아. 새벽 2시예요. 당신 규칙.
@@ -420,3 +420,18 @@
 
 > **Principles (whiteboard, Capital BioWorks):** ① First, do no harm. ② Inside, argue. Outside, one voice. ③ **Protect what's working. Fix what isn't. (confirmed, year 7)** ④ I'd rather find the problem than hide it. ⑤ Medicine and sales in the same room, from the start. *(Marcus, unofficial: "Two is one. One is none. Four is a company.")*
 > **The one thing, year seven:** *whose hands hold our syringe.*
+
+### ④ 긴 발화 분석
+
+> **82턴 ELENA:** "Richard. His fund is in year nine, and his investors are pensions and firefighters. He doesn't actually need a sale. He needs liquidity, cash he can return to his investors. A sale is just the only way he's seen to get it."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 대상·상황 | Richard. His fund is in year nine, and his investors are pensions and firefighters. | 이해관계자의 처지를 사실로 먼저 정리 |
+| ② 겉 요구 부정 | He doesn't actually need a sale. | 겉으로 드러난 요구(매각)를 분리 |
+| ③ 진짜 필요 | He needs liquidity, cash he can return to his investors. | 핵심 필요를 한 단어로 명명하고 바로 풀어 설명 |
+| ④ 재해석 | A sale is just the only way he's seen to get it. | 요구는 수단일 뿐임을 보여 대안의 여지를 엶 |
+
+**활용 패턴:** 상황 사실 → "He doesn't need A. He needs B." → A는 B를 얻는 한 가지 방법일 뿐
+**연결 표현:** doesn't actually need…(실제로는 ~가 필요하지 않다) · needs liquidity(유동성이 필요하다) · cash he can return to…(~에게 돌려줄 현금) · the only way he's seen to…(그가 아는 유일한 ~ 방법)
+**연습:** "인력 두 명 충원"을 요구하는 타 부서장의 진짜 필요를 같은 구조로 팀에 설명해 보기(35~40단어).

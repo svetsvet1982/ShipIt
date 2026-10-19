@@ -53,8 +53,8 @@
 12. AVA: Why "explore" before "respond"?
     에이바: 왜 "답하기" 전에 "탐색"이에요?
 
-13. TASHA: Because the first objection is rarely the real one. Ask a question first.
-    타샤: 첫 반론이 진짜 반론인 경우는 드물거든요. 먼저 질문을 해요.
+13. TASHA: Because the first objection is rarely the real one. A doctor who says "too expensive" may really mean "I'm worried." So ask a question first, then answer the real thing.
+    타샤: 첫 반론이 진짜 반론인 경우는 드물거든요. "너무 비싸요"라고 하는 의사는 사실 "걱정돼요"라는 뜻일 수도 있어요. 그러니 먼저 질문하고, 그다음 진짜 문제에 답해요.
 
 14. NOAH: Derek, you're first. Experience before courage.
     노아: 데릭, 먼저 해요. 용기보다 경험 먼저.
@@ -145,11 +145,11 @@
 42. DEREK: A fail? Three violations? Name them.
     데릭: 불합격이요? 위반 세 건? 말해 봐요.
 
-43. ELENA: One. "Doctors sleep better." That implies safer. Our label doesn't say that.
-    엘레나: 하나. "의사들이 잠을 잘 잔다." 더 안전하다는 암시예요. 라벨엔 그런 말 없어요.
+43. ELENA: One. "Doctors sleep better." That implies safer, and our label doesn't say that. You never used the word, but a doctor hears it anyway, and so would the FDA.
+    엘레나: 하나. "의사들이 잠을 잘 잔다." 더 안전하다는 암시인데, 라벨엔 그런 말이 없어요. 그 단어를 쓰진 않았지만 의사는 어차피 그렇게 듣고, FDA도 마찬가지일 거예요.
 
-44. TASHA: Two. You agreed it reduces necrosis. The label says the opposite.
-    타샤: 둘. 괴사를 줄인다는 데 동의했죠. 라벨은 정반대로 말해요.
+44. TASHA: Two. You agreed it reduces necrosis. The label says the opposite. It dissolves faster, yes, but nobody has shown fewer patients lose skin. You turned a lab number into a promise.
+    타샤: 둘. 괴사를 줄인다는 데 동의했죠. 라벨은 정반대로 말해요. 더 빨리 녹는 건 맞지만, 피부 괴사 환자가 줄었다는 건 아무도 보여 주지 않았어요. 실험실 숫자를 약속으로 바꿔 버린 거예요.
 
 45. DEREK: The opposite?
     데릭: 정반대라고요?
@@ -163,8 +163,8 @@
 48. ZOE: And four, the discount. You promised a price you can't give.
     조이: 그리고 넷, 할인. 줄 수 없는 가격을 약속했어요.
 
-49. DEREK: That's how the real world works. Every rep does this.
-    데릭: 현실 세계는 그렇게 돌아가요. 영업 사원은 다 그래요.
+49. DEREK: That's how the real world works. Every rep does this. Doctors expect a little wink, and if I don't give it, the Lumaderm rep will. You'll lose accounts on day one.
+    데릭: 현실 세계는 그렇게 돌아가요. 영업 사원은 다 그래요. 의사들은 약간의 윙크를 기대하고, 제가 안 하면 루마덤 영업 사원이 할 거예요. 첫날부터 거래처를 잃을 거예요.
 
 50. NOAH: Not here. Ava, you're up. Derek, let's talk after.
     노아: 여기선 아니에요. 에이바, 차례예요. 데릭, 끝나고 얘기해요.
@@ -189,8 +189,8 @@
 56. ELENA: …Two of them. Why?
     엘레나: …두 명이요. 왜요?
 
-57. AVA: Do they feel ready? If something goes wrong when you're not there?
-    에이바: 그분들은 준비됐다고 느끼실까요? 선생님이 안 계실 때 문제가 생기면요?
+57. AVA: Do they feel ready? If something goes wrong when you're not there? I worked a front desk for four years, and the nurses always told me what they never told the doctor.
+    에이바: 그분들은 준비됐다고 느끼실까요? 선생님이 안 계실 때 문제가 생기면요? 제가 4년 동안 프런트에서 일했는데, 간호사들은 의사에게 절대 안 하는 말을 늘 저한테 했거든요.
 
 58. ELENA: That's… actually a fair question.
     엘레나: 그건… 사실 정당한 질문이네요.
@@ -219,8 +219,8 @@
 66. ELENA: You're telling me your own limitation?
     엘레나: 당신 제품의 한계를 나한테 말하는 거예요?
 
-67. AVA: It's on page one. You'd read it anyway. I'd rather you hear it from me.
-    에이바: 첫 페이지에 있어요. 어차피 읽으실 거고요. 제게서 들으시는 게 나아요.
+67. AVA: It's on page one. You'd read it anyway. I'd rather you hear it from me, because if I hide one limitation, you won't trust anything else I say today.
+    에이바: 첫 페이지에 있어요. 어차피 읽으실 거고요. 제게서 들으시는 게 나아요. 제가 한계 하나를 숨기면, 오늘 제가 하는 다른 말도 전혀 믿지 않으실 테니까요.
 
 68. ZOE: Oh, that's good.
     조이: 오, 좋다.
@@ -240,10 +240,10 @@
 73. TASHA: Breathe. LAER.
     타샤: 숨 쉬어요. LAER.
 
-74. AVA: Sorry. You're right. It's forty-five dollars more per syringe. That's real money.
-    에이바: 죄송해요. 맞는 말씀이세요. 주사기당 45달러 더 비싸요. 큰돈이죠.
+74. AVA: Sorry. You're right to ask. It's forty-five dollars more per syringe. That's real money, and I won't pretend it isn't. With forty patients a week, it adds up.
+    에이바: 죄송해요. 물어보시는 게 당연해요. 주사기당 45달러 더 비싸요. 큰돈이죠. 아닌 척하지 않을게요. 일주일에 환자 40명이면, 금방 쌓여요.
 
-75. ELENA: It is.
+75. ELENA: It does.
     엘레나: 그렇죠.
 
 76. AVA: Can I ask what's included in your Lumaderm price today?
@@ -252,8 +252,8 @@
 77. ELENA: The syringe. That's it.
     엘레나: 주사기. 그게 다예요.
 
-78. AVA: Ours includes training for your nurses. And an emergency kit for the clinic.
-    에이바: 저희 건 간호사분들 교육이 포함돼요. 그리고 병원용 응급 키트도요.
+78. AVA: Ours includes training for your nurses, and an emergency kit for the clinic. So the extra forty-five dollars isn't just for the syringe. It's for the day you're not there.
+    에이바: 저희 건 간호사분들 교육과 병원용 응급 키트가 포함돼요. 그러니 추가 45달러는 주사기값만이 아니에요. 선생님이 안 계신 날을 위한 거예요.
 
 79. ELENA: …Hmm. Leave me the label. And a training date.
     엘레나: …흠. 라벨 두고 가요. 그리고 교육 날짜도.
@@ -275,8 +275,8 @@
 84. TASHA: Can I ask something? Where did you learn the smile?
     타샤: 하나 물어도 돼요? 그 미소는 어디서 배웠어요?
 
-85. DEREK: …Kessler. Eight years ago. My territory partner got fired.
-    데릭: …케슬러. 8년 전. 제 지역 파트너가 해고됐어요.
+85. DEREK: …Kessler. Eight years ago. My territory partner got fired. He was the best rep I knew, and he was gone in one afternoon. I was in the next office.
+    데릭: …케슬러. 8년 전. 제 지역 파트너가 해고됐어요. 제가 아는 최고의 영업 사원이었는데, 오후 한나절 만에 사라졌죠. 전 바로 옆 사무실에 있었어요.
 
 86. NOAH: For what?
     노아: 무슨 이유로요?
@@ -287,8 +287,8 @@
 88. TASHA: So you learned not to say it. Just to smile.
     타샤: 그래서 말하지 않는 법을 배웠군요. 그냥 웃는 법을.
 
-89. DEREK: The managers wanted the numbers. They just didn't want the email.
-    데릭: 관리자들은 숫자를 원했어요. 이메일은 원하지 않았을 뿐이죠.
+89. DEREK: The managers wanted the numbers. They just didn't want the email. So everyone learned the same lesson. Never write it, never say it, just smile and let the doctor decide.
+    데릭: 관리자들은 숫자를 원했어요. 이메일은 원하지 않았을 뿐이죠. 그래서 다들 같은 교훈을 배웠어요. 절대 쓰지 말고, 절대 말하지 말고, 그냥 웃고 의사가 결정하게 둬라.
 
 90. NOAH: That's not your fault. But it's your habit now.
     노아: 그건 당신 잘못이 아니에요. 하지만 이제 당신 습관이죠.
@@ -305,8 +305,8 @@
 94. DEREK: Why not?
     데릭: 왜요?
 
-95. NOAH: Our product's best feature is that we tell the truth. That's your edge.
-    노아: 우리 제품의 최고 특징은 우리가 진실을 말한다는 거예요. 그게 당신 무기예요.
+95. NOAH: Our product's best feature is that we tell the truth. Every other rep is winking. If you're the one who shows doctors the limitation first, they'll remember you. That's your edge.
+    노아: 우리 제품의 최고 특징은 우리가 진실을 말한다는 거예요. 다른 영업 사원들은 다 윙크하고 있어요. 의사들에게 한계를 먼저 보여 주는 사람이 당신이라면, 그들은 당신을 기억할 거예요. 그게 당신 무기예요.
 
 96. DEREK: Honesty as a sales strategy. That's new for me.
     데릭: 영업 전략으로서의 정직. 처음 보는 거네요.
@@ -323,8 +323,8 @@
 100. DEREK: Please.
      데릭: 그러세요.
 
-101. ELENA: Your opening was excellent. Your listening was real. You're close.
-     엘레나: 오프닝은 훌륭했어요. 경청도 진짜였고요. 거의 다 왔어요.
+101. ELENA: Your opening was excellent. Your listening was real. You asked what would make me happier, and you meant it. You're close. The problem is only what comes out after the question.
+     엘레나: 오프닝은 훌륭했어요. 경청도 진짜였고요. 뭐가 있으면 더 만족하겠냐고 물었고, 진심이었죠. 거의 다 왔어요. 문제는 질문 다음에 나오는 말뿐이에요.
 
 102. DEREK: Then teach me. Teach me to sell without the smile.
      데릭: 그럼 가르쳐 줘요. 미소 없이 파는 법을.
@@ -358,8 +358,8 @@
 111. ELENA: Stop. Did you just say "safer"?
      엘레나: 멈춰요. 방금 "더 안전하다"고 했어요?
 
-112. NOAH: …I did. Old habit. Halvern trained me for years.
-     노아: …했네요. 옛날 습관. 할번에서 몇 년이나 훈련받았거든요.
+112. NOAH: …I did. Old habit. Halvern trained me for years to say "safer" in every meeting. I wrote that word on a hundred slides. Apparently my mouth still remembers.
+     노아: …했네요. 옛날 습관. 할번에서 몇 년이나 회의마다 "더 안전하다"고 말하도록 훈련받았거든요. 그 단어를 슬라이드 백 장에 썼어요. 제 입이 아직 기억하나 봐요.
 
 113. DEREK: The CEO fails in ten seconds. I feel much better.
      데릭: CEO가 10초 만에 탈락. 기분이 훨씬 나아지네요.
@@ -417,3 +417,17 @@
 | **Result** | | **Fail → retake Wed** | **Pass** | **Fail → retake Wed** |
 
 > **Safe answer template:** *"We can't say [claim]. Here's what we measured: [data + n + method]. And here's the limitation: [label statement]."*
+
+### ④ 긴 발화 분석
+
+> **78턴 AVA:** "Ours includes training for your nurses, and an emergency kit for the clinic. So the extra forty-five dollars isn't just for the syringe. It's for the day you're not there."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 사실(포함 내역) | Ours includes training for your nurses, and an emergency kit for the clinic. | 76~77턴에서 탐색한 상대 상황(주사기만 포함)과 대비되는 구체적 가치 제시 |
+| ② 재해석(So) | So the extra forty-five dollars isn't just for the syringe. | 인정했던 가격 차이를 숨기지 않고 다시 꺼내 의미를 바꿈 |
+| ③ 감정 연결 | It's for the day you're not there. | 57턴에서 찾은 상대의 진짜 걱정(간호사 단독 시술)에 답을 연결 |
+
+**활용 패턴:** 포함된 가치(사실) → So + 가격 재해석 → 상대의 진짜 걱정에 연결 (LAER의 Respond)
+**연결 표현:** Ours includes…(저희 것에는 ~가 포함된다) · So…isn't just for…(그러니 ~만을 위한 게 아니다) · It's for the day…(~하는 날을 위한 것이다)
+**연습:** "경쟁사보다 비싸다"는 고객 반론에, 가격 차이를 인정한 뒤 같은 구조로 30단어 안팎으로 답해 보기.

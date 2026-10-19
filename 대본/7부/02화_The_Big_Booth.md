@@ -53,8 +53,8 @@
 12. HAEUN: "Gamsahamnida." It's a good start.
     하은: "감사합니다." 좋은 시작이에요.
 
-13. ZOE: Booth rules. Same as Paris. Smile. Scan every badge. Never criticise a competitor. Never promise a price.
-    조이: 부스 규칙. 파리랑 같아요. 웃기. 모든 배지 스캔. 경쟁사 비판 금지. 가격 약속 금지.
+13. ZOE: Booth rules, same as Paris. Smile at everyone, even when your feet hurt. Scan every badge, because a conversation without a scan is just a nice chat. Never criticise a competitor, and never promise a price, not even a small discount, because pricing gets decided later, not on the show floor.
+    조이: 부스 규칙, 파리랑 같아요. 발이 아파도 모두에게 웃기. 모든 배지 스캔하기. 스캔 없는 대화는 그냥 즐거운 수다니까요. 경쟁사 비판 금지, 가격 약속 금지. 작은 할인도 안 돼요. 가격은 나중에 정하는 거지, 전시장 바닥에서 정하는 게 아니니까요.
 
 14. ELENA: And one new rule. In Korea, offer your card with both hands. And receive theirs the same way.
     엘레나: 그리고 새 규칙 하나. 한국에선 명함을 두 손으로 건네요. 받을 때도 똑같이.
@@ -79,8 +79,8 @@
 20. ZOE: Twenty-eight seconds. Two benefits. One question. She's better than you were.
     조이: 28초. 혜택 두 개. 질문 하나. 당신보다 낫네요.
 
-21. NOAH: In year four, my first pitch was three minutes. About crosslinking. The doctor walked away.
-    노아: 4년 차에 내 첫 피치는 3분이었어요. 가교 결합에 대해서. 의사가 그냥 가 버렸죠.
+21. NOAH: In year four, my first pitch was three minutes long, all about crosslinking. I explained the chemistry, the molecules, everything I personally found exciting, and I never once asked what the doctor actually needed. Halfway through, he just walked away. Ha-eun stopped at twenty-eight seconds and let him talk.
+    노아: 4년 차에 내 첫 피치는 3분짜리였어요. 전부 가교 결합 얘기였죠. 화학, 분자, 내가 개인적으로 신났던 건 다 설명했는데, 의사가 실제로 뭘 필요로 하는지는 한 번도 묻지 않았어요. 중간쯤에 그 의사는 그냥 가 버렸죠. 하은 씨는 28초에서 멈추고 상대가 말하게 했어요.
 
 22. ZOE: I remember. I still use it in training. As a warning.
     조이: 기억해요. 아직도 교육에 써요. 경고용으로.
@@ -112,8 +112,8 @@
 31. PRIYA: Four minutes. Veyra's gone. The other one is still there. It usually takes about twelve.
     프리야: 4분. 베이라는 사라졌어요. 다른 건 아직 있어요. 보통 12분쯤 걸려요.
 
-32. CHOI: Eight minutes of difference. For a patient's nose, that's the difference between a scar and no scar.
-    최민준: 8분의 차이. 환자 코에는 그게 흉터가 남느냐 안 남느냐의 차이입니다.
+32. CHOI: Eight minutes of difference. That may not sound like much at a conference, but in a blocked vessel, the skin is running out of oxygen the whole time. For a patient's nose, those eight minutes can be the difference between a scar and no scar.
+    최민준: 8분의 차이. 학회장에선 별것 아니게 들릴 수도 있지만, 막힌 혈관에서는 그동안 내내 피부의 산소가 바닥나고 있습니다. 환자 코에는 그 8분이 흉터가 남느냐 안 남느냐의 차이가 될 수 있어요.
 
 33. NOAH: …
     노아: …
@@ -142,8 +142,8 @@
 41. NOAH: Zoe, can we put that on a poster?
     노아: 조이, 그거 포스터에 써도 돼요?
 
-42. ZOE: Not without Dr. Choi's consent. And Korean legal review. I learned my lesson in London.
-    조이: 최 원장님 동의 없이는 안 돼요. 그리고 한국 법무 검토. 런던에서 교훈을 얻었거든요.
+42. ZOE: Not without Dr. Choi's consent, in writing, and a Korean legal review. I learned my lesson in London. A great quote is worth nothing if it gets the whole campaign pulled, so this time we check first and print second, even if it means waiting a few weeks.
+    조이: 최 원장님의 서면 동의, 그리고 한국 법무 검토 없이는 안 돼요. 런던에서 교훈을 얻었거든요. 멋진 인용구도 캠페인 전체를 내리게 만들면 아무 가치가 없어요. 그러니 이번엔 몇 주를 기다리더라도 먼저 확인하고, 인쇄는 그다음이에요.
 
 43. GRACE: Korean medical advertising rules are strict. Even stricter than Germany for some claims.
     그레이스: 한국 의료 광고 규정은 엄격해요. 일부 주장은 독일보다 더 엄격하고요.
@@ -198,17 +198,17 @@
 59. NOAH: Then our whole message is a problem. We talk about complications constantly.
     노아: 그럼 우리 메시지 전체가 문제네요. 우린 합병증 얘기를 계속하잖아요.
 
-60. GRACE: Not a problem. A risk. Korean clinics want three things. A natural look. Fast recovery. And whatever's trending.
-    그레이스: 문제는 아니에요. 리스크죠. 한국 클리닉은 세 가지를 원해요. 자연스러운 모습. 빠른 회복. 그리고 유행하는 것.
+60. GRACE: Not a problem. A risk. Korean clinics want three things: a natural look, fast recovery, and whatever's trending this season. If our first message is about vascular occlusion, some doctors will hear that our product is dangerous, not that it's safer. So the order of the message matters as much as the message itself.
+    그레이스: 문제는 아니에요. 리스크죠. 한국 클리닉은 세 가지를 원해요. 자연스러운 모습, 빠른 회복, 그리고 이번 시즌에 유행하는 것. 우리 첫 메시지가 혈관 폐색이면, 어떤 의사들은 우리 제품이 더 안전하다는 게 아니라 위험하다는 뜻으로 들을 거예요. 그러니 메시지의 순서가 메시지 자체만큼 중요해요.
 
-61. NOAH: And safety?
-    노아: 그럼 안전은요?
+61. NOAH: So where does safety fit?
+    노아: 그럼 안전은 어디에 들어가죠?
 
 62. GRACE: Safety is assumed. Until it isn't. Then it's a scandal. Nobody wants to be the clinic in the news.
     그레이스: 안전은 당연하다고 여겨요. 아닐 때까지는요. 그때는 스캔들이 되죠. 아무도 뉴스에 나오는 클리닉이 되고 싶지 않아요.
 
-63. NOAH: So we don't lead with fear. We lead with confidence. "The filler that lets you sleep at night."
-    노아: 그러니까 두려움으로 시작하지 말고. 자신감으로 시작해야 하네요. "밤에 편히 잘 수 있게 해 주는 필러."
+63. NOAH: So we don't lead with fear. We lead with confidence, because a doctor who feels safe will try a new product, and a doctor who feels scared will just avoid the subject. Something like "The filler that lets you sleep at night." It's still about safety, but it sounds like a benefit.
+    노아: 그러니까 두려움으로 시작하지 말고 자신감으로 시작해야겠네요. 안심한 의사는 새 제품을 써 보지만, 겁먹은 의사는 그 주제 자체를 피하니까요. "밤에 편히 잘 수 있게 해 주는 필러" 같은 거요. 여전히 안전 얘기지만, 혜택처럼 들리잖아요.
 
 64. GRACE: Maybe. Let's test it. Not decide it. Remember London.
     그레이스: 어쩌면요. 테스트해 봐요. 결정하지 말고요. 런던을 기억해요.
@@ -275,8 +275,8 @@
 84. NOAH: James. He's very persuasive.
     노아: 제임스. 아주 설득력 있죠.
 
-85. HAN: Daeyang proposes a joint venture. Korea and China. Daeyang fifty-one percent. Veyra forty-nine.
-    한서연: 대양은 합작법인을 제안합니다. 한국과 중국. 대양 51%. 베이라 49%.
+85. HAN: Daeyang proposes a joint venture for Korea and China, with Daeyang at fifty-one percent and Veyra at forty-nine. We have the distribution, the regulatory experience and the relationships with clinics here, and you have the product and the safety system. Together, we would move faster than either company could alone.
+    한서연: 대양은 한국과 중국을 위한 합작법인을 제안합니다. 대양 51%, 베이라 49%로요. 저희에겐 이곳의 유통망, 인허가 경험, 클리닉과의 관계가 있고, 대표님 쪽엔 제품과 안전 시스템이 있죠. 함께하면 어느 회사 혼자보다도 빨리 움직일 수 있을 겁니다.
 
 86. PRIYA: And the products?
     프리야: 그럼 제품은요?
@@ -290,8 +290,8 @@
 89. HAN: I know. You mentioned it in Paris. While I was watching your training. You were very… enthusiastic.
     한서연: 알아요. 파리에서 말씀하셨죠. 제가 교육을 보고 있을 때. 아주… 열정적이셨어요.
 
-90. NOAH: Ms. Han, before we go further. Seorin Bio has a first-negotiation right for Asia. I won't break that.
-    노아: 한 상무님, 더 나아가기 전에. 서린바이오에 아시아 우선 협상권이 있습니다. 그건 깨지 않을 겁니다.
+90. NOAH: Ms. Han, before we go further, I need to be clear about one thing. Seorin Bio has a first-negotiation right for Asia, in writing, and Mr. Park trusted us when we were very small. I won't break that, not for any deal, so whatever we discuss has to respect it.
+    노아: 한 상무님, 더 나아가기 전에 한 가지는 분명히 해야겠습니다. 서린바이오에는 서면으로 된 아시아 우선 협상권이 있고, 박 대표님은 저희가 아주 작았을 때 저희를 믿어 주셨어요. 어떤 거래를 위해서도 그건 깨지 않을 겁니다. 그러니 무엇을 논의하든 그 점을 존중해야 합니다.
 
 91. HAN: I know that too. And I agree. Daeyang makes good syringes. Seorin makes better filler. Seorin should be inside this.
     한서연: 그것도 압니다. 그리고 동의합니다. 대양은 좋은 주사기를 만들어요. 서린은 더 좋은 필러를 만들고요. 서린이 이 안에 들어와야 합니다.
@@ -314,8 +314,8 @@
 97. HAN: Mr. Brennan knows many things. But not everything. I'd prefer to keep it that way. For now.
     한서연: 브레넌 씨는 많은 걸 알죠. 하지만 전부는 아니에요. 당분간은 그렇게 두고 싶습니다.
 
-98. PRIYA: Fifty-one, forty-nine. Who controls quality? Who controls safety?
-    프리야: 51 대 49. 품질은 누가 통제하죠? 안전은요?
+98. PRIYA: Fifty-one, forty-nine. Let me ask the question that matters most to me. Who controls quality, and who controls safety? If a batch fails or a patient is harmed, someone needs the final word, and I need to know it won't simply go to whoever owns two more percent.
+    프리야: 51 대 49. 저한테 가장 중요한 질문을 할게요. 품질은 누가 통제하고, 안전은 누가 통제하죠? 배치가 불합격하거나 환자가 피해를 입으면 누군가는 최종 결정권을 가져야 하는데, 그게 그냥 2% 더 가진 쪽에 가는 건 아니라는 걸 알아야겠어요.
 
 99. HAN: Those are the right questions. They need more than one morning. And more than this room.
     한서연: 바른 질문들입니다. 아침 한나절로는 부족하죠. 이 방으로도 부족하고요.
@@ -329,8 +329,8 @@
 102. NOAH: You'd be offended if I came to you first?
      노아: 상무님께 먼저 오면 서운하시다고요?
 
-103. HAN: A partner who breaks one promise will break another. You kept yours. That's why I'm here.
-     한서연: 약속 하나를 깨는 파트너는 다른 것도 깹니다. 대표님은 지키셨죠. 그래서 제가 여기 온 겁니다.
+103. HAN: A partner who breaks one promise will break another. I've seen that happen in this industry more than once. You called Mr. Park before anyone else, and today you refused to go around him. You kept your promise. That's why I'm here.
+     한서연: 약속 하나를 깨는 파트너는 다른 것도 깹니다. 이 업계에서 그런 걸 한 번 이상 봤어요. 대표님은 누구보다 먼저 박 대표님께 전화하셨고, 오늘도 그분을 건너뛰길 거절하셨죠. 약속을 지키신 거예요. 그래서 제가 여기 온 겁니다.
 
 104. GRACE: Ms. Han offers her card. Both hands, Noah.
      그레이스: 한 상무님이 명함을 주세요. 두 손으로, 노아.
@@ -343,8 +343,8 @@
 106. ELENA: Fifty-one, forty-nine. We'd be the minority. In our own product.
      엘레나: 51 대 49. 우리가 소수가 되는 거예요. 우리 제품에서.
 
-107. PRIYA: But a toxin. And a skin booster. With FlexLink. That's the company I imagined in year two.
-     프리야: 하지만 톡신. 그리고 스킨부스터. FlexLink로. 그게 내가 2년 차에 상상한 회사예요.
+107. PRIYA: But a toxin. And a skin booster with FlexLink. That's the company I imagined in year two, when it was only a notebook and a lot of late nights. I know forty-nine percent sounds small, but if the science is ours and the safety rules are ours, I can live with being the minority.
+     프리야: 하지만 톡신. 그리고 FlexLink 스킨부스터. 그게 내가 2년 차에 상상한 회사예요. 노트 한 권이랑 수많은 밤샘뿐이던 때요. 49%가 작게 들리는 건 알아요. 하지만 과학이 우리 거고 안전 규칙이 우리 거라면, 소수 지분이어도 괜찮아요.
 
 108. NOAH: Ownership is negotiable. Safety isn't. That's where we start.
      노아: 지분은 협상 가능해요. 안전은 아니고. 거기서 시작하죠.
@@ -352,8 +352,8 @@
 109. GRACE: And Ms. Han said "history" with Mr. Park. In Korean business, that word is heavy.
      그레이스: 그리고 한 상무님이 박 대표님과 "사연"이 있다고 했어요. 한국 비즈니스에서 그 단어는 무거워요.
 
-110. NOAH: Halvern left Seorin for Daeyang. Five years ago. With a one-line email.
-     노아: 할번이 서린을 버리고 대양으로 갔어요. 5년 전에. 한 줄짜리 이메일로.
+110. NOAH: Halvern left Seorin for Daeyang five years ago, with a one-line email. I don't think Mr. Park has ever forgotten it. Daeyang is the company that took that business from him, which means asking him to sit at the same table as Ms. Han is asking a lot.
+     노아: 할번이 5년 전에 한 줄짜리 이메일로 서린을 버리고 대양으로 갔어요. 박 대표님은 그걸 한 번도 잊지 않으셨을 거예요. 대양은 그 사업을 그분에게서 가져간 회사니까, 한 상무님과 같은 테이블에 앉아 달라고 하는 건 큰 부탁이에요.
 
 111. GRACE: Then Mr. Park and Ms. Han were on opposite sides. Now she wants him inside. That's not small.
      그레이스: 그럼 박 대표님과 한 상무님은 반대편에 있었던 거네요. 이제 그분을 안으로 들이고 싶어 하고. 작은 일이 아니에요.
@@ -421,3 +421,18 @@
 
 > **Daeyang proposal (Han Seo-yeon) — first meeting, nothing promised:**
 > JV for **Korea + China** · Daeyang **51%** / Veyra **49%** · Veyra Fill for Asia → co-development: **Daeyang botulinum toxin (approved in Korea)** + **FlexLink skin booster** · **Seorin as manufacturing base** · Halvern = "our customer, not our partner" (supply contract ends next year) · Open: **quality & safety control** · Next: **Ochang → Daeyang HQ with lawyers.**
+
+### ④ 긴 발화 분석
+
+> **60턴 GRACE:** "Not a problem. A risk. Korean clinics want three things: a natural look, fast recovery, and whatever's trending this season. If our first message is about vascular occlusion, some doctors will hear that our product is dangerous, not that it's safer. So the order of the message matters as much as the message itself."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 재정의(용어 교정) | Not a problem. A risk. | 상대의 과장된 표현을 정확한 단어로 바로잡음 |
+| ② 현지 분석(목록) | Korean clinics want three things: a natural look, fast recovery, and whatever's trending this season. | 고객이 원하는 것을 세 가지로 정리 |
+| ③ 리스크 시나리오(조건) | If our first message is about vascular occlusion, some doctors will hear that our product is dangerous, not that it's safer. | "If A, they'll hear B, not C"로 오해 가능성을 구체화 |
+| ④ 결론(원칙) | So the order of the message matters as much as the message itself. | 분석에서 실행 원칙을 한 문장으로 도출 |
+
+**활용 패턴:** 용어 교정 → 고객 니즈 3가지 → 잘못 전달될 때의 결과 → So + 원칙
+**연결 표현:** Not A. B.(A가 아니라 B) · will hear that…, not that…(~가 아니라 ~로 받아들일 것이다) · as much as(~만큼)
+**연습:** 해외 시장에 기존 광고 문구를 그대로 쓰자는 동료에게, 현지 고객 니즈를 근거로 같은 구조로 40~50단어로 말해 보기.

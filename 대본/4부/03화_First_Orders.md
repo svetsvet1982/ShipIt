@@ -23,8 +23,8 @@
 02. NOAH: Zero? My forecast says two orders a day per rep.
     노아: 0이요? 내 예측엔 영업 사원당 하루 두 건인데.
 
-03. DEREK: That's why you're in my car. Forecasts are made in offices.
-    데릭: 그래서 당신이 내 차에 탄 거예요. 예측은 사무실에서 만들어지죠.
+03. DEREK: That's exactly why you're in my car. Forecasts are made in offices, but orders are made in waiting rooms, and most first visits end with no order at all.
+    데릭: 바로 그래서 당신이 내 차에 탄 거예요. 예측은 사무실에서 만들어지지만, 주문은 대기실에서 만들어져요. 그리고 첫 방문은 대부분 주문 없이 끝나요.
 
 04. NOAH: Fine. What are the rules?
     노아: 좋아요. 규칙은요?
@@ -35,8 +35,8 @@
 06. NOAH: Even if the doctor is right there?
     노아: 의사가 바로 거기 있어도요?
 
-07. DEREK: Especially then. Go around Brenda once, and you're dead forever.
-    데릭: 특히 그럴 때요. 브렌다를 한 번 건너뛰면 영원히 끝이에요.
+07. DEREK: Especially then. The front desk controls the calendar, the phone, and the doctor's mood. Go around Brenda once, and she remembers it forever. And so does every Brenda she knows.
+    데릭: 특히 그럴 때요. 프런트가 일정, 전화, 의사 기분까지 쥐고 있어요. 브렌다를 한 번 건너뛰면, 그녀는 그걸 영원히 기억해요. 그녀가 아는 모든 브렌다도요.
 
 08. NOAH: Who's Brenda?
     노아: 브렌다가 누구예요?
@@ -106,8 +106,8 @@
 29. NOAH: That's it? We didn't even mention our product.
     노아: 그게 다예요? 우리 제품은 말도 안 했잖아요.
 
-30. DEREK: Next step: Brenda knows my face. And she owes me one. That's a good visit.
-    데릭: 다음 단계: 브렌다가 내 얼굴을 알아요. 그리고 내게 신세를 졌죠. 좋은 방문이에요.
+30. DEREK: Next step done. Brenda knows my face now, and she owes me one for the cache trick. When I come back with a product, she'll open the door. That's a good visit.
+    데릭: 다음 단계 완료. 이제 브렌다가 내 얼굴을 알고, 캐시 요령 덕에 내게 신세를 졌죠. 제품을 들고 다시 오면 문을 열어 줄 거예요. 그게 좋은 방문이에요.
 
 31. NOAH: Visit two?
     노아: 방문 2는요?
@@ -136,14 +136,14 @@
 39. DEREK: Dr. Haddad, what's holding you back? Honestly?
     데릭: 하다드 선생님, 뭐가 망설여지세요? 솔직하게요?
 
-40. HADDAD: Two things. My staff knows Lumaderm. Retraining costs me a day.
-    하다드: 두 가지요. 우리 직원들은 루마덤을 알아요. 재교육하면 하루를 날려요.
+40. HADDAD: Two things. First, my staff knows Lumaderm, and they're comfortable with it. If I switch, I have to retrain everyone, and retraining costs me a full day of patients.
+    하다드: 두 가지요. 첫째, 우리 직원들은 루마덤을 알고 익숙해요. 바꾸면 전원을 재교육해야 하고, 재교육하면 환자 보는 하루를 통째로 날려요.
 
 41. DEREK: And the second?
     데릭: 그리고 두 번째는요?
 
-42. HADDAD: Patients ask for Lumaderm by name. Halvern spends millions on TV.
-    하다드: 환자들이 루마덤을 이름으로 찾아요. 할번은 TV에 수백만 달러를 쓰죠.
+42. HADDAD: Second, patients ask for Lumaderm by name. Halvern spends millions on TV, so they walk in already sold. I'd have to explain your product in every single consultation.
+    하다드: 둘째, 환자들이 루마덤을 이름으로 찾아요. 할번이 TV에 수백만 달러를 쓰니까, 이미 마음을 정하고 들어오죠. 상담할 때마다 당신네 제품을 설명해야 할 거예요.
 
 43. DEREK: So the question is cost of switching. And patient demand.
     데릭: 그러니까 문제는 교체 비용. 그리고 환자 수요네요.
@@ -166,8 +166,8 @@
 49. NOAH: I started pitching. In the middle. Sorry.
     노아: 중간에 피칭을 시작했네요. 미안해요.
 
-50. DEREK: You did. And he told us the real problem anyway. Write it down.
-    데릭: 그랬죠. 그래도 진짜 문제를 말해 줬어요. 적어 둬요.
+50. DEREK: You did, and you lost him for a moment. But I asked about his obstacles, and he told us the real problem anyway. Write it down before you forget it.
+    데릭: 그랬죠. 잠깐 그 사람을 놓쳤어요. 그래도 제가 장애물을 물었고, 결국 진짜 문제를 말해 줬어요. 잊기 전에 적어 둬요.
 
 ### 장면2 — 방문 4: 옛 거래처
 
@@ -186,11 +186,11 @@
 55. WADE: Then tell her she was a good witness. Derek, sit. What do you want?
     웨이드: 그럼 좋은 증인이었다고 전해 줘요. 데릭, 앉아요. 원하는 게 뭐예요?
 
-56. DEREK: Ten years ago, you switched to Kessler. For me.
-    데릭: 10년 전에 케슬러로 바꾸셨죠. 저 때문에.
+56. DEREK: Ten years ago, you switched to Kessler, and you did it because of me. I came every Tuesday for nine months before you said yes. I haven't forgotten that.
+    데릭: 10년 전에 케슬러로 바꾸셨죠. 저 때문에요. 승낙하시기 전까지 9개월 동안 매주 화요일 찾아왔었죠. 그거 잊지 않았어요.
 
-57. WADE: Nine months of Tuesdays. I remember the coffee.
-    웨이드: 9개월의 화요일. 커피 기억나요.
+57. WADE: And I remember the coffee. It was terrible.
+    웨이드: 그리고 커피 기억나요. 끔찍했죠.
 
 58. DEREK: I'm not asking you to switch. I'm asking you to try.
     데릭: 바꾸라는 게 아니에요. 써 보시라는 거예요.
@@ -204,14 +204,14 @@
 61. WADE: Ten. That's nothing. Why so small?
     웨이드: 10개. 그건 아무것도 아니잖아요. 왜 그렇게 적어요?
 
-62. DEREK: So you can judge it. Not trust me. Judge it.
-    데릭: 판단하실 수 있게요. 절 믿는 게 아니라. 판단하시라고요.
+62. DEREK: So you can judge it yourself. Ten syringes, two doctors, real patients. I don't want you to trust me because of the old days. I want you to judge the product.
+    데릭: 직접 판단하실 수 있게요. 주사기 10개, 의사 두 분, 실제 환자. 옛날 정 때문에 절 믿으시길 바라지 않아요. 제품을 판단해 주시길 바라요.
 
 63. WADE: And the price? For an old friend?
     웨이드: 가격은요? 오랜 친구한테?
 
-64. DEREK: Same as everyone. Three ninety-five. I can't do better. Nobody can.
-    데릭: 모두와 같아요. 395. 더 해 드릴 수 없어요. 아무도 못 해요.
+64. DEREK: Same as everyone, three ninety-five. I can't do better, and nobody at Veyra can. If I gave you a secret discount, I'd have to lie to the next clinic.
+    데릭: 모두와 같아요. 395. 더 해 드릴 수 없고, 베이라의 누구도 못 해요. 비밀 할인을 해 드리면, 다음 병원에 거짓말을 해야 하니까요.
 
 65. WADE: No wink? No "let me talk to my manager"?
     웨이드: 윙크 없어요? "매니저랑 얘기해 볼게요"도 없고?
@@ -290,8 +290,8 @@
 89. DEREK: Keisha, have you taken our certification course?
     데릭: 키샤, 저희 인증 과정을 들으셨어요?
 
-90. KEISHA: Not yet. But I've injected for eight years. I'm good.
-    키샤: 아직이요. 하지만 8년 시술했어요. 잘해요.
+90. KEISHA: Not yet. But I've injected for eight years, and I've never had a serious problem. I read your card twice already. Honestly, I think I'm good.
+    키샤: 아직이요. 하지만 8년 동안 시술했고, 심각한 문제는 한 번도 없었어요. 카드도 벌써 두 번 읽었어요. 솔직히 전 괜찮다고 생각해요.
 
 91. NOAH: Derek…
     노아: 데릭…
@@ -302,8 +302,8 @@
 93. KEISHA: You're refusing four thousand dollars?
     키샤: 4,000달러를 거절하는 거예요?
 
-94. DEREK: Today, yes. Training first. Every customer. Our CEO included.
-    데릭: 오늘은요. 교육 먼저. 모든 고객. 우리 CEO까지 포함해서.
+94. DEREK: Today, yes. Training comes first for every customer, our CEO included. It's not about your skill. It's about making sure everyone in your clinic knows the same emergency steps.
+    데릭: 오늘은요. 교육은 모든 고객에게 먼저예요. 우리 CEO까지 포함해서요. 당신 실력 문제가 아니에요. 클리닉의 모든 사람이 같은 응급 단계를 알게 하려는 거예요.
 
 95. NOAH: It's true. I failed the first time.
     노아: 사실이에요. 전 처음에 떨어졌어요.
@@ -326,8 +326,8 @@
 101. DEREK: Tuesday afternoon. Same price. Same ten syringes. Plus two emergency kits.
      데릭: 화요일 오후. 같은 가격. 같은 주사기 10개. 거기에 응급 키트 두 개.
 
-102. KEISHA: You know what? That makes me trust you more. Not less.
-     키샤: 그거 알아요? 그래서 오히려 더 믿음이 가요. 덜이 아니라.
+102. KEISHA: You know what? That makes me trust you more, not less. Most reps would happily take my money today, and then I'd never see them in this clinic again.
+     키샤: 그거 알아요? 그래서 오히려 더 믿음이 가요. 덜이 아니라. 대부분의 영업 사원은 오늘 기꺼이 제 돈을 받고, 그 뒤로 이 클리닉에서 다신 볼 수 없었을 거예요.
 
 103. NOAH: That's… exactly what we hoped.
      노아: 그게… 바로 저희가 바란 거예요.
@@ -349,8 +349,8 @@
 108. NOAH: You said no to four thousand dollars. I almost said yes.
      노아: 4,000달러를 거절했잖아요. 난 거의 받을 뻔했어요.
 
-109. DEREK: I know. I saw your face. Old Derek would have taken it.
-     데릭: 알아요. 얼굴 봤어요. 예전 데릭이었으면 받았을 거예요.
+109. DEREK: I know. I saw your face. Old Derek would have taken it, called it a win, and worried about training later. That's how I hit my numbers at Kessler for years.
+     데릭: 알아요. 얼굴 봤어요. 예전 데릭이었으면 받고, 승리라고 부르고, 교육 걱정은 나중에 했을 거예요. 케슬러에서 몇 년 동안 그렇게 실적을 맞췄죠.
 
 110. NOAH: What changed?
      노아: 뭐가 바뀐 거예요?
@@ -370,8 +370,8 @@
 115. NOAH: Reordered? They got their first box last week!
      노아: 재주문? 첫 상자를 지난주에 받았잖아요!
 
-116. AVA: Twenty syringes. She said patients loved it. And the nurses feel ready.
-     에이바: 주사기 20개. 환자들이 아주 좋아했대요. 그리고 간호사들이 준비됐다고 느낀대요.
+116. AVA: Twenty syringes. Dr. Nguyen said her patients loved the results, and the nurses feel ready because of the training. She didn't even ask about a discount. She just reordered.
+     에이바: 주사기 20개요. 응우옌 선생님 말로는 환자들이 결과를 아주 좋아했고, 교육 덕분에 간호사들도 준비됐다고 느낀대요. 할인 얘기도 안 했어요. 그냥 재주문했어요.
 
 117. DEREK: A reorder. That's the only number that matters.
      데릭: 재주문. 그게 유일하게 중요한 숫자예요.
@@ -416,3 +416,17 @@
 | Dallas Dermatology Group | Dr. Susan Wade | Wants to judge, not trust | **Trial order 10 syringes** after training (next Thu); **workshop venue offered** |
 | Keisha Grant Aesthetics | Keisha Grant, NP | Not certified, wants to buy today | **Declined sale** → training Tue 9am in clinic → order Tue pm |
 | (Austin) Lakeway Skin | Dr. Nguyen (via Ava) | — | **First reorder: 20 syringes** |
+
+### ④ 긴 발화 분석
+
+> **94턴 DEREK:** "Today, yes. Training comes first for every customer, our CEO included. It's not about your skill. It's about making sure everyone in your clinic knows the same emergency steps."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 결론(짧은 인정) | Today, yes. | 거절을 돌려 말하지 않고 먼저 분명히 |
+| ② 원칙(예외 없음) | Training comes first for every customer, our CEO included. | 개인이 아닌 규칙 때문임을, CEO까지 예로 들어 공정하게 |
+| ③ 체면 지켜 주기 + 진짜 이유 | It's not about your skill. It's about making sure everyone in your clinic knows the same emergency steps. | "A가 아니라 B"로 상대 실력을 존중하고 목적을 설명 |
+
+**활용 패턴:** 짧은 결론 → 예외 없는 원칙 → "It's not about A. It's about B."
+**연결 표현:** comes first(우선이다) · ~ included(~도 포함해서) · It's not about… It's about…(~ 문제가 아니라 ~ 문제다)
+**연습:** 계약서 없이 작업을 시작해 달라는 오랜 고객에게 같은 구조로 30단어 안팎으로 거절해 보기.

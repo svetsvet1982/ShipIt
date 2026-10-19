@@ -44,8 +44,8 @@
 09. PRIYA: Who decides in the end?
     프리야: 최종 결정은 누가 해요?
 
-10. NOAH: I do. But only after everyone argues. Inside, argue.
-    노아: 제가요. 하지만 모두가 논쟁한 뒤에요. 안에선 논쟁.
+10. NOAH: I do. But only after everyone argues. Inside, argue. If you think I'm wrong, say it in this room today, not in the hallway next week.
+    노아: 제가요. 하지만 모두가 논쟁한 뒤에요. 안에선 논쟁. 제가 틀렸다고 생각하면, 다음 주 복도에서 말고 오늘 이 방에서 말해요.
 
 11. ELAINE: Outside, one voice. I remember. Go ahead.
     일레인: 밖에선 한목소리. 기억해요. 시작해요.
@@ -82,8 +82,8 @@
 21. ELAINE: No two percent penalty. Good. Runway?
     일레인: 2% 페널티 없음. 좋아요. 런웨이는요?
 
-22. MARCUS: Fourteen months without revenue. Longer with it. Depends on today's decisions.
-    마커스: 매출 없이 14개월. 매출 있으면 더 길고. 오늘 결정에 달렸어요.
+22. MARCUS: Fourteen months without revenue. Longer with it. But it depends on today's decisions, because every dollar we spend on stock or a booth comes straight out of that runway.
+    마커스: 매출 없이 14개월. 매출 있으면 더 길고. 하지만 오늘 결정에 달렸어요. 재고나 부스에 쓰는 1달러 1달러가 전부 그 런웨이에서 바로 빠져나가니까요.
 
 23. NOAH: Training. Tasha.
     노아: 교육. 타샤.
@@ -94,8 +94,8 @@
 25. ELAINE: Thirty clinics. Is that enough?
     일레인: 30개 병원. 충분해요?
 
-26. TASHA: For month one, yes. We can train eight clinics a week after that.
-    타샤: 첫 달엔 충분해요. 그 후엔 주당 8개 병원 교육 가능해요.
+26. TASHA: For month one, yes. After that, we can train eight clinics a week. The real limit isn't us. It's how fast clinics can free a full day for their staff.
+    타샤: 첫 달엔 충분해요. 그 후엔 주당 8개 병원을 교육할 수 있어요. 진짜 한계는 우리가 아니에요. 병원들이 직원들을 위해 하루를 통째로 얼마나 빨리 비울 수 있느냐죠.
 
 27. NOAH: Sales. I'll report that one. Yellow.
     노아: 영업. 그건 제가 보고하죠. 노랑.
@@ -124,8 +124,8 @@
 35. ELAINE: Then why yellow?
     일레인: 그럼 왜 노랑이에요?
 
-36. ZOE: The AAD booth. I asked for a thirty-by-thirty. Four hundred thousand dollars.
-    조이: AAD 부스요. 30x30을 요청했어요. 40만 달러.
+36. ZOE: The AAD booth. I asked for a thirty-by-thirty. Four hundred thousand dollars. It's the biggest stage of the year, and it's where every dermatologist decides which names to remember.
+    조이: AAD 부스요. 30x30을 요청했어요. 40만 달러. 1년 중 가장 큰 무대고, 모든 피부과 의사가 어떤 이름을 기억할지 정하는 곳이에요.
 
 37. MARCUS: And I said no. That's why it's yellow.
     마커스: 그리고 내가 안 된다고 했지. 그래서 노랑이야.
@@ -157,8 +157,8 @@
 46. GRACE: First-year forecast, sixty thousand syringes. Six months is thirty thousand.
     그레이스: 첫해 예측 6만 개. 6개월이면 3만 개.
 
-47. MARCUS: At thirty-four dollars each. About a million dollars. Sitting in a warehouse.
-    마커스: 개당 34달러. 약 100만 달러. 창고에 앉아 있는 돈.
+47. MARCUS: At thirty-four dollars each, that's about a million dollars. Sitting in a warehouse. I know it looks like dead money, but it's insurance. You don't judge insurance until the fire.
+    마커스: 개당 34달러면, 약 100만 달러예요. 창고에 앉아 있는 돈이죠. 죽은 돈처럼 보이는 거 알아요. 하지만 그건 보험이에요. 보험은 불이 나기 전까진 평가하지 않는 거예요.
 
 48. ZOE: A million dollars of syringes. Or a booth that brings customers.
     조이: 주사기 100만 달러어치. 아니면 고객을 데려오는 부스.
@@ -180,14 +180,14 @@
 53. MARCUS: What if Meridian has a fire? A flood? A recall?
     마커스: 메리디안에 불이 나면? 홍수가 나면? 리콜이 나면?
 
-54. ZOE: What if Halvern's booth is ten times bigger and we're invisible?
-    조이: 할번 부스가 열 배 크고 우리가 안 보이면요?
+54. ZOE: What if Halvern's booth is ten times bigger and we're invisible? Doctors walk past us, nobody tries the product, and your million dollars of syringes expires in a warehouse.
+    조이: 할번 부스가 열 배 크고 우리가 안 보이면요? 의사들은 우리 앞을 그냥 지나가고, 아무도 제품을 써 보지 않고, 마커스의 100만 달러어치 주사기는 창고에서 만료되는 거예요.
 
 55. NOAH: Both are real risks. Which one hurts patients?
     노아: 둘 다 진짜 리스크예요. 어느 쪽이 환자를 다치게 해요?
 
-56. ELENA: A stockout. Doctors who start with us need us. Mid-treatment.
-    엘레나: 품절. 우리 걸로 시작한 의사들은 우리가 필요해요. 치료 도중에.
+56. ELENA: A stockout. Doctors who start with us need us, sometimes in the middle of a treatment plan. If they have to switch products halfway, the patient pays for our mistake.
+    엘레나: 품절이요. 우리 걸로 시작한 의사들은 우리가 필요해요. 치료 계획 도중일 때도 있고요. 중간에 제품을 바꿔야 하면, 우리 실수의 대가를 환자가 치르는 거예요.
 
 57. TASHA: And clinics with our kits. If we disappear, trust disappears too.
     타샤: 그리고 우리 키트가 있는 병원들. 우리가 사라지면 신뢰도 사라져요.
@@ -222,8 +222,8 @@
 67. NOAH: Can a twenty-by-twenty work? Honestly?
     노아: 20x20으로 될까요? 솔직히?
 
-68. ZOE: If it's smart. Live demos. A training station. Fewer couches.
-    조이: 영리하게 하면요. 라이브 데모. 교육 스테이션. 소파는 줄이고.
+68. ZOE: If it's smart. Live demos, a training station, fewer couches. Big booths are about sitting and drinking. Ours will be about doing something with your hands.
+    조이: 영리하게 하면요. 라이브 데모, 교육 스테이션, 소파는 줄이고. 큰 부스들은 앉아서 마시는 곳이죠. 우리 부스는 손으로 뭔가를 해 보는 곳이 될 거예요.
 
 69. TASHA: I can run mini-drills at the booth. The First Ten Seconds. Ten minutes each.
     타샤: 부스에서 미니 훈련을 할 수 있어요. 처음 10초. 회당 10분.
@@ -240,8 +240,8 @@
 73. ELAINE: Marcus, may I ask? What's the one thing that makes four safe?
     일레인: 마커스, 물어도 될까요? 4개월을 안전하게 만드는 한 가지는 뭐예요?
 
-74. MARCUS: Two warehouses. Not one. Austin and Dallas.
-    마커스: 창고 둘. 하나 말고. 오스틴과 댈러스.
+74. MARCUS: Two warehouses. Not one. Austin and Dallas. Same stock, split in half, so if one building has a problem, we still have two months of product in the other.
+    마커스: 창고 둘. 하나 말고. 오스틴과 댈러스. 같은 재고를 반으로 나눠서, 한 건물에 문제가 생겨도 다른 쪽에 두 달치 제품이 남아 있게.
 
 75. GRACE: So one flood doesn't take everything.
     그레이스: 그래서 홍수 한 번에 다 잃지 않게.
@@ -278,8 +278,8 @@
 85. ELAINE: Inside the spec. So it's fine?
     일레인: 규격 안. 그럼 괜찮은 거예요?
 
-86. LEO: Today, yes. But three points going up is a trend. Not noise.
-    레오: 오늘은요. 하지만 세 점이 올라가면 추세예요. 잡음이 아니라.
+86. LEO: Today, yes. But three points going up is a trend, not noise. If it keeps climbing at this rate, we'd want to know why long before it touches the limit.
+    레오: 오늘은요. 하지만 세 점이 올라가면 잡음이 아니라 추세예요. 이 속도로 계속 오르면, 한계치에 닿기 훨씬 전에 이유를 알고 싶어질 거예요.
 
 87. GRACE: How much higher?
     그레이스: 얼마나 높아요?
@@ -299,8 +299,8 @@
 92. NOAH: Is this a red?
     노아: 이게 빨강이에요?
 
-93. LEO: No. It's a yellow. A watch item. I just didn't want to hide it.
-    레오: 아니요. 노랑이에요. 주시 항목. 그냥 숨기고 싶지 않았어요.
+93. LEO: No. It's a yellow. A watch item. I just didn't want to hide it. If I stayed quiet and it turned red after launch, I'd never forgive myself.
+    레오: 아니요. 노랑이에요. 주시 항목. 그냥 숨기고 싶지 않았어요. 제가 입 다물고 있다가 출시 후에 빨강이 되면, 절대 저 자신을 용서 못 할 거예요.
 
 94. PRIYA: Rule four. "I'd rather find the problem than hide it." He wrote that rule.
     프리야: 규칙 4. "문제를 숨기느니 찾겠다." 레오가 만든 규칙이에요.
@@ -326,8 +326,8 @@
 101. ELAINE: And is that a reason to wait?
      일레인: 그게 기다릴 이유예요?
 
-102. NOAH: No. It's a reason to watch. With four months of buffer. And Leo's chart.
-     노아: 아니요. 지켜볼 이유예요. 4개월 버퍼와 함께. 그리고 레오의 차트와.
+102. NOAH: No. It's a reason to watch. We have four months of buffer, two warehouses, and Leo's chart every week. If the trend gets worse, we'll see it early.
+     노아: 아니요. 지켜볼 이유예요. 4개월 버퍼, 창고 둘, 그리고 매주 레오의 차트가 있어요. 추세가 나빠지면 일찍 알아챌 거예요.
 
 103. ELAINE: Then say it. Out loud. For the minutes.
      일레인: 그럼 말해요. 소리 내서. 회의록을 위해.
@@ -355,8 +355,8 @@
 110. NOAH: You wanted six.
      노아: 넌 6개월을 원했잖아.
 
-111. MARCUS: I asked for six. I expected three. Army negotiation.
-     마커스: 6개월을 요구했지. 3개월을 예상했고. 군대식 협상이야.
+111. MARCUS: I asked for six. I expected three. Army negotiation. You start high, you show your numbers, and you let the other side feel they won something.
+     마커스: 6개월을 요구했지. 3개월을 예상했고. 군대식 협상이야. 높게 시작하고, 숫자를 보여 주고, 상대가 뭔가 이겼다고 느끼게 해 주는 거지.
 
 112. NOAH: You played me.
      노아: 날 가지고 놀았네.
@@ -419,3 +419,18 @@
 | Manufacturing — Meridian | 🟢 (watch) | 6 lots released; **extrusion force trend +6% over 3 lots** | Leo / Grace |
 | Manufacturing — Seorin | 🔴 | Validation batch 1; qualified next autumn at best | Priya / Grace |
 | **Decision** | **GO — AAD, March** | Conditions: ① 4-month buffer, 2 warehouses ② weekly inventory report ③ trend investigation | Noah |
+
+### ④ 긴 발화 분석
+
+> **47턴 MARCUS:** "At thirty-four dollars each, that's about a million dollars. Sitting in a warehouse. I know it looks like dead money, but it's insurance. You don't judge insurance until the fire."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 숫자(비용 공개) | At thirty-four dollars each, that's about a million dollars. Sitting in a warehouse. | 불리한 숫자까지 먼저 정직하게 제시 |
+| ② 반론 선제 인정 | I know it looks like dead money, | 상대(Zoe)가 할 반론을 내가 먼저 말해 힘을 뺌 |
+| ③ 재정의 | but it's insurance. | but으로 "비용"을 "보험"으로 프레임 전환 |
+| ④ 비유로 마무리 | You don't judge insurance until the fire. | 기억에 남는 한 줄로 논점을 고정 |
+
+**활용 패턴:** 숫자 공개 → I know it looks like A, → but it's B. → 비유 한 줄
+**연결 표현:** At…each(개당 ~로) · I know it looks like…(~처럼 보이는 거 안다) · but it's…(하지만 그건 ~이다)
+**연습:** 예산 회의에서 "낭비 같다"는 지적을 받는 지출(예: 백업 서버)을 같은 구조로 30단어 안팎으로 방어해 보기.

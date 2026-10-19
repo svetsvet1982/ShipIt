@@ -29,8 +29,8 @@
 04. MARCUS: Honey. Finally.
     마커스: 꿀. 드디어.
 
-05. PRIYA: Room-temperature honey. Not fridge honey. Elena tested it yesterday.
-    프리야: 상온 꿀이야. 냉장고 꿀이 아니라. 엘레나가 어제 시험해 봤어.
+05. PRIYA: Room-temperature honey. Not fridge honey. Elena tested it yesterday with the twenty-seven gauge needle, and she said her thumb barely noticed. That's exactly what doctors need to feel.
+    프리야: 상온 꿀이야. 냉장고 꿀이 아니라. 엘레나가 어제 27게이지 바늘로 시험해 봤는데, 엄지에 힘이 거의 안 들어갔대. 그게 바로 의사들이 느껴야 하는 감각이야.
 
 06. NOAH: And the strength? We didn't lose the ninety-six percent?
     노아: 강도는? 96퍼센트를 잃지 않았어?
@@ -103,8 +103,8 @@
 28. PRIYA: That's exactly what we need. Why leave a stable job?
     프리야: 딱 저희한테 필요한 거네요. 안정적인 직장을 왜 떠나요?
 
-29. LEO: I'm good at copying other people's recipes. I want to build one from zero.
-    레오: 남의 레시피를 따라 하는 건 잘해요. 처음부터 하나를 만들어 보고 싶어요.
+29. LEO: I'm good at copying other people's recipes. I've scaled up a lot of them. But I've never built one from zero, and if I don't try now, I probably never will.
+    레오: 남의 레시피를 따라 하는 건 잘해요. 많이 스케일업해 봤죠. 하지만 처음부터 하나를 만들어 본 적은 없어요. 지금 해 보지 않으면 아마 영영 못 할 거예요.
 
 30. NOAH: What draws you to us, specifically?
     노아: 특히 저희에게 끌린 이유가 뭐예요?
@@ -142,8 +142,8 @@
 41. PRIYA: And you didn't wait.
     프리야: 그런데 기다리지 않았군요.
 
-42. LEO: No. I found the source. A cracked tank seal. We fixed it that night.
-    레오: 네. 원인을 찾았어요. 탱크 밀봉 부분에 금이 가 있었어요. 그날 밤 고쳤죠.
+42. LEO: No. I found the source that night. A cracked tank seal was letting bacteria in. If we had waited until Monday, every batch through that tank would have been contaminated. We fixed it immediately.
+    레오: 네. 그날 밤 원인을 찾았어요. 탱크 밀봉 부분에 금이 가서 세균이 들어오고 있었어요. 월요일까지 기다렸다면 그 탱크를 거친 배치는 전부 오염됐을 거예요. 바로 고쳤죠.
 
 43. NOAH: What was the result?
     노아: 결과는요?
@@ -177,8 +177,8 @@
 52. LEO: Three questions. First, how much money do you have?
     레오: 질문 세 개요. 첫째, 돈이 얼마나 있으세요?
 
-53. NOAH: Direct. I like that. One point five million. About eighteen months of runway.
-    노아: 직설적이네요. 좋아요. 150만 달러. 런웨이 약 18개월.
+53. NOAH: Direct. I like that. One point five million from our pre-seed. At our current spending, that's about eighteen months of runway, and this hire is already in the budget.
+    노아: 직설적이네요. 좋아요. 프리시드로 받은 150만 달러요. 지금 지출 속도라면 런웨이는 약 18개월이고, 이번 채용은 이미 예산에 들어 있어요.
 
 54. LEO: And after eighteen months?
     레오: 18개월 후엔요?
@@ -195,8 +195,8 @@
 58. LEO: You'd really stop?
     레오: 정말 멈추실 거예요?
 
-59. PRIYA: Our first rule is "First, do no harm." That includes wasting your career.
-    프리야: 우리 첫 번째 원칙이 "무엇보다 해를 끼치지 말 것"이에요. 레오의 커리어를 낭비하는 것도 포함해서요.
+59. PRIYA: Our first rule is "First, do no harm." That's Elena's rule, and it includes wasting your career. If the data says stop, we stop, and we tell you honestly, not at the last minute.
+    프리야: 우리 첫 번째 원칙이 "무엇보다 해를 끼치지 말 것"이에요. 엘레나의 원칙인데, 레오의 커리어를 낭비하는 것도 포함돼요. 데이터가 멈추라고 하면 멈추고, 마지막 순간이 아니라 미리 솔직하게 말씀드릴 거예요.
 
 60. LEO: That's… not what I expected to hear. Thank you.
     레오: 그건… 예상 못 한 대답이네요. 감사해요.
@@ -210,8 +210,8 @@
 63. PRIYA: Congratulations! That's wonderful.
     프리야: 축하해요! 정말 좋은 소식이네요.
 
-64. LEO: Thank you. So I can't join a company with no insurance. Not now.
-    레오: 감사합니다. 그래서 보험 없는 회사엔 갈 수가 없어요. 지금은요.
+64. LEO: Thank you. So I can't join a company with no insurance. Not now. I want this job, honestly, but I can't ask Ana to worry about hospital bills while she's pregnant.
+    레오: 감사합니다. 그래서 보험 없는 회사엔 갈 수가 없어요. 지금은요. 솔직히 이 일 정말 하고 싶어요. 하지만 임신한 애나한테 병원비 걱정까지 하게 할 수는 없어요.
 
 65. NOAH: Understood. Marcus is setting up benefits right now. Through a PEO.
     노아: 이해해요. 마커스가 지금 복리후생을 세팅하고 있어요. PEO를 통해서요.
@@ -252,11 +252,11 @@
 77. LEO: Roughly. The right to buy shares later. At today's price.
     레오: 대략요. 나중에 주식을 오늘 가격으로 살 수 있는 권리.
 
-78. NOAH: Exactly. That price is called the strike price. Today, it's very low.
-    노아: 맞아요. 그 가격을 행사가라고 해요. 지금은 아주 낮고요.
+78. NOAH: Exactly. That price is called the strike price, and today it's very low, because we're tiny and risky. If Veyra succeeds, your shares are worth much more than you paid.
+    노아: 맞아요. 그 가격을 행사가라고 해요. 저희가 작고 위험한 회사라서 지금은 아주 낮아요. Veyra가 성공하면, 주식 가치가 산 가격보다 훨씬 높아지는 거죠.
 
-79. LEO: And if the company grows, the difference is mine.
-    레오: 그리고 회사가 성장하면 그 차이가 제 몫이 되는 거고요.
+79. LEO: So the bigger the risk, the better the deal. If it works.
+    레오: 그러니까 리스크가 클수록 조건이 좋은 거네요. 잘되기만 하면요.
 
 80. NOAH: That's the idea. Same vesting as the founders. Four years, one-year cliff.
     노아: 그게 핵심이에요. 창업자와 같은 베스팅이에요. 4년, 1년 클리프.
@@ -284,8 +284,8 @@
 87. PRIYA: His failed-batch story was the best answer I've ever heard.
     프리야: 실패한 배치 얘기는 내가 들어 본 최고의 대답이었어.
 
-88. MARCUS: He stopped a line on a Friday night? I'd hire him for that alone.
-    마커스: 금요일 밤에 라인을 세웠다고? 그것 하나만으로도 뽑겠어.
+88. MARCUS: He stopped a line on a Friday night? I'd hire him for that alone. In my plant, the people who hid problems cost us far more than the people who found them.
+    마커스: 금요일 밤에 라인을 세웠다고? 그것 하나만으로도 뽑겠어. 내가 있던 공장에선, 문제를 숨긴 사람들이 문제를 찾아낸 사람들보다 훨씬 큰 손해를 끼쳤어.
 
 89. NOAH: The problem is salary. He asked for one fifty. We budgeted one thirty-five.
     노아: 문제는 연봉이에요. 15만을 요청했는데 예산은 13만 5천이에요.
@@ -293,8 +293,8 @@
 90. MARCUS: What did Denise teach us? Show your work.
     마커스: 데니스가 뭘 가르쳤지? 풀이 과정을 보여 줘.
 
-91. NOAH: Fifteen thousand a year more. For eighteen months, about twenty-two thousand.
-    노아: 1년에 1만 5천 더. 18개월이면 약 2만 2천.
+91. NOAH: Fifteen thousand a year more. Over eighteen months, that's about twenty-two thousand dollars. It sounds like a lot, but compared to our total runway, it's a small number.
+    노아: 1년에 1만 5천 더. 18개월이면 약 2만 2천 달러예요. 많아 보이지만, 전체 런웨이에 비하면 작은 숫자예요.
 
 92. PRIYA: Two weeks of runway. For the right person.
     프리야: 런웨이 2주야. 맞는 사람을 위해서라면.
@@ -323,8 +323,8 @@
 100. NOAH: You're the CTO. Of course you.
      노아: 넌 CTO잖아. 당연히 너지.
 
-101. PRIYA: I've never managed anyone. I've only managed test tubes.
-     프리야: 난 누굴 관리해 본 적이 없어. 시험관만 관리해 봤지.
+101. PRIYA: I've never managed anyone. I've only managed test tubes. What if I'm too direct with him, or I just do everything myself because it's faster? I've seen bad managers do that.
+     프리야: 난 누굴 관리해 본 적이 없어. 시험관만 관리해 봤지. 내가 너무 직설적이면 어떡해? 아니면 그게 더 빠르다고 전부 내가 해 버리면? 나쁜 매니저들이 그러는 거 봤거든.
 
 102. MARCUS: Test tubes don't talk back. People do. You'll learn.
      마커스: 시험관은 말대꾸를 안 하지. 사람은 해. 배우게 될 거야.
@@ -332,8 +332,8 @@
 103. PRIYA: Any advice?
      프리야: 조언 있어요?
 
-104. MARCUS: Tell him what "good" looks like. Then get out of his way.
-     마커스: "잘한다"는 게 어떤 건지 알려 줘. 그다음엔 방해하지 마.
+104. MARCUS: Tell him what "good" looks like. Then get out of his way. In the Army, we called it commander's intent. Give the goal clearly, and let the soldier find the route.
+     마커스: "잘한다"는 게 어떤 건지 알려 줘. 그다음엔 방해하지 마. 군대에선 그걸 지휘관 의도라고 불렀어. 목표는 분명하게 주고, 길은 병사가 찾게 하는 거지.
 
 105. PRIYA: "What good looks like." I'll write that down.
      프리야: "잘한다는 게 어떤 건지." 적어 둘게요.
@@ -373,8 +373,8 @@
 116. LEO: One question now. Why one forty-two? Not one thirty-five, not one fifty?
      레오: 지금 하나만요. 왜 14만 2천이에요? 13만 5천도 15만도 아니고?
 
-117. NOAH: Honestly? We met in the middle. And added more options to balance it.
-     노아: 솔직히요? 중간에서 만났어요. 그리고 균형을 맞추려고 옵션을 더 넣었고요.
+117. NOAH: Honestly? We met in the middle. Your ask was fair, but our budget is tight. So we added more options to balance it. If Veyra wins, you win more.
+     노아: 솔직히요? 중간에서 만났어요. 요청하신 금액은 합당했지만, 저희 예산이 빠듯해요. 그래서 균형을 맞추려고 옵션을 더 넣었어요. Veyra가 이기면, 레오도 더 많이 가져가는 거예요.
 
 118. LEO: I appreciate the honesty. Ana will too.
      레오: 솔직하게 말씀해 주셔서 감사해요. 애나도 그럴 거예요.
@@ -417,3 +417,18 @@
 
 예시:
 > *Situation: Two years ago, a bacteria test on a joint gel came back positive on a Friday night. Task: I was responsible for the production line. Action: I stopped the line, searched for the source, and found a cracked seal on a tank. Result: we threw away one batch instead of five. Learning: I'd rather find a problem than hide it, even when it's expensive.*
+
+### ④ 긴 발화 분석
+
+> **42턴 LEO:** "No. I found the source that night. A cracked tank seal was letting bacteria in. If we had waited until Monday, every batch through that tank would have been contaminated. We fixed it immediately."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 행동(Action) | No. I found the source that night. | 내가 한 일을 짧고 분명하게 먼저 |
+| ② 원인(사실) | A cracked tank seal was letting bacteria in. | 무엇을 찾았는지 구체적 사실로 제시 |
+| ③ 가정(If…had) | If we had waited until Monday, every batch through that tank would have been contaminated. | 행동하지 않았을 때의 피해로 판단의 가치를 증명 |
+| ④ 결과 | We fixed it immediately. | 마무리 행동으로 이야기 종결 |
+
+**활용 패턴:** 행동 → 찾은 사실 → "If we had…, … would have…" → 결과
+**연결 표현:** that night(그날 밤 바로) · If we had waited…(만약 기다렸다면) · would have been…(~였을 것이다)
+**연습:** 면접에서 "문제를 미리 막은 경험"을 묻는 질문에 같은 구조로 30단어 안팎으로 답해 보기.

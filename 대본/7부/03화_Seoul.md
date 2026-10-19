@@ -59,13 +59,13 @@
 14. NOAH: Thank you for having us. Mr. Park, in Seoul you said, "Listen carefully. Promise nothing." I did both.
     노아: 초대해 주셔서 감사합니다. 박 대표님, 서울에서 "잘 듣고 아무것도 약속하지 마라"라고 하셨죠. 둘 다 했습니다.
 
-15. PARK: Good. Then tell me what you heard. All of it. Don't make it pretty.
-    박 대표: 좋아요. 그럼 들은 걸 말해 주세요. 전부. 예쁘게 꾸미지 말고요.
+15. PARK: Good. Then tell me what you heard. All of it, including the parts you think I won't like. In my experience, a partner who decorates bad news will decorate everything else as well. So don't make it pretty, Mr. Bennett. Just make it complete.
+    박 대표: 좋아요. 그럼 들은 걸 말해 주세요. 전부요. 제가 싫어할 것 같은 부분까지. 제 경험상 나쁜 소식을 꾸미는 파트너는 다른 것도 다 꾸밉니다. 그러니 예쁘게 꾸미지 마세요, 베넷 대표님. 그냥 빠짐없이 말해 주세요.
 
 ### 장면1 — 공식 회의
 
-16. NOAH: Daeyang proposed a joint venture. Korea and China. Fifty-one percent Daeyang. Forty-nine Veyra.
-    노아: 대양이 합작법인을 제안했습니다. 한국과 중국. 대양 51%. 베이라 49%.
+16. NOAH: Daeyang proposed a joint venture for Korea and China, fifty-one percent Daeyang and forty-nine Veyra. I'm telling you before we give them any answer, because you have a first-negotiation right, and I'd rather you hear it from me than from someone in Seoul.
+    노아: 대양이 한국과 중국 합작법인을 제안했습니다. 대양 51%, 베이라 49%. 그쪽에 어떤 답도 하기 전에 말씀드리는 겁니다. 대표님께 우선 협상권이 있고, 서울의 다른 누구보다 제게서 먼저 들으시는 게 낫다고 생각하니까요.
 
 17. PRIYA: Plus co-development. A toxin and a skin booster. And they want Seorin as the manufacturing base.
     프리야: 거기에 공동개발. 톡신과 스킨부스터. 그리고 서린을 생산 기지로 원해요.
@@ -94,8 +94,8 @@
 25. NOAH: Difficult. But possible?
     노아: 어렵다. 하지만 가능하다는 거죠?
 
-26. GRACE: Noah. A word. In Korean business, "it may be difficult" usually means no. Politely.
-    그레이스: 노아. 잠깐. 한국 비즈니스에서 "어려울 수도 있다"는 대개 "안 된다"는 뜻이에요. 정중하게.
+26. GRACE: Noah, a word. In Korean business, "it may be difficult" usually means no, but said politely so that nobody loses face. If you push him with "but possible?", he'll have to refuse you directly, and that's uncomfortable for everyone. Ask what makes it difficult instead.
+    그레이스: 노아, 잠깐요. 한국 비즈니스에서 "어려울 수도 있다"는 대개 "안 된다"는 뜻인데, 아무도 체면을 잃지 않게 정중하게 하는 말이에요. "하지만 가능하죠?"라고 밀어붙이면 대표님이 직접 거절해야 하고, 그건 모두에게 불편해요. 대신 무엇이 어렵게 만드는지 물어보세요.
 
 27. NOAH: Like "quite interesting" in London.
     노아: 런던의 "꽤 흥미롭다"처럼.
@@ -136,8 +136,8 @@
 39. KANG: I agree. He's new. But he's careful. That's why I hired him.
     강태호: 동의합니다. 신입이에요. 하지만 신중하죠. 그래서 뽑았습니다.
 
-40. GRACE: Nicely done, Priya. You asked him. Then you confirmed it with his boss. Both of them kept face.
-    그레이스: 잘했어요, 프리야. 그에게 물었고. 그다음 상사에게 확인했죠. 둘 다 체면을 지켰어요.
+40. GRACE: Nicely done, Priya. You asked him directly, so he got credit for his own work, and then you confirmed it with his boss, so Director Kang stayed in charge. Both of them kept face, and you still got the real number. In Korea, that's harder than it looks.
+    그레이스: 잘했어요, 프리야. 그에게 직접 물어서 자기 일에 대한 공을 인정받게 했고, 그다음 상사에게 확인해서 강 공장장님의 권한도 지켰죠. 둘 다 체면을 지켰고, 그러면서도 진짜 숫자를 얻었어요. 한국에선 그게 보기보다 어려워요.
 
 41. PRIYA: I learned in Munich. Katrin criticised my section in front of everyone. I didn't enjoy it.
     프리야: 뮌헨에서 배웠어요. 카트린이 모두 앞에서 내 섹션을 비판했거든요. 즐겁지 않았어요.
@@ -148,8 +148,8 @@
 43. KANG: About thirty-five billion won. Roughly twenty-eight million dollars.
     강태호: 약 350억 원. 대략 2,800만 달러.
 
-44. MARCUS: Our Series C has thirty-five million for manufacturing. That's not a coincidence.
-    마커스: 우리 시리즈 C에 생산용 3,500만이 있어요. 우연이 아니죠.
+44. MARCUS: Our Series C has thirty-five million for manufacturing, sir. That's not a coincidence. We planned that money for capacity, because demand in Asia won't wait for us to catch up. Two is one, one is none, so a new line isn't a luxury. It's insurance.
+    마커스: 우리 시리즈 C에 생산용 3,500만이 있습니다, 대표님. 우연이 아니죠. 생산 능력을 위해 계획한 돈이에요. 아시아 수요는 우리가 따라잡을 때까지 기다려 주지 않으니까요. 둘은 하나, 하나는 없는 것. 그러니 새 라인은 사치가 아니라 보험입니다.
 
 45. PARK: Money is not the difficult part, Mr. Webb.
     박 대표: 돈은 어려운 부분이 아닙니다, 웹 씨.
@@ -204,8 +204,8 @@
 61. PARK: Mr. Bennett. Why did you start this company? The real reason. Not the investor reason.
     박 대표: 베넷 대표님. 왜 이 회사를 시작했어요? 진짜 이유. 투자자용 이유 말고.
 
-62. NOAH: My sister. A cheap filler. A med spa. An emergency room at midnight. She still has the scar.
-    노아: 제 동생요. 싼 필러. 메디스파. 자정의 응급실. 아직도 흉터가 있어요.
+62. NOAH: My sister, Lily. She went to a med spa for a cheap filler, and that night we were in an emergency room at midnight while a doctor fought to save the skin on her nose. She still has the scar. I started this company so fewer families have a night like that.
+    노아: 제 동생 릴리요. 싼 필러를 맞으러 메디스파에 갔고, 그날 밤 자정에 저희는 응급실에 있었어요. 의사가 동생 코의 피부를 살리려고 애쓰는 동안요. 아직도 흉터가 있어요. 그런 밤을 겪는 가족이 줄어들게 하려고 이 회사를 시작했습니다.
 
 63. PARK: …My mother was a nurse. In a small hospital in Cheongju. Near here.
     박 대표: …저희 어머니는 간호사였어요. 청주의 작은 병원에서. 이 근처.
@@ -225,8 +225,8 @@
 68. GRACE: He stopped smiling. And he's pouring slowly.
     그레이스: 웃음을 멈췄어요. 그리고 천천히 따르고 있어요.
 
-69. PARK: Five years ago, Halvern spent six months here. Audits. Visits. Promises. Then one email. One line. Gone to Daeyang.
-    박 대표: 5년 전 할번이 여기서 6개월을 보냈어요. 감사. 방문. 약속. 그러고 이메일 한 통. 한 줄. 대양으로 가 버렸죠.
+69. PARK: Five years ago, Halvern spent six months here. Audits, visits, promises about a long future together. My people worked very hard to pass every inspection. Then one email arrived. One line. And they were gone to Daeyang. No call, no meeting, not even a reason we could learn from.
+    박 대표: 5년 전 할번이 여기서 6개월을 보냈어요. 감사, 방문, 함께할 긴 미래에 대한 약속. 우리 직원들은 모든 점검을 통과하려고 정말 열심히 일했죠. 그러고 이메일 한 통이 왔어요. 한 줄. 그리고 대양으로 가 버렸어요. 전화도, 미팅도, 우리가 배울 수 있는 이유 하나도 없이.
 
 70. NOAH: You told Marcus. In year three. "We have the same scar."
     노아: 마커스한테 말씀하셨죠. 3년 차에. "우리는 같은 흉터가 있다."
@@ -240,8 +240,8 @@
 73. PARK: Seorin almost closed that year. I let go of eleven people. Eleven families.
     박 대표: 그해 서린은 문 닫을 뻔했어요. 열한 명을 내보냈죠. 열한 가족.
 
-74. SUJIN: I was one of the people who stayed. We all took a pay cut. For a year.
-    수진: 전 남은 사람 중 하나였어요. 다 같이 급여를 깎았죠. 1년 동안.
+74. SUJIN: I was one of the people who stayed. We all took a pay cut for a year, and nobody complained, because we all wanted Seorin to survive. That year is why we're so careful with new customers, and why loyalty means so much to people here.
+    수진: 전 남은 사람 중 하나였어요. 다 같이 1년 동안 급여를 깎았는데, 아무도 불평하지 않았어요. 모두 서린이 살아남길 바랐으니까요. 그해가 있어서 우리가 새 고객에게 그렇게 신중하고, 여기 사람들에게 의리가 그렇게 큰 의미인 거예요.
 
 75. NOAH: I'm sorry. I didn't know it was that serious.
     노아: 유감입니다. 그렇게 심각한 줄 몰랐어요.
@@ -252,8 +252,8 @@
 77. GRACE: In Korea, a personal apology from an executive is not small. It's very rare.
     그레이스: 한국에서 임원의 개인적 사과는 작은 게 아니에요. 아주 드물어요.
 
-78. PARK: I accepted it. I respect her. But I will not be Daeyang's subcontractor. Never again.
-    박 대표: 받아들였어요. 그분을 존중합니다. 하지만 대양의 하청은 되지 않을 겁니다. 다시는.
+78. PARK: I accepted it, and I respect her. It took courage to come here alone. But in business, respect is not the same as trust. I will not be Daeyang's subcontractor, taking orders from the company that nearly closed us. Never again.
+    박 대표: 받아들였어요. 그분을 존중합니다. 혼자 여기 오는 데는 용기가 필요했죠. 하지만 비즈니스에서 존중은 신뢰와 같지 않아요. 우리를 거의 문 닫게 만든 회사의 지시를 받는 대양의 하청은 되지 않을 겁니다. 다시는.
 
 79. NOAH: That's the difficult part. Not the money.
     노아: 그게 어려운 부분이군요. 돈이 아니라.
@@ -278,8 +278,8 @@
 85. GRACE: Now the room is smaller. This is where the real negotiation happens. Second round.
     그레이스: 이제 방이 작아졌어요. 진짜 협상은 여기서 일어나요. 2차.
 
-86. PARK: If Seorin joins, it must be as a partner. With shares. Not a supplier with a purchase order.
-    박 대표: 서린이 들어간다면 파트너로서여야 합니다. 지분과 함께. 발주서 받는 공급사가 아니라.
+86. PARK: If Seorin joins, it must be as a partner, with shares. Not a supplier waiting for a purchase order. A supplier can be replaced with one email, as I learned. A partner has a voice when decisions are made, and that is the only way my board will agree.
+    박 대표: 서린이 들어간다면 지분을 가진 파트너로서여야 합니다. 발주서를 기다리는 공급사가 아니라. 공급사는 이메일 한 통으로 교체될 수 있어요. 제가 겪어 봤죠. 파트너는 결정할 때 목소리를 낼 수 있고, 그래야만 우리 이사회가 동의할 겁니다.
 
 87. NOAH: Shares in the joint venture. How much did you have in mind?
     노아: 합작법인 지분. 얼마를 생각하세요?
@@ -296,8 +296,8 @@
 91. SUJIN: I would like that very much. In writing.
     수진: 정말 그러고 싶어요. 서면으로.
 
-92. PRIYA: And safety? Who controls safety? That was my question to Ms. Han. She didn't answer.
-    프리야: 그럼 안전은요? 안전은 누가 통제해요? 그게 한 상무님께 한 제 질문이었어요. 답을 안 했죠.
+92. PRIYA: And safety? Who controls safety? That was my question to Ms. Han, and she said it needed more than one morning, which wasn't really an answer. If we don't settle it now, it'll be settled later by whoever has the most shares.
+    프리야: 그럼 안전은요? 안전은 누가 통제해요? 그게 한 상무님께 한 제 질문이었는데, 아침 한나절로는 부족하다고 하셨죠. 사실 답은 아니었어요. 지금 정하지 않으면, 나중에 지분이 가장 많은 쪽이 정하게 될 거예요.
 
 93. PARK: Safety by Dr. Ruiz. Everyone in this industry knows her rules. Even Daeyang.
     박 대표: 안전은 루이즈 박사. 이 업계 사람은 다 그분 규칙을 알아요. 대양도요.
@@ -311,8 +311,8 @@
 96. MARCUS: Sir, percentages need Daeyang and our board. Noah can't promise those tonight.
     마커스: 대표님, 지분율은 대양과 우리 이사회가 정해야 해요. 노아가 오늘 밤 약속할 순 없어요.
 
-97. NOAH: But I can promise this. Seorin will be a partner, not a supplier. In writing. Before anything is signed.
-    노아: 하지만 이건 약속할 수 있어요. 서린은 공급사가 아니라 파트너가 될 겁니다. 서면으로. 무엇이든 서명하기 전에.
+97. NOAH: But I can promise this. Seorin will be a partner, not a supplier. In writing, before anything is signed. I can't give you percentages tonight, because that would be a promise I'm not allowed to make, and in Seoul you told me to promise nothing I can't keep.
+    노아: 하지만 이건 약속할 수 있어요. 서린은 공급사가 아니라 파트너가 될 겁니다. 무엇이든 서명하기 전에, 서면으로요. 오늘 밤 지분율은 드릴 수 없어요. 그건 제가 할 권한이 없는 약속이고, 서울에서 대표님이 지킬 수 없는 건 아무것도 약속하지 말라고 하셨으니까요.
 
 98. PARK: …
     박 대표: …
@@ -358,14 +358,14 @@
 111. NOAH: Okay. Business. What did we learn today?
      노아: 좋아요. 비즈니스. 오늘 뭘 배웠죠?
 
-112. GRACE: "It may be difficult" was a no. "We'll review it internally" was real. And "enough" was a yes.
-     그레이스: "어려울 수도 있다"는 노였고. "내부적으로 검토하겠다"는 진짜였고. "충분하다"는 예스였어요.
+112. GRACE: Three phrases, three meanings. "It may be difficult" was a no. "We'll review it internally," with a promise to call, was a real next step. And "enough," from Mr. Park, was a yes. If you only translate the words, you miss the whole meeting.
+     그레이스: 세 표현, 세 가지 뜻. "어려울 수도 있다"는 노였어요. 전화 약속이 붙은 "내부적으로 검토하겠다"는 진짜 다음 단계였고요. 그리고 박 대표님의 "충분하다"는 예스였어요. 단어만 번역하면 회의 전체를 놓쳐요.
 
 113. PRIYA: And the real meeting happened after the plant director took the junior engineer home.
      프리야: 그리고 진짜 회의는 공장장이 신입 엔지니어를 데려다준 뒤에 열렸고요.
 
-114. MARCUS: And the real reason was a one-line email. Five years ago. Eleven families.
-     마커스: 그리고 진짜 이유는 한 줄짜리 이메일이었어요. 5년 전. 열한 가족.
+114. MARCUS: And the real reason was a one-line email, five years ago, and eleven families. In the army, we called that ground truth: what's actually happening, not what's on the briefing slide. And we only got it because Noah told Mr. Park everything first.
+     마커스: 그리고 진짜 이유는 5년 전 한 줄짜리 이메일, 그리고 열한 가족이었어요. 군대에선 그걸 현장 진실이라고 불렀죠. 브리핑 슬라이드에 있는 게 아니라 실제로 벌어지는 일. 그리고 그걸 알게 된 건 노아가 먼저 박 대표님께 전부 말했기 때문이에요.
 
 115. NOAH: Grace, it's morning in Austin. Can I text Ms. Han now? Or is it too late here?
      노아: 그레이스, 오스틴은 아침이에요. 지금 한 상무님께 문자해도 돼요? 아니면 여기선 너무 늦었어요?
@@ -421,3 +421,18 @@
 > **Seorin position (2nd round, not yet agreed):**
 > Seorin = **JV shareholder (~10%)**, not a supplier · **quality committee seat** — quality by **Lee Su-jin** · **safety by Dr. Ruiz** · **Line C** (~₩35B ≈ $28M, 18–20 months to first batch) built together with Series C manufacturing funds · *Root issue:* Halvern → Daeyang five years ago (Han), 11 jobs lost; Han's personal apology two years ago — "I will not be Daeyang's subcontractor. Never again."
 > **Noah's promise:** "Seorin will be a partner, not a supplier. In writing. Before anything is signed." — percentages require Daeyang + Veyra board.
+
+### ④ 긴 발화 분석
+
+> **97턴 NOAH:** "But I can promise this. Seorin will be a partner, not a supplier. In writing, before anything is signed. I can't give you percentages tonight, because that would be a promise I'm not allowed to make, and in Seoul you told me to promise nothing I can't keep."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 약속 예고 | But I can promise this. | 앞 발언(마커스의 한계 설명)을 받아 "할 수 있는 것"으로 전환 |
+| ② 핵심 약속(대비 + 조건) | Seorin will be a partner, not a supplier. In writing, before anything is signed. | "A가 아니라 B" + 형식(서면)·시점(서명 전)으로 약속을 구체화 |
+| ③ 한계 설명(이유) | I can't give you percentages tonight, because that would be a promise I'm not allowed to make, | 못 하는 것을 숨기지 않고 이유와 함께 밝힘 |
+| ④ 상대의 말 인용 | and in Seoul you told me to promise nothing I can't keep. | 상대가 했던 조언을 근거로 써서 신뢰를 강화 |
+
+**활용 패턴:** I can promise this → 구체적 약속(형식·시점) → I can't …, because … → 상대의 원칙으로 마무리
+**연결 표현:** not A, but B(A가 아니라 B) · before anything is signed(무엇이든 서명하기 전에) · I'm not allowed to(~할 권한이 없다)
+**연습:** 거래처가 오늘 당장 가격 확약을 요구할 때, 약속할 수 있는 것과 없는 것을 나눠 같은 구조로 40~50단어로 답해 보기.

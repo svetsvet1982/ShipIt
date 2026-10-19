@@ -44,8 +44,8 @@
 09. ZOE: Because every customer falls through one.
     조이: 모든 고객이 하나를 통과해 떨어지니까요.
 
-10. GRACE: I built the data model. Every number has a source. Ask me anything.
-    그레이스: 데이터 모델은 제가 만들었어요. 모든 숫자엔 출처가 있어요. 뭐든 물어보세요.
+10. GRACE: I built the data model behind this dashboard, and every number on that screen has a source I can show you. So if something looks wrong, don't guess. Ask me anything.
+    그레이스: 이 대시보드 뒤의 데이터 모델은 제가 만들었어요. 화면에 있는 모든 숫자엔 제가 보여 드릴 수 있는 출처가 있어요. 그러니까 뭔가 이상해 보이면 추측하지 마시고, 뭐든 물어보세요.
 
 11. MARCUS: Grace, you were clinical operations. Now you're analytics?
     마커스: 그레이스, 임상 운영이었잖아. 이제 분석이야?
@@ -56,8 +56,8 @@
 13. TASHA: I'm nervous. I think one red is mine.
     타샤: 긴장돼요. 빨강 하나는 제 것 같아요.
 
-14. ZOE: Nobody owns a red. We all own the funnel.
-    조이: 빨강의 주인은 없어요. 퍼널은 우리 모두의 것이에요.
+14. ZOE: Nobody owns a red, Tasha. We all own the funnel. If one stage is slow, it usually means something upstream or downstream is broken, so we fix it together, not blame one person.
+    조이: 빨강의 주인은 없어요, 타샤. 퍼널은 우리 모두의 것이에요. 한 단계가 느리면 보통 그 앞이나 뒤에서 뭔가 고장 났다는 뜻이에요. 그러니까 한 사람을 탓하지 말고 함께 고치는 거예요.
 
 15. NOAH: Good rule. Go.
     노아: 좋은 규칙이네요. 시작해요.
@@ -70,8 +70,8 @@
 17. DEREK: That's huge!
     데릭: 엄청나네요!
 
-18. ZOE: It's huge. And it's a vanity metric. Most are Lumaderm users. That's fine.
-    조이: 엄청나죠. 그리고 허영 지표예요. 대부분 루마덤 사용자예요. 그래도 괜찮아요.
+18. ZOE: It's huge. And it's a vanity metric. Most of those downloads are Lumaderm users, not our future customers. That's fine, but it doesn't tell us who will actually buy anything.
+    조이: 엄청나죠. 그리고 허영 지표예요. 그 다운로드 대부분은 루마덤 사용자지, 우리 미래 고객이 아니에요. 그래도 괜찮지만, 누가 실제로 뭔가를 살지는 알려 주지 않아요.
 
 19. NOAH: It's good for patients. Just not a sales number.
     노아: 환자들에게 좋은 거죠. 영업 숫자가 아닐 뿐.
@@ -112,8 +112,8 @@
 31. ZOE: Let's ask why. Five times. Tasha, why nineteen days?
     조이: 왜인지 물어봐요. 다섯 번. 타샤, 왜 19일이에요?
 
-32. TASHA: Because I have six trainers. Each can do eight clinics a week. Maximum.
-    타샤: 트레이너가 여섯 명이라서요. 각자 주당 최대 8곳.
+32. TASHA: Because I only have six trainers, and each of them can do eight clinics a week at the very most. So the sign-ups come in faster than we can possibly train them.
+    타샤: 트레이너가 여섯 명뿐이고, 각자 많아야 주당 8곳밖에 못 하니까요. 그래서 등록이 우리가 교육할 수 있는 속도보다 훨씬 빨리 들어와요.
 
 33. ZOE: Why only eight?
     조이: 왜 8곳뿐이에요?
@@ -130,8 +130,8 @@
 37. ZOE: Why haven't we done that?
     조이: 왜 아직 안 했어요?
 
-38. TASHA: Because I thought online meant cheap. And cheap meant unsafe.
-    타샤: 온라인은 싸구려고. 싸구려는 위험하다고 생각해서요.
+38. TASHA: Because, to be honest, I thought online meant cheap, and cheap meant unsafe. In aesthetics, a badly trained injector hurts a patient, so I didn't want to cut any corners.
+    타샤: 솔직히 말하면, 온라인은 싸구려고 싸구려는 위험하다고 생각해서요. 미용 시술에선 제대로 교육받지 못한 시술자가 환자를 다치게 하니까, 어떤 것도 대충 하고 싶지 않았어요.
 
 39. ZOE: And is that true? For theory?
     조이: 그게 사실이에요? 이론에서도?
@@ -160,8 +160,8 @@
 47. DEREK: Because of the training wait. Can't order before training.
     데릭: 교육 대기 때문이에요. 교육 전엔 주문 못 하잖아요.
 
-48. GRACE: Partly. But thirteen clinics are certified and still haven't ordered.
-    그레이스: 일부는요. 하지만 13곳은 인증을 받고도 아직 주문 안 했어요.
+48. GRACE: Partly, yes. But here's what worries me. Thirteen clinics are already certified, and they still haven't ordered anything. So training explains some of the gap, but definitely not all of it.
+    그레이스: 일부는 맞아요. 하지만 제가 걱정되는 건 이거예요. 13곳은 이미 인증을 받았는데도 아직 아무것도 주문하지 않았어요. 그러니까 교육이 차이의 일부는 설명하지만, 전부는 절대 아니에요.
 
 49. AVA: Thirteen? I know three of them. I can tell you why.
     에이바: 13곳이요? 그중 세 곳을 알아요. 이유를 말할 수 있어요.
@@ -195,8 +195,8 @@
 58. ZOE: Now, Ava. The thirteen clinics. Why haven't they ordered?
     조이: 자, 에이바. 13곳. 왜 주문을 안 했어요?
 
-59. AVA: Two reasons. First, they still have Lumaderm on the shelf. Paid for.
-    에이바: 이유 둘. 첫째, 아직 선반에 루마덤이 있어요. 이미 돈 낸 거.
+59. AVA: There are two reasons. First, many of them still have Lumaderm on the shelf, and it's already paid for. So switching now would mean wasting stock they bought with their own money.
+    에이바: 이유는 두 가지예요. 첫째, 많은 곳이 아직 선반에 루마덤이 있고, 이미 돈을 낸 거예요. 그래서 지금 바꾸면 자기 돈으로 산 재고를 버리는 셈이 돼요.
 
 60. DEREK: Inventory timing. They'll switch when it runs out. Not before.
     데릭: 재고 타이밍. 다 떨어지면 바꿀 거예요. 그 전엔 안 하고요.
@@ -213,8 +213,8 @@
 64. AVA: Patients ask for Lumaderm by name. Dr. Haddad said the same.
     에이바: 환자들이 루마덤을 이름으로 찾아요. 하다드 선생님도 같은 말을 했어요.
 
-65. DEREK: That's the big one. Halvern has TV. We have a card.
-    데릭: 그게 큰 거예요. 할번은 TV가 있고. 우린 카드가 있죠.
+65. DEREK: That's the big one, honestly. Halvern has TV, so patients walk in already knowing the name. We have a card, and a card in a clinic doesn't reach anyone sitting at home.
+    데릭: 솔직히 그게 큰 거예요. 할번은 TV 광고가 있어서 환자들이 이미 이름을 알고 들어와요. 우린 카드가 있는데, 병원에 있는 카드는 집에 있는 사람한테는 닿지 않아요.
 
 66. ZOE: Which brings me to the third red. Digital ads.
     조이: 그래서 세 번째 빨강. 디지털 광고.
@@ -234,8 +234,8 @@
 71. ZOE: And training visits? What's the cost per clinic?
     조이: 그럼 교육 방문은요? 병원당 비용이 얼마예요?
 
-72. GRACE: About two thousand. And eighty-three percent of trained clinics order.
-    그레이스: 약 2천 달러. 그리고 교육받은 병원의 83퍼센트가 주문해요.
+72. GRACE: About two thousand dollars, so that's eight times cheaper than ads. And here's the key number: eighty-three percent of the clinics we train go on to place an order.
+    그레이스: 약 2천 달러니까 광고보다 8배 싸요. 그리고 핵심 숫자는 이거예요. 우리가 교육한 병원의 83퍼센트가 결국 주문을 해요.
 
 73. NOAH: So training is our best sales tool. By far.
     노아: 그러니까 교육이 우리 최고의 영업 도구네요. 압도적으로.
@@ -263,8 +263,8 @@
 
 ### 절정·전환 — 결정, 그리고 Leo
 
-81. ZOE: Proposal. Move one hundred fifty thousand from digital ads to training.
-    조이: 제안. 디지털 광고에서 15만 달러를 교육으로 옮겨요.
+81. ZOE: Here's my proposal. We move one hundred fifty thousand dollars from digital ads to training. Ads cost us sixteen thousand per clinic, training costs two thousand, so the math is pretty clear.
+    조이: 제 제안은 이거예요. 디지털 광고에서 15만 달러를 교육으로 옮겨요. 광고는 병원당 1만 6천 달러가 들고 교육은 2천 달러가 드니까, 계산은 꽤 분명해요.
 
 82. MARCUS: What does that buy?
     마커스: 그걸로 뭘 사는데?
@@ -305,8 +305,8 @@
 94. GRACE: January? That's before our first commercial lot.
     그레이스: 1월이요? 우리 첫 상업 로트 전이잖아요.
 
-95. MARCUS: Did they notify us? A component change needs our approval. It's in the contract.
-    마커스: 우리한테 통보했어? 부품 변경은 우리 승인이 필요해. 계약서에 있어.
+95. MARCUS: Did they notify us? Because any component change needs our written approval first. It's in the contract, in plain English, and they signed it. You don't swap parts and tell us later.
+    마커스: 우리한테 통보했어? 부품을 바꾸려면 먼저 우리 서면 승인이 필요하거든. 계약서에 아주 분명하게 쓰여 있고, 그쪽도 서명했어. 부품을 바꿔 놓고 나중에 알려 주는 건 안 되지.
 
 96. LEO: No notice. Raj says it's "equivalent." Same material. Same specs.
     레오: 통보 없었어요. 라지는 "동등하다"고 해요. 같은 재질. 같은 규격.
@@ -323,8 +323,8 @@
 100. MARCUS: So it's a paperwork problem. For now.
      마커스: 그러니까 서류 문제네. 지금은.
 
-101. LEO: For now. But a stopper also seals the syringe. That's not just about feel.
-     레오: 지금은요. 하지만 마개는 주사기를 밀봉하기도 해요. 주입감만의 문제가 아니에요.
+101. LEO: For now, yes. But a stopper doesn't just control how the plunger feels. It also seals the syringe, so if the seal is weak, sterility could be at risk.
+     레오: 지금은 그렇죠. 하지만 마개는 플런저의 주입감만 좌우하는 게 아니에요. 주사기를 밀봉하기도 해서, 밀봉이 약하면 무균 상태가 위험해질 수 있어요.
 
 102. GRACE: Container closure integrity. The seal that keeps it sterile.
      그레이스: 용기 밀봉 완전성. 무균을 유지해 주는 밀봉이요.
@@ -346,8 +346,8 @@
 107. TASHA: Online theory in four weeks. I'll need a camera. And a script.
      타샤: 4주 안에 온라인 이론. 카메라가 필요해요. 그리고 대본도.
 
-108. ZOE: Not a script. A webinar. Live. Doctors ask questions. You answer.
-     조이: 대본 말고. 웨비나. 생방송. 의사들이 질문하고. 당신이 답하고.
+108. ZOE: Not a script. A webinar, and it's live. Doctors type their questions, and you answer them in real time. That way the theory part feels like a conversation, not a boring lecture.
+     조이: 대본 말고요. 웨비나, 그것도 생방송이에요. 의사들이 질문을 입력하면 당신이 실시간으로 답하는 거죠. 그래야 이론 부분이 지루한 강의가 아니라 대화처럼 느껴져요.
 
 109. TASHA: Live? On camera? With strangers typing questions?
      타샤: 생방송이요? 카메라 앞에서? 모르는 사람들이 질문을 치는데?
@@ -364,8 +364,8 @@
 113. NOAH: And the patient demand problem?
      노아: 그럼 환자 수요 문제는요?
 
-114. ZOE: Next month. I'll bring a consumer campaign. Elena will hate it.
-     조이: 다음 달에요. 소비자 캠페인을 가져올게요. 엘레나가 싫어할 거예요.
+114. ZOE: Next month. I'll bring a proper consumer campaign, aimed at patients this time, not doctors. Elena will hate it, of course, so I'll need data she can't argue with.
+     조이: 다음 달에요. 이번엔 의사가 아니라 환자를 겨냥한 제대로 된 소비자 캠페인을 가져올게요. 물론 엘레나는 싫어하겠죠. 그러니까 그녀가 반박할 수 없는 데이터가 필요해요.
 
 115. AVA: Can I help with that one?
      에이바: 그거 제가 도와도 돼요?
@@ -423,3 +423,18 @@
 | *New:* Days since last supplier surprise | 0 | ↑ | 🟡 |
 
 > **Decision:** Move $150K ads → training (3 trainers + online theory module). Target: training wait < 7 days by week 12. Keep $30K retargeting.
+
+### ④ 긴 발화 분석
+
+> **81턴 ZOE:** "Here's my proposal. We move one hundred fifty thousand dollars from digital ads to training. Ads cost us sixteen thousand per clinic, training costs two thousand, so the math is pretty clear."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 예고(신호) | Here's my proposal. | 지금부터 결정할 안건이라는 신호를 먼저 준다 |
+| ② 제안(행동+숫자) | We move one hundred fifty thousand dollars from digital ads to training. | 무엇을 어디서 어디로 옮길지 한 문장으로 |
+| ③ 근거(비교 숫자) | Ads cost us sixteen thousand per clinic, training costs two thousand, | 같은 기준(병원당 비용)으로 두 채널을 나란히 비교 |
+| ④ 결론(so) | so the math is pretty clear. | 숫자가 말하게 하고 결정을 요청 |
+
+**활용 패턴:** Here's my proposal → 행동(from A to B) → A 비용 vs B 비용 → so 결론
+**연결 표현:** Here's my proposal(제 제안은 이거예요) · per clinic(병원당) · so the math is clear(계산이 분명하다)
+**연습:** 효과 없는 채널의 예산을 다른 곳으로 옮기자고 팀장에게 제안하는 말을 같은 구조로 30단어 안팎으로 해 보기.

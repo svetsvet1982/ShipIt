@@ -35,8 +35,8 @@
 06. NOAH: …How do you know about that?
     노아: …그건 어떻게 알아?
 
-07. CLAIRE: Marcus called me. Last week. He was worried. Marcus doesn't call people. He calls suppliers.
-    클레어: 마커스가 전화했어. 지난주에. 걱정하더라. 마커스는 사람한테 전화 안 해. 공급업체한테나 하지.
+07. CLAIRE: Marcus called me. Last week. He was worried, and he said you'd been eating breakfast in the afternoon. Marcus doesn't call people, Noah. He calls suppliers. So when he picks up the phone to call me, I listen.
+    클레어: 마커스가 전화했어. 지난주에. 걱정하더라. 당신이 오후에 아침을 먹고 있다고. 마커스는 사람한테 전화 안 해, 노아. 공급업체한테나 하지. 그러니까 그 사람이 나한테 전화를 걸면, 난 귀 기울여.
 
 08. NOAH: Marcus should mind his own business.
     노아: 마커스는 자기 일이나 신경 써야지.
@@ -67,8 +67,8 @@
 16. NOAH: An inspection?
     노아: 점검?
 
-17. CLAIRE: It's what I do. When a bridge worries me, I don't shout at it. I measure it.
-    클레어: 내가 하는 일이야. 다리가 걱정되면 소리 지르지 않아. 측정하지.
+17. CLAIRE: It's what I do. When a bridge worries me, I don't shout at it, and I don't ignore it either. I measure it. I write down what I see, I check the numbers, and then I decide whether it can safely carry more weight.
+    클레어: 내가 하는 일이야. 다리가 걱정되면 소리 지르지 않아. 무시하지도 않고. 측정하지. 본 걸 적고, 숫자를 확인하고, 그다음에 무게를 더 실어도 안전한지 판단해.
 
 18. NOAH: And I'm the bridge.
     노아: 그리고 내가 그 다리고.
@@ -136,8 +136,8 @@
 39. CLAIRE: Nobody. Your car told me. The rumble strip marks on the right tyre. I'm an engineer.
     클레어: 아무도. 당신 차가 말해 줬어. 오른쪽 타이어에 럼블 스트립 자국. 난 엔지니어야.
 
-40. NOAH: I drifted. For a second. I was tired. I woke up. It was fine.
-    노아: 차선을 벗어났어. 잠깐. 피곤했어. 깼어. 괜찮았어.
+40. NOAH: I drifted. For a second. I'd been on calls all day, I was tired, and the road was straight and quiet. Then the noise under the tyres woke me up, I pulled back into my lane, and that was it. It was fine.
+    노아: 차선을 벗어났어. 잠깐. 하루 종일 통화했고, 피곤했고, 길은 곧고 조용했어. 그러다 타이어 밑에서 나는 소리에 깼고, 다시 차선으로 돌아왔어. 그게 다야. 괜찮았어.
 
 41. CLAIRE: It was fine. Like "it's okay." Like the bridge text I sent you in February.
     클레어: 괜찮았다. "괜찮아"처럼. 2월에 내가 보낸 다리 문자처럼.
@@ -157,8 +157,8 @@
 46. NOAH: Lily too?
     노아: 릴리도?
 
-47. CLAIRE: Noah. Remember what I said? Every bridge has a maximum load. Go above it, and something cracks.
-    클레어: 노아. 내가 했던 말 기억해? 모든 다리엔 최대 하중이 있어. 넘으면, 뭔가 금이 가.
+47. CLAIRE: Noah. Remember what I told you? Every bridge has a maximum load. It doesn't matter how strong it looks or how proud the engineers are. Go above that load for long enough, and something cracks.
+    클레어: 노아. 내가 했던 말 기억해? 모든 다리엔 최대 하중이 있어. 얼마나 튼튼해 보이든, 엔지니어들이 얼마나 자랑스러워하든 상관없어. 그 하중을 넘긴 채로 오래 버티면, 뭔가 금이 가.
 
 48. NOAH: "Usually where you're not looking."
     노아: "대개 안 보고 있는 곳에서."
@@ -177,8 +177,8 @@
 52. CLAIRE: Then why? Why not slow down?
     클레어: 그럼 왜? 왜 속도를 안 줄여?
 
-53. NOAH: Because there's always an "after." After CE. After launch. After the relaunch. After the Series C.
-    노아: 항상 "이후"가 있으니까. CE 이후. 출시 이후. 재출범 이후. 시리즈 C 이후.
+53. NOAH: Because there's always an 'after.' I keep telling myself I'll slow down once we reach the next milestone, but every milestone has another one right behind it. After CE. After launch. After the relaunch. After the Series C.
+    노아: 항상 '이후'가 있으니까. 다음 목표만 넘으면 속도를 줄이겠다고 계속 나 자신한테 말하는데, 목표마다 바로 뒤에 또 다른 목표가 있어. CE 이후. 출시 이후. 재출범 이후. 시리즈 C 이후.
 
 54. CLAIRE: And after the Series C? An IPO? Asia? There's always an after, Noah. That's the trap.
     클레어: 그럼 시리즈 C 이후엔? 상장? 아시아? 항상 이후가 있어, 노아. 그게 함정이야.
@@ -213,8 +213,8 @@
 64. CLAIRE: Noah…
     클레어: 노아…
 
-65. NOAH: I was at a Halvern client dinner. Selling Lumaderm. I read it two hours later.
-    노아: 할번 고객 저녁 자리에 있었어. 루마덤을 팔면서. 두 시간 뒤에 읽었어.
+65. NOAH: I was at a Halvern client dinner, selling Lumaderm, smiling at people and talking about margins. My phone was in my jacket on silent. I read her message two hours later, and by then it had already started.
+    노아: 할번 고객 저녁 자리에 있었어. 루마덤을 팔면서, 사람들한테 웃어 주고 마진 얘기를 하면서. 전화는 무음으로 재킷 안에 있었어. 두 시간 뒤에 메시지를 읽었고, 그땐 이미 일이 시작된 뒤였어.
 
 66. CLAIRE: You've never told me that.
     클레어: 그 얘기 한 번도 안 했잖아.
@@ -240,8 +240,8 @@
 73. NOAH: …
     노아: …
 
-74. CLAIRE: You didn't build a company that needs you every minute. You built one that works without you. Good news.
-    클레어: 당신은 매 순간 당신이 필요한 회사를 만든 게 아니야. 당신 없이도 돌아가는 회사를 만들었어. 좋은 소식이지.
+74. CLAIRE: You didn't build a company that needs you every minute. You built a company with good people and clear rules, one that keeps its promises even when you're asleep. That's not a failure, Noah. That's the whole point. It's good news.
+    클레어: 당신은 매 순간 당신이 필요한 회사를 만든 게 아니야. 좋은 사람들과 분명한 규칙이 있는 회사, 당신이 자는 동안에도 약속을 지키는 회사를 만들었어. 그건 실패가 아니야, 노아. 그게 핵심이야. 좋은 소식이지.
 
 75. NOAH: That doesn't feel like good news.
     노아: 좋은 소식처럼 느껴지지 않는데.
@@ -284,14 +284,14 @@
 87. NOAH: "Good"? That's it?
     노아: "좋아요"? 그게 다예요?
 
-88. JAMES: I wrote "Noah not attending" in the event plan. In September. I was waiting for you to catch up.
-    제임스: 9월에 행사 계획에 "노아 불참"이라고 써 놨어요. 당신이 따라오길 기다리고 있었죠.
+88. JAMES: I wrote 'Noah not attending' in the event plan. In September. Not because we don't want you, but because the relaunch is about British nurses and British patients, and it's stronger without an American CEO on stage. I was waiting for you to catch up.
+    제임스: 9월에 행사 계획에 '노아 불참'이라고 써 놨어요. 당신을 원하지 않아서가 아니라, 재출범은 영국 간호사와 영국 환자들에 관한 거라서요. 무대에 미국인 CEO가 없을 때 더 강해요. 당신이 따라오길 기다리고 있었죠.
 
 89. NOAH: You planned my absence?
     노아: 내 불참을 계획했어요?
 
-90. JAMES: I planned your relaunch. It doesn't need you. Sofia's flying in. She'll do the numbers. Sarah will do the patients.
-    제임스: 당신 재출범을 계획했죠. 당신이 필요 없어요. 소피아가 와요. 숫자는 소피아가. 환자는 사라가.
+90. JAMES: I planned your relaunch, and it doesn't need you. Sofia's flying in, so she'll handle the numbers and the nurses' questions. Sarah will talk to the patients, because they trust her. And I'll make sure nothing falls through the cracks.
+    제임스: 당신 재출범을 계획했고, 거기엔 당신이 필요 없어요. 소피아가 오니까 숫자랑 간호사들 질문은 소피아가 맡아요. 환자들은 사라를 믿으니까 사라가 환자들과 얘기하고요. 그리고 빠지는 게 없도록 내가 챙길게요.
 
 91. NOAH: And me?
     노아: 그럼 난요?
@@ -320,8 +320,8 @@
 99. ELENA: I've been waiting a year for you to ask. Yes.
     엘레나: 그 질문 1년 기다렸어요. 네.
 
-100. NOAH: Rules. After seven p.m., no calls. Emergencies go to you first. If it's truly an emergency, you call me.
-     노아: 규칙. 저녁 7시 이후 통화 금지. 응급은 당신한테 먼저. 진짜 응급이면, 당신이 나한테 전화해요.
+100. NOAH: Here are the rules. After seven p.m., no calls. Emergencies go to you first, not to me, and you decide what happens next. If it's truly an emergency, you call me. Otherwise, it waits until morning, even if I complain.
+     노아: 규칙이에요. 저녁 7시 이후 통화 금지. 응급은 나 말고 당신한테 먼저 가고, 다음에 뭘 할지는 당신이 정해요. 진짜 응급이면 당신이 나한테 전화해요. 아니면 내가 투덜대도 아침까지 기다리는 거예요.
 
 101. ELENA: And what counts as an emergency?
      엘레나: 그럼 뭐가 응급이에요?
@@ -329,8 +329,8 @@
 102. NOAH: A patient. A recall. A regulator. Not a poster. Not a number. Not Tom.
      노아: 환자. 회수. 규제 기관. 포스터 말고. 숫자 말고. 톰 말고.
 
-103. ELENA: Agreed. And Noah? See a cardiologist. Monday. I've already booked it.
-     엘레나: 동의해요. 그리고 노아? 심장내과 가요. 월요일. 이미 예약해 놨어요.
+103. ELENA: Agreed. And Noah? I'm saying this as a doctor, not as your deputy. A racing heart at night and falling asleep at the wheel are not things you wait out. See a cardiologist. Monday. I've already booked it.
+     엘레나: 동의해요. 그리고 노아? 이건 대리로서가 아니라 의사로서 하는 말이에요. 밤에 심장이 두근거리고 운전 중에 조는 건 그냥 지나가길 기다릴 일이 아니에요. 심장내과 가요. 월요일. 이미 예약해 놨어요.
 
 104. NOAH: Of course you have. Sofia, it's me. You're leading the London relaunch. I'm not coming.
      노아: 그랬겠죠. 소피아, 나예요. 런던 재출범은 당신이 이끌어요. 나 안 가요.
@@ -355,8 +355,8 @@
 110. CLAIRE: That's what reduced load feels like. You'll get used to it.
      클레어: 하중이 줄면 그런 느낌이야. 익숙해질 거야.
 
-111. NOAH: I need to step back. Not out. Back. One day a week with no travel. One trip a month. Maximum.
-     노아: 물러서야 해. 나가는 게 아니라. 뒤로. 주 1일은 출장 없이. 출장은 한 달에 한 번. 최대.
+111. NOAH: I need to step back. Not out. Back. So here's what I'm going to do. One day a week with no travel at all, and one trip a month, maximum. Elena covers the rest, and Sofia takes London.
+     노아: 물러서야 해. 나가는 게 아니라. 뒤로. 그래서 이렇게 할 거야. 주 1일은 출장 없이, 출장은 한 달에 한 번이 최대. 나머진 엘레나가 맡고, 런던은 소피아가 맡아.
 
 112. CLAIRE: Write it down. Show Elena. She'll enforce it better than me.
      클레어: 적어. 엘레나한테 보여 줘. 나보다 더 잘 지키게 할 거야.
@@ -419,3 +419,18 @@
 | Health | Cardiologist Monday (booked by Elena) · three meals · phone in a drawer at night | Claire |
 
 > *"I need to step back. Not out. Back."*
+
+### ④ 긴 발화 분석
+
+> **100턴 NOAH:** "Here are the rules. After seven p.m., no calls. Emergencies go to you first, not to me, and you decide what happens next. If it's truly an emergency, you call me. Otherwise, it waits until morning, even if I complain."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 예고 | Here are the rules. | 지금부터 경계를 정한다는 신호 |
+| ② 경계(기본 규칙) | After seven p.m., no calls. | 짧고 예외 없는 문장으로 선을 긋기 |
+| ③ 위임(권한 이전) | Emergencies go to you first, not to me, and you decide what happens next. | 누가 먼저 받고 누가 결정하는지 명확히 |
+| ④ 예외와 기본값 | If it's truly an emergency, you call me. Otherwise, it waits until morning, even if I complain. | If…/Otherwise로 예외와 기본 원칙을 구분 |
+
+**활용 패턴:** Here are the rules → 기본 규칙 → 위임 (A, not B) → If… / Otherwise…
+**연결 표현:** not to me(나 말고) · you decide…(결정은 당신이) · If it's truly…(정말 ~라면) · Otherwise(그렇지 않으면) · even if…(~하더라도)
+**연습:** 휴가 전 대리인에게 업무 연락 규칙을 정해 주는 상황으로, 같은 구조로 40단어 안팎 말해 보기.

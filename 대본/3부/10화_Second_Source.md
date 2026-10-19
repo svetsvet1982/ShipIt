@@ -50,8 +50,8 @@
 11. MARCUS: Positive means no?
     마커스: 긍정적이 거절이라고?
 
-12. GRACE: Positive means "not today." Watch the faces. Not just the words.
-    그레이스: 긍정적이란 건 "오늘은 아니다"예요. 말만 보지 말고 표정을 보세요.
+12. GRACE: Positive means 'not today.' Koreans often avoid a direct no, especially with guests, because it can feel rude. So watch the faces, not just the words. The face tells you first.
+    그레이스: 긍정적이란 건 '오늘은 아니다'예요. 한국 사람들은 특히 손님 앞에선 직접적인 거절을 피하는 경우가 많아요. 무례하게 느껴질 수 있으니까요. 그러니 말만 보지 말고 표정을 보세요. 표정이 먼저 알려 줘요.
 
 13. MARCUS: And rule nine? Business?
     마커스: 그리고 9번? 비즈니스?
@@ -85,8 +85,8 @@
 22. MARCUS: Of course.
     마커스: 물론이죠.
 
-23. PARK: I will be honest. Many American companies visited. Few came back.
-    박 대표: 솔직히 말씀드리죠. 많은 미국 회사가 방문했습니다. 다시 온 곳은 적었어요.
+23. PARK: I will be honest. Many American companies visited us. They toured the factory, took photos, asked for prices. Few came back. So forgive me if I am careful today.
+    박 대표: 솔직히 말씀드리죠. 많은 미국 회사가 방문했습니다. 공장을 둘러보고, 사진을 찍고, 가격을 물었죠. 다시 온 곳은 적었어요. 그러니 오늘 제가 조심스럽더라도 이해해 주십시오.
 
 24. MARCUS: Why didn't they come back?
     마커스: 왜 다시 안 왔나요?
@@ -124,8 +124,8 @@
 35. GRACE: You show us the major ones? On day one?
     그레이스: 중대 일탈을 보여 주시는 거예요? 첫날에?
 
-36. SUJIN: If I hide them, you will find them later. Then you won't trust me.
-    수진: 숨기면 나중에 찾으실 거고. 그럼 절 믿지 않으시겠죠.
+36. SUJIN: If I hide them, you will find them later during your audit. Then you won't trust anything I say, even the good numbers. So I show you everything on day one.
+    수진: 숨기면 실사 중에 나중에 찾으실 거예요. 그럼 제가 하는 말은 좋은 숫자까지 전부 믿지 않으시겠죠. 그래서 첫날 모든 걸 보여 드리는 거예요.
 
 37. MARCUS: My wife would love you. She says, "Show your work."
     마커스: 우리 아내가 당신을 좋아하겠네요. "풀이 과정을 보여 줘"가 아내 말이거든요.
@@ -163,8 +163,8 @@
 48. MARCUS: And?
     마커스: 그래서요?
 
-49. SUJIN: Close. Not identical. Viscosity was nine percent high. We need Priya.
-    수진: 근접해요. 동일하진 않고요. 점도가 9퍼센트 높았어요. 프리야가 필요해요.
+49. SUJIN: Close. Not identical. Viscosity was nine percent high, so the gel would feel different in the syringe. I think the second step needs adjusting, but I can't guess. We need Priya.
+    수진: 근접해요. 동일하진 않고요. 점도가 9퍼센트 높아서 주사기 안에서 젤 느낌이 다를 거예요. 두 번째 단계를 조정해야 할 것 같은데, 추측으로는 못 해요. 프리야가 필요해요.
 
 50. MARCUS: Honest answer. Thank you. Let's talk in the meeting room.
     마커스: 정직한 답변이네요. 감사합니다. 회의실에서 얘기하죠.
@@ -195,8 +195,8 @@
 58. SUJIN: Transfer, three months. Three validation batches, four months. Stability data, three more.
     수진: 이전 3개월. 검증 배치 3회 4개월. 안정성 데이터 3개월 더.
 
-59. GRACE: That's ten months. Then the FDA supplement.
-    그레이스: 10개월이네요. 그다음에 FDA 변경 신청.
+59. GRACE: That's ten months in total. Then we still have to file the FDA supplement and wait for their review, so the real date is later than ten months.
+    그레이스: 전부 합쳐 10개월이네요. 그다음에도 FDA 변경 신청을 내고 심사를 기다려야 하니까, 실제 날짜는 10개월보다 늦어요.
 
 60. MARCUS: Our launch is in five months. So you're qualified after launch.
     마커스: 우리 출시는 5개월 뒤예요. 그러니 출시 후에 적격 판정이 나는 거네요.
@@ -219,8 +219,8 @@
 66. MARCUS: Please.
     마커스: 말씀하세요.
 
-67. PARK: When Veyra comes to Asia, Seorin wants the first conversation. About distribution.
-    박 대표: 베이라가 아시아에 올 때, 서린이 첫 대화를 원합니다. 유통에 관해.
+67. PARK: When Veyra comes to Asia, Seorin wants the first conversation about distribution. We know the Korean market and the hospitals here. And we would like to be a partner, not only a factory.
+    박 대표: 베이라가 아시아에 올 때, 서린이 유통에 관한 첫 대화를 원합니다. 우리는 한국 시장과 이곳 병원들을 압니다. 그리고 단지 공장이 아니라 파트너가 되고 싶습니다.
 
 68. MARCUS: Asia rights? I can't promise that today. Our CEO and board decide.
     마커스: 아시아 판권요? 오늘 약속은 못 해요. CEO와 이사회가 결정해요.
@@ -237,8 +237,8 @@
 72. PARK: Please.
     박 대표: 말씀하세요.
 
-73. MARCUS: A right of first negotiation. Not rights. A first conversation. In writing.
-    마커스: 우선 협상권. 판권 말고. 첫 대화. 서면으로.
+73. MARCUS: A right of first negotiation. Not rights. When we're ready for Asia, you get the first conversation before anyone else. It's smaller than you asked for, but it's real. In writing.
+    마커스: 우선 협상권. 판권 말고요. 우리가 아시아에 갈 준비가 되면, 다른 누구보다 먼저 첫 대화를 하시는 겁니다. 요청하신 것보다 작지만 진짜예요. 서면으로.
 
 74. PARK: In writing. That is different from most Americans.
     박 대표: 서면으로. 대부분의 미국인과 다르네요.
@@ -272,8 +272,8 @@
 83. PARK: Perfect. You were really a soldier?
     박 대표: 완벽해요. 정말 군인이셨어요?
 
-84. MARCUS: Eight years. Supply officer. I moved things that couldn't be late.
-    마커스: 8년. 보급 장교. 늦으면 안 되는 물건들을 옮겼죠.
+84. MARCUS: Eight years. Supply officer. I moved things that couldn't be late, like fuel, food, and medicine. If my trucks were late, people went without. That's why I worry about suppliers.
+    마커스: 8년. 보급 장교. 늦으면 안 되는 물건들을 옮겼죠. 연료, 식량, 의약품 같은 거요. 제 트럭이 늦으면 사람들이 굶거나 버텨야 했어요. 그래서 제가 공급처를 걱정하는 겁니다.
 
 85. PARK: I served two years. Everyone in Korea does. I was a cook.
     박 대표: 전 2년 복무했어요. 한국 남자는 다 하죠. 전 취사병이었어요.
@@ -287,8 +287,8 @@
 88. GRACE: Daepyo-nim, may I ask now? Which company found a bigger partner?
     그레이스: 대표님, 이제 여쭤봐도 될까요? 어느 회사가 더 큰 파트너를 찾았나요?
 
-89. PARK: Five years ago. An audit, six months of work, a handshake. Then silence.
-    박 대표: 5년 전. 실사, 6개월의 작업, 악수. 그리고 침묵.
+89. PARK: Five years ago. An audit, six months of work, and a handshake in this room. We worked hard to be ready for them. Then silence. Nothing for weeks.
+    박 대표: 5년 전. 실사, 6개월의 작업, 그리고 이 방에서의 악수. 그들을 맞을 준비를 하려고 열심히 일했죠. 그리고 침묵. 몇 주 동안 아무것도.
 
 90. MARCUS: No call? No letter?
     마커스: 전화도 없이요? 편지도 없이?
@@ -311,8 +311,8 @@
 96. PARK: Then we have the same scar.
     박 대표: 그럼 우린 같은 흉터가 있네요.
 
-97. MARCUS: CEO Park. I can't promise Asia. But I can promise a phone call. Always.
-    마커스: 박 대표님. 아시아는 약속 못 해요. 하지만 전화는 약속할 수 있어요. 언제나.
+97. MARCUS: CEO Park, I can't promise Asia. That's not my decision. But I can promise a phone call, always. If something changes, you'll hear it from a person, not an inbox.
+    마커스: 박 대표님, 아시아는 약속 못 해요. 제가 결정할 일이 아니거든요. 하지만 전화는 약속할 수 있어요. 언제나. 뭔가 바뀌면, 받은편지함이 아니라 사람에게서 듣게 되실 겁니다.
 
 98. PARK: Even with bad news?
     박 대표: 나쁜 소식이라도요?
@@ -361,14 +361,14 @@
 112. NOAH: Can we build a safety stock? From Meridian?
      노아: 안전 재고를 쌓을 수 있을까? 메리디안에서?
 
-113. MARCUS: Maybe four months of buffer. It costs cash. We'll argue at Go/No-Go.
-     마커스: 4개월치 버퍼 정도. 현금이 들어. Go/No-Go 때 논쟁하자.
+113. MARCUS: Maybe four months of buffer. It costs cash, because we pay Meridian now and sell later, and the bank will ask about it. We'll argue at Go/No-Go.
+     마커스: 4개월치 버퍼 정도. 현금이 들어. 메리디안엔 지금 돈을 내고 판매는 나중에 하니까. 은행도 물어볼 거고. Go/No-Go 때 논쟁하자.
 
 114. NOAH: Anything else?
      노아: 다른 건?
 
-115. GRACE: One thing. Halvern walked away from them five years ago. With a one-line email.
-     그레이스: 하나요. 할번이 5년 전에 그들을 떠났대요. 한 줄짜리 이메일로.
+115. GRACE: One thing. Halvern walked away from them five years ago, with a one-line email. CEO Park hasn't forgotten, and I think that's why he trusted Marcus's promise about phone calls.
+     그레이스: 하나요. 할번이 5년 전에 한 줄짜리 이메일로 그들을 떠났대요. 박 대표님은 잊지 않으셨어요. 그래서 마커스의 전화 약속을 믿으신 것 같아요.
 
 116. NOAH: That sounds familiar.
      노아: 익숙한 얘기네.
@@ -419,3 +419,18 @@
 | Timeline | Transfer → batches → stability? | 3 + 4 + 3 = 10 months + FDA supplement |
 | Price | Per unit, filled and sterile? | $9 (vs. Meridian $11) |
 | Conditions | Any strings attached? | Right of first negotiation for Asia (in writing) |
+
+### ④ 긴 발화 분석
+
+> **73턴 MARCUS:** "A right of first negotiation. Not rights. When we're ready for Asia, you get the first conversation before anyone else. It's smaller than you asked for, but it's real. In writing."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 대안 제시(이름) | A right of first negotiation. Not rights. | 무엇을 주고 무엇을 주지 않는지 먼저 선을 그음 |
+| ② 내용 설명 | When we're ready for Asia, you get the first conversation before anyone else. | When절로 조건과 시점을 명확히 함 |
+| ③ 솔직한 인정 | It's smaller than you asked for, but it's real. | 요청보다 작다는 걸 먼저 인정하고 but으로 가치를 강조 |
+| ④ 신뢰 장치 | In writing. | 말뿐인 약속이 아님을 보여 줌 |
+
+**활용 패턴:** 대안 이름 + "Not A." → When…, you get… → "It's smaller than…, but it's real." → 보증
+**연결 표현:** Not rights(판권은 아니다) · When we're ready(우리가 준비되면) · before anyone else(다른 누구보다 먼저) · smaller than you asked for, but…(요청보다 작지만)
+**연습:** 독점 계약을 원하는 거래처에게 "우선 공급"을 대신 제안하는 상황을 같은 구조로 30단어 안팎으로 말해 보기.

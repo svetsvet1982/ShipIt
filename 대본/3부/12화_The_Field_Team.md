@@ -38,8 +38,8 @@
 07. ZOE: So one knows selling. One knows clinics.
     조이: 그러니까 한 명은 영업을 알고. 한 명은 병원을 알죠.
 
-08. TASHA: My rule. Don't ask what they would do. Ask what they did.
-    타샤: 제 규칙. 뭘 할 건지 묻지 마요. 뭘 했는지 물어요.
+08. TASHA: My rule. Don't ask what they would do. Ask what they did. Anyone can describe a perfect answer, but only real stories show how a person behaves when things go wrong.
+    타샤: 제 규칙. 뭘 할 건지 묻지 마요. 뭘 했는지 물어요. 완벽한 답은 누구나 말할 수 있지만, 일이 틀어졌을 때 어떻게 행동하는지는 실제 이야기만 보여 줘요.
 
 09. MARCUS: Behavior, not opinions. Like reading a deviation log.
     마커스: 의견 말고 행동. 일탈 기록 읽는 것처럼.
@@ -79,8 +79,8 @@
 20. ZOE: What did you do?
     조이: 뭘 하셨어요?
 
-21. DEREK: I visited every Tuesday. For nine months. With good coffee. Never a pitch.
-    데릭: 매주 화요일 방문했어요. 9개월 동안. 좋은 커피 들고. 피칭은 한 번도 안 하고.
+21. DEREK: I visited every Tuesday. For nine months. With good coffee. Never a pitch. I learned their kids' names, their problems, their complaints about the competitor. When they were ready, I was there.
+    데릭: 매주 화요일 방문했어요. 9개월 동안. 좋은 커피 들고. 피칭은 한 번도 안 하고. 그분들 아이 이름, 고민, 경쟁 제품에 대한 불만까지 알게 됐죠. 그들이 준비됐을 때, 제가 거기 있었어요.
 
 22. ZOE: And the result?
     조이: 결과는요?
@@ -124,8 +124,8 @@
 35. NOAH: What would you do differently?
     노아: 다르게 한다면 뭘 하겠어요?
 
-36. DEREK: Nothing. You can't beat a price war. Marketing should have helped.
-    데릭: 아무것도요. 가격 전쟁은 못 이겨요. 마케팅이 도왔어야 했죠.
+36. DEREK: Nothing. You can't beat a price war. The product was good, my relationships were good, but the discount was bigger. Marketing should have helped me justify our price.
+    데릭: 아무것도요. 가격 전쟁은 못 이겨요. 제품도 좋았고 제 관계도 좋았는데, 할인이 더 컸어요. 마케팅이 우리 가격을 정당화하도록 도왔어야 했죠.
 
 37. ZOE: As the marketing person, I'll remember that.
     조이: 마케팅 담당으로서, 기억해 둘게요.
@@ -136,8 +136,8 @@
 39. MARCUS: Why leave Kessler? Fifteen years is a long time.
     마커스: 케슬러는 왜 떠나요? 15년이면 긴 시간인데.
 
-40. DEREK: Kessler is a big ship. Slow. I want a rocket. And equity.
-    데릭: 케슬러는 큰 배예요. 느리죠. 전 로켓을 원해요. 그리고 지분도.
+40. DEREK: Kessler is a big ship. Slow. Every decision takes months of meetings. I want a rocket, a team that moves fast, and equity. I've made other people rich for fifteen years.
+    데릭: 케슬러는 큰 배예요. 느리죠. 결정 하나에 몇 달씩 회의를 해요. 전 로켓을 원해요. 빨리 움직이는 팀, 그리고 지분도요. 15년 동안 남들을 부자로 만들어 줬거든요.
 
 41. NOAH: What compensation are you expecting?
     노아: 기대하는 보상은 어느 정도예요?
@@ -166,8 +166,8 @@
 49. NOAH: Does that matter?
     노아: 그게 중요한가요?
 
-50. DEREK: It means I know how he thinks. That's worth something. See you soon.
-    데릭: 그가 어떻게 생각하는지 안다는 뜻이죠. 그건 가치가 있어요. 곧 봬요.
+50. DEREK: It means I know how he thinks. When Halvern plans a price cut or a new launch, I'll know what Tom will do before he does it. That's worth something. See you soon.
+    데릭: 그가 어떻게 생각하는지 안다는 뜻이죠. 할번이 가격 인하나 신제품 출시를 계획하면, 톰이 움직이기 전에 제가 먼저 알 거예요. 그건 가치가 있어요. 곧 봬요.
 
 ### 장면2 — 오후 2시, Ava Reed
 
@@ -201,8 +201,8 @@
 60. ZOE: How?
     조이: 어떻게요?
 
-61. AVA: I priced one lawsuit. Then one kit. I put both numbers on one page.
-    에이바: 소송 한 건 비용을 알아봤어요. 그다음 키트 하나. 두 숫자를 한 장에 넣었죠.
+61. AVA: I priced one lawsuit. Then one kit. I put both numbers on one page, side by side, with no comments. I didn't argue anymore. I just let the numbers talk to him.
+    에이바: 소송 한 건 비용을 알아봤어요. 그다음 키트 하나. 두 숫자를 한 장에 나란히, 아무 설명 없이 넣었죠. 더 이상 따지지 않았어요. 그냥 숫자가 말하게 했어요.
 
 62. MARCUS: And?
     마커스: 그래서?
@@ -234,8 +234,8 @@
 71. NOAH: What did you do?
     노아: 어떻게 했어요?
 
-72. AVA: I apologized. Paid her gas. Then built a new booking check. No repeats since.
-    에이바: 사과했어요. 기름값을 드렸고요. 그리고 새 예약 확인 절차를 만들었어요. 이후로 재발 없음.
+72. AVA: I apologized. Paid her gas. Then I looked at why it happened. Two people could book the same slot, so I built a simple booking check. No repeats since.
+    에이바: 사과했어요. 기름값을 드렸고요. 그다음 왜 그런 일이 생겼는지 봤어요. 두 사람이 같은 시간대를 예약할 수 있었거든요. 그래서 간단한 예약 확인 절차를 만들었어요. 이후로 재발 없음.
 
 73. MARCUS: Root cause and a fix. You'd do fine in a factory.
     마커스: 근본 원인과 해결책. 공장에서도 잘하겠네.
@@ -263,11 +263,11 @@
 
 ### 절정·전환 — 오후 5시, 디브리핑
 
-81. ZOE: My vote is Derek. Three hundred dermatologists. We launch in four months.
-    조이: 제 표는 데릭이에요. 피부과 의사 300명. 우린 넉 달 뒤에 출시해요.
+81. ZOE: My vote is Derek. Three hundred dermatologists. We launch in four months, and we don't have time to build relationships from zero. He can open doors on his first day.
+    조이: 제 표는 데릭이에요. 피부과 의사 300명. 우린 넉 달 뒤에 출시하는데, 관계를 0부터 쌓을 시간이 없어요. 그는 첫날부터 문을 열 수 있어요.
 
-82. TASHA: My vote is Ava. Derek smiled about lips. That smile is a lawsuit.
-    타샤: 제 표는 에이바예요. 데릭은 입술 얘기에 웃었어요. 그 미소가 소송이에요.
+82. TASHA: My vote is Ava. Derek smiled about lips. That smile is a lawsuit. One rep who winks at off-label use can undo every safe hand we're trying to train.
+    타샤: 제 표는 에이바예요. 데릭은 입술 얘기에 웃었어요. 그 미소가 소송이에요. 오프라벨 사용에 윙크하는 영업 사원 한 명이, 우리가 길러 내려는 모든 안전한 손을 무너뜨릴 수 있어요.
 
 83. ELENA: He smiled? About off-label use? In an interview?
     엘레나: 웃었다고요? 오프라벨 사용에 대해? 면접에서?
@@ -278,11 +278,11 @@
 85. ELENA: That's how big companies get warning letters.
     엘레나: 대기업들이 그렇게 경고장을 받는 거예요.
 
-86. ZOE: Ava has no relationships. Doctors don't open doors for strangers.
-    조이: 에이바는 인맥이 없어요. 의사들은 낯선 사람에게 문을 안 열어 줘요.
+86. ZOE: Ava has no relationships. Doctors don't open doors for strangers. She'll spend months just getting into waiting rooms, and our investors won't wait that long for sales.
+    조이: 에이바는 인맥이 없어요. 의사들은 낯선 사람에게 문을 안 열어 줘요. 대기실에 들어가는 데만 몇 달이 걸릴 거고, 투자자들은 매출을 그렇게 오래 기다려 주지 않아요.
 
-87. MARCUS: Derek blamed marketing for his lost deal. Ava fixed her own mistake.
-    마커스: 데릭은 놓친 거래를 마케팅 탓으로 돌렸어. 에이바는 자기 실수를 고쳤고.
+87. MARCUS: Derek blamed marketing for his lost deal. Ava fixed her own mistake. In my factory, the person who finds the root cause gets promoted. The person who blames others doesn't last.
+    마커스: 데릭은 놓친 거래를 마케팅 탓으로 돌렸어. 에이바는 자기 실수를 고쳤고. 내 공장에선 근본 원인을 찾는 사람이 승진해. 남 탓하는 사람은 오래 못 가.
 
 88. ZOE: Fair point. That stung, actually.
     조이: 맞는 말이에요. 사실 좀 따끔했어요.
@@ -299,14 +299,14 @@
 92. MARCUS: Why more base?
     마커스: 왜 기본급을 더?
 
-93. NOAH: Heavy commission pushes reps to oversell. We can't afford one bad claim.
-    노아: 커미션이 크면 과잉 판매를 밀어붙여요. 잘못된 주장 하나도 감당 못 해요.
+93. NOAH: Here's the thing. Heavy commission pushes reps to oversell. If almost half their pay depends on volume, they'll say yes to lips. We can't afford one bad claim.
+    노아: 핵심은 이거예요. 커미션이 크면 과잉 판매를 밀어붙여요. 급여의 절반 가까이가 판매량에 달려 있으면, 입술에도 "네"라고 할 거예요. 잘못된 주장 하나도 감당 못 해요.
 
 94. ELENA: And the variable part? Only sales?
     엘레나: 그럼 성과급은요? 매출만?
 
-95. NOAH: Ava asked that. Two-thirds sales. One-third certified clinics and compliance.
-    노아: 에이바가 물었던 거예요. 3분의 2는 매출. 3분의 1은 인증 병원과 컴플라이언스.
+95. NOAH: Ava asked that. Two-thirds sales. One-third certified clinics and compliance. That way, a rep who gets clinics certified earns more than one who sells fast and cuts corners.
+    노아: 에이바가 물었던 거예요. 3분의 2는 매출. 3분의 1은 인증 병원과 컴플라이언스. 그러면 병원들을 인증받게 하는 영업 사원이, 빨리 팔고 대충 하는 사람보다 더 벌게 돼요.
 
 96. ZOE: Certified clinics. So training becomes a sales goal. I love that.
     조이: 인증 병원. 그럼 교육이 영업 목표가 되네요. 좋아요.
@@ -343,8 +343,8 @@
 106. DEREK: Seventy-thirty? And a role play? I've been doing this fifteen years.
      데릭: 70 대 30이요? 그리고 롤플레이? 저 이 일 15년 했어요.
 
-107. NOAH: Then it'll be easy for you. Same test for everyone. Including me.
-     노아: 그럼 쉬우시겠네요. 모두 같은 시험이에요. 저도 포함해서.
+107. NOAH: Then it'll be easy for you. Same test for everyone, including me. If fifteen years taught you the right answers, you'll pass quickly and we'll never mention it again.
+     노아: 그럼 쉬우시겠네요. 모두 같은 시험이에요. 저도 포함해서요. 15년 동안 정답을 배우셨다면, 금방 통과하실 거고 다시는 이 얘기 안 할 거예요.
 
 108. DEREK: You're taking the role play?
      데릭: 대표님도 롤플레이를 해요?
@@ -419,3 +419,18 @@
 | **Decision** | | **Hire — conditional on role play** | **Hire** |
 
 > **Comp plan:** Base 70% / Variable 30% → Variable = 2/3 sales + 1/3 (certified clinics + compliance)
+
+### ④ 긴 발화 분석
+
+> **72턴 AVA:** "I apologized. Paid her gas. Then I looked at why it happened. Two people could book the same slot, so I built a simple booking check. No repeats since."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 즉시 조치(Action) | I apologized. Paid her gas. | 피해자에게 먼저 한 일을 짧은 동사로 나열 |
+| ② 원인 분석 | Then I looked at why it happened. Two people could book the same slot, | Then으로 단계를 넘기고, 근본 원인을 구체적으로 제시 |
+| ③ 재발 방지(Fix) | so I built a simple booking check. | so로 원인과 해결책을 연결 |
+| ④ 결과(Result) | No repeats since. | 측정 가능한 결과로 짧게 마무리 |
+
+**활용 패턴:** 사과·즉시 조치 → 원인 → so + 해결책 → 결과 한 줄 (STAR의 Action·Result)
+**연결 표현:** Then I looked at why…(그다음 왜 ~했는지 살펴봤다) · so I built…(그래서 ~를 만들었다) · No repeats since(이후 재발 없음)
+**연습:** 면접에서 "실패 경험"을 묻는 질문에 같은 구조로 30단어 안팎으로 답해 보기.

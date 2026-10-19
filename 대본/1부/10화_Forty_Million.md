@@ -35,8 +35,8 @@
 06. KAYLA: What's the difference?
     케일라: 뭐가 달라요?
 
-07. PRIYA: Botox relaxes muscles. Filler adds volume. Like a cushion under the skin.
-    프리야: 보톡스는 근육을 이완시키고, 필러는 볼륨을 채워. 피부 아래 쿠션처럼.
+07. PRIYA: Botox relaxes muscles, so the lines soften. Filler adds volume. It's a gel that sits under the skin like a cushion and fills in the places that look hollow.
+    프리야: 보톡스는 근육을 이완시켜서 주름이 부드러워져. 필러는 볼륨을 채워. 피부 아래 쿠션처럼 자리 잡는 젤인데, 꺼져 보이는 부분을 채워 주는 거야.
 
 08. KAYLA: Cool. Can I try it?
     케일라: 멋지다. 나 해 봐도 돼요?
@@ -76,8 +76,8 @@
 19. DENISE: Five years with no money coming in. Okay. Interesting.
     데니스: 5년 동안 돈이 한 푼도 안 들어온다. 그렇군요. 흥미롭네요.
 
-20. PRIYA: That's normal for medical products. Approval comes before sales.
-    프리야: 의료 제품은 그게 정상이에요. 승인이 판매보다 먼저니까요.
+20. PRIYA: That's normal for medical products. Approval comes before sales. Until the FDA says yes, we can't sell a single syringe, so all those years are spent on research and trials.
+    프리야: 의료 제품은 그게 정상이에요. 승인이 판매보다 먼저니까요. FDA가 승인하기 전엔 주사기 하나도 못 팔아요. 그래서 그 기간은 전부 연구와 임상에 쓰이는 거예요.
 
 21. DENISE: Then every dollar counts. Let's see your total.
     데니스: 그럼 1달러 1달러가 중요하네요. 합계 좀 볼까요.
@@ -115,8 +115,8 @@
 32. NOAH: I forgot to pay everyone. Including me.
     노아: 모두의 월급을 깜빡했어요. 저까지 포함해서.
 
-33. DENISE: That's a big mistake. People are usually the biggest cost.
-    데니스: 그건 큰 실수예요. 보통 사람이 가장 큰 비용이에요.
+33. DENISE: That's a big mistake. People are usually the biggest cost. Chemists, engineers, someone to run the trial. They all need a salary every month, whether the experiments work or not.
+    데니스: 그건 큰 실수예요. 보통 사람이 가장 큰 비용이에요. 화학자, 엔지니어, 임상을 운영할 사람. 실험이 잘되든 안 되든 다들 매달 월급을 받아야 하잖아요.
 
 34. PRIYA: How many people will we need?
     프리야: 사람이 몇 명이나 필요할까요?
@@ -157,8 +157,8 @@
 46. NOAH: Let's say seventeen percent of thirty-six. That's about six million.
     노아: 3,600의 17퍼센트라고 하죠. 600만 정도네요.
 
-47. DENISE: So, forty-two million. Round numbers are easier for investors to remember.
-    데니스: 그럼 4,200만이네요. 딱 떨어지는 숫자가 투자자들이 기억하기 쉬워요.
+47. DENISE: So, forty-two million. Round numbers are easier for investors to remember. And when they ask where it comes from, you can show every step, from lab work to contingency.
+    데니스: 그럼 4,200만이네요. 딱 떨어지는 숫자가 투자자들이 기억하기 쉬워요. 그리고 그 숫자가 어디서 나왔냐고 물으면, 실험실 연구부터 예비비까지 모든 단계를 보여 줄 수 있죠.
 
 48. NOAH: Forty-two million dollars.
     노아: 4,200만 달러.
@@ -195,8 +195,8 @@
 58. MARCUS: Year three. What happened?
     마커스: 3년 차. 무슨 일이 있었는데요?
 
-59. ELENA: The trial cost more than planned. Investors lost patience.
-    엘레나: 임상이 계획보다 돈이 더 들었어요. 투자자들이 인내심을 잃었고요.
+59. ELENA: The trial cost more than planned, and it took longer. They went back to their investors for more money, and the investors lost patience. Good science, maybe, but the money ran out first.
+    엘레나: 임상이 계획보다 돈이 더 들었고, 더 오래 걸렸어요. 투자자들에게 돈을 더 달라고 다시 갔는데, 투자자들이 인내심을 잃었죠. 과학은 괜찮았을지 몰라도, 돈이 먼저 바닥났어요.
 
 60. DENISE: That's why the contingency matters. Keep that number in the model.
     데니스: 그래서 예비비가 중요한 거예요. 그 숫자는 모델에 꼭 남겨 둬요.
@@ -234,8 +234,8 @@
 71. DENISE: How much is in the company bank account?
     데니스: 회사 계좌에 얼마 있어요?
 
-72. NOAH: Twenty-five thousand. From me. Most of it goes to the outside lab.
-    노아: 2만 5천 달러요. 제 돈이에요. 대부분 외부 연구소로 나가고요.
+72. NOAH: Twenty-five thousand. From me. Most of it goes to the outside lab, because the autoclave test alone is eighteen thousand. What's left covers the bench and the small things.
+    노아: 2만 5천 달러요. 제 돈이에요. 대부분 외부 연구소로 나가요. 고압 멸균 시험 하나만 1만 8천 달러거든요. 남은 돈으로 실험대랑 자잘한 것들을 메워요.
 
 73. DENISE: And after that?
     데니스: 그다음엔요?
@@ -246,8 +246,8 @@
 75. ELENA: What about you personally, Noah? How long can you live?
     엘레나: 노아, 개인적으로는요? 얼마나 버틸 수 있어요?
 
-76. NOAH: My personal runway? About seven months. If I eat a lot of rice.
-    노아: 개인 런웨이요? 7개월쯤이요. 밥을 많이 먹으면요.
+76. NOAH: My personal runway? About seven months. If I eat a lot of rice. I quit a good salary at Halvern, so every month without funding comes straight out of my savings.
+    노아: 개인 런웨이요? 7개월쯤이요. 밥을 많이 먹으면요. 할번에서 좋은 월급을 포기했으니까, 투자 없이 보내는 한 달 한 달이 고스란히 제 저축에서 나가요.
 
 77. PRIYA: Seven months. Noah, that's not much.
     프리야: 7개월. 노아, 그거 얼마 안 되잖아.
@@ -255,8 +255,8 @@
 78. NOAH: I know. That's why we need to start fundraising soon.
     노아: 알아. 그래서 곧 투자 유치를 시작해야 해.
 
-79. MARCUS: And my runway is zero. I have a mortgage and two kids.
-    마커스: 그리고 내 런웨이는 0이야. 대출이 있고 애가 둘이니까.
+79. MARCUS: And my runway is zero. I have a mortgage and two kids. I believe in this company, but I can't stop bringing home a paycheck until Veyra can pay one.
+    마커스: 그리고 내 런웨이는 0이야. 대출이 있고 애가 둘이니까. 이 회사를 믿지만, Veyra가 월급을 줄 수 있을 때까지는 월급 받아 오는 걸 멈출 수 없어.
 
 80. DENISE: Which is why you keep your job, honey. Until there's a payroll.
     데니스: 그러니까 당신은 회사 계속 다녀야지, 여보. 월급 나올 때까진.
@@ -275,8 +275,8 @@
 84. NOAH: One step at a time. What's the first step?
     노아: 한 칸씩. 첫 번째 칸은 뭔데요?
 
-85. ELENA: Prove the idea works. In the lab, and in animals.
-    엘레나: 아이디어가 통한다는 걸 증명하는 거예요. 실험실에서, 그리고 동물에서.
+85. ELENA: Prove the idea works. In the lab, and in animals. Investors don't pay for an idea on paper, but they will pay for proof that the idea does what you say.
+    엘레나: 아이디어가 통한다는 걸 증명하는 거예요. 실험실에서, 그리고 동물에서. 투자자들은 종이 위의 아이디어엔 돈을 안 내지만, 그 아이디어가 말한 대로 된다는 증거엔 돈을 내요.
 
 86. PRIYA: That's maybe eighteen months of work.
     프리야: 그건 18개월쯤 걸리는 일이에요.
@@ -296,8 +296,8 @@
 91. DENISE: Show your work.
     데니스: 풀이 과정을 보여 줘요.
 
-92. NOAH: Here. Salaries, nine hundred thousand. Lab work, four hundred. The rest, two hundred.
-    노아: 여기요. 급여 90만, 실험 40만, 나머지 20만.
+92. NOAH: Here. Salaries, nine hundred thousand, for a small team over eighteen months. Lab work, four hundred thousand, including animal studies. The rest, two hundred, for rent, legal and everything else.
+    노아: 여기요. 급여 90만, 18개월 동안 소규모 팀 기준이에요. 실험 40만, 동물 시험 포함이고요. 나머지 20만은 임대료, 법무, 그리고 그 밖의 모든 것이에요.
 
 93. DENISE: Hmm. Add a small contingency. But yes. That's reasonable.
     데니스: 흠. 예비비를 조금 넣어요. 그래도 네, 합리적이에요.
@@ -314,8 +314,8 @@
 97. NOAH: That's the most important line in the whole model.
     노아: 그게 모델 전체에서 가장 중요한 줄이야.
 
-98. DENISE: Then each step needs a milestone. Something investors can see.
-    데니스: 그럼 각 계단마다 마일스톤이 필요해요. 투자자들이 볼 수 있는 거요.
+98. DENISE: Then each step needs a milestone. Something investors can see. If you finish a step and show the result, the next investor isn't buying a dream. They're buying evidence.
+    데니스: 그럼 각 계단마다 마일스톤이 필요해요. 투자자들이 볼 수 있는 거요. 한 계단을 끝내고 결과를 보여 주면, 다음 투자자는 꿈을 사는 게 아니에요. 증거를 사는 거죠.
 
 99. MARCUS: Step one: the gel survives the autoclave.
     마커스: 1단계: 젤이 고압 멸균을 견딘다.
@@ -376,8 +376,8 @@
 117. ELENA: Which is?
      엘레나: 그게 뭔데요?
 
-118. NOAH: Do injectors actually want this? Or do we just think they do?
-     노아: 시술자들이 이걸 정말 원할까요? 아니면 우리만 그렇게 생각하는 걸까요?
+118. NOAH: Do injectors actually want this? Or do we just think they do? We've built a whole plan on that idea, but we haven't asked enough of the people who'd use it every day.
+     노아: 시술자들이 이걸 정말 원할까요? 아니면 우리만 그렇게 생각하는 걸까요? 우린 그 생각 하나에 계획 전체를 세웠는데, 이걸 매일 쓸 사람들에게는 아직 충분히 물어보지 않았어요.
 
 119. DENISE: Good question. Never assume the answer.
      데니스: 좋은 질문이네요. 답을 절대 넘겨짚지 마요.
@@ -415,3 +415,18 @@
 
 예시:
 > *We're raising 1.5 million dollars to prove our technology in the lab and in animal studies within 18 months. The money goes to salaries (60%), lab work (27%), and legal and operations (13%). Once we hit this milestone, we'll be ready for our seed round.*
+
+### ④ 긴 발화 분석
+
+> **98턴 DENISE:** "Then each step needs a milestone. Something investors can see. If you finish a step and show the result, the next investor isn't buying a dream. They're buying evidence."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 원칙(결론) | Then each step needs a milestone. | 앞의 논의(계단식 자금 조달)에서 나오는 원칙을 먼저 말함 |
+| ② 정의(보충) | Something investors can see. | 마일스톤이 무엇인지 짧은 명사구로 풀어 줌 |
+| ③ 조건(과정) | If you finish a step and show the result, | "If…"로 실행하면 어떤 일이 생기는지 연결 |
+| ④ 대비(효과) | the next investor isn't buying a dream. They're buying evidence. | "A가 아니라 B"로 마일스톤의 가치를 한 줄로 압축 |
+
+**활용 패턴:** 원칙 → 짧은 정의 → If 조건 → "not A. B." 대비
+**연결 표현:** Then(그렇다면) · Something … can see(눈에 보이는 무언가) · isn't buying A. They're buying B.(A가 아니라 B를 사는 것이다)
+**연습:** 프로젝트를 단계별로 나눠야 하는 이유를 팀장에게 같은 구조로 30단어 안팎으로 설명해 보기.

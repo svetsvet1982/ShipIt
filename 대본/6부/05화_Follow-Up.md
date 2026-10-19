@@ -32,8 +32,8 @@
 05. NOAH: Can't we do it on the plane?
     노아: 비행기에서 하면 안 돼요?
 
-06. ZOE: Follow-ups go out within forty-eight hours. Or they forget us. Paris is full of booths.
-    조이: 후속 연락은 48시간 안에 나가야 해요. 아니면 우릴 잊어요. 파리는 부스로 가득하잖아요.
+06. ZOE: Follow-ups go out within forty-eight hours, or they forget us. Paris is full of booths, and every doctor here met dozens of companies this week. By next week, we're just one more card in a hotel drawer, unless our email arrives first.
+    조이: 후속 연락은 48시간 안에 나가야 해요. 아니면 우릴 잊어요. 파리는 부스로 가득하고, 여기 의사들은 이번 주에 수십 개 회사를 만났어요. 다음 주면 우린 호텔 서랍 속 명함 한 장일 뿐이에요. 우리 이메일이 먼저 도착하지 않는 한.
 
 07. TASHA: And the doctors who did the drill? They'll remember us longer.
     타샤: 그럼 훈련한 의사들은요? 우릴 더 오래 기억할 텐데.
@@ -82,8 +82,8 @@
 21. ZOE: UK doctors and nurses. Who asked follow-up questions?
     조이: 영국 의사와 간호사. 누가 후속 질문을 했어요?
 
-22. TASHA: Thirty-one. Most asked when training starts. Sarah Whitfield asked three times.
-    타샤: 서른하나. 대부분 교육이 언제 시작되냐고 물었어요. 세라 휫필드는 세 번 물었고요.
+22. TASHA: Thirty-one. Most of them asked when the training starts, not when the product arrives, which tells you something about the UK. And Sarah Whitfield asked three times. By the third time, I wrote her name in capitals.
+    타샤: 서른하나. 대부분 제품이 언제 오냐가 아니라 교육이 언제 시작되냐고 물었어요. 그게 영국에 대해 뭔가를 말해 주죠. 그리고 세라 휫필드는 세 번 물었어요. 세 번째엔 이름을 대문자로 적어 뒀어요.
 
 23. ELENA: And Germany?
     엘레나: 그럼 독일은요?
@@ -103,8 +103,8 @@
 28. NOAH: Fifty-two? That sounds small.
     노아: 52명? 적게 들리는데요.
 
-29. SOFIA: Fifty-two who will answer our email. That's not small. That's a real list.
-    소피아: 우리 이메일에 답할 52명이에요. 적은 게 아니에요. 진짜 명단이죠.
+29. SOFIA: Fifty-two people who will actually answer our email. That's not small, Noah. Hundreds of badge scans feel exciting, but most of those people just wanted a free card. Fifty-two doctors who can buy, follow our rule, and asked real questions is a real list.
+    소피아: 우리 이메일에 실제로 답할 52명이에요. 적은 게 아니에요, 노아. 배지 스캔 수백 건은 신나 보이지만, 대부분은 무료 카드를 원했을 뿐이에요. 살 수 있고, 우리 규칙을 따르고, 진짜 질문을 한 의사 52명. 그게 진짜 명단이에요.
 
 30. ZOE: Distributors. Six meetings. Two real. Oliver and Klaus.
     조이: 유통사. 미팅 여섯. 진짜는 둘. 올리버와 클라우스.
@@ -127,8 +127,8 @@
 36. ELENA: Park said, "Be polite. And be careful."
     엘레나: 박 대표님이 "예의 바르게. 그리고 조심하라"고 했잖아요.
 
-37. ZOE: Then polite and careful. A short thank-you. No business. Not yet.
-    조이: 그럼 예의 바르고 조심스럽게. 짧은 감사 인사. 사업 얘기 없이. 아직은.
+37. ZOE: Then polite and careful. A short thank-you, and no business, not yet. She works for the company Halvern chose over Seorin, so anything we write could end up on someone else's desk. Three sentences, warm, and nothing we'd regret seeing forwarded.
+    조이: 그럼 예의 바르고 조심스럽게. 짧은 감사 인사, 사업 얘기는 없이, 아직은요. 할번이 서린 대신 고른 회사에서 일하는 사람이니까, 우리가 쓰는 건 뭐든 다른 사람 책상에 올라갈 수 있어요. 세 문장, 따뜻하게, 그리고 전달돼도 후회하지 않을 내용만.
 
 38. MARCUS: And we tell CEO Park we sent it. Before he hears it from Su-jin.
     마커스: 그리고 박 대표님한테 보냈다고 말해. 수진 팀장한테 듣기 전에.
@@ -157,8 +157,8 @@
 46. MARCUS: And the rest? Five hundred names?
     마커스: 그럼 나머진? 이름 500개?
 
-47. SOFIA: A general newsletter. Opt-in only. GDPR. We can't just email Europeans.
-    소피아: 일반 뉴스레터. 옵트인만. GDPR. 유럽인한텐 그냥 이메일을 보낼 수 없어요.
+47. SOFIA: A general newsletter, and opt-in only, because of GDPR. In Europe, we can't just email everyone whose badge we scanned. They have to agree first, and if we ignore that, the fine could cost more than the whole booth.
+    소피아: 일반 뉴스레터요. 옵트인만. GDPR 때문에요. 유럽에선 배지를 스캔한 사람 모두에게 그냥 이메일을 보낼 수 없어요. 먼저 동의를 받아야 하고, 그걸 무시하면 벌금이 부스 전체 비용보다 더 나올 수도 있어요.
 
 48. ELENA: GDPR?
     엘레나: GDPR?
@@ -207,8 +207,8 @@
 62. SOFIA: Once. Gently. "As discussed, our partnership would focus on medical professionals."
     소피아: 한 번. 부드럽게. "논의한 대로, 저희 파트너십은 의료 전문가에 집중할 것입니다."
 
-63. ZOE: "As discussed." That's polite British. He'll understand. It's not a question. It's a condition.
-    조이: "논의한 대로." 그게 정중한 영국식이에요. 이해할 거예요. 질문이 아니라. 조건이죠.
+63. ZOE: Exactly. 'As discussed' is polite British, and he'll understand it perfectly. It's not a question, and it's not a new demand. It quietly reminds him that the rule was already on the table in Paris, which makes it a condition, not an opening offer.
+    조이: 바로 그거예요. '논의한 대로'는 정중한 영국식이고, 그 사람은 완벽하게 알아들을 거예요. 질문도 아니고, 새로운 요구도 아니에요. 그 규칙이 이미 파리에서 테이블 위에 있었다는 걸 조용히 상기시키는 거죠. 그래서 그건 협상의 출발점이 아니라 조건이 돼요.
 
 64. TASHA: Can I write Sarah's? She asked about training three times.
     타샤: 세라 것 제가 써도 돼요? 교육에 대해 세 번 물었잖아요.
@@ -234,8 +234,8 @@
 71. ZOE: Fifty? You promised ten.
     조이: 50장? 10장 약속했잖아요.
 
-72. ELENA: She'll share them. French doctors talk to each other at long lunches.
-    엘레나: 나눠 줄 거예요. 프랑스 의사들은 긴 점심 때 서로 얘기하거든요.
+72. ELENA: She'll share them, I'm sure. French doctors talk to each other at those long lunches, and one card in the right hand travels further than any ad we could buy. Forty extra cards cost us almost nothing. A forgotten step one costs a patient.
+    엘레나: 분명 나눠 줄 거예요. 프랑스 의사들은 그 긴 점심 때 서로 얘기하거든요. 맞는 사람 손에 들어간 카드 한 장이 우리가 살 수 있는 어떤 광고보다 멀리 가요. 카드 40장 더 드는 건 거의 공짜예요. 잊어버린 1단계는 환자에게 대가를 치르게 하고요.
 
 73. NOAH: And Klaus?
     노아: 그럼 클라우스는요?
@@ -281,14 +281,14 @@
 86. MARCUS: "If." That's a big word.
     마커스: "~하면." 큰 단어네.
 
-87. SOFIA: So let's say expected value. Fifty percent chance each. About one point five million. For one ninety-six spent.
-    소피아: 그럼 기대 가치로 말하죠. 각각 50% 확률. 약 150만. 19만 6천을 써서.
+87. SOFIA: Fair. So let's use expected value instead. Give each deal a fifty percent chance, which is honest for a first meeting. That's about one point five million in expected value, for one ninety-six spent. Not a promise, Marcus. A reasonable estimate.
+    소피아: 맞아요. 그럼 대신 기대 가치로 말하죠. 거래마다 50% 확률을 줘요. 첫 미팅이면 그게 솔직한 수치예요. 그러면 기대 가치가 약 150만, 19만 6천을 써서요. 약속이 아니에요, 마커스. 합리적인 추정이에요.
 
 88. MARCUS: Seven to one. I'll take that to the board.
     마커스: 7 대 1. 이사회에 가져갈게.
 
-89. ELENA: And the things we can't count? Céline forgetting step one? Two hundred thirty nurses saying "please"?
-    엘레나: 그럼 셀 수 없는 것들은요? 1단계를 잊은 셀린? "제발"이라고 쓴 간호사 230명?
+89. ELENA: And what about the things we can't count? A Paris dermatologist with twenty years of experience forgetting step one, and then asking for cards for her residents. Two hundred thirty nurses writing 'please' on a paper sheet. No spreadsheet shows that, but it's why we went.
+    엘레나: 그럼 셀 수 없는 것들은요? 20년 경력의 파리 피부과 의사가 1단계를 잊고, 그다음 전공의들을 위해 카드를 달라고 한 것. 간호사 230명이 종이에 '제발'이라고 쓴 것. 어떤 스프레드시트에도 안 나오지만, 그게 우리가 간 이유예요.
 
 90. MARCUS: Those go in the notes. Under "reasons we exist."
     마커스: 그건 메모에 넣어. "우리가 존재하는 이유" 아래에.
@@ -308,8 +308,8 @@
 95. NOAH: Tomorrow at eight? My flight home is at ten.
     노아: 내일 8시요? 귀국 비행기가 10시인데요.
 
-96. KLAUS: In Germany, we sign with people we have eaten with. Not with people we have emailed.
-    클라우스: 독일에선 함께 식사한 사람과 계약해요. 이메일만 주고받은 사람이 아니라.
+96. KLAUS: In Germany, we sign with people we have eaten with, not with people we have emailed. Your data was good, and fast. But a contract for three countries is a long marriage, Mr. Bennett. Before that, I want to see your face across a table.
+    클라우스: 독일에선 함께 식사한 사람과 계약해요. 이메일만 주고받은 사람이 아니라. 당신 데이터는 좋았고, 빨랐어요. 하지만 세 나라에 걸친 계약은 긴 결혼이에요, 베넷 씨. 그 전에 테이블 건너편에서 당신 얼굴을 보고 싶어요.
 
 97. NOAH: …I'll be there. Eight a.m.
     노아: …갈게요. 오전 8시.
@@ -326,8 +326,8 @@
 101. NOAH: It's fine, Marcus.
      노아: 괜찮아, 마커스.
 
-102. MARCUS: You said "it's fine." That's not a plan. That's a hope.
-     마커스: "괜찮다"고 했지. 그건 계획이 아니야. 희망이지.
+102. MARCUS: You said 'it's fine.' That's not a plan, Noah. That's a hope. Two is one, one is none: one flight, through Paris, in February, with no backup. If anything goes wrong, weather or strikes or a missed connection, you miss the bridge.
+     마커스: '괜찮다'고 했지. 그건 계획이 아니야, 노아. 희망이지. 둘은 하나고, 하나는 없는 거야. 2월에, 파리 경유로, 대안 없는 비행기 한 편. 날씨든 파업이든 환승 놓치는 거든 뭐 하나라도 잘못되면, 다리를 놓치는 거야.
 
 103. KLAUS: Then tomorrow, eight. Bring your appetite. And your best English. Slowly, please.
      클라우스: 그럼 내일 8시. 식욕을 가져와요. 그리고 최고의 영어를. 천천히 부탁해요.
@@ -340,8 +340,8 @@
 
 ### 마무리 — 2월 1일 샤를 드골 공항 → 2월 3일 오스틴
 
-106. NOAH: Klaus agreed. Three years, with targets. If we bring German-speaking trainers. Breakfast worked.
-     노아: 클라우스가 동의했어요. 3년, 목표 포함. 독일어 트레이너를 데려오면. 아침 식사가 통했어요.
+106. NOAH: Klaus agreed: three years, with performance targets, as long as we bring German-speaking trainers. He spent the first twenty minutes asking about my family and the last ten reading the contract terms line by line. Breakfast worked.
+     노아: 클라우스가 동의했어요. 3년, 성과 목표 포함, 독일어 트레이너를 데려온다는 조건으로요. 처음 20분은 내 가족에 대해 묻고, 마지막 10분은 계약 조건을 한 줄 한 줄 읽더라고요. 아침 식사가 통했어요.
 
 107. MARCUS: Good. Now look at the board. Every flight. Red.
      마커스: 좋아. 이제 저 전광판을 봐. 모든 항공편. 빨간색.
@@ -379,8 +379,8 @@
 118. NOAH: Check the load?
      노아: 하중을 확인하라고?
 
-119. MARCUS: Something's carrying more than it should. And you won't see the crack until later.
-     마커스: 뭔가가 감당할 수 있는 것보다 많이 지고 있다는 거야. 그리고 금은 나중에야 보이지.
+119. MARCUS: It means something's carrying more than it should. Engineers are trained to say things are fine until the numbers say otherwise, and by then it's serious. You won't see the crack until later, so you go and look before it shows.
+     마커스: 뭔가가 감당할 수 있는 것보다 많이 지고 있다는 뜻이야. 엔지니어들은 숫자가 아니라고 말할 때까지 괜찮다고 말하도록 훈련받아. 그리고 그때쯤이면 이미 심각하지. 금은 나중에야 보여. 그러니까 드러나기 전에 가서 봐야 해.
 
 120. NOAH: …Then I'll go straight from the airport to her. Bridge or no bridge.
      노아: …그럼 공항에서 바로 그 사람한테 갈게. 다리가 있든 없든.
@@ -435,3 +435,18 @@
 | Others (~500) | — | Opt-in newsletter only (**GDPR**) |
 
 > **ROI:** Spent $196K (−$4K) · Expected value ≈ $1.5M (50% × $3.1M) ≈ 7 : 1
+
+### ④ 긴 발화 분석
+
+> **87턴 SOFIA:** "Fair. So let's use expected value instead. Give each deal a fifty percent chance, which is honest for a first meeting. That's about one point five million in expected value, for one ninety-six spent. Not a promise, Marcus. A reasonable estimate."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 인정 + 방향 전환 | Fair. So let's use expected value instead. | 반론("If는 큰 단어")을 인정하고 더 보수적인 기준으로 전환 |
+| ② 가정(근거 포함) | Give each deal a fifty percent chance, which is honest for a first meeting. | 확률을 밝히고 왜 그 수치가 타당한지 덧붙이기 |
+| ③ 결과(숫자 대비) | That's about one point five million in expected value, for one ninety-six spent. | 기대 가치 vs. 지출을 한 문장에 나란히 |
+| ④ 성격 규정 | Not a promise, Marcus. A reasonable estimate. | 과장이 아님을 밝혀 신뢰를 지키기 |
+
+**활용 패턴:** Fair. → let's use ~ instead → 가정 + which is… → 결과 숫자 → "Not A. B."
+**연결 표현:** Fair(일리 있다) · let's use ~ instead(대신 ~로 보자) · which is honest for…(~로선 솔직한 수치다) · for ~ spent(~를 써서)
+**연습:** 행사·광고 성과를 묻는 상사에게, 불확실한 매출을 확률을 넣어 같은 구조로 40단어 안팎으로 보고해 보기.

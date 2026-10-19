@@ -26,8 +26,8 @@
 03. ORTEGA: Good morning. Your email said "voluntary recall." Tell me what happened.
     오르테가: 안녕하세요. 이메일에 "자발적 회수"라고 돼 있던데. 무슨 일인지 말해 주세요.
 
-04. NOAH: A container closure failure. One stability sample. Lot fourteen. Traced to a stopper batch.
-    노아: 용기 밀봉 실패. 안정성 샘플 하나. 14번 로트. 마개 배치까지 추적했어요.
+04. NOAH: A container closure failure in one stability sample from lot fourteen. We traced it to a stopper batch from a new supplier, and that batch was also used in two other lots.
+    노아: 14번 로트의 안정성 샘플 하나에서 용기 밀봉 실패가 나왔습니다. 신규 공급사의 마개 배치까지 추적했고, 그 배치가 다른 두 로트에도 쓰였습니다.
 
 05. ORTEGA: Which lots are affected?
     오르테가: 어떤 로트가 영향받았나요?
@@ -53,8 +53,8 @@
 12. DIANE: Our formal report will follow. Within ten working days.
     다이앤: 공식 보고서는 곧 보내겠습니다. 영업일 10일 이내에.
 
-13. ORTEGA: Good. We'll do a health hazard evaluation. Then we classify it. Not you.
-    오르테가: 좋아요. 건강 위해 평가를 할 거예요. 그다음 등급을 정해요. 회사가 아니라 우리가.
+13. ORTEGA: Good. Next, we'll do a health hazard evaluation, which means we look at how serious the risk to patients is. Then we classify the recall. We do that, not you.
+    오르테가: 좋아요. 다음으로 건강 위해 평가를 할 거예요. 환자에게 위험이 얼마나 심각한지 살펴본다는 뜻이죠. 그다음 회수 등급을 정해요. 그건 우리가 해요. 회사가 아니라.
 
 14. NOAH: Understood. What else do you need from us?
     노아: 알겠습니다. 저희한테 또 뭐가 필요하세요?
@@ -88,8 +88,8 @@
 23. ELENA: Isn't that phrase a cliché? Every recall uses it.
     엘레나: 그 표현 상투적이지 않아요? 모든 회수에 쓰잖아요.
 
-24. DIANE: Every recall uses it because it's true. And because doctors recognize it immediately.
-    다이앤: 사실이라서 모든 회수에 쓰는 거예요. 그리고 의사들이 바로 알아보니까요.
+24. DIANE: Every recall uses it because it's true, and because doctors recognize it immediately. When they see that phrase, they know what kind of letter this is before they read another word.
+    다이앤: 사실이라서 모든 회수에 쓰는 거예요. 그리고 의사들이 바로 알아보니까요. 그 표현을 보면, 다음 단어를 읽기도 전에 이게 어떤 서한인지 알아요.
 
 25. NOAH: Then actions. What should doctors do? Today?
     노아: 그다음 행동. 의사들은 뭘 해야 하죠? 오늘?
@@ -118,8 +118,8 @@
 33. DIANE: Careful. "We're sorry for the inconvenience" is fine. "It's our fault" is a legal statement.
     다이앤: 조심해요. "불편을 드려 죄송합니다"는 괜찮아요. "우리 잘못입니다"는 법적 진술이에요.
 
-34. NOAH: It's not just inconvenience. Doctors trusted us. With their patients' faces.
-    노아: 단순한 불편이 아니에요. 의사들이 우리를 믿었어요. 환자들의 얼굴을 맡기면서.
+34. NOAH: Here's the thing. It's not just inconvenience. Doctors trusted us with their patients' faces, and we let them down. If the letter only says "inconvenience," they'll feel we don't understand that.
+    노아: 중요한 건 이거예요. 단순한 불편이 아니에요. 의사들은 환자들의 얼굴을 우리에게 맡겼고, 우린 그 믿음을 저버렸어요. 서한에 "불편"이라고만 쓰면, 우리가 그걸 모른다고 느낄 거예요.
 
 35. DIANE: Then say what you'll do. That's stronger than blame.
     다이앤: 그럼 무엇을 할지 말해요. 그게 비난보다 강해요.
@@ -166,8 +166,8 @@
 49. NOAH: Why does it matter? They get the letter either way.
     노아: 그게 왜 중요해요? 어차피 서한은 받을 텐데.
 
-50. DEREK: Bad news in a letter feels like a lawyer. From a person, like a partner.
-    데릭: 나쁜 소식이 서한으로 오면 변호사 같아요. 사람한테서 오면 파트너 같고요.
+50. DEREK: Because bad news in a letter feels like it came from a lawyer. Bad news from a person feels like it came from a partner. Our clinics should hear it from us first.
+    데릭: 나쁜 소식이 서한으로 오면 변호사한테서 온 것 같아요. 사람한테서 오면 파트너한테서 온 것 같고요. 우리 병원들은 우리한테서 먼저 들어야 해요.
 
 ### 장면2 — 나쁜 소식 전화
 
@@ -189,14 +189,14 @@
 56. WADE: What do I tell my twelve patients?
     웨이드: 내 환자 열두 명한테 뭐라고 해요?
 
-57. DEREK: The truth. Watch for redness or warmth. Call if anything changes. We'll cover any care.
-    데릭: 진실을요. 발적이나 열감 지켜보기. 변화 있으면 전화. 필요한 치료는 저희가 부담해요.
+57. DEREK: Tell them the truth. Watch for redness or warmth, and call you if anything changes. And if any of them need care because of this, we'll cover it. All of it.
+    데릭: 진실을 말씀하세요. 발적이나 열감을 지켜보고, 뭔가 달라지면 선생님께 전화하라고요. 그리고 이 일 때문에 누구라도 치료가 필요하면 저희가 부담해요. 전부요.
 
 58. WADE: Who decided to recall? Halvern would have waited a month.
     웨이드: 회수는 누가 결정했어요? 할번이었으면 한 달은 기다렸을 텐데.
 
-59. DEREK: Our CEO. At one forty-one a.m. Honestly? I voted to wait.
-    데릭: 우리 CEO요. 새벽 1시 41분에. 솔직히요? 전 기다리자고 했어요.
+59. DEREK: Our CEO made the call, at one forty-one in the morning. Honestly? I voted to wait. I thought the data was weak, and I was worried about what clinics like yours would think.
+    데릭: 우리 CEO가 결정했어요. 새벽 1시 41분에요. 솔직히요? 전 기다리자고 했어요. 데이터가 약하다고 생각했고, 선생님 같은 병원들이 어떻게 생각할지 걱정됐거든요.
 
 60. WADE: And now?
     웨이드: 그럼 지금은요?
@@ -255,8 +255,8 @@
 78. MEGAN: Yes. It's been telling me to ice.
     메건: 네. 계속 얼음찜질하라고 해요.
 
-79. ELENA: Keep icing. Check the "Call now" list daily. Redness, warmth, worse swelling. Call us.
-    엘레나: 계속 찜질하세요. 매일 "지금 전화" 목록을 확인하고요. 발적, 열감, 악화되는 부기. 전화하세요.
+79. ELENA: Keep icing, and check the "Call now" list in the app every day. If you notice redness, warmth, or swelling that gets worse, call us right away. Any time, day or night.
+    엘레나: 계속 찜질하시고, 앱의 "지금 전화" 목록을 매일 확인하세요. 발적이나 열감, 또는 점점 심해지는 부기가 보이면 바로 저희에게 전화하세요. 밤낮 언제든지요.
 
 80. MEGAN: Thank you. A real doctor answered. I didn't expect that.
     메건: 감사해요. 진짜 의사가 받았네요. 그건 예상 못 했어요.
@@ -266,8 +266,8 @@
 81. MARCUS: Kevin. This is a formal meeting. Diane is here. We're recording. With your permission.
     마커스: 케빈. 이건 공식 회의예요. 다이앤도 있어요. 녹화합니다. 동의하시면.
 
-82. KEVIN: Permission granted. Marcus, before you start. I'm sorry. The stopper change was our mistake.
-    케빈: 동의해요. 마커스, 시작하기 전에. 미안해요. 마개 변경은 우리 실수였어요.
+82. KEVIN: Permission granted. Marcus, before you start, I want to say something. I'm sorry. Changing the stopper supplier without telling you was our mistake, and I won't pretend it wasn't.
+    케빈: 동의해요. 마커스, 시작하기 전에 할 말이 있어요. 미안해요. 말하지 않고 마개 공급사를 바꾼 건 우리 실수였어요. 아닌 척하지 않을게요.
 
 83. DIANE: Thank you for saying that. Now let's fix it. Marcus has three items.
     다이앤: 그렇게 말해 줘서 고마워요. 이제 고칩시다. 마커스가 세 가지를 말할 거예요.
@@ -290,8 +290,8 @@
 89. KEVIN: Already ordered. Delivery in three weeks. Raj is validating the incoming batches.
     케빈: 이미 주문했어요. 3주 후 납품. 라지가 입고 배치를 검증하고 있어요.
 
-90. MARCUS: Three. Preventive action. Every component change needs our written approval. Before, not after.
-    마커스: 셋. 예방 조치. 모든 부품 변경은 우리 서면 승인이 필요해요. 사후 말고 사전에.
+90. MARCUS: Three. Preventive action. From now on, every component change needs our written approval, before, not after. No exceptions. If we don't sign it, it doesn't happen.
+    마커스: 셋. 예방 조치. 앞으로 모든 부품 변경은 우리 서면 승인이 필요해요. 사후 말고 사전에. 예외 없어요. 우리가 서명하지 않으면, 그 변경은 없는 거예요.
 
 91. LEO: And Veyra joins every incoming inspection of stoppers. For one year.
     레오: 그리고 베이라가 1년 동안 모든 마개 입고 검사에 참여해요.
@@ -326,8 +326,8 @@
 101. NOAH: Priya, how long until Seorin is approved?
      노아: 프리야, 서린 승인까지 얼마나 걸려?
 
-102. PRIYA: If FDA likes the answers, six to eight weeks. Before the buffer runs out.
-     프리야: FDA가 답변을 마음에 들어 하면 6~8주. 버퍼가 떨어지기 전에.
+102. PRIYA: If FDA likes the answers, six to eight weeks. That's before the buffer runs out, but not by much. So there's no room for a second round of questions.
+     프리야: FDA가 답변을 마음에 들어 하면 6~8주. 버퍼가 떨어지기 전이긴 한데, 여유가 많지 않아. 그러니까 두 번째 질문을 받을 여유는 없어.
 
 103. MARCUS: Two is one.
      마커스: 둘은 하나.
@@ -358,8 +358,8 @@
 111. MARCUS: Lost clinics?
      마커스: 잃은 병원은?
 
-112. DEREK: Eighteen paused orders. Haddad among them. Two hundred seventy-two still ordering.
-     데릭: 주문 보류 18곳. 하다드 포함. 272곳은 계속 주문 중.
+112. DEREK: Eighteen clinics paused their orders, and Haddad is one of them. That hurts. But two hundred seventy-two are still ordering, even after a recall. Honestly, I expected much worse.
+     데릭: 18곳이 주문을 보류했고, 하다드도 그중 하나예요. 아프죠. 하지만 272곳은 회수 후에도 계속 주문하고 있어요. 솔직히 훨씬 나쁠 줄 알았어요.
 
 113. PRIYA: And one more thing. This morning. FDA approved Seorin. Our second source.
      프리야: 그리고 하나 더. 오늘 아침. FDA가 서린을 승인했어요. 우리 제2 공급처.
@@ -379,8 +379,8 @@
 118. NOAH: What does Alex want?
      노아: 알렉스가 뭘 원해요?
 
-119. ZOE: An interview. About the recall. And about Halvern. Alex says, "There's a bigger story."
-     조이: 인터뷰요. 회수에 대해서. 그리고 할번에 대해서. 알렉스가 "더 큰 이야기가 있다"고 해요.
+119. ZOE: An interview about the recall, and also about Halvern. Alex says, "There's a bigger story." I don't know what that means yet, but I didn't promise anything.
+     조이: 회수에 대한 인터뷰요. 그리고 할번에 대해서도요. 알렉스가 "더 큰 이야기가 있다"고 해요. 그게 무슨 뜻인지는 아직 모르지만, 아무것도 약속하지 않았어요.
 
 120. DIANE: Then nobody says a word until I've prepared you. Especially the words "off the record."
      다이앤: 그럼 내가 준비시킬 때까지 아무도 한마디도 하지 마요. 특히 "오프더레코드"라는 말은.
@@ -424,3 +424,18 @@
 > We're sorry this happened. We're committed to finding the root cause — and to telling you what we find.
 >
 > Noah Bennett, CEO
+
+### ④ 긴 발화 분석
+
+> **57턴 DEREK:** "Tell them the truth. Watch for redness or warmth, and call you if anything changes. And if any of them need care because of this, we'll cover it. All of it."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 원칙(한 줄) | Tell them the truth. | 상대의 질문(뭐라고 말하나)에 핵심 답부터 |
+| ② 구체적 행동 지침 | Watch for redness or warmth, and call you if anything changes. | 상대가 그대로 전달할 수 있는 행동을 제시 |
+| ③ 책임 약속(조건) | And if any of them need care because of this, we'll cover it. | if절로 최악의 경우까지 책임지겠다고 약속 |
+| ④ 강조(짧게) | All of it. | 두 단어로 약속의 범위를 못 박음 |
+
+**활용 패턴:** 원칙 → 구체적 행동 → If + 책임 약속 → 짧은 강조
+**연결 표현:** watch for(~을 주의해서 살피다) · if anything changes(뭔가 달라지면) · we'll cover it(저희가 부담하겠다)
+**연습:** 제품 문제로 걱정하는 고객에게 같은 구조로 30단어 안팎의 안내 전화를 해 보기.

@@ -23,8 +23,8 @@
 02. NOAH: What's the difference? They both give us money.
     노아: 차이가 뭐예요? 둘 다 우리한테 돈을 주잖아요.
 
-03. DIANE: Investors share your upside. Banks want their money back. With interest. No matter what.
-    다이앤: 투자자는 성공을 나눠 가져요. 은행은 돈을 돌려받길 원하죠. 이자까지. 무슨 일이 있어도.
+03. DIANE: Investors share your upside, so they win when you win. Banks are different. They want their money back, with interest, no matter what happens to the company. That's the whole relationship.
+    다이앤: 투자자는 성공을 나눠 가져요. 그래서 당신들이 이기면 그들도 이기죠. 은행은 달라요. 회사에 무슨 일이 생기든 돈을 이자까지 돌려받길 원해요. 그게 관계의 전부예요.
 
 04. MARCUS: So a bank doesn't care if we change the world.
     마커스: 그러니까 은행은 우리가 세상을 바꾸든 말든 상관없다는 거군.
@@ -50,8 +50,8 @@
 11. DIANE: At once. And no startup has eight million sitting around.
     다이앤: 한 번에요. 그리고 800만 달러를 쌓아 둔 스타트업은 없죠.
 
-12. MARCUS: That's not a bridge. That's a trap door.
-    마커스: 그건 다리가 아니라 함정문이네.
+12. MARCUS: So the money that's supposed to save us could kill us at the worst possible moment. In the army, we'd call that an ambush. That's not a bridge. That's a trap door.
+    마커스: 그러니까 우릴 살려 줘야 할 돈이 최악의 순간에 우릴 죽일 수도 있다는 거군. 군대에선 그걸 매복이라고 부르지. 그건 다리가 아니라 함정문이야.
 
 13. DIANE: Exactly. So we make sure the bridge doesn't have trap doors.
     다이앤: 바로 그거예요. 그러니까 다리에 함정문이 없게 만드는 거예요.
@@ -70,8 +70,8 @@
 17. NOAH: Thank you for seeing us so quickly.
     노아: 이렇게 빨리 만나 주셔서 감사해요.
 
-18. HANNAH: I read your FDA letter. You sent it before I asked. That was smart.
-    해나: FDA 서한 읽었어요. 요청하기 전에 보내셨더군요. 현명했어요.
+18. HANNAH: I read your FDA letter. You sent it before I even asked, which was smart. It tells me you're not going to hide problems from the bank later.
+    해나: FDA 서한 읽었어요. 요청하기도 전에 보내셨더군요. 현명했어요. 나중에 은행한테 문제를 숨기지 않을 거라는 뜻이니까요.
 
 19. NOAH: Bad news first. It's a company habit.
     노아: 나쁜 소식 먼저. 회사 습관이에요.
@@ -121,8 +121,8 @@
 34. NOAH: If approval comes in November, we launch in March. Sales start in April.
     노아: 11월에 승인이 나면 3월에 출시해요. 매출은 4월부터.
 
-35. DIANE: Small sales. Not two hundred sixty thousand a month. Not right away.
-    다이앤: 작은 매출이죠. 한 달 26만 달러는 아니에요. 바로는 아니고요.
+35. DIANE: Small sales, though. Not two hundred sixty thousand a month, not right away. New products take time to grow, so for a while, the payments would be bigger than the revenue.
+    다이앤: 작은 매출이죠. 한 달 26만 달러는 아니에요. 바로는 아니고요. 신제품은 자리 잡는 데 시간이 걸리니까, 한동안은 상환액이 매출보다 클 거예요.
 
 36. HANNAH: Which is why the interest-only period matters. Next, warrants.
     해나: 그래서 이자만 내는 기간이 중요하죠. 다음, 워런트.
@@ -130,8 +130,8 @@
 37. MARCUS: Warrants. Another word for the list.
     마커스: 워런트. 목록에 들어갈 단어가 또 하나.
 
-38. HANNAH: The right to buy your shares later, at today's price. A reward for our risk.
-    해나: 나중에 주식을 오늘 가격으로 살 수 있는 권리예요. 우리 리스크에 대한 보상이죠.
+38. HANNAH: The right to buy your shares later, at today's price. If you succeed, we share a small piece of the upside. It's a reward for our risk, and usually it's quite small.
+    해나: 나중에 주식을 오늘 가격으로 살 수 있는 권리예요. 여러분이 성공하면 우리도 그 성공의 작은 조각을 나눠 갖는 거죠. 우리 리스크에 대한 보상이고, 보통은 꽤 작아요.
 
 39. NOAH: How small?
     노아: 얼마나 작게요?
@@ -186,8 +186,8 @@
 55. NOAH: So if the FDA sends another deficiency letter…
     노아: 그럼 FDA가 보완 요청을 또 보내면…
 
-56. DIANE: The bank could call it a material adverse change. And demand eight million.
-    다이앤: 은행은 그걸 중대한 부정적 변화라고 부를 수 있어요. 그리고 800만 달러를 요구하고요.
+56. DIANE: The bank could call that a material adverse change and demand all eight million back. And since the clause isn't defined, we'd have no way to argue that it isn't one.
+    다이앤: 은행은 그걸 중대한 부정적 변화라고 부르고 800만 달러 전부를 돌려 달라고 할 수 있어요. 그리고 조항에 정의가 없으니, 그게 아니라고 반박할 방법도 없고요.
 
 57. MARCUS: In the worst moment. When we're weakest.
     마커스: 최악의 순간에. 우리가 가장 약할 때.
@@ -198,8 +198,8 @@
 59. DIANE: "Rarely" isn't in the contract. Only the words are in the contract.
     다이앤: "거의"는 계약서에 없어요. 계약서엔 문구만 있죠.
 
-60. NOAH: Hannah, I'll be direct. The MAC clause is a deal-breaker for us.
-    노아: 해나, 직설적으로 말할게요. MAC 조항은 우리한테 협상 결렬 조건이에요.
+60. NOAH: Hannah, I'll be direct, because I think you'd prefer that. The MAC clause is a deal-breaker for us. We can't build a company while someone can pull the floor away anytime.
+    노아: 해나, 직설적으로 말할게요. 그쪽도 그걸 더 좋아하실 것 같아서요. MAC 조항은 우리한테 협상 결렬 조건이에요. 누군가 언제든 바닥을 빼 버릴 수 있는 상태에선 회사를 키울 수 없어요.
 
 61. HANNAH: A deal-breaker? Without it, I have no protection.
     해나: 결렬 조건이요? 그게 없으면 우리는 보호 장치가 없어요.
@@ -207,8 +207,8 @@
 62. NOAH: You have the minimum cash covenant. That's real protection.
     노아: 최소 현금 약정이 있잖아요. 그게 진짜 보호 장치죠.
 
-63. HANNAH: Cash is one risk. FDA failure is another. That's your biggest risk.
-    해나: 현금은 리스크 하나예요. FDA 실패는 또 다른 리스크고요. 그게 가장 큰 리스크죠.
+63. HANNAH: Cash is one risk. FDA failure is another, and honestly, that's your biggest risk. If the product isn't approved, the cash covenant won't save either of us. I need something for that.
+    해나: 현금은 리스크 하나예요. FDA 실패는 또 다른 리스크고, 솔직히 그게 가장 큰 리스크죠. 제품이 승인 안 되면 현금 약정은 우리 둘 다 못 살려요. 그 부분에 대한 장치가 필요해요.
 
 64. MARCUS: Then let's name that risk clearly. Instead of hiding it in a vague clause.
     마커스: 그럼 그 리스크를 분명하게 이름 붙이죠. 애매한 조항에 숨기는 대신.
@@ -222,8 +222,8 @@
 67. HANNAH: And if you miss the date?
     해나: 날짜를 놓치면요?
 
-68. NOAH: Not an immediate default. The interest rate goes up. That's your protection.
-    노아: 즉시 채무 불이행은 아니고요. 금리가 올라가요. 그게 당신들 보호 장치예요.
+68. NOAH: Not an immediate default. If we miss the date, the interest rate goes up. You get paid more for the extra risk, and we don't lose the company. That's your protection.
+    노아: 즉시 채무 불이행은 아니고요. 날짜를 놓치면 금리가 올라가요. 그쪽은 늘어난 리스크만큼 더 받고, 우리는 회사를 잃지 않죠. 그게 당신들 보호 장치예요.
 
 69. HANNAH: How much higher?
     해나: 얼마나 올라가요?
@@ -269,8 +269,8 @@
 82. HANNAH: Fifteen? You're pushing hard, Diane.
     해나: 15개월이요? 세게 미시네요, 다이앤.
 
-83. DIANE: Month thirteen is when their first real sales start. Fifteen gives them air.
-    다이앤: 13개월째가 이 회사의 첫 실매출이 시작되는 때예요. 15개월이면 숨 쉴 틈이 생겨요.
+83. DIANE: Because month thirteen is roughly when their first real sales start, and those sales will be small. Fifteen months gives them air to grow before the big payments begin.
+    다이앤: 13개월째가 대략 이 회사의 첫 실매출이 시작되는 때고, 그 매출은 작을 테니까요. 15개월이면 큰 상환이 시작되기 전에 성장할 숨 쉴 틈이 생겨요.
 
 84. MARCUS: Air we need. Not air we want.
     마커스: 원하는 숨이 아니라 필요한 숨이에요.
@@ -326,8 +326,8 @@
 101. NOAH: Of course.
      노아: 물론이죠.
 
-102. HANNAH: Most founders sign whatever we give them. They're desperate.
-     해나: 대부분의 창업자는 우리가 주는 대로 서명해요. 절박하니까요.
+102. HANNAH: Most founders sign whatever we give them, because they're desperate. They need the money too badly to argue, so they don't read the covenants carefully. You did the opposite.
+     해나: 대부분의 창업자는 우리가 주는 대로 서명해요. 절박하니까요. 돈이 너무 급해서 따질 여유가 없으니 약정 조건을 꼼꼼히 안 읽어요. 여러분은 정반대로 했고요.
 
 103. DIANE: Desperate founders sign trap doors. I've seen it many times.
      다이앤: 절박한 창업자는 함정문에 서명하죠. 여러 번 봤어요.
@@ -343,8 +343,8 @@
 106. RICHARD: So. Eight million in debt. Walk us through the terms.
      리처드: 그래서. 부채 800만. 조건을 설명해 줘요.
 
-107. NOAH: Eleven percent. Fifteen months interest-only. Warrants at one and a quarter.
-     노아: 11퍼센트. 15개월 이자만. 워런트 1.25퍼센트.
+107. NOAH: Eleven percent interest, which is high, but we have no revenue yet. Fifteen months interest-only, so the big payments start after launch. And the warrants are at one and a quarter percent.
+     노아: 금리 11퍼센트. 높지만 아직 매출이 없으니까요. 15개월은 이자만 내서, 큰 상환은 출시 후에 시작돼요. 그리고 워런트는 1.25퍼센트예요.
 
 108. VICTORIA: And the MAC clause?
      빅토리아: 그리고 MAC 조항은요?
@@ -370,8 +370,8 @@
 115. NOAH: Please.
      노아: 말씀하세요.
 
-116. ELAINE: Debt is a tool. Not a friend. Don't treat that money as free.
-     일레인: 부채는 도구예요. 친구가 아니라. 그 돈을 공짜처럼 다루지 마요.
+116. ELAINE: Debt is a tool. Not a friend. A friend forgives you when you're late, and a bank doesn't. So don't treat that money as free, because every month it costs you something.
+     일레인: 부채는 도구예요. 친구가 아니라. 친구는 늦어도 용서해 주지만 은행은 안 그래요. 그러니까 그 돈을 공짜처럼 다루지 마요. 매달 대가를 치르는 돈이니까.
 
 117. NOAH: Understood. Every dollar has a monthly price now.
      노아: 이해해요. 이제 모든 1달러에 월 가격표가 붙어 있죠.
@@ -418,3 +418,17 @@
 | Minimum cash covenant | $3M | $3M |
 | MAC clause | Standard (undefined) | **Removed** |
 | Performance covenant | — | **FDA approval by March 31; +2% rate if missed (not a default)** |
+
+### ④ 긴 발화 분석
+
+> **60턴 NOAH:** "Hannah, I'll be direct, because I think you'd prefer that. The MAC clause is a deal-breaker for us. We can't build a company while someone can pull the floor away anytime."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 예고(직설 선언) | Hannah, I'll be direct, because I think you'd prefer that. | 강한 말을 하기 전에 상대를 존중하며 쿠션 깔기 |
+| ② 입장(결렬 조건) | The MAC clause is a deal-breaker for us. | 받아들일 수 없는 조건을 한 문장으로 분명히 |
+| ③ 이유(비유) | We can't build a company while someone can pull the floor away anytime. | 왜 안 되는지 그림처럼 떠오르는 비유로 설명 |
+
+**활용 패턴:** I'll be direct, because… → X is a deal-breaker for us. → We can't ___ while ___.
+**연결 표현:** I'll be direct(직설적으로 말할게요) · a deal-breaker(협상 결렬 조건) · pull the floor away(발밑을 빼 버리다)
+**연습:** 거래처가 일방적 계약 해지 조항을 요구할 때, 같은 구조로 거절 의사를 30단어 안팎으로 밝혀 보기.

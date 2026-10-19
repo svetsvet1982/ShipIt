@@ -47,8 +47,8 @@
 10. ELAINE: Before the deck, a question. Why are you doing this?
     일레인: 덱 전에 질문 하나. 왜 이 일을 하죠?
 
-11. NOAH: Because my sister had a vascular occlusion. And it took hours to fix.
-    노아: 제 동생이 혈관 폐색을 겪었어요. 그리고 해결하는 데 몇 시간이 걸렸어요.
+11. NOAH: Because my sister had a vascular occlusion, and it took hours to fix. I watched it happen in the ER, and I kept thinking there had to be a faster way out.
+    노아: 제 동생이 혈관 폐색을 겪었고, 해결하는 데 몇 시간이 걸렸어요. 응급실에서 그걸 지켜보면서, 더 빨리 빠져나올 방법이 분명히 있어야 한다는 생각만 계속 들었어요.
 
 12. ELAINE: Is she okay?
     일레인: 동생분은 괜찮아요?
@@ -56,8 +56,8 @@
 13. NOAH: Mostly. A small scar. She doesn't want to be in the deck.
     노아: 대체로요. 작은 흉터가 있어요. 덱에 나오고 싶어 하지 않아요.
 
-14. ELAINE: Smart sister. Personal stories open doors. Data keeps them open.
-    일레인: 현명한 동생이네요. 개인적인 이야기는 문을 열어요. 문을 열어 두는 건 데이터고요.
+14. ELAINE: Smart sister. Personal stories open doors, and that's useful. But data keeps them open, so after the first five minutes, investors stop listening to the story and start checking your numbers.
+    일레인: 현명한 동생이네요. 개인적인 이야기는 문을 열어 줘요. 그건 유용하죠. 하지만 문을 열어 두는 건 데이터예요. 처음 5분이 지나면 투자자들은 이야기를 그만 듣고 숫자를 확인하기 시작해요.
 
 15. NOAH: Then let me show you the data.
     노아: 그럼 데이터를 보여 드릴게요.
@@ -85,8 +85,8 @@
 22. ELENA: My network. Nurses, doctors, spa owners. Not random.
     엘레나: 제 인맥이요. 간호사, 의사, 스파 원장. 무작위는 아니에요.
 
-23. ELAINE: So it's biased. Fine. Every early number is biased. Continue.
-    일레인: 그러니까 편향돼 있네요. 괜찮아요. 초기 숫자는 다 편향돼 있어요. 계속해요.
+23. ELAINE: So it's biased. Fine. Every early number is biased, and I don't mind that. What I mind is founders who pretend it isn't. Just be honest about where it came from. Continue.
+    일레인: 그러니까 편향돼 있네요. 괜찮아요. 초기 숫자는 다 편향돼 있고, 난 그건 신경 안 써요. 신경 쓰이는 건 안 그런 척하는 창업자들이죠. 어디서 나온 숫자인지만 솔직하게 말해요. 계속해요.
 
 24. NOAH: Slide three, the solution. A long-lasting filler that dissolves fast in an emergency.
     노아: 3번 슬라이드, 해결책. 응급 시 빨리 녹는 오래가는 필러.
@@ -130,8 +130,8 @@
 37. ELAINE: You can't? You're the CTO.
     일레인: 할 수 없다고요? CTO잖아요.
 
-38. PRIYA: I still work at Halvern. Our lawyer said, "Business, not chemistry."
-    프리야: 아직 할번에 다니거든요. 변호사가 "사업 얘기만, 화학은 안 된다"고 했어요.
+38. PRIYA: I still work at Halvern, so I have to be careful. Our lawyer said, 'Business, not chemistry.' If I explain our formula in this room, Halvern could say it belongs to them.
+    프리야: 아직 할번에 다니고 있어서 조심해야 해요. 변호사가 "사업 얘기만, 화학은 안 된다"고 했어요. 제가 이 자리에서 배합을 설명하면, 할번이 그게 자기네 거라고 주장할 수 있어요.
 
 39. ELAINE: Interesting. So your CTO can't talk about technology.
     일레인: 흥미롭네요. 그러니까 CTO가 기술 얘기를 못 하는군요.
@@ -148,8 +148,8 @@
 43. ELAINE: Non-compete?
     일레인: 경업금지 조항은?
 
-44. NOAH: Twelve months. Our lawyer says we're doing research, not competing.
-    노아: 12개월이요. 변호사 말로는 우린 연구 중이지 경쟁 중이 아니래요.
+44. NOAH: Twelve months. Our lawyer says we're doing research, not competing, because we aren't selling anything yet. As long as we stay in the lab and don't sell, we should be fine.
+    노아: 12개월이요. 변호사 말로는 우린 아직 아무것도 팔지 않으니까 연구 중이지 경쟁 중이 아니래요. 실험실에만 머물고 판매만 안 하면 괜찮을 거래요.
 
 45. ELAINE: Your lawyer says. Halvern's lawyers might say something else.
     일레인: 당신 변호사는 그렇게 말하죠. 할번 변호사들은 다른 말을 할 수도 있어요.
@@ -180,8 +180,8 @@
 53. ELENA: Elaine, they're good people. I've seen it.
     엘레나: 일레인, 좋은 사람들이에요. 내가 직접 봤어요.
 
-54. ELAINE: I don't doubt that. Good people fail all the time. Next question.
-    일레인: 그건 의심 안 해요. 좋은 사람들도 늘 실패하죠. 다음 질문.
+54. ELAINE: I don't doubt that. Good people fail all the time, Elena. I'm not investing in kindness. I'm investing in a team that can actually do the work. Next question.
+    일레인: 그건 의심 안 해요. 좋은 사람들도 늘 실패해요, 엘레나. 난 착한 마음에 투자하는 게 아니에요. 실제로 일을 해낼 수 있는 팀에 투자하는 거죠. 다음 질문.
 
 55. NOAH: Go ahead.
     노아: 말씀하세요.
@@ -201,8 +201,8 @@
 60. ELAINE: Elena, would you know?
     일레인: 엘레나, 당신은 알아요?
 
-61. ELENA: Roughly two more years. Ten to fifteen million more.
-    엘레나: 대략 2년 더. 1,000만에서 1,500만 달러 더요.
+61. ELENA: Roughly two more years, and ten to fifteen million more. A second trial means more patients, more sites, and more follow-up visits, so both time and cost go up quickly.
+    엘레나: 대략 2년 더, 그리고 1,000만에서 1,500만 달러 더요. 임상을 한 번 더 하면 환자도, 시험 기관도, 추적 방문도 늘어나니까 시간과 비용이 둘 다 빠르게 올라가요.
 
 62. ELAINE: Thank you. Noah, you should know that number by heart.
     일레인: 고마워요. 노아, 그 숫자는 외우고 있어야 해요.
@@ -228,8 +228,8 @@
 69. NOAH: We have test tube data. Two point four times faster.
     노아: 시험관 데이터가 있어요. 2.4배 빨라요.
 
-70. ELAINE: From a thesis. Years ago. Not sterilized. Not in a body.
-    일레인: 논문에서요. 몇 년 전 거. 멸균도 안 했고, 몸속도 아니고.
+70. ELAINE: From a thesis, years ago. Not sterilized, not in a body. A test tube is the easiest place in the world to look good. Bodies and factories are much less kind.
+    일레인: 논문에서요. 몇 년 전 거. 멸균도 안 했고, 몸속도 아니고. 시험관은 세상에서 제일 좋아 보이기 쉬운 곳이에요. 몸과 공장은 훨씬 덜 너그럽죠.
 
 71. NOAH: We're testing sterilization right now. Results come next week.
     노아: 지금 멸균 시험을 하고 있어요. 결과가 다음 주에 나와요.
@@ -252,8 +252,8 @@
 77. NOAH: They're big. Big companies move slowly.
     노아: 그들은 크잖아요. 큰 회사는 느리게 움직여요.
 
-78. ELAINE: Until they don't. I sold my company to one. I know.
-    일레인: 안 그럴 때까지는요. 난 그런 회사에 내 회사를 팔았어요. 알아요.
+78. ELAINE: Until they don't. I sold my company to one, so I know. When a big company decides something matters, it can buy, copy, or build faster than you can raise money.
+    일레인: 안 그럴 때까지는요. 난 그런 회사에 내 회사를 팔았으니까 알아요. 큰 회사가 뭔가 중요하다고 판단하면, 당신들이 투자를 모으는 것보다 더 빨리 사들이거나, 베끼거나, 만들어 낼 수 있어요.
 
 79. NOAH: Then… I'm not sure what else to say.
     노아: 그럼… 뭐라고 더 말씀드려야 할지 모르겠네요.
@@ -272,8 +272,8 @@
 83. NOAH: The one thing?
     노아: 단 하나의 핵심이요?
 
-84. ELAINE: One thing that must be true. True, you win. False, nothing else matters.
-    일레인: 반드시 사실이어야 하는 단 하나. 사실이면 이기고, 거짓이면 나머지는 전부 의미 없는 것.
+84. ELAINE: One thing that must be true. If it's true, you win, even if other things go wrong. If it's false, nothing else matters, not the team, not the slides, not the logo.
+    일레인: 반드시 사실이어야 하는 단 하나. 그게 사실이면 다른 게 잘못돼도 이겨요. 거짓이면 나머지는 전부 의미가 없어요. 팀도, 슬라이드도, 로고도.
 
 85. NOAH: The market is big. Billions of dollars, and growing.
     노아: 시장이 크다는 거요. 수십억 달러고, 성장 중이에요.
@@ -302,8 +302,8 @@
 93. ELAINE: Go on.
     일레인: 계속해요.
 
-94. PRIYA: If we break that trade-off, we win. Twelve months, and three times faster.
-    프리야: 그 트레이드오프를 깨면 우리가 이겨요. 12개월, 그리고 세 배 빠르게.
+94. PRIYA: If we break that trade-off, we win. Twelve months in the face, and three times faster when a doctor needs it gone. Nobody else can promise both, so that's our real edge.
+    프리야: 그 트레이드오프를 깨면 우리가 이겨요. 얼굴에서는 12개월 가고, 의사가 없애야 할 때는 세 배 빨리 녹는 거죠. 둘 다 약속할 수 있는 곳은 없으니까, 그게 우리의 진짜 강점이에요.
 
 95. ELAINE: And if you can't break it?
     일레인: 그리고 못 깨면요?
@@ -340,8 +340,8 @@
 
 ### 마무리 — Elena의 차 안, 오후 5시 10분
 
-106. NOAH: That was a disaster. I couldn't answer anything.
-     노아: 완전 망했어요. 아무것도 대답을 못 했어요.
+106. NOAH: That was a disaster. I couldn't answer anything. She asked about money, time, the FDA, and Halvern, and every time I either guessed or said we'd know next week.
+     노아: 완전 망했어요. 아무것도 대답을 못 했어요. 돈, 시간, FDA, 할번에 대해 물었는데, 매번 추측하거나 다음 주면 알 거라고만 했어요.
 
 107. ELENA: You didn't cry. Most CEOs cry.
      엘레나: 울지는 않았잖아요. 대부분의 CEO는 울어요.
@@ -352,8 +352,8 @@
 109. NOAH: She called us a waiting room.
      노아: 우리를 대기실이라고 했잖아.
 
-110. ELENA: Because we are, right now. She's just honest.
-     엘레나: 지금은 그러니까요. 그냥 솔직한 거예요.
+110. ELENA: Because we are, right now. She's just honest. And honestly, that's a gift. Most investors smile, say it's interesting, and never call back. Elaine told us exactly what to fix.
+     엘레나: 지금은 그러니까요. 그냥 솔직한 거예요. 그리고 솔직히 그건 선물이에요. 대부분의 투자자는 웃으면서 흥미롭다고 하고 다시는 연락을 안 해요. 일레인은 뭘 고쳐야 할지 정확히 알려 줬잖아요.
 
 111. PRIYA: Noah, you didn't know your numbers. That's fixable.
      프리야: 노아, 넌 숫자를 몰랐어. 그건 고칠 수 있어.
@@ -416,3 +416,18 @@
 
 예시:
 > *The one thing that must be true is that a filler can last twelve months and still dissolve three times faster. Today, those are opposites. If we break that trade-off, we win. If we can't, we're just another filler. We'll know within eighteen months.*
+
+### ④ 긴 발화 분석
+
+> **94턴 PRIYA:** "If we break that trade-off, we win. Twelve months in the face, and three times faster when a doctor needs it gone. Nobody else can promise both, so that's our real edge."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 조건+결론 | If we break that trade-off, we win. | 핵심 가설을 "If A, B" 한 문장으로 제시 |
+| ② 구체화(숫자 두 개) | Twelve months in the face, and three times faster when a doctor needs it gone. | 추상적인 "트레이드오프"를 측정 가능한 숫자로 바꿈 |
+| ③ 차별점 | Nobody else can promise both, | 경쟁사와의 차이를 "both"로 강조 |
+| ④ 정리 | so that's our real edge. | 앞 내용을 한 단어(edge)로 묶어 마무리 |
+
+**활용 패턴:** If A, we win → 숫자로 구체화 → Nobody else… → so that's our edge
+**연결 표현:** If…, (만약 ~하면) · when…(~할 때) · both(둘 다) · so that's…(그래서 그게 ~다)
+**연습:** 우리 팀 프로젝트의 "단 하나의 핵심"을 투자자에게 30단어 안팎으로 설명해 보기.

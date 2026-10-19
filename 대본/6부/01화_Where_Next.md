@@ -23,8 +23,8 @@
 02. MARCUS: Why these five?
     마커스: 왜 이 다섯이야?
 
-03. GRACE: Card downloads, inquiry emails, and market size. These are the top five on all three.
-    그레이스: 카드 다운로드, 문의 이메일, 그리고 시장 규모. 세 가지 모두에서 상위 다섯이에요.
+03. GRACE: Card downloads, inquiry emails, and market size. I ranked every country on all three, and these five came out on top each time, so they're not just the countries we like. They're the ones already asking for us.
+    그레이스: 카드 다운로드, 문의 이메일, 그리고 시장 규모. 모든 나라를 세 가지 기준으로 순위를 매겼는데, 매번 이 다섯이 상위에 올랐어요. 그러니까 그냥 우리가 좋아하는 나라들이 아니에요. 이미 우리를 찾고 있는 나라들이에요.
 
 04. PRIYA: The UK. Germany. Brazil. Korea. Australia.
     프리야: 영국. 독일. 브라질. 한국. 호주.
@@ -47,8 +47,8 @@
 10. TASHA: And seven. Can we train there? Properly? In their language?
     타샤: 그리고 일곱. 거기서 교육할 수 있나? 제대로? 그 나라 언어로?
 
-11. NOAH: Seven criteria. Score each country one to five. Then talk. Not before.
-    노아: 기준 일곱. 각 나라를 1에서 5점으로. 그다음 얘기해요. 그 전엔 말고.
+11. NOAH: Seven criteria, and we score each country from one to five, quietly and on our own. Then we talk, not before, because the moment someone says 'I love Germany,' everyone else starts scoring Germany.
+    노아: 기준 일곱 개. 각 나라를 1에서 5점으로, 조용히 각자 매겨요. 그다음에 얘기해요, 그 전엔 말고. 누가 '난 독일이 좋아'라고 말하는 순간, 다른 사람들도 다 독일 점수를 올리기 시작하거든요.
 
 12. PRIYA: You've become very structured, Noah.
     프리야: 노아, 아주 체계적이 됐네.
@@ -67,8 +67,8 @@
 16. GRACE: The UK. About two million filler treatments a year. English-speaking. And one big difference.
     그레이스: 영국. 연간 필러 시술 약 200만 건. 영어권. 그리고 큰 차이 하나.
 
-17. ELENA: Anyone can inject there. Legally. Beauticians. Hairdressers. People with a weekend course.
-    엘레나: 거기선 누구나 시술할 수 있어요. 합법적으로. 미용사. 헤어 디자이너. 주말 과정 들은 사람들.
+17. ELENA: Anyone can inject there, legally. Beauticians, hairdressers, people with a weekend course and no medical training at all. To be honest, that's the part of this map that worries me most, because a blocked vessel doesn't care who holds the syringe.
+    엘레나: 거기선 누구나 시술할 수 있어요, 합법적으로. 미용사, 헤어 디자이너, 의료 교육은 전혀 없이 주말 과정만 들은 사람들. 솔직히 이 지도에서 제일 걱정되는 부분이에요. 막힌 혈관은 누가 주사기를 들었는지 신경 쓰지 않거든요.
 
 18. SOFIA: Anyone? Without a medical license?
     소피아: 아무나요? 의료 면허 없이?
@@ -109,8 +109,8 @@
 30. SOFIA: And price?
     소피아: 가격은요?
 
-31. GRACE: Germans pay for quality. Prices close to the U.S. But they don't trust marketing. Only evidence.
-    그레이스: 독일인은 품질에 돈을 내요. 가격은 미국에 가까워요. 하지만 마케팅은 안 믿어요. 증거만.
+31. GRACE: Germans pay for quality, so prices are close to the U.S., which protects our four twenty-five. But they don't trust marketing at all. If we walk in with glossy brochures, we lose. If we walk in with evidence, they listen.
+    그레이스: 독일인은 품질에 돈을 내요. 그래서 가격이 미국에 가깝고, 그건 우리 425달러를 지켜 줘요. 하지만 마케팅은 전혀 안 믿어요. 번지르르한 브로슈어를 들고 가면 지고, 증거를 들고 가면 귀를 기울여요.
 
 32. ZOE: Then our evidence-first style might actually work there.
     조이: 그럼 증거 우선인 우리 스타일이 거기선 진짜 통할지도요.
@@ -139,8 +139,8 @@
 40. MARCUS: Korea. CEO Park's country.
     마커스: 한국. 박 대표님 나라.
 
-41. PRIYA: The most competitive filler market on earth. Dozens of local brands. Half our price.
-    프리야: 지구상에서 가장 경쟁이 치열한 필러 시장. 국산 브랜드 수십 개. 우리 가격의 절반.
+41. PRIYA: Show me the data? Here it is. Korea is the most competitive filler market on earth, with dozens of local brands selling at half our price. If we go in now, we're a premium product walking straight into a price war.
+    프리야: 데이터 보여 달라고? 여기 있어. 한국은 지구상에서 가장 경쟁이 치열한 필러 시장이야. 국산 브랜드 수십 개가 우리 가격의 절반에 팔고 있어. 지금 들어가면, 우린 프리미엄 제품으로 가격 전쟁에 곧장 걸어 들어가는 거야.
 
 42. ZOE: And the world's most demanding patients. They know every ingredient.
     조이: 그리고 세계에서 가장 까다로운 환자들. 모든 성분을 알아요.
@@ -174,14 +174,14 @@
 51. PRIYA: Germany first. Doctors. Data. Lower risk. Less chaos.
     프리야: 독일 먼저. 의사들. 데이터. 낮은 리스크. 덜한 혼돈.
 
-52. TASHA: The UK first. That's where people are getting hurt. That's why we exist.
-    타샤: 영국 먼저. 거기서 사람들이 다치고 있어요. 그게 우리가 존재하는 이유예요.
+52. TASHA: The UK first. That's where people are getting hurt right now, every week, by people who were never trained properly. Teaching injectors to do this safely is the whole reason we exist, so starting anywhere else feels like we're avoiding the hard part.
+    타샤: 영국 먼저. 거기서 지금 매주, 제대로 교육받은 적 없는 사람들 때문에 사람들이 다치고 있어요. 시술자들이 안전하게 하도록 가르치는 게 우리가 존재하는 이유 전부예요. 그러니 다른 데서 시작하면 어려운 부분을 피하는 것 같아요.
 
 53. SOFIA: The UK also has more English-speaking distributors. Faster to start.
     소피아: 영국엔 영어 하는 유통사도 더 많아요. 시작이 더 빠르고요.
 
-54. MARCUS: But the UK has more risk. If our product leaks into the beautician market, it's Houston times a hundred.
-    마커스: 하지만 영국은 리스크가 더 커. 우리 제품이 미용사 시장으로 새면, 휴스턴의 백 배야.
+54. MARCUS: But the UK carries more risk. Two is one, one is none, so we need backup controls. If even one box of our product leaks into the beautician market, it's Houston times a hundred, and this time it's on the front page in London.
+    마커스: 하지만 영국은 리스크가 더 커. 둘은 하나고, 하나는 없는 거야. 그러니까 이중 통제가 필요해. 우리 제품이 한 상자라도 미용사 시장으로 새면, 휴스턴의 백 배야. 그리고 이번엔 런던 신문 1면에 실린다고.
 
 55. ELENA: Unless our rule is stronger there. Serialized syringes. Licensed buyers only. Monthly scans.
     엘레나: 거기서 우리 규칙이 더 강하지 않다면요. 일련번호 주사기. 면허 있는 구매자만. 월간 스캔.
@@ -201,8 +201,8 @@
 60. NOAH: How long for us? Realistically?
     노아: 우린 얼마나 걸려요? 현실적으로?
 
-61. ELENA: About a year. We need a notified body. And a European consultant who knows MDR.
-    엘레나: 약 1년. 인증기관이 필요해요. 그리고 MDR을 아는 유럽 컨설턴트도.
+61. ELENA: About a year, if everything goes well. We need a notified body to audit us, and a European consultant who really knows MDR, because the paperwork is very different from the FDA's. Without the right consultant, a year can easily become two.
+    엘레나: 모든 게 잘 풀리면 약 1년. 우리를 심사할 인증기관이 필요하고, MDR을 제대로 아는 유럽 컨설턴트도 필요해요. 서류가 FDA와는 아주 다르거든요. 맞는 컨설턴트가 없으면 1년이 금방 2년이 돼요.
 
 62. MARCUS: MDR?
     마커스: MDR?
@@ -246,8 +246,8 @@
 75. MARCUS: And Korea?
     마커스: 그럼 한국은?
 
-76. NOAH: Not this year. But I'll call CEO Park myself. Before he hears it from someone else.
-    노아: 올해는 아니에요. 하지만 박 대표님한텐 내가 직접 전화할게요. 다른 사람한테 듣기 전에.
+76. NOAH: Not this year. But I'll call CEO Park myself, before he hears it from someone else. We have a written promise with him on Asia, and if he learns from a trade magazine that we chose Europe first, he'll wonder what that promise is worth.
+    노아: 올해는 아니에요. 하지만 박 대표님한텐 다른 사람한테 듣기 전에 내가 직접 전화할게요. 아시아에 대해 그분과 서면 약속이 있잖아요. 우리가 유럽을 먼저 골랐다는 걸 업계 잡지에서 알게 되면, 그 약속이 무슨 가치가 있나 싶으실 거예요.
 
 77. MARCUS: Good. No one-line emails.
     마커스: 좋아. 한 줄짜리 이메일은 안 되지.
@@ -266,14 +266,14 @@
 81. ELAINE: Good afternoon. One item. IMCAS Paris and the European plan. Noah, two minutes.
     일레인: 안녕하세요. 안건 하나. IMCAS 파리와 유럽 계획. 노아, 2분.
 
-82. NOAH: CE mark in a year. UK first, with our rule. Germany six months later. A small Paris booth for partners.
-    노아: 1년 내 CE 마크. 영국 먼저, 우리 규칙과 함께. 독일은 6개월 뒤. 파트너를 찾기 위한 파리의 작은 부스.
+82. NOAH: Here's the thing. CE mark in about a year, which covers both markets. The UK first, with our rule: medical professionals only. Germany six months later, through a clinic partner. And a small Paris booth in January, so we meet the partners who can make it happen.
+    노아: 요점은 이겁니다. 약 1년 내 CE 마크, 그걸로 두 시장을 다 커버합니다. 영국 먼저, 우리 규칙과 함께. 의료 전문가만. 독일은 6개월 뒤, 병원 파트너를 통해서. 그리고 1월에 파리의 작은 부스. 이걸 실현해 줄 파트너들을 만나기 위해서요.
 
 83. INGRID: Why the UK first? It's the riskiest market.
     잉그리드: 왜 영국 먼저예요? 가장 위험한 시장인데.
 
-84. ELENA: Because it's the most dangerous for patients. If our model works there, it works anywhere.
-    엘레나: 환자에게 가장 위험한 곳이니까요. 우리 모델이 거기서 통하면 어디서든 통해요.
+84. ELENA: Because it's the most dangerous market for patients, and that's exactly the problem we were built to solve. If our model works there, with untrained injectors all around us, then it works anywhere. Germany will feel easy after that.
+    엘레나: 환자에게 가장 위험한 시장이니까요. 그게 바로 우리가 풀려고 만들어진 문제예요. 주변에 교육받지 않은 시술자들이 가득한 그곳에서 우리 모델이 통하면, 어디서든 통해요. 그다음엔 독일이 쉽게 느껴질 거예요.
 
 85. INGRID: And if it fails there?
     잉그리드: 거기서 실패하면요?
@@ -358,8 +358,8 @@
 111. NOAH: Loads?
      노아: 하중?
 
-112. CLAIRE: Every bridge has a maximum load. Go above it, and something cracks. Usually where you're not looking.
-     클레어: 모든 다리엔 최대 하중이 있어. 그걸 넘으면 뭔가 금이 가. 보통 안 보고 있는 곳에서.
+112. CLAIRE: Every bridge has a maximum load. Go above it, and something cracks, and it's usually not where you're looking. You watch the main span, and the failure starts in some small joint nobody checked for months. People are the same.
+     클레어: 모든 다리엔 최대 하중이 있어. 그걸 넘으면 뭔가 금이 가. 그리고 보통 네가 보고 있는 곳이 아니야. 주 경간만 지켜보는 사이에, 몇 달째 아무도 점검 안 한 작은 이음매에서 붕괴가 시작돼. 사람도 똑같아.
 
 113. NOAH: You sound like my father.
      노아: 우리 아빠처럼 말하네.
@@ -421,3 +421,18 @@
 | **Total (/35)** | **26** | **27** | **20** | **23** | **22** |
 
 > **Decision:** CE mark (~1 year, notified body + consultant Katrin Weber) → **UK first** (with our rule: medical professionals only) → **Germany +6 months** (clinic partner) → Korea = next continent. **IMCAS Paris** booth to find partners. Window: Lumaderm Flex not yet approved in Europe (12–18 months). Budget < $1M this year.
+
+### ④ 긴 발화 분석
+
+> **84턴 ELENA:** "Because it's the most dangerous market for patients, and that's exactly the problem we were built to solve. If our model works there, with untrained injectors all around us, then it works anywhere. Germany will feel easy after that."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 이유(Because) | Because it's the most dangerous market for patients, | 반대 질문("가장 위험한데 왜?")에 이유로 바로 답하기 |
+| ② 재정의(사명 연결) | and that's exactly the problem we were built to solve. | 리스크를 "우리가 존재하는 이유"로 뒤집기 |
+| ③ 조건 논리 | If our model works there, with untrained injectors all around us, then it works anywhere. | 가장 어려운 시장 = 가장 강한 검증이라는 논리 |
+| ④ 다음 단계 | Germany will feel easy after that. | 확장 계획(독일)으로 자연스럽게 연결 |
+
+**활용 패턴:** Because + 이유 → "that's exactly what we…" → If A works there, then it works anywhere → 다음 단계
+**연결 표현:** that's exactly(바로 그게) · If…, then…(~라면 ~다) · after that(그다음엔)
+**연습:** "왜 가장 어려운 고객사부터 공략하느냐"는 임원 질문에 같은 구조로 40단어 안팎으로 답해 보기.

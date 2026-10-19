@@ -29,8 +29,8 @@
 04. TASHA: Why not the screen?
     타샤: 왜 화면은 안 돼요?
 
-05. ZOE: On the screen, you see yourself. In the lens, they see you.
-    조이: 화면에선 당신이 당신을 봐요. 렌즈에선 그들이 당신을 보고요.
+05. ZOE: On the screen, you see yourself, and you'll start fixing your hair. In the lens, they see you looking right at them, so it feels like a real conversation.
+    조이: 화면을 보면 당신이 당신을 보게 되고, 머리를 만지기 시작할 거예요. 렌즈를 보면 그들은 당신이 자기를 똑바로 본다고 느껴서, 진짜 대화처럼 느껴져요.
 
 06. ELENA: I'll handle the medical questions. You handle the protocol.
     엘레나: 의학적 질문은 내가 맡을게요. 프로토콜은 당신이 맡고요.
@@ -41,8 +41,8 @@
 08. ZOE: Chat rules. Off-label questions get one answer. "Not on our label. We'll follow up."
     조이: 채팅 규칙. 오프라벨 질문엔 답 하나. "라벨에 없습니다. 후속 연락드리겠습니다."
 
-09. ELENA: Through medical information. Not sales. In writing.
-    엘레나: 의학 정보팀을 통해서요. 영업 말고. 서면으로.
+09. ELENA: Through medical information, not sales, and always in writing. If a sales rep answers an off-label question, it looks like promotion, and that's a regulatory problem we don't need.
+    엘레나: 영업 말고 의학 정보팀을 통해서, 그리고 항상 서면으로요. 영업 사원이 오프라벨 질문에 답하면 판촉처럼 보이고, 그건 우리한테 필요 없는 규제 문제예요.
 
 10. SAM: Mic check. Tasha, say something.
     샘: 마이크 체크. 타샤, 아무 말이나 해 봐요.
@@ -133,8 +133,8 @@
 38. TASHA: Step one. Big letters. "Stop injecting." Why only two words?
     타샤: 1단계. 큰 글씨. "주입 중단." 왜 두 단어뿐일까요?
 
-39. ELENA: Because your brain shuts down under stress. Two words get through.
-    엘레나: 스트레스를 받으면 뇌가 멈추니까요. 두 단어는 통과해요.
+39. ELENA: Because your brain shuts down under stress. You can't read a paragraph when your hands are shaking, but two short words still get through. That's why the card is so simple.
+    엘레나: 스트레스를 받으면 뇌가 멈추니까요. 손이 떨릴 땐 한 문단을 읽을 수 없지만, 짧은 두 단어는 여전히 통과해요. 그래서 카드가 이렇게 단순한 거예요.
 
 40. TASHA: Step two. "Call for help." Out loud. Even if you're alone.
     타샤: 2단계. "도움 요청." 소리 내서. 혼자 있어도요.
@@ -142,8 +142,8 @@
 41. AVA: Someone asks, "Why out loud if I'm alone?"
     에이바: 누가 "혼자인데 왜 소리 내서요?"라고 물어요.
 
-42. TASHA: Because your voice tells your hands to move. It breaks the freeze.
-    타샤: 목소리가 손에게 움직이라고 말하거든요. 얼어붙은 걸 깨 줘요.
+42. TASHA: Because your voice tells your hands to move. When you say it out loud, it breaks the freeze, and if anyone is nearby, they hear you and come running.
+    타샤: 목소리가 손에게 움직이라고 말하거든요. 소리 내서 말하면 얼어붙은 게 깨지고, 근처에 누가 있으면 그 사람이 듣고 달려와요.
 
 43. ELENA: A nurse told us she froze for ten seconds. That's why it's called this.
     엘레나: 한 간호사가 10초 동안 얼어붙었다고 했어요. 그래서 이 이름이에요.
@@ -154,8 +154,8 @@
 45. SAM: Video's working now, by the way.
     샘: 그나저나 영상 이제 돼요.
 
-46. ZOE: Leave it. The card is better. Real beats polished.
-    조이: 그냥 둬요. 카드가 더 나아요. 진짜가 매끈한 걸 이겨요.
+46. ZOE: Leave it. Honestly, the card is better. It's the same card they'll tape on their wall tomorrow, so they're learning from the real thing. Real beats polished, every time.
+    조이: 그냥 둬요. 솔직히 카드가 더 나아요. 내일 그들이 벽에 붙일 바로 그 카드니까, 진짜를 보면서 배우는 거죠. 진짜는 언제나 매끈한 걸 이겨요.
 
 47. AVA: The chat agrees. "Love the low-tech version."
     에이바: 채팅도 동의해요. "로우테크 버전 좋아요."
@@ -163,8 +163,8 @@
 48. TASHA: Twenty minutes left for questions. Ava, what do we have?
     타샤: 질문 시간 20분 남았어요. 에이바, 뭐가 있어요?
 
-49. AVA: Sixty-four questions. I'll pick the most common ones first.
-    에이바: 질문 64개. 가장 많은 것부터 고를게요.
+49. AVA: Sixty-four questions so far. Lots of them are the same question in different words, so I'll group them and pick the most common ones first. That saves time.
+    에이바: 지금까지 질문 64개예요. 상당수가 표현만 다른 같은 질문이라, 묶어서 가장 많은 것부터 고를게요. 그러면 시간이 절약돼요.
 
 50. ELENA: Let's take a few questions. We'll answer the rest by email.
     엘레나: 몇 가지 질문을 받죠. 나머지는 이메일로 답해 드릴게요.
@@ -180,8 +180,8 @@
 53. AVA: Next. "What if the patient is allergic to hyaluronidase?"
     에이바: 다음. "환자가 히알루로니다아제에 알레르기가 있으면요?"
 
-54. ELENA: Great question. It's rare. But ask about bee sting allergies. Before you inject.
-    엘레나: 좋은 질문이에요. 드물어요. 하지만 시술 전에 벌 쏘임 알레르기를 물어보세요.
+54. ELENA: Great question. It's rare, but it does happen. So before you inject, ask about bee sting allergies, because bee venom contains the same enzyme. Then you're prepared, not surprised.
+    엘레나: 좋은 질문이에요. 드물지만 실제로 일어나요. 그러니 시술 전에 벌 쏘임 알레르기를 물어보세요. 벌독에 같은 효소가 들어 있거든요. 그러면 놀라지 않고 대비할 수 있어요.
 
 55. TASHA: It's in module one now. History-taking. Before the needle.
     타샤: 지금 모듈 1에 들어 있어요. 병력 청취. 바늘 전에.
@@ -189,8 +189,8 @@
 56. AVA: Next. "Is training really mandatory? I've injected for twenty years."
     에이바: 다음. "교육이 정말 필수예요? 저 20년 시술했어요."
 
-57. TASHA: Yes. For everyone. Our CEO failed his first role play. In ten seconds.
-    타샤: 네. 모두에게요. 우리 CEO는 첫 롤플레이에서 떨어졌어요. 10초 만에.
+57. TASHA: Yes, for everyone, no exceptions. Experience helps, but stress doesn't care how many years you've injected. Our CEO failed his first role play, and he failed it in ten seconds.
+    타샤: 네, 모두에게요, 예외 없이. 경험은 도움이 되지만, 스트레스는 몇 년을 시술했는지 신경 쓰지 않아요. 우리 CEO도 첫 롤플레이에서 떨어졌어요. 그것도 10초 만에요.
 
 58. AVA: The chat is laughing. Lots of "ha."
     에이바: 채팅이 웃고 있어요. "하"가 잔뜩.
@@ -228,8 +228,8 @@
 69. AVA: Dr_K_TX again. "So you admit it doesn't help patients?"
     에이바: Dr_K_TX 또. "그럼 환자한테 도움 안 된다고 인정하는 거네요?"
 
-70. ELENA: We admit it's not proven. That's different. We measured speed. Honestly.
-    엘레나: 입증되지 않았다고 인정하는 거예요. 그건 달라요. 우린 속도를 측정했어요. 정직하게.
+70. ELENA: No, we admit it's not proven, and that's different. Not proven means we haven't studied patient outcomes yet. What we measured was speed, and we reported it honestly, small study included.
+    엘레나: 아니요, 입증되지 않았다고 인정하는 거고, 그건 달라요. 입증되지 않았다는 건 환자 결과를 아직 연구하지 않았다는 뜻이에요. 우리가 측정한 건 속도였고, 작은 연구라는 점까지 포함해 정직하게 보고했어요.
 
 71. ZOE: Ava, move on after this one.
     조이: 에이바, 이거 다음엔 넘어가요.
@@ -243,8 +243,8 @@
 74. AVA: Zoe… should I say who I think it is?
     에이바: 조이… 누군지 짐작 가는 거 말해도 돼요?
 
-75. ZOE: No. Never call out a name. Answer the question. For everyone else.
-    조이: 아니요. 절대 이름을 지목하지 마요. 질문에 답해요. 다른 모든 사람을 위해.
+75. ZOE: No. Never call out a name, even if you're right. If we attack him, we look defensive. Just answer the question clearly, for everyone else who's watching.
+    조이: 아니요. 맞더라도 절대 이름을 지목하지 마요. 우리가 공격하면 방어적으로 보여요. 그냥 질문에 분명하게 답해요. 보고 있는 다른 모든 사람을 위해서요.
 
 76. ELENA: Common misunderstanding. It only dissolves faster with the enzyme. Otherwise, twelve months.
     엘레나: 흔한 오해예요. 효소를 넣을 때만 더 빨리 녹아요. 그 외엔 12개월.
@@ -290,8 +290,8 @@
 89. AVA: She's typing. "Of course."
     에이바: 치고 있어요. "물론이죠."
 
-90. ELENA: Please report it. To the manufacturer. And to FDA MedWatch. Even if it ended well.
-    엘레나: 보고해 주세요. 제조사에. 그리고 FDA 메드워치에. 잘 끝났더라도요.
+90. ELENA: Please report it, to the manufacturer and to FDA MedWatch, even if it ended well. A good outcome is still an adverse event, so it still needs to be on the record.
+    엘레나: 보고해 주세요. 제조사와 FDA 메드워치에요. 잘 끝났더라도요. 결과가 좋아도 이상사례는 이상사례라서, 여전히 기록으로 남아야 해요.
 
 91. AVA: She asks, "Even if it was Lumaderm? Not yours?"
     에이바: 물어요. "루마덤이었는데도요? 당신네 게 아니라?"
@@ -305,8 +305,8 @@
 94. ZOE: Elena, can we share Rebecca's story? In our marketing?
     조이: 엘레나, 레베카 이야기를 공유해도 돼요? 마케팅에?
 
-95. ELENA: No. One story isn't data. And it wasn't even our product.
-    엘레나: 안 돼요. 이야기 하나는 데이터가 아니에요. 게다가 우리 제품도 아니었고요.
+95. ELENA: No. One story isn't data, however moving it is. And it wasn't even our product. If we use a nurse's emergency to sell syringes, we lose the trust we earned tonight.
+    엘레나: 안 돼요. 아무리 감동적이어도 이야기 하나는 데이터가 아니에요. 게다가 우리 제품도 아니었고요. 간호사의 응급 상황을 주사기 파는 데 쓰면, 오늘 밤 얻은 신뢰를 잃어요.
 
 96. ZOE: I knew you'd say that. I had to ask.
     조이: 그럴 줄 알았어요. 그래도 물어봐야 했어요.
@@ -346,8 +346,8 @@
 107. AVA: Two hundred forty-one live. One hundred eighty-eight stayed to the end.
      에이바: 생방송 241명. 끝까지 남은 사람 188명.
 
-108. ZOE: Seventy-eight percent stayed. For a webinar, that's very high.
-     조이: 78퍼센트가 남았어요. 웨비나치고 아주 높아요.
+108. ZOE: Seventy-eight percent stayed to the end. For a webinar, that's very high, because most people leave after twenty minutes. And remember, we lost our sound and our video.
+     조이: 78퍼센트가 끝까지 남았어요. 웨비나치고 아주 높아요. 보통은 20분 지나면 나가거든요. 그리고 기억해요, 우리 소리도 영상도 끊겼었잖아요.
 
 109. TASHA: Ninety-six signed up for the online module. Tonight.
      타샤: 온라인 모듈에 96명 등록. 오늘 밤에.
@@ -370,8 +370,8 @@
 115. NOAH: Tasha, you were great. Rebecca's message… I heard it.
      노아: 타샤, 훌륭했어요. 레베카 메시지… 들었어요.
 
-116. TASHA: Four years ago, I couldn't help one girl fast enough. Tonight, I helped someone. Remotely.
-     타샤: 4년 전엔 한 여자아이를 충분히 빨리 돕지 못했어요. 오늘 밤엔 누군가를 도왔어요. 원격으로.
+116. TASHA: Four years ago, I couldn't help one girl fast enough, and I've carried that ever since. Tonight, I helped someone I've never met, in Ohio, through a card and a camera.
+     타샤: 4년 전엔 한 여자아이를 충분히 빨리 돕지 못했고, 그 뒤로 계속 그걸 안고 살았어요. 오늘 밤엔 만난 적도 없는 오하이오의 누군가를 카드 한 장과 카메라로 도왔어요.
 
 117. ZOE: Okay, everyone. Next week. The consumer campaign. Patients, not doctors.
      조이: 좋아요, 여러분. 다음 주. 소비자 캠페인. 의사 말고 환자.
@@ -420,3 +420,18 @@
 | +48h | Email follow-up: medical → medical info; sales → reps | Ava | — |
 
 > **Results:** Live 241 · Stayed to end 188 (78%) · Online module sign-ups 96 · Questions 64 (41 to follow up)
+
+### ④ 긴 발화 분석
+
+> **75턴 ZOE:** "No. Never call out a name, even if you're right. If we attack him, we look defensive. Just answer the question clearly, for everyone else who's watching."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 결론(짧은 거절) | No. Never call out a name, even if you're right. | 먼저 '하지 말 것'을 분명히, even if로 예외까지 차단 |
+| ② 이유(결과 예측) | If we attack him, we look defensive. | If A, then B로 그 행동의 대가를 보여 줌 |
+| ③ 대안(지시) | Just answer the question clearly, | 하지 말라는 말 뒤에 바로 '대신 할 일'을 제시 |
+| ④ 목적(누구를 위해) | for everyone else who's watching. | 진짜 청중이 누구인지 상기시킴 |
+
+**활용 패턴:** No → 금지 + even if → If 결과 → Just + 대안 → for 목적
+**연결 표현:** even if you're right(당신이 맞더라도) · If we…, we look…(~하면 ~처럼 보인다) · Just…(그냥 ~만 해라)
+**연습:** 회의 중 동료가 공격적인 고객 메일에 맞받아치려 할 때, 같은 구조로 말리는 말을 25~30단어로 해 보기.

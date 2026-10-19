@@ -41,8 +41,8 @@
 08. ELENA: Of course. And second?
     엘레나: 물론이죠. 그리고 둘째?
 
-09. DIANE: The forearm test is a demonstration. Not data. Say those words. Out loud.
-    다이앤: 팔뚝 테스트는 시연이에요. 데이터가 아니고요. 그 말을 해요. 소리 내서.
+09. DIANE: The forearm test is a demonstration, not data. One arm, one person, no control group. Say those exact words, out loud, so no doctor walks out quoting it as a study.
+    다이앤: 팔뚝 테스트는 시연이에요. 데이터가 아니고요. 팔 하나, 사람 하나, 대조군 없음. 그 말을 정확히, 소리 내서 해요. 어떤 의사도 그걸 연구처럼 인용하며 나가지 않게.
 
 10. ELENA: "A demonstration, not data." I'll say it three times.
     엘레나: "시연이지 데이터가 아니다." 세 번 말할게요.
@@ -56,8 +56,8 @@
 13. ZOE: And the man in the third row? Arms crossed?
     조이: 그럼 세 번째 줄 남자는요? 팔짱 낀?
 
-14. WADE: Brian Cole. Plastic surgeon. He thinks every new filler is a gimmick.
-    웨이드: 브라이언 콜. 성형외과. 신제품 필러는 다 꼼수라고 생각하죠.
+14. WADE: Brian Cole, plastic surgeon. He thinks every new filler is a gimmick, and he usually says so in the first five minutes. But if you convince him, half this room follows.
+    웨이드: 브라이언 콜, 성형외과 의사. 신제품 필러는 다 꼼수라고 생각하고, 보통 처음 5분 안에 그렇게 말해요. 하지만 그 사람을 설득하면, 이 방 절반이 따라와요.
 
 15. ELENA: Good. I like an audience that wants proof.
     엘레나: 좋아요. 증거를 원하는 청중이 좋아요.
@@ -82,8 +82,8 @@
 21. TASHA: Moderate smile lines. Both sides. Exactly our label indication.
     타샤: 중등도 팔자주름. 양쪽. 정확히 저희 라벨 적응증이에요.
 
-22. ELENA: First, I mark the danger zone. As you can see, the facial artery runs here.
-    엘레나: 먼저 위험 부위를 표시해요. 보시다시피 안면 동맥이 여기로 지나가요.
+22. ELENA: First, I mark the danger zone. As you can see, the facial artery runs right here, along this line. I'm drawing it so all of us remember where not to go.
+    엘레나: 먼저 위험 부위를 표시해요. 보시다시피 안면 동맥이 바로 여기, 이 선을 따라 지나가요. 어디로 가면 안 되는지 우리 모두 기억하도록 그려 두는 거예요.
 
 23. HADDAD: Needle or cannula?
     하다드: 바늘이에요, 캐뉼라예요?
@@ -130,8 +130,8 @@
 37. COLE: Can't easily remove? I thought that was your whole selling point.
     콜: 쉽게 못 뺀다고요? 그게 당신네 핵심 장점인 줄 알았는데.
 
-38. ELENA: Faster to dissolve. Not instant. Not an eraser. I still inject carefully.
-    엘레나: 더 빨리 녹는 거예요. 즉시가 아니라. 지우개도 아니고요. 전 여전히 신중하게 주입해요.
+38. ELENA: Faster to dissolve, yes. But not instant, and not an eraser. If something goes wrong, I still lose minutes. So I inject as carefully as with any other filler.
+    엘레나: 더 빨리 녹는 건 맞아요. 하지만 즉시도 아니고, 지우개도 아니에요. 문제가 생기면 여전히 몇 분을 잃어요. 그래서 다른 어떤 필러만큼이나 신중하게 주입해요.
 
 39. WADE: Good answer.
     웨이드: 좋은 대답이네요.
@@ -180,8 +180,8 @@
 53. WADE: She's a dermatologist, Brian. Not a mathematician.
     웨이드: 피부과 의사예요, 브라이언. 수학자가 아니라.
 
-54. ELENA: Left arm, a small bead of Veyra Fill. Right arm, Lumaderm. Same volume.
-    엘레나: 왼팔엔 베이라 필 작은 방울. 오른팔엔 루마덤. 같은 양.
+54. ELENA: Here's the setup. On my left arm, a small bead of Veyra Fill. On my right arm, Lumaderm. Same volume, same depth, so the only difference is the product.
+    엘레나: 설정은 이래요. 왼팔엔 베이라 필 작은 방울. 오른팔엔 루마덤. 같은 양, 같은 깊이. 그래서 유일한 차이는 제품이에요.
 
 55. TASHA: Both injected at the same time. Thirty minutes ago. Under the skin.
     타샤: 둘 다 같은 시간에 주입했어요. 30분 전에. 피부 아래.
@@ -192,8 +192,8 @@
 57. ELENA: Please. Come up. Feel both.
     엘레나: 그러세요. 올라와요. 둘 다 만져 봐요.
 
-58. COLE: …Two firm beads. Similar size. Okay. No trick so far.
-    콜: …단단한 방울 두 개. 비슷한 크기. 좋아요. 아직은 속임수 없네요.
+58. COLE: …Two firm beads, about the same size, both right where she said they'd be. Okay. No trick so far, but I'm watching the timers myself, very closely.
+    콜: …단단한 방울 두 개, 크기도 비슷하고, 둘 다 말한 그 자리에 있네요. 좋아요. 아직은 속임수 없어요. 하지만 타이머는 제가 직접, 아주 자세히 볼 거예요.
 
 59. ELENA: Tasha, hyaluronidase. Same dose. Both arms. Start both timers.
     엘레나: 타샤, 히알루로니다아제. 같은 용량. 양팔. 타이머 둘 다 시작.
@@ -219,8 +219,8 @@
 66. NOAH: …
     노아: …
 
-67. ELENA: She has a small scar today. She's fine. But I never forgot that clock.
-    엘레나: 지금 작은 흉터가 있어요. 괜찮아요. 하지만 그 시계를 잊은 적 없어요.
+67. ELENA: She has a small scar today, and she's fine, she really is. But I never forgot that clock. That's why I care about speed. Not for marketing. For the next patient.
+    엘레나: 지금 작은 흉터가 있어요. 괜찮아요, 정말로요. 하지만 그 시계를 잊은 적 없어요. 그래서 전 속도에 신경 써요. 마케팅 때문이 아니라. 다음 환자를 위해서요.
 
 68. TASHA: Five minutes. Dr. Cole, can you check?
     타샤: 5분. 콜 선생님, 확인해 주시겠어요?
@@ -249,8 +249,8 @@
 76. COLE: Smaller. But I can still feel it. Clearly.
     콜: 작아졌어요. 하지만 아직 느껴져요. 분명하게.
 
-77. ELENA: Our study says two point eight times faster. Forty subjects. Blinded. That's the data.
-    엘레나: 저희 연구는 2.8배 빠르다고 해요. 40명. 눈가림. 그게 데이터예요.
+77. ELENA: And this is why I keep repeating myself. Our study says two point eight times faster, with forty subjects, blinded. That's the data. What you just felt is one arm.
+    엘레나: 그래서 제가 같은 말을 계속 반복하는 거예요. 저희 연구는 40명, 눈가림으로 2.8배 빠르다고 해요. 그게 데이터예요. 방금 만져 보신 건 팔 하나고요.
 
 78. COLE: And this is the show.
     콜: 그리고 이건 쇼고요.
@@ -272,8 +272,8 @@
 83. NOAH: Then tell us how ours should be different. Seriously.
     노아: 그럼 우리 건 어떻게 달라야 할지 말해 주세요. 진지하게요.
 
-84. COLE: No scripts. No hiding limitations. No paying for opinions.
-    콜: 대본 금지. 한계 숨기기 금지. 의견에 돈 주기 금지.
+84. COLE: No scripts written by marketing. No hiding the limitations in tiny print. And no paying doctors for opinions they don't really hold. Do that, and I'll take you seriously.
+    콜: 마케팅이 쓴 대본 금지. 한계를 깨알 같은 글씨에 숨기기 금지. 그리고 진심도 아닌 의견에 의사들한테 돈 주기 금지. 그렇게 하면 진지하게 봐 드리죠.
 
 85. ZOE: That's… almost exactly our rules.
     조이: 그거… 거의 정확히 저희 규칙이에요.
@@ -287,14 +287,14 @@
 88. TASHA: Rule three. Every faculty member is certified. Same exam. No exceptions.
     타샤: 규칙 3. 모든 교수진은 인증 보유. 같은 시험. 예외 없음.
 
-89. NOAH: Rule four. Fair market pay for time. Published on Open Payments.
-    노아: 규칙 4. 시간에 대한 공정 시장 가치 보수. 오픈 페이먼츠에 공개.
+89. NOAH: Rule four. Faculty are paid fair market value for their time, not for their opinions. And every payment is published on Open Payments, so anyone can check it.
+    노아: 규칙 4. 교수진은 의견이 아니라 시간에 대해 공정 시장 가치로 보수를 받아요. 그리고 모든 지급 내역은 오픈 페이먼츠에 공개돼서, 누구나 확인할 수 있어요.
 
 90. COLE: And if a faculty member criticizes your product?
     콜: 교수진 중 누가 당신네 제품을 비판하면요?
 
-91. NOAH: Rule five. They're allowed. We'd rather hear it inside.
-    노아: 규칙 5. 허용돼요. 안에서 듣는 게 낫거든요.
+91. NOAH: Rule five. They're allowed to criticize us, even in public. Honestly, we'd rather hear it inside the program than read it online later. Criticism is cheaper early.
+    노아: 규칙 5. 우리를 비판해도 돼요. 공개적으로도요. 솔직히, 나중에 온라인에서 읽느니 프로그램 안에서 듣는 게 낫거든요. 비판은 일찍 들을수록 싸요.
 
 92. WADE: Then I'll be the first. If you'll have me.
     웨이드: 그럼 제가 첫 번째 할게요. 받아 준다면.
@@ -352,8 +352,8 @@
 109. NOAH: You told Lily's story. Without her name.
      노아: 릴리 이야기를 했네요. 이름 없이.
 
-110. ELENA: It's my story too. That night was my clock. I'll text her. To ask.
-     엘레나: 내 이야기이기도 해요. 그날 밤은 내 시계였으니까. 문자해서 물어볼게요.
+110. ELENA: It's my story too. That night was my clock, and I carry it every day. But it's her face, so I'll text her tonight and ask before I tell it again.
+     엘레나: 내 이야기이기도 해요. 그날 밤은 내 시계였고, 매일 그걸 안고 살아요. 하지만 그건 그녀의 얼굴이니까, 오늘 밤 문자해서 다시 말하기 전에 물어볼게요.
 
 111. NOAH: She'll say it's fine. If you ask first.
      노아: 괜찮다고 할 거예요. 먼저 물어보면.
@@ -376,8 +376,8 @@
 117. ZOE: That's false! Twelve months. Seventy-one versus seventy.
      조이: 거짓이에요! 12개월. 71 대 70.
 
-118. DEREK: I know. But it sounds logical. That's why it's dangerous.
-     데릭: 알아요. 하지만 그럴듯하게 들리죠. 그래서 위험해요.
+118. DEREK: I know it's false. But it sounds logical, and that's why it's dangerous. A busy doctor hears 'faster to dissolve' and thinks 'breaks down faster.' Nobody checks the twelve-month data.
+     데릭: 거짓인 거 알아요. 하지만 그럴듯하게 들리고, 그래서 위험해요. 바쁜 의사는 '더 빨리 녹는다'를 듣고 '더 빨리 분해된다'고 생각해요. 12개월 데이터는 아무도 확인 안 하죠.
 
 119. NOAH: Then we answer it. Calmly. With data. Every rep. Same words.
      노아: 그럼 답하죠. 차분하게. 데이터로. 모든 영업 사원이. 같은 말로.
@@ -422,3 +422,17 @@
 | Close | *"You felt it yourself. You decide what it means."* |
 
 > **Veyra Faculty — 5 rules:** ① Teach, don't sell ② Limitation statement in every talk ③ Certified, same exam ④ Fair market pay, published on Open Payments ⑤ Criticism allowed
+
+### ④ 긴 발화 분석
+
+> **77턴 ELENA:** "And this is why I keep repeating myself. Our study says two point eight times faster, with forty subjects, blinded. That's the data. What you just felt is one arm."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 예고(반복의 이유) | And this is why I keep repeating myself. | 방금 본 극적인 장면에서 한 걸음 물러서게 함 |
+| ② 근거(진짜 데이터) | Our study says two point eight times faster, with forty subjects, blinded. That's the data. | 주장의 진짜 근거를 숫자·조건과 함께 제시 |
+| ③ 대비(시연의 한계) | What you just felt is one arm. | 시연은 데이터가 아님을 청중의 경험으로 정리 |
+
+**활용 패턴:** "This is why…" → 데이터(숫자·조건) → "That's the data. What you saw is…"
+**연결 표현:** This is why…(이래서 ~하는 것이다) · with…(~을 대상으로) · What you just felt is…(방금 느낀 것은 ~이다)
+**연습:** 고객 한 명의 성공 사례를 소개한 뒤, 같은 구조로 전체 데이터와 사례의 한계를 30단어 안팎으로 구분해 말해 보기.

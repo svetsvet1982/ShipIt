@@ -41,8 +41,8 @@
 08. LILY: Six months. Okay. I can live with that.
     릴리: 6개월. 알겠어요. 그 정도는 견딜 수 있어요.
 
-09. ELENA: You were lucky, Lily. Some patients aren't.
-    엘레나: 운이 좋았어요, 릴리. 그렇지 못한 환자들도 있어요.
+09. ELENA: You were lucky, Lily. Some patients aren't. You came in fast, and the enzyme worked in time, but I've seen cases where an hour's delay meant permanent damage.
+    엘레나: 운이 좋았어요, 릴리. 그렇지 못한 환자들도 있어요. 빨리 왔고 효소도 제때 들었죠. 하지만 한 시간 늦어서 영구적인 손상이 남은 경우도 봤어요.
 
 10. LILY: Thank you. Really. You saved my face.
     릴리: 감사해요. 정말로요. 제 얼굴을 살려 주셨어요.
@@ -109,8 +109,8 @@
 30. ELENA: Go on.
     엘레나: 계속해요.
 
-31. NOAH: We need a doctor on the team. Not an advisor. A co-founder.
-    노아: 팀에 의사가 필요해요. 자문이 아니라 공동창업자로요.
+31. NOAH: We need a doctor on the team. Not an advisor who reads a report once a month, but a co-founder who helps make the decisions, especially the hard ones about safety.
+    노아: 팀에 의사가 필요해요. 한 달에 한 번 보고서나 읽는 자문이 아니라, 결정을 함께 내리는 공동창업자요. 특히 안전에 관한 어려운 결정을요.
 
 32. ELENA: You want me to join your company?
     엘레나: 나보고 당신 회사에 들어오라고요?
@@ -118,8 +118,8 @@
 33. NOAH: As Chief Medical Officer. You'd lead the clinical side.
     노아: 최고의료책임자로요. 임상 쪽을 이끄시는 거예요.
 
-34. ELENA: Noah, I have a clinic. Patients. Staff who depend on me.
-    엘레나: 노아, 난 병원이 있어요. 환자들도, 나만 바라보는 직원들도요.
+34. ELENA: Noah, I have a clinic. Patients. Staff who depend on me. I built this practice over many years, and I can't just walk away from it for a napkin drawing.
+    엘레나: 노아, 난 병원이 있어요. 환자들도, 나만 바라보는 직원들도요. 오랜 세월에 걸쳐 일군 병원인데, 냅킨 그림 하나 때문에 그냥 떠날 순 없어요.
 
 35. NOAH: I know. I'm not asking you to close it.
     노아: 알아요. 병원을 닫으시라는 게 아니에요.
@@ -160,8 +160,8 @@
 47. NOAH: Eleven. And how many get reported?
     노아: 열한 건이요. 그중 몇 건이 보고돼요?
 
-48. ELENA: Officially? Maybe two. Most cases are never reported.
-    엘레나: 공식적으로요? 두 건쯤. 대부분은 보고조차 안 돼요.
+48. ELENA: Officially? Maybe two. Most cases are never reported, because the paperwork takes time, and many doctors simply treat the patient and move on to the next emergency.
+    엘레나: 공식적으로요? 두 건쯤. 대부분은 보고조차 안 돼요. 서류 작업에 시간이 걸리니까, 많은 의사들이 그냥 환자를 치료하고 다음 응급 환자로 넘어가거든요.
 
 49. NOAH: So the real number is much higher than anyone thinks.
     노아: 그러니까 실제 숫자는 다들 생각하는 것보다 훨씬 많겠네요.
@@ -183,8 +183,8 @@
 54. ELENA: First, my patients. They come first. Always.
     엘레나: 첫째, 내 환자들이요. 환자가 먼저예요. 언제나.
 
-55. NOAH: I hear your concerns. Your clinic stays open. You keep your patients.
-    노아: 무슨 걱정인지 알아요. 병원은 그대로 운영하고, 환자도 계속 보시는 거예요.
+55. NOAH: I hear your concerns. Your clinic stays open, and you keep your patients. We'd only need your time in the evenings and some weekends, at least until we raise real money.
+    노아: 무슨 걱정인지 알아요. 병원은 그대로 운영하고, 환자도 계속 보시는 거예요. 적어도 진짜 투자를 받을 때까지는 저녁 시간과 몇몇 주말만 내주시면 돼요.
 
 56. ELENA: Second, conflict of interest. If I own part of a filler company…
     엘레나: 둘째, 이해충돌이요. 내가 필러 회사 지분을 가지면…
@@ -192,8 +192,8 @@
 57. NOAH: Then your patients might wonder why you recommend it.
     노아: 환자들이 왜 그 제품을 권하는지 의심할 수 있겠죠.
 
-58. ELENA: Exactly. Doctors with equity must disclose it. And patients notice.
-    엘레나: 바로 그거예요. 지분이 있는 의사는 반드시 공개해야 해요. 환자들도 알아채고요.
+58. ELENA: Exactly. Doctors with equity must disclose it, and patients notice. If a patient ever thinks I'm recommending something for my own profit, I've lost their trust forever.
+    엘레나: 바로 그거예요. 지분이 있는 의사는 반드시 공개해야 하고, 환자들도 알아채요. 내가 내 이익 때문에 뭔가를 권한다고 환자가 한 번이라도 생각하면, 그 신뢰는 영영 잃는 거예요.
 
 59. NOAH: So we disclose everything. Fully. From day one.
     노아: 그럼 전부 공개해요. 완전히. 첫날부터요.
@@ -210,8 +210,8 @@
 63. NOAH: What about it?
     노아: 평판이 어때서요?
 
-64. ELENA: I've seen good doctors become salespeople. I won't become one.
-    엘레나: 좋은 의사가 영업사원이 되는 걸 봤어요. 난 그렇게 되지 않을 거예요.
+64. ELENA: I've seen good doctors become salespeople. They start with one company, then they're on stage at every conference, smiling for the camera. I won't become one of them.
+    엘레나: 좋은 의사가 영업사원이 되는 걸 봤어요. 회사 하나로 시작해서, 나중엔 모든 학회 무대에 올라 카메라 앞에서 웃고 있죠. 난 그런 사람이 되지 않을 거예요.
 
 65. NOAH: We don't need a salesperson. I'm the salesperson.
     노아: 영업사원은 필요 없어요. 영업은 제가 해요.
@@ -219,8 +219,8 @@
 66. ELENA: Then what do you need me for, exactly?
     엘레나: 그럼 정확히 나는 뭐가 필요한 거죠?
 
-67. NOAH: To tell us the truth. Especially when we don't want to hear it.
-    노아: 진실을 말해 주시는 거요. 특히 우리가 듣기 싫어할 때요.
+67. NOAH: To tell us the truth, especially when we don't want to hear it. I'll be excited, investors will be impatient, and somebody in the room has to say no.
+    노아: 진실을 말해 주시는 거요. 특히 우리가 듣기 싫어할 때요. 저는 들떠 있을 거고, 투자자들은 조급해할 거예요. 그 자리에서 누군가는 '안 된다'고 말해야 해요.
 
 68. ELENA: That, I can do. I do it every day.
     엘레나: 그건 할 수 있어요. 매일 하는 일이니까.
@@ -255,8 +255,8 @@
 78. ELENA: That's not a reason to trust you. That's a reason not to.
     엘레나: 그건 믿을 이유가 아니에요. 믿지 말아야 할 이유죠.
 
-79. NOAH: It means I know exactly what marketing hides. I helped hide it.
-    노아: 마케팅이 뭘 숨기는지 정확히 안다는 뜻이에요. 저도 숨기는 데 한몫했고요.
+79. NOAH: It means I know exactly what marketing hides, because I helped hide it. I know which risks go in small print, so I'll know where to look for them.
+    노아: 마케팅이 뭘 숨기는지 정확히 안다는 뜻이에요. 저도 숨기는 데 한몫했으니까요. 어떤 리스크가 작은 글씨로 들어가는지 알기 때문에, 어디를 봐야 하는지도 알 거예요.
 
 80. ELENA: Hmm. That's an honest answer. I'll give you that.
     엘레나: 흠. 솔직한 대답이네요. 그건 인정할게요.
@@ -296,14 +296,14 @@
 91. ELENA: Good. "I don't know" is the most trustworthy answer in science.
     엘레나: 좋아요. "모르겠다"는 과학에서 가장 믿을 만한 대답이에요.
 
-92. PRIYA: I can tell you how I'd find out. Three tests, about six weeks.
-    프리야: 어떻게 알아낼지는 말씀드릴 수 있어요. 시험 세 가지, 6주쯤이요.
+92. PRIYA: I can tell you how I'd find out. Three tests, about six weeks. Each test checks something different, and if the gel survives all three, then we'll have real data instead of hope.
+    프리야: 어떻게 알아낼지는 말씀드릴 수 있어요. 시험 세 가지, 6주쯤이요. 시험마다 확인하는 게 다르고, 젤이 세 가지를 다 견디면 그때는 희망 대신 진짜 데이터가 생기는 거예요.
 
 93. ELENA: And if it fails?
     엘레나: 실패하면요?
 
-94. PRIYA: Then we redesign the link. Or we stop. Data decides, not Noah.
-    프리야: 그럼 연결고리를 다시 설계하거나, 멈추는 거죠. 노아가 아니라 데이터가 결정해요.
+94. PRIYA: Then we redesign the link, or we stop. I won't fall in love with my own chemistry. Data decides, not Noah, and definitely not the investors.
+    프리야: 그럼 연결고리를 다시 설계하거나, 멈추는 거죠. 제 화학에 빠져서 눈이 멀진 않을 거예요. 노아가 아니라 데이터가 결정해요. 투자자는 더더욱 아니고요.
 
 95. NOAH: Hey. I'm standing right here.
     노아: 저기요. 나 바로 여기 서 있거든.
@@ -349,8 +349,8 @@
 108. NOAH: Even if investors are screaming? Even if we're out of money?
      노아: 투자자들이 소리를 질러도요? 돈이 다 떨어져도요?
 
-109. ELENA: Especially then. That's when companies cut corners.
-     엘레나: 그럴 때일수록요. 회사들이 편법을 쓰는 게 바로 그때니까.
+109. ELENA: Especially then. That's when companies cut corners. When the money is running out and everyone is tired, the pressure to ship becomes enormous, and that's exactly when patients get hurt.
+     엘레나: 그럴 때일수록요. 회사들이 편법을 쓰는 게 바로 그때니까. 돈은 떨어져 가고 다들 지쳐 있으면 출시하라는 압박이 엄청나지고, 환자가 다치는 게 바로 그때예요.
 
 110. PRIYA: I agree with that completely.
      프리야: 전 거기 전적으로 동의해요.
@@ -416,3 +416,18 @@
 예시:
 > *A: My second concern is conflict of interest.*
 > *B: That's fair. Here's what we can do: we disclose everything, from day one, and you never recommend the product to your own patients. Does that address your concern?*
+
+### ④ 긴 발화 분석
+
+> **109턴 ELENA:** "Especially then. That's when companies cut corners. When the money is running out and everyone is tired, the pressure to ship becomes enormous, and that's exactly when patients get hurt."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 반전 강조 | Especially then. | 상대의 예외 질문을 오히려 핵심 근거로 뒤집음 |
+| ② 일반 원칙 | That's when companies cut corners. | "That's when…"으로 경험에서 나온 원칙을 제시 |
+| ③ 상황 묘사(When절) | When the money is running out and everyone is tired, the pressure to ship becomes enormous, | 압박이 커지는 구체적 장면을 그려 줌 |
+| ④ 결과(최악) | and that's exactly when patients get hurt. | 같은 "that's when"을 반복해 결론을 못 박음 |
+
+**활용 패턴:** "Especially then." → "That's when A." → "When B, C." → "that's exactly when D."
+**연결 표현:** especially then(그럴 때일수록) · cut corners(편법을 쓰다, 절차를 생략하다) · that's exactly when…(바로 그때 ~한다)
+**연습:** "마감이 급해도 검수를 생략할 수 없다"는 원칙을 같은 구조로 30단어 안팎으로 설명해 보기.

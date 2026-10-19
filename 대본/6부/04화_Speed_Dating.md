@@ -47,8 +47,8 @@
 10. NOAH: "That's quite interesting." Means… "No"?
     노아: "꽤 흥미롭네요." 뜻은… "아니요"?
 
-11. ZOE: Usually. Unless he asks a follow-up question. Then it's real interest.
-    조이: 보통은요. 후속 질문을 하지 않는다면요. 그럼 진짜 관심이에요.
+11. ZOE: Usually. Unless he asks a follow-up question, because then it's real interest. The British hate saying no directly, so they say something polite and wait for you to understand. If you don't, they're too polite to explain.
+    조이: 보통은요. 후속 질문을 하지 않는다면요. 그럼 진짜 관심이니까요. 영국인은 대놓고 '아니요'라고 하는 걸 싫어해서, 정중한 말을 하고 상대가 알아듣길 기다려요. 못 알아들으면, 너무 정중해서 설명도 안 해 줘요.
 
 12. NOAH: "With the greatest respect." Means…
     노아: "최대한의 존경을 담아." 뜻은…
@@ -76,8 +76,8 @@
 19. SOFIA: Oliver, tell us about Grant and Ashby. Who do you serve?
     소피아: 올리버, 그랜트 앤 애슈비에 대해 말해 주세요. 누구에게 공급하세요?
 
-20. OLIVER: About eighteen hundred clinics across the UK. Large groups, small practices. Twenty-two years.
-    올리버: 영국 전역 약 1,800개 클리닉. 대형 그룹, 소규모 병원. 22년째요.
+20. OLIVER: About eighteen hundred clinics across the UK, from large groups in London to small practices in places you've never heard of. Twenty-two years in the business. We know which clinics are careful and which ones aren't, which, I suspect, is why you wanted to meet.
+    올리버: 영국 전역 약 1,800개 클리닉. 런던의 대형 그룹부터 들어 보지도 못했을 동네의 작은 병원까지요. 이 업계에서 22년. 어느 클리닉이 신중하고 어느 곳이 아닌지 알죠. 짐작건대 그래서 만나자고 하신 것 같고요.
 
 21. NOAH: Eighteen hundred. That's a large network.
     노아: 1,800곳. 큰 네트워크네요.
@@ -142,8 +142,8 @@
 41. SOFIA: Thinking about what? Medical-only shrinks your market?
     소피아: 뭘 생각 중이세요? 의료인 한정이면 시장이 줄어서요?
 
-42. OLIVER: It would. But it might make me different. Every UK distributor sells to beauticians. Not one sells only to clinicians.
-    올리버: 그렇죠. 하지만 저를 다르게 만들 수도 있어요. 영국 유통사는 다 미용사에게 팔아요. 임상의에게만 파는 곳은 없어요.
+42. OLIVER: It would, rather a lot. But it might also make me different. Every distributor in the UK sells to beauticians; not one sells only to clinicians. With the government finally discussing new rules, being the careful one might turn out to be clever. Or not.
+    올리버: 줄겠죠, 꽤 많이. 하지만 저를 다르게 만들 수도 있어요. 영국 유통사는 다 미용사에게 팔아요. 임상의에게만 파는 곳은 한 곳도 없죠. 정부가 드디어 새 규정을 논의하고 있으니, 신중한 쪽이 결국 똑똑한 쪽이 될 수도 있어요. 아닐 수도 있고요.
 
 43. SOFIA: So you'd be the first.
     소피아: 그럼 당신이 첫 번째가 되겠네요.
@@ -160,8 +160,8 @@
 47. OLIVER: Eight thousand. With beauticians, I'd say twenty-five.
     올리버: 8,000개. 미용사를 포함하면 2만 5천이라고 하겠죠.
 
-48. NOAH: And Houston would happen in London. Every week.
-    노아: 그럼 휴스턴 같은 일이 런던에서 매주 일어나겠죠.
+48. NOAH: And with twenty-five thousand, Houston would happen in London, not once but every week. I understand the business case, Oliver, I really do. But those extra seventeen thousand syringes are exactly the ones we built this company to keep out of untrained hands.
+    노아: 그리고 2만 5천이면, 휴스턴 같은 일이 런던에서 한 번이 아니라 매주 일어나겠죠. 사업적으로는 이해해요, 올리버. 정말로요. 하지만 그 추가 1만 7천 개가 바로, 교육받지 않은 손에 가지 않게 하려고 저희가 이 회사를 세운 그 주사기들이에요.
 
 49. OLIVER: I read about Houston. Unfortunate. Very. Thank you both. Not bad at all. I'll be in touch.
     올리버: 휴스턴 기사 읽었어요. 안타깝죠. 아주. 두 분 감사합니다. 전혀 나쁘지 않았어요. 연락드릴게요.
@@ -180,8 +180,8 @@
 53. NOAH: And the beautician question?
     노아: 미용사 질문은요?
 
-54. SOFIA: He didn't say no. Grade B. With a red flag.
-    소피아: "아니요"라고는 안 했어요. B 등급. 빨간 깃발 하나와 함께.
+54. SOFIA: He didn't say no, and that's what worries me. He's attractive on paper: the biggest network, he read our label, he asked about volumes. But until he says no to beauticians, he's grade B, with a red flag.
+    소피아: '아니요'라고 안 했어요. 그게 걱정되는 부분이에요. 서류상으론 매력적이죠. 가장 큰 네트워크, 우리 라벨도 읽었고, 물량도 물었고. 하지만 미용사에게 '아니요'라고 할 때까진 B 등급이에요. 빨간 깃발 하나와 함께.
 
 55. KLAUS: Guten Morgen. Klaus Becker. MediPartner. Germany, Austria, Switzerland. I have prepared eleven questions.
     클라우스: 구텐 모르겐. 클라우스 베커. 메디파트너. 독일, 오스트리아, 스위스. 질문 열한 개를 준비했어요.
@@ -213,8 +213,8 @@
 64. NOAH: Five years is long. For a first partner.
     노아: 5년은 길어요. 첫 파트너로선.
 
-65. KLAUS: In Germany, we build slowly. Five years is not long. Five years is serious.
-    클라우스: 독일에선 천천히 쌓아요. 5년은 긴 게 아니에요. 5년은 진지한 거예요.
+65. KLAUS: In Germany, we build slowly. Training the doctors, building trust, collecting our own data: this takes years, not months. If I invest in all of that, I need to know you won't give the market to someone else in year three. Five years is not long. It is serious.
+    클라우스: 독일에선 천천히 쌓아요. 의사 교육, 신뢰 구축, 자체 데이터 수집. 이건 몇 달이 아니라 몇 년이 걸려요. 그 모든 걸 투자한다면, 3년 차에 시장을 다른 사람한테 넘기지 않으리란 걸 알아야 해요. 5년은 긴 게 아니에요. 진지한 거예요.
 
 66. SOFIA: We'd prefer three years. With performance targets. Then renewal.
     소피아: 저흰 3년을 선호해요. 성과 목표와 함께. 그다음 갱신.
@@ -243,8 +243,8 @@
 74. JAVIER: Already? That was five minutes!
     하비에르: 벌써요? 5분밖에 안 됐는데!
 
-75. SOFIA: Five honest minutes. That saves us both twenty-five.
-    소피아: 솔직한 5분이었어요. 그게 우리 둘 다 25분을 아껴 줘요.
+75. SOFIA: Five honest minutes, Javier, and I mean that as a compliment. You told us the truth about your market, and we told you the truth about our rule. That saves us both twenty-five minutes, and maybe a very difficult contract later.
+    소피아: 솔직한 5분이었어요, 하비에르. 칭찬으로 하는 말이에요. 당신은 시장에 대해 진실을 말했고, 우리는 규칙에 대해 진실을 말했죠. 그게 우리 둘 다 25분을, 그리고 어쩌면 나중의 아주 골치 아픈 계약까지 아껴 줘요.
 
 76. FEMKE: Femke de Vries. DermaLink. Netherlands. Your price. Four hundred twenty-five dollars?
     페임커: 페임커 더프리스. 더마링크. 네덜란드. 가격. 425달러요?
@@ -269,8 +269,8 @@
 82. NOAH: Bonjour. I'm sorry. We have thirty minutes. Back-to-back meetings.
     노아: 봉주르. 죄송해요. 30분 있어요. 미팅이 연달아 있어서요.
 
-83. LAURENT: Thirty minutes? For a partnership? In France, we need time to know each other first.
-    로랑: 30분이요? 파트너십에? 프랑스에선 서로 알아 가는 시간이 먼저 필요해요.
+83. LAURENT: Thirty minutes? For a partnership? In France, we need time to know each other first. Over lunch, I learn if you are serious, if you listen, if you will still answer my calls in five years. The contract is the easy part. The trust takes longer.
+    로랑: 30분이요? 파트너십에? 프랑스에선 서로 알아 가는 시간이 먼저 필요해요. 점심을 먹으면서, 당신이 진지한지, 잘 듣는지, 5년 뒤에도 내 전화를 받을지 알게 되죠. 계약은 쉬운 부분이에요. 신뢰가 더 오래 걸려요.
 
 84. SOFIA: Then let's use thirty minutes to decide if we want two hours later.
     소피아: 그럼 30분을 써서 나중에 두 시간을 원하는지 정해 봐요.
@@ -314,8 +314,8 @@
 97. ZOE: Spain failed. Netherlands left. France, later. Dubai, after CE.
     조이: 스페인 탈락. 네덜란드 떠남. 프랑스는 나중에. 두바이는 CE 이후.
 
-98. NOAH: So the UK question is simple. Can Oliver become the only medical-only distributor in Britain?
-    노아: 그럼 영국 질문은 간단해요. 올리버가 영국 유일의 의료인 전용 유통사가 될 수 있나?
+98. NOAH: So the UK question is actually simple. Can Oliver become the only medical-only distributor in Britain, and mean it? If he can, he has the network we need. If he can't, eighteen hundred clinics won't matter, because our name will end up in the wrong hands.
+    노아: 그럼 영국 질문은 사실 간단해요. 올리버가 영국 유일의 의료인 전용 유통사가 될 수 있나, 그것도 진심으로? 된다면 우리가 필요한 네트워크를 가졌죠. 안 된다면 1,800개 클리닉도 의미 없어요. 우리 이름이 엉뚱한 손에 들어갈 테니까요.
 
 99. ELENA: Or will he say yes to us. And sell to beauticians quietly. Through another company.
     엘레나: 아니면 우리한텐 "예"라고 하고. 다른 회사를 통해 조용히 미용사한테 팔거나.
@@ -323,8 +323,8 @@
 100. SOFIA: Serial numbers would catch that. Every syringe, every clinic.
      소피아: 일련번호가 그걸 잡아낼 거예요. 모든 주사기, 모든 클리닉.
 
-101. ELENA: Only if he agrees to monthly scans. In writing. In the contract.
-     엘레나: 그가 월간 스캔에 동의할 때만요. 서면으로. 계약서에.
+101. ELENA: Only if he agrees to monthly scans, in writing, in the contract. Get it in writing, as Diane always says. A promise over coffee in London means nothing if the contract lets him sell through a sister company.
+     엘레나: 그가 월간 스캔에 동의할 때만요. 서면으로, 계약서에. 다이앤이 늘 말하듯이, 서면으로 받아 두라. 계약서가 계열사를 통한 판매를 허용한다면, 런던에서 커피 마시며 한 약속은 아무 의미가 없어요.
 
 102. NOAH: Then that's the test. Not what he says. What he signs.
      노아: 그럼 그게 시험이네요. 그가 하는 말이 아니라. 그가 서명하는 것.
@@ -355,8 +355,8 @@
 110. NOAH: "Your medical-only position is quite interesting. I'll bear it in mind."
      노아: "의료인 전용 입장은 꽤 흥미롭네요. 기억해 두겠습니다."
 
-111. SOFIA: Hmm. "Quite interesting." Plus "bear it in mind." That's a polite no. On the rule.
-     소피아: 흠. "꽤 흥미롭다." 거기에 "기억해 두겠다." 규칙에 대한 정중한 거절이네요.
+111. SOFIA: Hmm. 'Quite interesting,' plus 'I'll bear it in mind.' Put those two together, and that's a polite no, at least on the rule. In British English, that's about as close to a door closing as you'll ever hear.
+     소피아: 흠. '꽤 흥미롭다'에 '기억해 두겠다'까지. 둘을 합치면 정중한 거절이에요. 적어도 규칙에 대해서는. 영국 영어에서 그건 문이 닫히는 소리에 거의 가장 가까운 말이에요.
 
 112. NOAH: So he's out?
      노아: 그럼 탈락이에요?
@@ -373,8 +373,8 @@
 116. NOAH: So the first text was "no" and the second was "yes"?
      노아: 그럼 첫 문자는 "아니요"고 두 번째는 "예"예요?
 
-117. ZOE: The first was "No to your rule." The second was "Yes to your company."
-     조이: 첫 번째는 "당신네 규칙엔 아니요." 두 번째는 "당신네 회사엔 예."
+117. ZOE: The first was 'No to your rule.' The second was 'Yes to your company.' He's separating the two on purpose, so he can say no to the rule and still keep the door open. In London, he'll try to change the rule, not the relationship.
+     조이: 첫 번째는 '당신네 규칙엔 아니요.' 두 번째는 '당신네 회사엔 예.' 일부러 둘을 나눈 거예요. 규칙엔 '아니요'라고 하면서도 문은 열어 두려고요. 런던에선 관계가 아니라 규칙을 바꾸려 들 거예요.
 
 118. ELENA: Then London will be about the rule. Only the rule.
      엘레나: 그럼 런던은 규칙에 관한 거겠네요. 오직 규칙.
@@ -419,3 +419,18 @@
 | 6 | Omar Saleh — Gulf MedTrade | 6 Gulf countries | Medical only (law) | No | After CE | B (after CE) |
 
 > **British decoder:** "I'll bear it in mind" (maybe forgotten) · "Not bad at all" (very good) · "Quite interesting" (usually no) · "With the greatest respect" (you're wrong) · **A P.S. with a date and place = real**
+
+### ④ 긴 발화 분석
+
+> **65턴 KLAUS:** "In Germany, we build slowly. Training the doctors, building trust, collecting our own data: this takes years, not months. If I invest in all of that, I need to know you won't give the market to someone else in year three. Five years is not long. It is serious."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 원칙(문화) | In Germany, we build slowly. | 요구 사항의 배경이 되는 방식부터 제시 |
+| ② 근거(목록) | Training the doctors, building trust, collecting our own data: this takes years, not months. | 무엇에 시간이 드는지 구체적으로 나열 |
+| ③ 조건(투자 → 보장) | If I invest in all of that, I need to know you won't give the market to someone else in year three. | 독점 요구를 "투자 보호"라는 논리로 정당화 |
+| ④ 재정의(대비) | Five years is not long. It is serious. | "길다"는 반론을 "진지하다"로 뒤집어 마무리 |
+
+**활용 패턴:** 원칙 → 근거 나열 → If I invest…, I need to know… → "It's not A. It's B."
+**연결 표현:** years, not months(몇 달이 아니라 몇 년) · If I invest in…(~에 투자한다면) · I need to know…(~라는 걸 알아야 한다)
+**연습:** 거래처가 "계약 기간이 너무 길다"고 할 때, 장기 계약이 필요한 이유를 같은 구조로 45단어 안팎으로 설명해 보기.

@@ -32,8 +32,8 @@
 05. ELAINE: Your conclusion, Victoria?
     일레인: 결론은요, 빅토리아?
 
-06. VICTORIA: Tom's Korea threat is a bluff. I worried about the wrong thing. I'm glad someone checked.
-    빅토리아: 톰의 한국 위협은 허세예요. 엉뚱한 걸 걱정했네요. 누군가 확인해 줘서 다행이에요.
+06. VICTORIA: Tom's Korea threat is a bluff. No approval, no application, not even a pre-submission meeting. I worried about the wrong thing, and I said so loudly on Wednesday, so I'll say this loudly too: I'm glad someone checked.
+    빅토리아: 톰의 한국 위협은 허세예요. 허가도, 신청도, 사전 상담조차 없어요. 엉뚱한 걸 걱정했고, 수요일에 그걸 큰 소리로 말했으니 이것도 큰 소리로 말할게요. 누군가 확인해 줘서 다행이에요.
 
 07. INGRID: And Dr. Ruiz sent the five principles in writing. Plus the JV veto. Fjord is satisfied.
     잉그리드: 그리고 루이즈 박사가 다섯 가지 원칙을 서면으로 보냈어요. JV 거부권까지. 피오르드는 만족해요.
@@ -73,8 +73,8 @@
 18. NOAH: Why?
     노아: 왜요?
 
-19. RICHARD: Never close a door you might need. In three years, the market changes. Halvern could be our best exit.
-    리처드: 필요할지 모르는 문은 절대 닫지 마요. 3년 뒤엔 시장이 바뀌어요. 할번이 최선의 출구가 될 수도 있어요.
+19. RICHARD: Never close a door you might need. I've seen markets change faster than founders expect. In three years, Halvern could be our best exit, and I don't want a letter in their files saying we told them never.
+    리처드: 필요할지 모르는 문은 절대 닫지 마요. 시장은 창업자들이 예상하는 것보다 빨리 바뀌는 걸 봤어요. 3년 뒤엔 할번이 최선의 출구가 될 수도 있는데, 우리가 절대 안 된다고 했다는 서한이 그쪽 서류철에 남아 있는 건 원치 않아요.
 
 20. PRIYA: The change-of-control clause makes Halvern our worst exit. For years. We agreed to that last night.
     프리야: 지배권 변경 조항이 할번을 최악의 출구로 만들어요. 수년간. 어젯밤 그렇게 합의했잖아요.
@@ -88,8 +88,8 @@
 23. RICHARD: And what's wrong with Tom coming back? With two billion?
     리처드: 톰이 다시 오는 게 뭐가 문제예요? 20억을 들고?
 
-24. NOAH: Every time he comes back, Tokyo waits. Seoul waits. Our people wonder. The cost isn't the offer. It's the waiting.
-    노아: 그가 올 때마다 도쿄는 기다리고. 서울도 기다리고. 직원들은 불안해해요. 비용은 제안이 아니라. 기다림이에요.
+24. NOAH: Every time he comes back, Tokyo waits, Seoul waits, and our people wonder whether their jobs are about to change. We'd spend half of every year managing Tom instead of building the company. The cost isn't the offer. It's the waiting.
+    노아: 그가 올 때마다 도쿄는 기다리고, 서울도 기다리고, 직원들은 자기 일자리가 바뀌는 건 아닌지 불안해해요. 매년 반은 회사를 키우는 대신 톰을 상대하느라 보내게 될 거예요. 비용은 제안이 아니라, 기다림이에요.
 
 25. VICTOR: He's right, Richard. A permanently open door is a permanent distraction. For a company going public.
     빅터: 그 말이 맞아요, 리처드. 영원히 열린 문은 영원한 방해예요. 상장을 앞둔 회사에겐.
@@ -97,14 +97,14 @@
 26. RICHARD: Victor, you'd sell to Halvern tomorrow at two billion.
     리처드: 빅터, 당신은 20억이면 내일이라도 할번에 팔 거잖아요.
 
-27. VICTOR: At two billion, I'd sell to anyone. That's my point. Let the IPO set the price. Not Tom's mood.
-    빅터: 20억이면 누구에게든 팔죠. 그게 내 요점이에요. 가격은 IPO가 정하게 해요. 톰의 기분이 아니라.
+27. VICTOR: At two billion, I'd sell to anyone. That's my point. Price should come from a market of many buyers, not from one man who needs a deal before September. Let the IPO set the price. Not Tom's mood.
+    빅터: 20억이면 누구에게든 팔죠. 그게 내 요점이에요. 가격은 여러 매수자가 있는 시장에서 나와야지, 9월 전에 거래가 필요한 한 사람한테서 나오면 안 돼요. 가격은 IPO가 정하게 해요. 톰의 기분이 아니라.
 
 28. RICHARD: Noah, I've backed you for seven years. I'm asking for one phrase. Three words.
     리처드: 노아, 7년 동안 당신을 밀었어요. 표현 하나만 부탁하는 거예요. 세 단어.
 
-29. NOAH: I'm grateful for seven years. But this door, we close. Other doors stay open. All except this one.
-    노아: 7년에 감사해요. 하지만 이 문은 닫아요. 다른 문은 열어 둬요. 이것만 빼고 전부.
+29. NOAH: I'm grateful for seven years, Richard, and I mean that. But this door, we close. Other doors stay open: an IPO, other partners, other buyers if the board ever wants them. All except this one, because this one asked us to give up the rules.
+    노아: 7년에 감사해요, 리처드. 진심이에요. 하지만 이 문은 닫아요. 다른 문은 열어 둬요. IPO, 다른 파트너, 이사회가 원한다면 다른 인수자도. 이것만 빼고 전부요. 이 문은 우리에게 규칙을 포기하라고 했으니까요.
 
 30. ELAINE: Inside, argue. Outside, one voice. We'll vote on the wording. Then it's one voice.
     일레인: 안에선 논쟁. 밖에선 한목소리. 문구를 표결하죠. 그다음엔 한목소리예요.
@@ -198,8 +198,8 @@
 59. NOAH: I'll stand. It's a short meeting.
     노아: 서 있을게요. 짧은 미팅이에요.
 
-60. TOM: One point four. Today. I'll call my board from this room. You'd have it in writing by two.
-    톰: 14억. 오늘. 이 방에서 이사회에 전화할게. 2시까지 서면으로 받게 해 주지.
+60. TOM: One point four. Today. I'll call my board from this room, right now, while you stand there. You'd have it in writing by two. That's two hundred million more than two weeks ago. Nobody moves that fast for a company they don't want.
+    톰: 14억. 오늘. 지금 이 방에서, 네가 서 있는 동안 이사회에 전화할게. 2시까지 서면으로 받게 해 주지. 2주 전보다 2억 더 많아. 원하지도 않는 회사에 이렇게 빨리 움직이는 사람은 없어.
 
 61. NOAH: The number isn't the reason, Tom. It never was.
     노아: 숫자가 이유가 아니에요, 톰. 처음부터 아니었어요.
@@ -213,8 +213,8 @@
 64. TOM: Then let's talk about Korea. Lumaderm Flex. Bellacare prices. This fall. You remember.
     톰: 그럼 한국 얘기를 하지. 루마덤 플렉스. 벨라케어 가격. 올가을. 기억하지.
 
-65. NOAH: I remember. There's no application on file at the Korean ministry. We checked. Twelve to eighteen months. Minimum.
-    노아: 기억해요. 한국 식약처에 신청 기록이 없어요. 확인했어요. 12개월에서 18개월. 최소.
+65. NOAH: I remember. There's no application on file at the Korean ministry. We checked, and so did a Korean regulatory consultant. Approval would take twelve to eighteen months, minimum, from the day you apply. So 'this fall' isn't a plan. It's a story.
+    노아: 기억해요. 한국 식약처에 신청 기록이 없어요. 우리가 확인했고, 한국 규제 컨설턴트도 확인했어요. 허가는 신청한 날부터 최소 12개월에서 18개월. 그러니 '올가을'은 계획이 아니에요. 이야기죠.
 
 66. TOM: …You checked.
     톰: …확인했구나.
@@ -249,8 +249,8 @@
 76. NOAH: Ms. Han's. You lost a supplier. And taught her how to protect herself from you.
     노아: 한 상무님 거예요. 공급사를 잃으셨고. 당신으로부터 자신을 보호하는 법을 그녀에게 가르치셨죠.
 
-77. TOM: Five years ago, I moved our business from Seorin to Daeyang. With one email. Was that the mistake?
-    톰: 5년 전에 우리 사업을 서린에서 대양으로 옮겼지. 이메일 한 통으로. 그게 실수였나?
+77. TOM: Five years ago, I moved our business from Seorin to Daeyang, with one email. It was the efficient decision, and I never thought about it again. Was that the mistake? One email, five years ago, and it comes back today?
+    톰: 5년 전에 우리 사업을 서린에서 대양으로 옮겼지. 이메일 한 통으로. 효율적인 결정이었고, 다시는 생각도 안 했어. 그게 실수였나? 5년 전 이메일 한 통이, 오늘 돌아온 거야?
 
 78. NOAH: Mr. Park thinks so. He remembers the email. Word for word.
     노아: 박 대표님은 그렇게 생각하세요. 그 이메일을 기억하세요. 한 글자도 안 빼고.
@@ -293,8 +293,8 @@
 90. NOAH: I'll tell her.
     노아: 전할게요.
 
-91. TOM: Seven years ago, you left this building with a box. I said you'd be back. Begging.
-    톰: 7년 전 넌 상자 하나 들고 이 건물을 나갔지. 돌아올 거라고 했어. 빌면서.
+91. TOM: Seven years ago, you left this building with a box, and I watched you walk to the parking lot from that window. I told you you'd be back in a year. Begging. I've thought about that sentence more than I'd like to admit.
+    톰: 7년 전 넌 상자 하나 들고 이 건물을 나갔지. 난 저 창문으로 네가 주차장까지 걸어가는 걸 봤어. 1년 안에 돌아올 거라고 했지. 빌면서. 그 문장을 인정하고 싶은 것보다 더 많이 생각했어.
 
 92. NOAH: And I came back. Seven years later. Not begging.
     노아: 그리고 돌아왔죠. 7년 뒤에. 빌지 않고.
@@ -305,8 +305,8 @@
 94. DIANE: For the record, nobody in this room is begging.
     다이앤: 기록을 위해, 이 방에서 비는 사람은 아무도 없어요.
 
-95. NOAH: Tom. You taught me to read a P and L. Lily taught me to read a face. I needed both.
-    노아: 톰. 당신은 손익계산서 읽는 법을 가르쳐 줬어요. 릴리는 얼굴 읽는 법을. 둘 다 필요했어요.
+95. NOAH: Tom. You taught me to read a P and L, and I'm grateful for that, honestly. Lily taught me to read a face, in an emergency room. I needed both to get here today.
+    노아: 톰. 당신은 손익계산서 읽는 법을 가르쳐 줬고, 솔직히 그건 감사해요. 릴리는 응급실에서 얼굴 읽는 법을 가르쳐 줬어요. 오늘 여기까지 오려면 둘 다 필요했어요.
 
 96. TOM: And which one are you reading now?
     톰: 그럼 지금은 어느 쪽을 읽고 있어?
@@ -340,8 +340,8 @@
 
 ### 마무리 — 오후 12시 30분 주차장 → 오후 6시 Lily의 아파트 앞
 
-106. DIANE: Twenty-six minutes. Letter delivered. Receipt signed. No yelling. That's a professional record.
-     다이앤: 26분. 서한 전달. 수령 서명. 고함 없음. 프로페셔널 신기록이에요.
+106. DIANE: Twenty-six minutes. Letter delivered, receipt signed, no yelling, and nobody said anything I'd have to explain to a judge. Honestly, that's a professional record for a meeting with Tom Brennan. I may frame the receipt.
+     다이앤: 26분. 서한 전달, 수령 서명, 고함 없음. 그리고 판사 앞에서 해명해야 할 말은 아무도 안 했어요. 솔직히 톰 브레넌과의 미팅으로선 프로페셔널 신기록이에요. 수령증을 액자에 넣을까 봐요.
 
 107. NOAH: He offered one point four. In the room. I didn't even blink.
      노아: 방 안에서 14억을 불렀어요. 눈 하나 깜짝 안 했어요.
@@ -379,8 +379,8 @@
 118. NOAH: For yours. In a way.
      노아: 네 얼굴값으로. 어떤 의미에선.
 
-119. LILY: I'm proud of you. Now book my laser. You promised in year five. I'm done waiting for "after."
-     릴리: 자랑스러워. 이제 레이저 예약해. 5년 차에 약속했잖아. "나중에"를 기다리는 건 끝이야.
+119. LILY: I'm proud of you. Really. Now book my laser. You promised in year five, and then it was after Asia, after the board, after everything. I'm done waiting for 'after.' Put it in Claire's spreadsheet if you have to.
+     릴리: 자랑스러워. 진짜로. 이제 레이저 예약해. 5년 차에 약속했잖아. 그다음엔 아시아 끝나고, 이사회 끝나고, 전부 끝나고였지. '나중에'를 기다리는 건 끝이야. 필요하면 클레어 스프레드시트에 넣어.
 
 120. NOAH: In the fall. After Seoul. Elena will do it. And I'll be there. The whole time.
      노아: 가을에. 서울 다녀와서. 엘레나가 해 줄 거야. 그리고 내가 거기 있을게. 처음부터 끝까지.
@@ -424,3 +424,18 @@
 | Last-minute raise ($1.4B verbal) | Declined — "The number isn't the reason." |
 | Threat check | ✅ "No application on file." |
 | Relationship | ✅ "You taught me to read a P and L." |
+
+### ④ 긴 발화 분석
+
+> **29턴 NOAH:** "I'm grateful for seven years, Richard, and I mean that. But this door, we close. Other doors stay open: an IPO, other partners, other buyers if the board ever wants them. All except this one, because this one asked us to give up the rules."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 관계 인정 | I'm grateful for seven years, Richard, and I mean that. | 반대하는 상대와의 관계·기여를 먼저 존중 |
+| ② 결론(단호) | But this door, we close. | 목적어를 앞으로 빼 짧고 단호하게 선 긋기 |
+| ③ 열린 선택지 | Other doors stay open: an IPO, other partners, other buyers if the board ever wants them. | 거절의 범위를 좁혀 상대의 걱정(출구)을 달래 줌 |
+| ④ 이유 | All except this one, because this one asked us to give up the rules. | 왜 '이 문'만 닫는지 원칙으로 설명 |
+
+**활용 패턴:** 감사·인정 → "But this one, we close." → 다른 선택지 나열 → because 원칙
+**연결 표현:** I mean that(진심이다) · But this door, we close(하지만 이 문은 닫는다) · stay open(열어 두다) · All except…(~만 빼고 전부)
+**연습:** 오래 거래한 파트너에게 특정 제안 하나만 단호히 거절하면서 관계는 유지하는 말을 같은 구조로 40단어 안팎으로 해 보기.

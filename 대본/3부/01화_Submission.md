@@ -32,8 +32,8 @@
 05. ELENA: Remind me why it's September thirtieth. Not October fifteenth.
     엘레나: 왜 10월 15일이 아니라 9월 30일인지 다시 말해 줘요.
 
-06. NOAH: Every day earlier is a day ahead of Halvern. Their trial just started.
-    노아: 하루라도 빠르면 그만큼 할번보다 앞서요. 그쪽 임상은 이제 막 시작했어요.
+06. NOAH: Here's the thing. Every day earlier is a day ahead of Halvern. Their trial just started, so if our review clock starts first, we stay in front. That's why we didn't wait until October.
+    노아: 중요한 건 이거예요. 하루라도 빠르면 그만큼 할번보다 앞서요. 그쪽 임상은 이제 막 시작했으니까, 우리 심사 시계가 먼저 돌기 시작하면 계속 앞서 있을 수 있어요. 그래서 10월까지 기다리지 않은 거예요.
 
 07. PRIYA: And we promised the board. "End of September."
     프리야: 그리고 이사회에 약속했잖아. "9월 말."
@@ -73,8 +73,8 @@
 18. MARCUS: Ninety-five, ninety, ninety-eight, ninety-nine. Where's the risk?
     마커스: 95, 90, 98, 99. 리스크는 어디 있어?
 
-19. GRACE: The last five percent always takes fifty percent of the time.
-    그레이스: 마지막 5퍼센트가 항상 시간의 50퍼센트를 잡아먹어요.
+19. GRACE: In my experience, the last five percent always takes fifty percent of the time, because that's where the missing signatures and the small errors hide. So those numbers look good, but I wouldn't relax yet.
+    그레이스: 제 경험상 마지막 5퍼센트가 항상 시간의 50퍼센트를 잡아먹어요. 빠진 서명이나 작은 오류가 바로 거기 숨어 있거든요. 그러니까 숫자는 좋아 보여도, 아직 마음 놓을 때는 아니에요.
 
 20. NOAH: Then let's attack the lowest number first. Labeling, then manufacturing.
     노아: 그럼 가장 낮은 숫자부터 공략하죠. 라벨링, 그다음 제조.
@@ -85,8 +85,8 @@
 22. NOAH: Because that's what it is. That's the whole company.
     노아: 그게 이 제품이니까요. 그게 회사의 전부잖아요.
 
-23. ELENA: Every hyaluronic acid filler can be dissolved. "Reversible" suggests we're unique.
-    엘레나: 히알루론산 필러는 다 녹일 수 있어요. "되돌릴 수 있다"는 우리만 그렇다는 뜻처럼 들려요.
+23. ELENA: Every hyaluronic acid filler can be dissolved, Noah. If we write "reversible," it suggests we're the only one. And a reviewer will ask us to prove that, which we can't.
+    엘레나: 히알루론산 필러는 다 녹일 수 있어요, 노아. "되돌릴 수 있다"고 쓰면 우리만 그렇다는 뜻처럼 들려요. 그러면 심사관이 그걸 증명하라고 할 텐데, 우린 증명 못 해요.
 
 24. PRIYA: We're not unique in dissolving. We're unique in speed.
     프리야: 녹는 건 우리만 그런 게 아니야. 우리만의 건 속도야.
@@ -151,14 +151,14 @@
 44. SANDRA: Marcus? I'm standing in front of a Botticelli. This better be important.
     산드라: 마커스? 지금 보티첼리 그림 앞에 서 있어요. 중요한 일이길 바라요.
 
-45. MARCUS: Sandra, I'm sorry. The validation report. Page two hundred. Your signature is missing.
-    마커스: 산드라, 미안해요. 밸리데이션 보고서요. 200페이지. 서명이 빠졌어요.
+45. MARCUS: Sandra, I'm really sorry to call you on vacation. It's the validation report from Meridian, page two hundred. Your signature is missing, and we can't submit tonight without it.
+    마커스: 산드라, 휴가 중에 전화해서 정말 미안해요. 메리디언 밸리데이션 보고서 건인데요, 200페이지요. 서명이 빠져 있어서, 그게 없으면 오늘 밤 제출을 못 해요.
 
 46. SANDRA: I signed it. I'm sure I signed it.
     산드라: 서명했어요. 분명히 서명했어요.
 
-47. MARCUS: The draft, yes. Not the final version. Raj made one correction after.
-    마커스: 초안엔 했죠. 최종본엔 아니에요. 라지가 그 뒤에 한 군데 수정했거든요.
+47. MARCUS: You signed the draft, yes. But Raj made one correction after that, so the final version is technically a different document. And the final version has no signature on it.
+    마커스: 초안엔 서명하셨죠, 맞아요. 그런데 그 뒤에 라지가 한 군데를 수정해서, 최종본은 엄밀히 말하면 다른 문서예요. 그리고 그 최종본엔 서명이 없어요.
 
 48. SANDRA: Ah. Rule one of quality. A new version needs a new signature.
     산드라: 아. 품질의 1번 규칙. 새 버전엔 새 서명.
@@ -189,8 +189,8 @@
 56. PRIYA: Oh no. So month eighteen looks ten times higher.
     프리야: 이런. 그럼 18개월 값이 열 배 높아 보이겠네.
 
-57. LEO: A reviewer might think the gel changed. It didn't. It's just the unit.
-    레오: 심사관은 젤이 변했다고 생각할 수 있어요. 안 변했어요. 단위 문제일 뿐이에요.
+57. LEO: A reviewer might think the gel changed between month twelve and month eighteen. It didn't. It's just the unit. But if they see that number, they'll stop and start asking questions.
+    레오: 심사관은 12개월과 18개월 사이에 젤이 변했다고 생각할 수 있어요. 안 변했어요. 단위 문제일 뿐이에요. 그래도 그 숫자를 보면 거기서 멈추고 질문을 하기 시작할 거예요.
 
 58. NOAH: How did you find that? There are twelve thousand pages.
     노아: 그걸 어떻게 찾았어? 1만 2천 쪽인데.
@@ -207,8 +207,8 @@
 62. LEO: Three. Tables fourteen, twenty-two, and one in the summary.
     레오: 세 개요. 14번 표, 22번 표, 그리고 요약에 하나.
 
-63. GRACE: If the summary is wrong, that's the first thing a reviewer reads.
-    그레이스: 요약이 틀리면, 심사관이 제일 먼저 읽는 게 그거예요.
+63. GRACE: If the summary is wrong, that's a real problem, because it's the first thing a reviewer reads. They'll form an opinion of the whole file from those pages before they open anything else.
+    그레이스: 요약이 틀리면 진짜 문제예요. 심사관이 제일 먼저 읽는 게 그거거든요. 다른 걸 열어 보기도 전에 그 몇 쪽으로 파일 전체에 대한 인상을 정해 버릴 거예요.
 
 64. MARCUS: How long to fix all three?
     마커스: 세 개 다 고치는 데 얼마나 걸려?
@@ -219,8 +219,8 @@
 66. NOAH: It's three p.m. That's seven. We still have five hours.
     노아: 지금 오후 3시예요. 그럼 7시. 아직 다섯 시간 남아요.
 
-67. PRIYA: Leo fixes. I check. Then Grace checks my checking.
-    프리야: 레오가 고치고, 내가 확인하고. 그다음 그레이스가 내 확인을 확인하고.
+67. PRIYA: Here's the plan. Leo fixes all three tables. I check every number against the raw data. Then Grace checks my checking, so no single person is the last line of defense.
+    프리야: 계획은 이래. 레오가 표 세 개를 다 고쳐. 내가 모든 숫자를 원자료와 대조해서 확인하고. 그다음 그레이스가 내 확인을 확인해. 그래야 어느 한 사람이 마지막 방어선이 되지 않지.
 
 68. GRACE: Four eyes. No, six eyes. Even better.
     그레이스: 눈 네 개. 아니, 눈 여섯 개. 더 좋네요.
@@ -296,8 +296,8 @@
 91. NOAH: My name. On twelve thousand pages I didn't write.
     노아: 내 이름이요. 내가 쓰지도 않은 1만 2천 쪽에.
 
-92. MARCUS: That's what a CEO is. You sign for everyone's work.
-    마커스: CEO란 게 그런 거야. 모두의 일에 대신 서명하는 사람.
+92. MARCUS: That's what a CEO is, Noah. You sign for everyone's work, even the parts you didn't write. Your name tells the FDA that somebody at the top is accountable for all of it.
+    마커스: CEO란 게 그런 거야, 노아. 모두의 일에 대신 서명하는 사람. 직접 쓰지 않은 부분까지도. 네 이름은 FDA에게 맨 위에 이 모든 걸 책임지는 사람이 있다고 말해 주는 거야.
 
 93. PRIYA: Like Marcus at Corwin. "I sign for every lot."
     프리야: 코윈 시절 마커스처럼. "모든 로트에 내가 서명한다."
@@ -308,8 +308,8 @@
 95. NOAH: I can't read twelve thousand pages in two hours.
     노아: 두 시간 안에 1만 2천 쪽을 읽을 순 없어요.
 
-96. ELENA: No. But you can read the summary. Thirty pages. That's what reviewers read first.
-    엘레나: 그렇죠. 하지만 요약은 읽을 수 있어요. 30쪽. 심사관들이 제일 먼저 읽는 거요.
+96. ELENA: No. But you can read the summary. It's thirty pages, and that's what reviewers read first. If the summary makes sense to you, then you know the story we're telling them.
+    엘레나: 그렇죠. 하지만 요약은 읽을 수 있어요. 30쪽이고, 심사관들이 제일 먼저 읽는 부분이에요. 요약이 당신한테 이해가 된다면, 우리가 그들에게 어떤 이야기를 하고 있는지 아는 거예요.
 
 97. NOAH: Then give me thirty minutes. And quiet.
     노아: 그럼 30분만 주세요. 그리고 조용히.
@@ -335,8 +335,8 @@
 104. GRACE: "Lumaderm Volume." Yes. Why?
      그레이스: "루마덤 볼륨." 네. 왜요?
 
-105. NOAH: Because I named it, years ago. I just wanted to see it in our file.
-     노아: 제가 몇 년 전에 그 이름을 지었거든요. 그냥 우리 파일에서 그 이름을 보고 싶었어요.
+105. NOAH: Because I named it years ago, when all of this was still just an idea. I've been comparing us to it ever since. I just wanted to see it in our file, finally.
+     노아: 제가 몇 년 전에, 이 모든 게 아직 아이디어일 뿐이던 때 그 이름을 지었거든요. 그 뒤로 계속 우리를 그것과 비교해 왔어요. 그냥 드디어 우리 파일에서 그 이름을 보고 싶었어요.
 
 ### 마무리 — 밤 11시 52분, 제출
 
@@ -376,8 +376,8 @@
 117. NOAH: Officially. And in reality?
      노아: 공식적으로는. 실제로는요?
 
-118. ELENA: In reality, the clock stops every time they ask a question. And they will ask.
-     엘레나: 실제로는 그쪽이 질문할 때마다 시계가 멈춰요. 그리고 반드시 질문할 거예요.
+118. ELENA: In reality, the clock stops every time they ask a question, and it only starts again when we answer. And they will ask. So the official number is just the beginning.
+     엘레나: 실제로는 그쪽이 질문할 때마다 시계가 멈추고, 우리가 답해야 다시 돌아가요. 그리고 반드시 질문할 거예요. 그러니까 공식 숫자는 시작일 뿐이에요.
 
 119. LEO: So we wait.
      레오: 그럼 기다리는 거네요.
@@ -416,3 +416,18 @@
 
 예시:
 > *Manufacturing. Owner: Marcus. Status: complete, all signatures received, including the final validation report. Open issues: none. "Manufacturing. Complete, checked, consistent. I sign off."*
+
+### ④ 긴 발화 분석
+
+> **67턴 PRIYA:** "Here's the plan. Leo fixes all three tables. I check every number against the raw data. Then Grace checks my checking, so no single person is the last line of defense."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 신호(계획 예고) | Here's the plan. | 지금부터 역할 분담을 말한다고 알림 |
+| ② 역할 배정(순서대로) | Leo fixes all three tables. I check every number against the raw data. | 사람 + 동사 + 대상으로 짧고 분명하게 지시 |
+| ③ 교차 확인 | Then Grace checks my checking, | Then으로 다음 단계를 이어 검증 단계 추가 |
+| ④ 목적(이유) | so no single person is the last line of defense. | so로 이 분담의 이유를 한 줄로 설명 |
+
+**활용 패턴:** Here's the plan. → A does X. B does Y. → Then C does Z, so (목적)
+**연결 표현:** Here's the plan(계획은 이래요) · Then(그다음) · so no single person…(어느 한 사람도 ~하지 않도록)
+**연습:** 마감 직전 보고서 오류를 발견했을 때, 팀원 세 명에게 수정·확인 역할을 나눠 주는 말을 30단어 안팎으로 해 보기.

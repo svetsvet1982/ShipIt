@@ -26,8 +26,8 @@
 03. SOFIA: How much, Marcus?
     소피아: 얼마나요, 마커스?
 
-04. MARCUS: If Glow buys a million dollars a month, we wait two months. Two million in the air.
-    마커스: 글로우가 한 달에 백만 달러를 사면 두 달을 기다려. 200만 달러가 공중에 떠 있는 거지.
+04. MARCUS: If Glow buys a million dollars a month, we deliver, pay our own suppliers, and then wait two months for their money. That's two million dollars in the air at any moment, and it doesn't come back until the deal ends.
+    마커스: 글로우가 한 달에 백만 달러를 사면, 우린 납품하고, 우리 공급사한테 돈을 내고, 그다음 두 달을 기다려야 해. 그러면 언제든 200만 달러가 공중에 떠 있는 거고, 그 돈은 거래가 끝날 때까지 돌아오지 않아.
 
 05. DEREK: Can we survive that?
     데릭: 우리가 그걸 버틸 수 있어요?
@@ -56,8 +56,8 @@
 13. DEREK: Why dangerous?
     데릭: 왜 위험해요?
 
-14. DIANE: If a nurse earns money per syringe, she has a reason to inject more. That's a safety issue.
-    다이앤: 간호사가 주사기당 돈을 벌면 더 주사할 이유가 생겨요. 그건 안전 문제예요.
+14. DIANE: If a nurse earns money for every syringe she uses, she has a personal reason to inject more, whether the patient needs it or not. That's not a sales issue anymore. That's a safety issue, and possibly a legal one.
+    다이앤: 간호사가 쓰는 주사기마다 돈을 벌면, 환자에게 필요하든 아니든 더 주사할 개인적인 이유가 생겨요. 그건 더 이상 영업 문제가 아니에요. 안전 문제고, 어쩌면 법적인 문제예요.
 
 15. SOFIA: Then that's our hardest line. Let's go.
     소피아: 그럼 그게 우리 가장 단단한 선이네요. 가죠.
@@ -79,8 +79,8 @@
 20. MARTIN: Term one. Net sixty. That's our standard for all suppliers.
     마틴: 조건 하나. 60일 후 결제. 모든 공급사에 대한 우리 표준이에요.
 
-21. MARCUS: We understand. Our standard is net thirty. We're a young company. Cash matters.
-    마커스: 이해해요. 우리 표준은 30일이에요. 우린 젊은 회사예요. 현금이 중요하죠.
+21. MARCUS: We understand, and we're not asking you to change your standard for everyone. Our standard is net thirty, because we're a young company and cash is how we pay for the trainers your program depends on.
+    마커스: 이해해요. 그리고 모든 공급사에 대한 표준을 바꿔 달라는 게 아니에요. 우리 표준은 30일이에요. 우린 젊은 회사고, 당신네 프로그램이 의존하는 트레이너 비용을 현금으로 대니까요.
 
 22. GREG: Halvern accepts net sixty.
     그레그: 할번은 60일을 받아들여요.
@@ -91,8 +91,8 @@
 24. GREG: That's your problem. Not mine.
     그레그: 그건 당신네 문제죠. 내 문제가 아니라.
 
-25. SOFIA: It becomes your problem if your supplier runs out of cash. In the middle of your program.
-    소피아: 공급사가 프로그램 도중에 현금이 바닥나면 당신 문제가 돼요.
+25. SOFIA: It becomes your problem if your supplier runs out of cash in the middle of your program. Your nurses are halfway through certification, your kits need restocking, and suddenly nobody answers the phone. That's the real cost of net sixty.
+    소피아: 공급사가 프로그램 도중에 현금이 바닥나면 당신 문제가 돼요. 간호사들은 인증을 절반쯤 마쳤고, 키트는 다시 채워야 하는데, 갑자기 아무도 전화를 안 받는 거죠. 그게 60일 결제의 진짜 비용이에요.
 
 26. GREG: …Fair point. What do you propose?
     그레그: …일리 있네요. 뭘 제안하는데요?
@@ -136,8 +136,8 @@
 39. GREG: Small clinics. Small volume. We're three hundred locations.
     그레그: 작은 병원들. 작은 물량. 우린 300곳이에요.
 
-40. SOFIA: Small clinics are where patients go when they can't afford big ones. They need training too.
-    소피아: 작은 병원은 큰 병원을 감당 못 하는 환자들이 가는 곳이에요. 그곳에도 교육이 필요해요.
+40. SOFIA: Small clinics are where patients go when they can't afford a big chain. Those patients deserve a trained injector just as much as yours do. If we stop selling there, Halvern sells there, and the training isn't ours to guarantee.
+    소피아: 작은 병원은 큰 체인을 감당 못 하는 환자들이 가는 곳이에요. 그 환자들도 당신네 환자들만큼 교육받은 시술자를 만날 자격이 있어요. 우리가 거기서 판매를 멈추면 할번이 팔 거고, 그러면 교육은 우리가 보장할 수 없게 돼요.
 
 41. GREG: That's very noble. It's also bad for my competitive position.
     그레그: 아주 고상하네요. 그리고 내 경쟁 위치엔 나쁘고요.
@@ -145,8 +145,8 @@
 42. SOFIA: Can I ask why you want exclusivity? What problem does it solve for you?
     소피아: 왜 독점을 원하는지 물어봐도 될까요? 당신한테 어떤 문제를 해결해 주죠?
 
-43. GREG: Marketing. I want patients to say, "Ready-certified? That means Glow."
-    그레그: 마케팅. 환자들이 "레디 인증? 그럼 글로우지"라고 말하길 원해요.
+43. GREG: Marketing. Right now every medspa says it's safe, and patients can't tell the difference. I want patients in the Southwest to hear 'Ready-certified' and think of one name. I want them to say, 'That means Glow.'
+    그레그: 마케팅. 지금은 모든 메디스파가 안전하다고 말하고, 환자들은 차이를 구별 못 해요. 남서부 환자들이 '레디 인증'을 들으면 이름 하나를 떠올렸으면 해요. '그럼 글로우지'라고 말하길 원해요.
 
 44. SOFIA: That's a real goal. But exclusivity isn't the only way to get there.
     소피아: 진짜 목표네요. 하지만 독점만이 거기 가는 유일한 길은 아니에요.
@@ -201,8 +201,8 @@
 60. GREG: You'd publish bad results? About your own product?
     그레그: 나쁜 결과를 발표한다고요? 자기 제품에 대해?
 
-61. DEREK: We published a recall. In plain English. Bad results don't scare us.
-    데릭: 우린 회수를 발표했어요. 쉬운 영어로. 나쁜 결과는 무섭지 않아요.
+61. DEREK: We published a recall, in plain English, before anyone forced us to. Doctors trusted us more afterward, not less. So no, bad results don't scare us. Hiding them is what would scare us.
+    데릭: 우린 누가 강요하기도 전에 쉬운 영어로 회수를 발표했어요. 그 후에 의사들은 우릴 덜 믿은 게 아니라 더 믿었어요. 그러니 아니요, 나쁜 결과는 무섭지 않아요. 무서운 건 그걸 숨기는 거예요.
 
 62. GREG: …New products. Which new products?
     그레그: …신제품. 어떤 신제품이요?
@@ -234,8 +234,8 @@
 71. MARTIN: Essentially. It's a motivation tool.
     마틴: 사실상요. 동기 부여 도구예요.
 
-72. DIANE: That's the problem. It motivates injecting more. We can't fund that. We need legal to sign off, and I won't.
-    다이앤: 그게 문제예요. 더 많이 주사하도록 동기를 줘요. 우린 그걸 지원 못 해요. 법무 승인이 필요하고, 전 안 해요.
+72. DIANE: That's the problem. A fund based on volume motivates injecting more, not injecting better. We can't fund that, not in any form. Any rebate needs legal to sign off, and I'm legal, and I won't.
+    다이앤: 그게 문제예요. 물량 기준 기금은 더 잘 주사하는 게 아니라 더 많이 주사하도록 동기를 줘요. 우린 어떤 형태로도 그걸 지원 못 해요. 리베이트는 전부 법무 승인이 필요한데, 법무가 저고, 전 안 해요.
 
 73. GREG: It's our fund. Our decision how to use it.
     그레그: 우리 기금이에요. 어떻게 쓸지는 우리가 결정해요.
@@ -266,8 +266,8 @@
 81. GREG: You'd walk away? From three hundred locations?
     그레그: 일어선다고요? 300개 지점을 두고?
 
-82. SOFIA: From a bad deal. Not from Glow. Nadia and Tiffany will still get our free emergency training.
-    소피아: 나쁜 거래에서요. 글로우에서가 아니라. 나디아와 티파니는 여전히 우리 무료 응급 교육을 받을 거예요.
+82. SOFIA: From a bad deal, Greg. Not from Glow. Nadia and Tiffany will still get our free emergency training, because patients in your clinics matter whether you sign or not. But we won't pay injectors to inject.
+    소피아: 나쁜 거래에서요, 그레그. 글로우에서가 아니라. 나디아와 티파니는 여전히 우리 무료 응급 교육을 받을 거예요. 당신이 서명하든 안 하든 당신네 병원 환자들은 중요하니까요. 하지만 시술자들한테 주사하라고 돈을 주진 않아요.
 
 83. GREG: You're bluffing.
     그레그: 허세 부리는 거죠.
@@ -308,8 +308,8 @@
 95. SOFIA: …Fifty-four seconds. Better than I expected. Hello, Greg.
     소피아: …54초. 예상보다 빠르네요. 여보세요, 그레그.
 
-96. GREG: Come back inside. Nadia called me. Then Tiffany. Then Nadia again.
-    그레그: 다시 들어와요. 나디아가 전화했어요. 그다음 티파니. 그다음 또 나디아.
+96. GREG: Come back inside. Nadia called me. Then Tiffany. Then Nadia again, and she used words I won't repeat in front of a lawyer. Apparently I'm about to lose the best training program we've ever been offered over four percent.
+    그레그: 다시 들어와요. 나디아가 전화했어요. 그다음 티파니. 그다음 또 나디아, 변호사 앞에서 옮기기 힘든 말까지 하더군요. 보아하니 내가 4% 때문에 우리가 받아 본 최고의 교육 프로그램을 잃기 직전이라네요.
 
 97. SOFIA: Eight percent. To Glow. With conditions?
     소피아: 8%. 글로우에. 조건 포함?
@@ -364,8 +364,8 @@
 113. NOAH: You walked out on three hundred locations?
      노아: 300개 지점을 두고 나갔다고요?
 
-114. SOFIA: On a bad deal. There's a difference. And I knew Nadia would call.
-     소피아: 나쁜 거래를 두고요. 차이가 있죠. 그리고 나디아가 전화할 걸 알았어요.
+114. SOFIA: On a bad deal, not on Glow. There's a difference. And I knew Nadia would call, because she wants this program more than Greg wants twelve percent. In a negotiation, you have to know who else is in the room.
+     소피아: 나쁜 거래를 두고요, 글로우가 아니라. 차이가 있죠. 그리고 나디아가 전화할 걸 알았어요. 그레그가 12%를 원하는 것보다 나디아가 이 프로그램을 더 원하니까요. 협상에선 그 방에 또 누가 있는지 알아야 해요.
 
 115. NOAH: Get it in writing. All of it.
      노아: 서면으로 받아요. 전부.
@@ -382,8 +382,8 @@
 119. SOFIA: For now. Zoe, I think it's time you showed Noah your sketches.
      소피아: 지금은요. 조이, 노아한테 스케치를 보여 줄 때가 된 것 같아요.
 
-120. ZOE: I've been waiting a year for someone to say that. Tomorrow, nine a.m. Bring an open mind.
-     조이: 누가 그 말 해 주길 1년 기다렸어요. 내일 오전 9시. 열린 마음 가져와요.
+120. ZOE: I've been waiting a year for someone to say that. It's not just a drawing, Noah. It's for recovery after treatment, and Glow already sells skincare in every location. Tomorrow, nine a.m. Bring an open mind.
+     조이: 누가 그 말 해 주길 1년 기다렸어요. 그냥 그림이 아니에요, 노아. 시술 후 회복용이고, 글로우는 이미 모든 지점에서 스킨케어를 팔고 있어요. 내일 오전 9시. 열린 마음 가져와요.
 
 ---
 
@@ -416,3 +416,17 @@
 | Rebate | 12% to "Injector Excellence Fund" (per-syringe) | Company-level only, conditions | **8% to Glow (company)**, disclosed on invoices, tied to volume tiers + 100% injector certification |
 | Injector fund | Per-syringe rewards | Not funded by Veyra | **Redesigned by Glow**: certification + patient satisfaction (no per-syringe) |
 | Scope | — | — | Pilot: Texas, 30 locations, 90 days → full contract if data is good (published either way) |
+
+### ④ 긴 발화 분석
+
+> **25턴 SOFIA:** "It becomes your problem if your supplier runs out of cash in the middle of your program. Your nurses are halfway through certification, your kits need restocking, and suddenly nobody answers the phone. That's the real cost of net sixty."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 반박(문제 이전) | It becomes your problem if your supplier runs out of cash in the middle of your program. | "당신 문제지 내 문제 아니다"를 상대의 문제로 되돌림 |
+| ② 시나리오(구체적 장면) | Your nurses are halfway through certification, your kits need restocking, and suddenly nobody answers the phone. | 위험을 상대가 눈앞에 그릴 수 있는 장면으로 보여 줌 |
+| ③ 결론(비용 재정의) | That's the real cost of net sixty. | 결제 조건을 '공짜 혜택'이 아니라 '숨은 비용'으로 재정의 |
+
+**활용 패턴:** "It becomes your problem if…" → 구체적 장면 3단 나열 → "That's the real cost of…"
+**연결 표현:** It becomes your problem if…(~라면 당신 문제가 된다) · in the middle of(~ 도중에) · suddenly(갑자기) · the real cost of(~의 진짜 비용)
+**연습:** 거래처가 납기를 무리하게 앞당기라고 요구할 때, 그 요구가 거래처에게 어떤 위험이 되는지 같은 구조로 40단어 안팎으로 말해 보기.

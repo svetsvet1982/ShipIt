@@ -41,8 +41,8 @@
 08. ELENA: We have no biscuits. We have numbers.
     엘레나: 비스킷은 없어요. 숫자가 있죠.
 
-09. NOAH: Here's the thing. Nobody here failed. The plan failed. We need to know why.
-    노아: 요점은 이거예요. 여기 실패한 사람은 없어요. 계획이 실패했죠. 이유를 알아야 해요.
+09. NOAH: Here's the thing. Nobody here failed. The plan failed, and the plan belonged to all of us. So today isn't about finding someone to blame. It's about understanding why the plan didn't work, so that the next one does.
+    노아: 요점은 이거예요. 여기 실패한 사람은 없어요. 계획이 실패했고, 그 계획은 우리 모두의 것이었어요. 그러니 오늘은 탓할 사람을 찾는 자리가 아니에요. 왜 계획이 통하지 않았는지 이해해서, 다음 계획은 통하게 만드는 자리예요.
 
 10. GRACE: I prepared three things. Sales data. Clinic interviews. And a patient survey. Twelve hundred UK patients.
     그레이스: 세 가지 준비했어요. 판매 데이터. 클리닉 인터뷰. 그리고 환자 설문. 영국 환자 1,200명.
@@ -76,8 +76,8 @@
 19. SOFIA: Seventy-eight? That's higher than the US.
     소피아: 78? 미국보다 높네요.
 
-20. ELENA: So the people who try it love it. Not enough people try it.
-    엘레나: 그러니까 써 본 사람은 좋아해요. 써 보는 사람이 충분하지 않은 거고.
+20. ELENA: So the people who try it love it, and that's usually the hardest part to fix. We don't need to fix it. Our problem comes earlier, at the very first step. Not enough people try it in the first place.
+    엘레나: 그러니까 써 본 사람은 좋아한다는 거고, 보통 그게 고치기 가장 어려운 부분이에요. 그건 고칠 필요가 없어요. 우리 문제는 더 앞, 맨 첫 단계에 있어요. 애초에 써 보는 사람이 충분하지 않은 거죠.
 
 21. PAUL: And doctors. Sixty-one doctors trained or contacted. Six ordering.
     폴: 그리고 의사. 교육받거나 연락한 의사 61명. 주문하는 사람 6명.
@@ -94,8 +94,8 @@
 25. JAMES: Why? Because they're independent. One room. And many aren't VAT-registered. Two sixty-four a syringe.
     제임스: 왜? 독립 간호사니까요. 방 하나. 그리고 다수가 부가세 미등록. 주사기당 264파운드.
 
-26. PAUL: We knew that in April. Chloe told us in June. We didn't act.
-    폴: 4월에 알았어요. 6월에 클로이가 말해 줬고요. 우린 행동하지 않았죠.
+26. PAUL: We knew that in April. Gareth showed us the two sixty-four on day one, and Chloe told us to our faces in June. We wrote it down, we modelled it, and then we didn't act on it. That's on finance.
+    폴: 4월에 알았어요. 개러스가 첫날 264라는 숫자를 보여 줬고, 6월엔 클로이가 우리 앞에서 직접 말했죠. 적어 두고, 모델도 돌렸는데, 행동으로 옮기진 않았어요. 그건 재무 책임이에요.
 
 27. SOFIA: Blameless, Paul.
     소피아: 비난 없이, 폴.
@@ -124,8 +124,8 @@
 35. ZOE: That's not wrong. But ours dissolves three times faster.
     조이: 틀린 말은 아니죠. 하지만 우리 건 세 배 빨리 녹아요.
 
-36. GRACE: Patients don't hear "faster." They hear "dissolve." And they think, "So all of them are the same."
-    그레이스: 환자들은 "더 빨리"를 안 들어요. "녹는다"를 듣죠. 그리고 "그럼 다 똑같네"라고 생각해요.
+36. GRACE: Patients don't hear 'faster.' They hear 'dissolve.' And once they believe every filler dissolves, they think, 'So all of them are the same,' which means they choose on price. Our biggest advantage disappears in a single word.
+    그레이스: 환자들은 '더 빨리'를 안 들어요. '녹는다'를 듣죠. 그리고 모든 필러가 녹는다고 믿으면 '그럼 다 똑같네'라고 생각해요. 그 말은 가격으로 고른다는 거예요. 우리의 가장 큰 강점이 단어 하나에 사라지는 거죠.
 
 37. ELENA: And "take back" makes them think about things going wrong. Before they've even booked.
     엘레나: 그리고 "되돌린다"는 일이 잘못되는 걸 떠올리게 해요. 예약도 하기 전에.
@@ -151,8 +151,8 @@
 44. NOAH: Third why. Why didn't we see this?
     노아: 세 번째 왜. 왜 우린 이걸 못 봤죠?
 
-45. ZOE: Because we brought the American campaign. And translated it. We didn't rethink it.
-    조이: 미국 캠페인을 가져왔으니까요. 그리고 번역했죠. 다시 생각하진 않았어요.
+45. ZOE: Because we brought the American campaign over, translated it, and launched it. It had worked so well at home that nobody, including me, stopped to ask whether British patients were afraid of the same things. We didn't rethink it.
+    조이: 미국 캠페인을 그대로 가져와서, 번역하고, 출시했으니까요. 본국에서 너무 잘 통했기 때문에, 저를 포함해 아무도 영국 환자들이 같은 걸 두려워하는지 멈춰서 묻지 않았어요. 다시 생각하지 않은 거죠.
 
 46. JAMES: In America, you sold the reversal. In Britain, the problem isn't the filler. It's the hands.
     제임스: 미국에선 되돌림을 팔았어요. 영국에선 문제가 필러가 아니에요. 손이에요.
@@ -166,8 +166,8 @@
 49. GRACE: And the fifth why?
     그레이스: 그럼 다섯 번째 왜는요?
 
-50. NOAH: Why? Because I wanted Europe fast. For the board. I pushed the US playbook. That's the root cause.
-    노아: 왜? 내가 이사회 때문에 유럽을 빨리 원했으니까. 미국식 플레이북을 밀어붙였어요. 그게 근본 원인이에요.
+50. NOAH: Why? Because I wanted Europe fast. The board wanted a growth story, and I wanted to give them one, so I pushed the US playbook instead of waiting for local insight. If you follow the whys all the way down, that's the root cause.
+    노아: 왜? 내가 유럽을 빨리 원했으니까요. 이사회는 성장 스토리를 원했고, 난 그걸 주고 싶었어요. 그래서 현지 통찰을 기다리는 대신 미국식 플레이북을 밀어붙였죠. 왜를 끝까지 따라가면, 그게 근본 원인이에요.
 
 ### 장면2 — 메시지를 다시 짜다
 
@@ -189,8 +189,8 @@
 56. ZOE: Wait. Say that again.
     조이: 잠깐. 다시 말해 봐요.
 
-57. JAMES: The only filler that only medical professionals can buy. Every syringe is tracked to a medical prescriber.
-    제임스: 의료 전문가만 살 수 있는 유일한 필러. 모든 주사기가 의료 처방권자까지 추적돼요.
+57. JAMES: The only filler that only medical professionals can buy. We refused to sell to beauticians, and it cost us, but it means every syringe is tracked to a medical prescriber. No other brand in Britain can say that.
+    제임스: 의료 전문가만 살 수 있는 유일한 필러. 우린 미용사에게 팔기를 거부했고, 그 대가를 치렀어요. 하지만 그 덕에 모든 주사기가 의료 처방권자까지 추적돼요. 영국에서 그렇게 말할 수 있는 브랜드는 없어요.
 
 58. ZOE: …Then that's the message. "The filler only medical professionals use."
     조이: …그럼 그게 메시지예요. "의료 전문가만 쓰는 필러."
@@ -234,14 +234,14 @@
 71. PAUL: Now pricing. The VAT problem. What's the number that works?
     폴: 이제 가격. 부가세 문제. 통하는 숫자가 뭐예요?
 
-72. JAMES: Chloe pays two sixty-four. A cheap filler costs her ninety. She can't explain that gap to patients.
-    제임스: 클로이는 264를 내요. 싼 필러는 90이고요. 그 차이를 환자에게 설명할 수 없어요.
+72. JAMES: Chloe pays two sixty-four for one syringe, and a cheap filler costs her about ninety. She believes in ours, but she can't explain that gap to a patient who's comparing prices on her phone. So she orders fewer and recommends it less.
+    제임스: 클로이는 주사기 하나에 264를 내고, 싼 필러는 90 정도예요. 우리 걸 믿긴 하지만, 휴대폰으로 가격을 비교하는 환자에게 그 차이를 설명할 수가 없어요. 그래서 덜 주문하고, 덜 권하게 되죠.
 
 73. SOFIA: We can't match ninety. And we shouldn't. But we can lower the first step.
     소피아: 90은 못 맞춰요. 맞춰서도 안 되고요. 하지만 첫 발걸음은 낮출 수 있어요.
 
-74. PAUL: A starter pack. Three syringes. Six hundred pounds. Before VAT. For independent nurses. One year only.
-    폴: 스타터 팩. 주사기 세 개. 600파운드. 부가세 전. 독립 간호사용. 1년 한정.
+74. PAUL: A starter pack for independent nurses. Three syringes for six hundred pounds, before VAT, and for one year only. It lowers the first step without changing our list price, so the big chains don't suddenly ask for the same deal.
+    폴: 독립 간호사용 스타터 팩. 주사기 세 개에 600파운드, 부가세 전, 그리고 1년 한정. 정가를 바꾸지 않고 첫 발걸음을 낮추는 거예요. 그래야 대형 체인이 갑자기 같은 조건을 요구하지 않죠.
 
 75. JAMES: The "Founding Nurse" pack. They'll like being founders. It sounds like a club.
     제임스: "창립 간호사" 팩. 창립 멤버가 되는 걸 좋아할 거예요. 클럽처럼 들리니까.
@@ -275,8 +275,8 @@
 84. JAMES: Every syringe is scanned. Monthly audit. Prescriber number on every account.
     제임스: 모든 주사기를 스캔해요. 월간 감사. 모든 계정에 처방권자 번호.
 
-85. IMOGEN: Then yes. But one syringe found with a beautician, and the claim is false. And the regulator will know.
-    이머전: 그럼 가능해요. 하지만 미용사에게서 주사기 하나 발견되면, 그 주장은 거짓이 돼요. 그리고 규제 기관이 알게 되죠.
+85. IMOGEN: Then yes, you can say it. But understand the risk. If a single syringe is ever found with a beautician, the claim is false, and the regulator will know. A claim like this is only as strong as your weakest clinic.
+    이머전: 그럼 네, 말할 수 있어요. 하지만 위험을 이해하세요. 주사기 하나라도 미용사에게서 발견되면 그 주장은 거짓이 되고, 규제 기관이 알게 돼요. 이런 주장은 가장 약한 클리닉만큼만 강해요.
 
 86. ELENA: So the claim protects patients. And patients protect the claim.
     엘레나: 그러니까 주장이 환자를 보호하고. 환자가 주장을 보호하네요.
@@ -335,8 +335,8 @@
 104. NOAH: Of course.
      노아: 물론이죠.
 
-105. GRACE: This was the best post-mortem we've had. Nobody got blamed. And we found the real problem.
-     그레이스: 지금까지 한 포스트모템 중 최고였어요. 아무도 탓받지 않았고. 진짜 문제를 찾았어요.
+105. GRACE: This was the best post-mortem we've had. Nobody got blamed, people owned their part, and because of that we found the real problem instead of the comfortable one. I think that's what happens when people aren't afraid to speak.
+     그레이스: 지금까지 한 포스트모템 중 최고였어요. 아무도 탓받지 않았고, 각자 자기 몫을 책임졌어요. 그 덕분에 편한 문제 말고 진짜 문제를 찾았죠. 사람들이 말하길 두려워하지 않으면 이런 일이 생기는 것 같아요.
 
 ### 마무리 — 오전 11시, 오스틴
 
@@ -376,8 +376,8 @@
 117. NOAH: I'll take a later flight. Leave the dinner early. Fly from Dallas.
      노아: 늦은 비행기 탈게요. 저녁 일찍 나오고. 댈러스에서 출발하면 돼요.
 
-118. ELENA: Noah. Listen to yourself. That's not a plan. That's a symptom.
-     엘레나: 노아. 자기 말 좀 들어 봐요. 그건 계획이 아니에요. 증상이에요.
+118. ELENA: Noah. Listen to yourself. A later flight, an early exit, a dinner you'll spend checking your phone. That's not a plan. That's a symptom. You're trying to be in two places at once, and you've been doing it for months.
+     엘레나: 노아. 자기 말 좀 들어 봐요. 늦은 비행기, 일찍 나가기, 내내 휴대폰만 볼 저녁 식사. 그건 계획이 아니에요. 증상이에요. 동시에 두 곳에 있으려고 하고 있잖아요. 몇 달째 그러고 있고요.
 
 119. NOAH: It's one weekend.
      노아: 주말 하나예요.
@@ -422,3 +422,18 @@
 | **Fix: doctors** | Dr. Fraser — Edinburgh case series with Veyra nurses |
 | **Legal** | Claim allowed **only if true every day** → scans + monthly audit + prescriber numbers (Imogen) |
 | **Relaunch** | **Mon Oct 20**, Sarah's clinic, with patients |
+
+### ④ 긴 발화 분석
+
+> **50턴 NOAH:** "Why? Because I wanted Europe fast. The board wanted a growth story, and I wanted to give them one, so I pushed the US playbook instead of waiting for local insight. If you follow the whys all the way down, that's the root cause."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 원인 한 줄 | Why? Because I wanted Europe fast. | 5 Whys 형식 그대로, 원인을 먼저 짧게 |
+| ② 배경(동기) | The board wanted a growth story, and I wanted to give them one, | 왜 그런 결정을 했는지 맥락 설명 |
+| ③ 행동과 대안 | so I pushed the US playbook instead of waiting for local insight. | 실제로 한 일과 하지 않은 일을 instead of로 대비 |
+| ④ 결론(책임) | If you follow the whys all the way down, that's the root cause. | 분석의 끝을 자기 책임으로 정리 |
+
+**활용 패턴:** Because I… → 배경 → so I… instead of… → that's the root cause
+**연결 표현:** so(그래서) · instead of…(~하는 대신) · all the way down(끝까지 파고들면) · root cause(근본 원인)
+**연습:** 일정이 늦어진 프로젝트 회고에서, 자신의 결정이 원인이었음을 같은 구조로 40단어 안팎으로 인정해 보기.

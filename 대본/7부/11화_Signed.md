@@ -56,8 +56,8 @@
 13. NOAH: Two small points. On signing day.
     노아: 작은 쟁점 두 개. 서명 당일에.
 
-14. GRACE: In Korea, "two small points" on signing day means one big one. And one test.
-    그레이스: 한국에서 서명 당일의 "작은 쟁점 두 개"는 큰 거 하나. 그리고 시험 하나예요.
+14. GRACE: In Korea, "two small points" on signing day usually means one big one and one test. The big one is something they really need, and the test is to see how we react under pressure, so stay calm and listen first.
+    그레이스: 한국에서 서명 당일의 "작은 쟁점 두 개"는 보통 큰 거 하나, 시험 하나라는 뜻이에요. 큰 건 그쪽이 정말 필요로 하는 거고, 시험은 우리가 압박 속에서 어떻게 반응하는지 보려는 거예요. 그러니 침착하게, 먼저 들으세요.
 
 15. ELENA: Then let's find out which is which.
     엘레나: 그럼 어느 게 어느 건지 알아보죠.
@@ -82,8 +82,8 @@
 21. ELENA: Director Yoon. How narrowly?
     엘레나: 윤 이사님. 얼마나 좁게요?
 
-22. YOON: Our lawyers worry a veto with no limits could block business decisions. Marketing. Pricing. Distribution partners.
-    윤재석: 저희 변호사들은 제한 없는 거부권이 사업 결정을 막을까 걱정합니다. 마케팅. 가격. 유통 파트너.
+22. YOON: Our lawyers worry that a veto with no limits could block ordinary business decisions, such as marketing, pricing, or the choice of distribution partners. To be honest, our board would find that very difficult to approve, so we need clear boundaries in writing.
+    윤재석: 저희 변호사들은 제한 없는 거부권이 마케팅, 가격, 유통 파트너 선정 같은 일반적인 사업 결정까지 막을 수 있다고 걱정합니다. 솔직히 저희 이사회가 그걸 승인하기는 매우 어려울 테니, 명확한 경계를 문서로 정해야 합니다.
 
 23. ELENA: That's fair. I don't want to decide prices. I'm a dermatologist. I can barely decide lunch.
     엘레나: 공정하네요. 가격을 결정하고 싶진 않아요. 난 피부과 의사예요. 점심 메뉴도 겨우 정해요.
@@ -109,8 +109,8 @@
 30. NOAH: The test?
     노아: 시험이요?
 
-31. HAN: I wanted to know if Dr. Ruiz would define her own power. Or demand more. She defined it.
-    한서연: 루이즈 박사가 자기 권한을 스스로 정의할지 알고 싶었어요. 아니면 더 요구할지. 정의하셨죠.
+31. HAN: I wanted to know whether Dr. Ruiz would define her own power or simply demand more of it. Many people in her position ask for everything and give up nothing. She defined it herself, narrowly and clearly, and that tells me we can trust her judgment.
+    한서연: 루이즈 박사가 자기 권한을 스스로 정의할지, 아니면 그냥 더 요구할지 알고 싶었어요. 그 자리에 있는 많은 사람들은 전부를 요구하고 아무것도 내주지 않죠. 그런데 박사님은 스스로, 좁고 분명하게 정의하셨어요. 그걸 보니 박사님의 판단을 믿어도 되겠다는 생각이 듭니다.
 
 32. ELENA: Ms. Han, you're a very good negotiator. Mr. Park warned us.
     엘레나: 한 상무님, 아주 뛰어난 협상가시네요. 박 대표님이 경고하셨어요.
@@ -124,8 +124,8 @@
 35. NOAH: We assumed Daeyang would appoint the CEO. You have the larger share.
     노아: 대양이 CEO를 임명할 거라고 생각했어요. 지분이 더 크시니까.
 
-36. HAN: We have the larger share. You have the better system. I'd like the CEO to come from Veyra.
-    한서연: 지분은 저희가 크죠. 시스템은 당신들이 낫고요. CEO는 베이라에서 나왔으면 합니다.
+36. HAN: We have the larger share, that's true. But you have the better system, and the system is the reason we're signing today. If the CEO comes from Daeyang, people will see a distributor with a foreign product. So I'd like the CEO to come from Veyra.
+    한서연: 지분은 저희가 큰 게 맞아요. 하지만 시스템은 당신들이 낫고, 그 시스템이 바로 오늘 서명하는 이유예요. CEO가 대양에서 나오면 사람들은 그냥 외국 제품을 파는 유통사로 볼 거예요. 그래서 CEO는 베이라에서 나왔으면 합니다.
 
 37. MARCUS: Who did you have in mind?
     마커스: 누구를 생각하세요?
@@ -160,14 +160,14 @@
 47. YOON: Then the remaining sections. Production and China. Ms. Lee?
     윤재석: 그럼 남은 조항. 생산과 중국. 이 팀장님?
 
-48. SUJIN: Line C. Construction starts in August. First commercial batch, first quarter of year nine. Mr. Jung's estimate.
-    수진: 라인 C. 8월 착공. 첫 상업 배치는 9년 차 1분기. 정민석 씨 추정대로.
+48. SUJIN: Line C. Construction starts in August, and the first commercial batch is planned for the first quarter of year nine. We used Mr. Jung's eighteen-month estimate, because it includes validation and the quality checks my team won't skip, even if someone asks nicely.
+    수진: 라인 C. 8월에 착공하고, 첫 상업 배치는 9년 차 1분기로 계획돼 있어요. 정민석 씨의 18개월 추정을 썼어요. 거기엔 밸리데이션과, 누가 아무리 좋게 부탁해도 저희 팀이 건너뛰지 않을 품질 점검이 다 포함돼 있거든요.
 
 49. PRIYA: And China?
     프리야: 그럼 중국은요?
 
-50. HAN: Phase two. The Chinese regulator will require a local trial. About three years. We start planning next year.
-    한서연: 2단계. 중국 규제 기관은 현지 임상을 요구할 겁니다. 약 3년. 내년부터 계획을 시작하죠.
+50. HAN: China is phase two. The Chinese regulator will almost certainly require a local clinical trial, which usually means about three years before approval. So we'll start planning next year, but we won't promise anything to anyone until we understand the requirements properly.
+    한서연: 중국은 2단계입니다. 중국 규제 기관은 거의 확실히 현지 임상을 요구할 거고, 그러면 보통 승인까지 약 3년이 걸립니다. 그래서 내년부터 계획은 시작하겠지만, 요건을 제대로 파악하기 전까지는 누구에게도 아무것도 약속하지 않을 겁니다.
 
 ### 장면2 — 오전 11시, 대강당 서명식
 
@@ -180,8 +180,8 @@
 53. GRACE: Watch this. She's about to do something rare.
     그레이스: 잘 봐요. 드문 일을 하려고 해요.
 
-54. HAN: Five years ago, I made a decision that hurt a good company. Mr. Park's. I never forgot it.
-    한서연: 5년 전 저는 좋은 회사에 상처를 준 결정을 했습니다. 박 대표님의 회사. 잊은 적이 없습니다.
+54. HAN: Five years ago, I made a decision that hurt a good company, Mr. Park's company. At the time, I told myself it was the right decision for Daeyang. But I never forgot it, and I promised myself that if I ever had the chance to correct it, I would.
+    한서연: 5년 전 저는 좋은 회사, 박 대표님의 회사에 상처를 준 결정을 했습니다. 그때는 그게 대양을 위한 옳은 결정이라고 스스로에게 말했죠. 하지만 한 번도 잊은 적이 없고, 바로잡을 기회가 온다면 꼭 그렇게 하겠다고 스스로 약속했습니다.
 
 55. ELENA: In public. In front of the press.
     엘레나: 공개적으로. 기자들 앞에서.
@@ -201,8 +201,8 @@
 60. ELENA: He's not reading. He's speaking. Good.
     엘레나: 읽는 게 아니라. 말하고 있네요. 좋아요.
 
-61. NOAH: We built a filler you can take back. But in Seoul, I learned the product isn't enough.
-    노아: 우리는 되돌릴 수 있는 필러를 만들었습니다. 하지만 서울에서 제품만으론 부족하다는 걸 배웠습니다.
+61. NOAH: We built a filler you can take back, and for a long time I thought that was the whole answer. But in Seoul, I learned the product isn't enough. Without trained injectors, honest distribution, and a system that responds at midnight, even the safest filler can hurt someone.
+    노아: 우리는 되돌릴 수 있는 필러를 만들었고, 오랫동안 그게 답의 전부라고 생각했습니다. 하지만 서울에서 제품만으로는 부족하다는 걸 배웠습니다. 훈련된 시술자, 정직한 유통, 자정에도 대응하는 시스템이 없으면, 가장 안전한 필러도 누군가를 다치게 할 수 있습니다.
 
 62. HAEUN: Here comes the line. He practised it on the plane. Twelve hours.
     하은: 이제 그 문장 나와요. 비행기에서 연습했대요. 열두 시간.
@@ -275,8 +275,8 @@
 84. LIM: Did Halvern make an offer?
     임 기자: 할번이 제안을 했습니까?
 
-85. NOAH: We don't comment on private conversations. But I'll say this. Our board was unanimous. And we're very happy in Seoul.
-    노아: 비공개 대화에 대해선 언급하지 않습니다. 다만 이건 말씀드리죠. 이사회는 만장일치였습니다. 그리고 서울에서 아주 행복합니다.
+85. NOAH: We don't comment on private conversations, and I hope you understand why. But I'll say this. Our board was unanimous about our direction, and we're very happy in Seoul. If you want to know our plans, look at what we signed this morning.
+    노아: 비공개 대화에 대해선 언급하지 않습니다. 이유는 이해해 주시리라 믿습니다. 다만 이건 말씀드리죠. 저희 이사회는 방향에 대해 만장일치였고, 저희는 서울에서 아주 행복합니다. 저희 계획이 궁금하시면, 오늘 아침 저희가 서명한 걸 보시면 됩니다.
 
 86. GRACE: Perfect. Not a lie. Not a leak.
     그레이스: 완벽해요. 거짓말도 아니고. 유출도 아니고.
@@ -284,8 +284,8 @@
 87. KANG: Reporter Kang, Medical Times. Why Korea? It's the most competitive filler market in the world.
     강 기자: 메디컬타임스 강 기자입니다. 왜 한국입니까? 세계에서 가장 경쟁이 치열한 필러 시장인데요.
 
-88. NOAH: Because Korea taught us something. Safety is assumed. Until it isn't. We want to make sure it always is.
-    노아: 한국이 저희에게 가르쳐 준 게 있어서요. 안전은 당연시됩니다. 아닐 때까지는. 늘 당연하도록 만들고 싶습니다.
+88. NOAH: Because Korea taught us something important. Here, safety is assumed, until it isn't. Patients expect it and doctors expect it, so nobody thinks about it until something goes wrong. We want to build the system that makes sure it always is, even at midnight.
+    노아: 한국이 저희에게 중요한 걸 가르쳐 줬기 때문입니다. 여기선 안전이 당연시됩니다. 아닐 때까지는요. 환자도 기대하고 의사도 기대하니까, 뭔가 잘못되기 전까진 아무도 생각하지 않죠. 저희는 자정에도 늘 안전이 당연하도록 만드는 시스템을 짓고 싶습니다.
 
 89. KANG: And price? Your filler costs three times more than Korean brands.
     강 기자: 가격은요? 국산 브랜드보다 세 배 비싼데요.
@@ -352,8 +352,8 @@
 109. GRACE: That's it. That's the real signing. The one in the hall was paperwork.
      그레이스: 저거예요. 저게 진짜 서명이에요. 강당에서 한 건 서류 작업이고.
 
-110. NOAH: Paul just texted. Victor confirmed. "Asia partner signed before Q3. Condition met. Well done."
-     노아: 폴이 방금 문자했어요. 빅터가 확인했대요. "3분기 전 아시아 파트너 서명. 조건 충족. 잘했어요."
+110. NOAH: Paul just texted. Victor confirmed it: "Asia partner signed before Q3. Condition met. Well done." That was Bluewater's condition, so as of today, we've kept our promise to our investors. I might actually sleep on the flight home.
+     노아: 폴이 방금 문자했어요. 빅터가 확인했대요. "3분기 전 아시아 파트너 서명. 조건 충족. 잘했어요." 그게 블루워터의 조건이었으니까, 오늘부로 투자자들과의 약속을 지킨 거예요. 돌아가는 비행기에선 진짜 잘 수도 있겠어요.
 
 111. ELENA: June twenty-ninth. Two days to spare. You always cut it close.
      엘레나: 6월 29일. 이틀 남기고. 늘 아슬아슬하네요.
@@ -379,8 +379,8 @@
 118. NOAH: The conversation from the lab? About your role?
      노아: 실험실에서 했던 그 얘기? 당신 역할?
 
-119. PRIYA: That one. I've decided. I'm not waiting for "after" anymore. Claire would be proud.
-     프리야: 그거요. 결정했어요. 더는 "나중에"를 기다리지 않아요. 클레어가 자랑스러워할 거예요.
+119. PRIYA: That one. I've decided, and I'm not waiting for "after" anymore. For seven years, I've said I'd think about my role after the next launch, the next approval, the next crisis. There's always a next one. Claire would be proud.
+     프리야: 그거요. 결정했고, 더는 "나중에"를 기다리지 않아요. 7년 동안 다음 출시 끝나고, 다음 승인 끝나고, 다음 위기 끝나고 내 역할을 생각해 보겠다고 말해 왔어요. 다음은 늘 있어요. 클레어가 자랑스러워할 거예요.
 
 120. NOAH: Then after the summit. One hour. Rooftop. I'll bring the napkin.
      노아: 그럼 서밋 끝나고. 한 시간. 옥상. 냅킨 가져갈게요.
@@ -422,3 +422,18 @@
 | Change of control | If Halvern acquires Veyra → Daeyang may buy Veyra's JV share at book value |
 
 > **Bluewater Q3 condition met (June 29).** Next: Mitsukawa signing, Tokyo, July 15 · Global Summit, Austin, September.
+
+### ④ 긴 발화 분석
+
+> **36턴 HAN:** "We have the larger share, that's true. But you have the better system, and the system is the reason we're signing today. If the CEO comes from Daeyang, people will see a distributor with a foreign product. So I'd like the CEO to come from Veyra."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 인정(양보) | We have the larger share, that's true. | 상대가 예상하는 사실을 먼저 인정해 반발을 줄임 |
+| ② 반전(핵심 가치) | But you have the better system, and the system is the reason we're signing today. | But으로 방향을 틀어 상대의 강점을 거래의 이유로 격상 |
+| ③ 근거(가정) | If the CEO comes from Daeyang, people will see a distributor with a foreign product. | If 가정으로 반대 선택의 결과를 보여 줌 |
+| ④ 제안 | So I'd like the CEO to come from Veyra. | So로 결론을 부드럽게 제시(I'd like) |
+
+**활용 패턴:** 사실 인정 → But + 상대 강점 → If + 반대 시나리오의 결과 → So + 제안
+**연결 표현:** that's true(그건 맞다) · the reason we're…(우리가 ~하는 이유) · If…, people will see…(~하면 사람들은 …로 볼 것이다) · I'd like…(~했으면 한다)
+**연습:** 지분·예산이 더 큰 쪽이 상대에게 핵심 역할을 넘기자고 설득하는 상황으로 같은 구조로 40단어 안팎 말해 보기.

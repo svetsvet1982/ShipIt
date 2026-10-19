@@ -47,8 +47,8 @@
 10. MARCUS: How bad was it?
     마커스: 얼마나 심했어?
 
-11. LILY: Forty minutes of yelling. Then crying. Then she booked Thanksgiving flights.
-    릴리: 40분 동안 소리 지르고, 그다음 울고, 그다음 추수감사절 비행기를 예약했어.
+11. LILY: Forty minutes of yelling, mostly about you, Noah, and why nobody told her sooner. Then crying, because she was scared for me. Then she booked Thanksgiving flights to come see us.
+    릴리: 40분 동안 소리 질렀어. 주로 오빠 얘기, 그리고 왜 아무도 더 일찍 말 안 했냐는 얘기. 그다음엔 울었어, 나 때문에 무서웠대. 그다음엔 우리 보러 오려고 추수감사절 비행기를 예약했어.
 
 12. ELENA: That sounds like a mother. Mine would do the same.
     엘레나: 엄마들이 다 그렇죠. 우리 엄마도 똑같았을 거예요.
@@ -85,8 +85,8 @@
 22. MARCUS: What's a CE mark, in plain English?
     마커스: CE 마크가 뭔지 쉬운 말로 해 줄래?
 
-23. PRIYA: It's the European safety stamp. Without it, you can't sell there.
-    프리야: 유럽의 안전 인증 마크예요. 그게 없으면 거기서 못 팔아요.
+23. PRIYA: It's the European safety stamp. It shows a product meets EU rules for safety and performance. Without it, you can't sell there, and with it, you can sell in every EU country.
+    프리야: 유럽의 안전 인증 마크예요. 제품이 안전성과 성능에 관한 EU 규정을 충족한다는 걸 보여 주죠. 그게 없으면 거기서 못 팔고, 있으면 EU 모든 나라에서 팔 수 있어요.
 
 24. NOAH: And the upside of Europe is speed?
     노아: 그러니까 유럽의 장점은 속도야?
@@ -100,8 +100,8 @@
 27. NOAH: Go ahead.
     노아: 말씀하세요.
 
-28. MARCUS: Revenue. The sooner we sell something, the sooner we survive.
-    마커스: 매출. 뭐라도 빨리 팔수록 빨리 살아남는 거야.
+28. MARCUS: Revenue. The sooner we sell something, the sooner we survive. A startup with no sales is burning cash every month, and when the cash runs out, it doesn't matter how good the product was.
+    마커스: 매출. 뭐라도 빨리 팔수록 빨리 살아남는 거야. 매출 없는 스타트업은 매달 현금을 태우고 있는 거고, 현금이 바닥나면 제품이 얼마나 좋았는지는 아무 상관이 없어.
 
 29. ELENA: That's a fair point.
     엘레나: 일리 있는 말이에요.
@@ -136,8 +136,8 @@
 39. PRIYA: A lot. Dozens. Maybe more than a hundred.
     프리야: 많아요. 수십 개. 백 개가 넘을 수도 있고요.
 
-40. ELENA: So it's crowded. And prices are lower than in the US.
-    엘레나: 그러니까 붐비는 시장이네요. 가격도 미국보다 낮고요.
+40. ELENA: So it's crowded. And prices are lower than in the US. What worries me is that we'd be one new name among a hundred, fighting on price instead of on safety.
+    엘레나: 그러니까 붐비는 시장이네요. 가격도 미국보다 낮고요. 내가 걱정되는 건, 우리가 백 개 중 하나의 새 이름이 돼서 안전이 아니라 가격으로 싸우게 될 거라는 점이에요.
 
 41. MARCUS: Crowded, but open. A small player can get in.
     마커스: 붐비지만 열려 있지. 작은 회사도 들어갈 수 있어.
@@ -154,8 +154,8 @@
 45. MARCUS: MDR. Another acronym. Translate, please.
     마커스: MDR. 또 약자네. 번역 좀.
 
-46. PRIYA: Medical Device Regulation. Stricter. Slower. More clinical data.
-    프리야: 의료기기 규정이요. 더 엄격하고, 더 느리고, 임상 데이터도 더 많이 필요해요.
+46. PRIYA: Medical Device Regulation. It's stricter and slower than the old system, and it asks for more clinical data. So a lot of companies that planned on Europe as the easy route are rethinking it.
+    프리야: 의료기기 규정이요. 예전 제도보다 더 엄격하고 더 느리고, 임상 데이터도 더 많이 요구해요. 그래서 유럽을 쉬운 길로 계획했던 많은 회사들이 다시 생각하고 있어요.
 
 47. NOAH: So Europe isn't the shortcut it used to be.
     노아: 그러니까 유럽이 예전 같은 지름길은 아니네.
@@ -189,8 +189,8 @@
 56. NOAH: Why is that a good thing?
     노아: 그게 왜 좋은 거예요?
 
-57. ELENA: Because if we pass it, every doctor will trust our data.
-    엘레나: 그걸 통과하면 모든 의사가 우리 데이터를 믿을 테니까요.
+57. ELENA: Because if we pass it, every doctor will trust our data. When a doctor sees FDA approval, she doesn't have to wonder whether the study was good enough. The hardest test answers that question.
+    엘레나: 그걸 통과하면 모든 의사가 우리 데이터를 믿을 테니까요. 의사가 FDA 승인을 보면, 연구가 충분히 좋았는지 따져 볼 필요가 없어요. 가장 어려운 시험이 그 질문에 답해 주니까요.
 
 58. NOAH: So FDA approval is like a gold medal.
     노아: 그러니까 FDA 승인은 금메달 같은 거네요.
@@ -237,14 +237,14 @@
 72. ELENA: You tell me. You're the expert.
     엘레나: 당신이 말해 줘요. 전문가잖아요.
 
-73. MARCUS: The FDA inspects factories hard. If we pass, we're ready anywhere.
-    마커스: FDA는 공장을 빡빡하게 검사해. 그걸 통과하면 어디서든 준비된 거지.
+73. MARCUS: The FDA inspects factories hard. They look at every record, every clean room, every batch. If we pass that, we're ready anywhere, because nobody else will ask for more than they do.
+    마커스: FDA는 공장을 빡빡하게 검사해. 기록 하나하나, 클린룸 하나하나, 배치 하나하나 다 봐. 그걸 통과하면 어디서든 준비된 거야. 그보다 더 많이 요구하는 데는 없으니까.
 
 74. ELENA: So US first makes everything stronger. Including the factory.
     엘레나: 그러니까 미국 먼저 하면 모든 게 더 탄탄해지네요. 공장까지 포함해서.
 
-75. PRIYA: But slower. Much slower. Five, maybe seven years.
-    프리야: 하지만 느려요. 훨씬 느리죠. 5년, 어쩌면 7년.
+75. PRIYA: But slower. Much slower. Five, maybe seven years before we sell a single syringe. And every one of those years needs salaries, trials and rent, with no revenue coming in at all.
+    프리야: 하지만 느려요. 훨씬 느리죠. 주사기 하나 팔기까지 5년, 어쩌면 7년. 그리고 그 하루하루에 급여, 임상, 임대료가 다 들어가는데, 들어오는 매출은 전혀 없어요.
 
 76. ELENA: Yes. I won't pretend otherwise.
     엘레나: 맞아요. 아닌 척하진 않을게요.
@@ -287,8 +287,8 @@
 88. MARCUS: And third?
     마커스: 그리고 셋째는?
 
-89. NOAH: Third, Halvern is American. We have to beat them at home.
-    노아: 셋째, 할번은 미국 회사예요. 우린 그들의 홈그라운드에서 이겨야 해요.
+89. NOAH: Third, Halvern is American. Their reputation was built here, with American doctors. If we want those doctors to switch, we have to beat Halvern at home, not somewhere else.
+    노아: 셋째, 할번은 미국 회사예요. 그들의 명성은 여기서, 미국 의사들과 함께 쌓였어요. 그 의사들이 갈아타길 원한다면, 다른 데가 아니라 할번의 홈그라운드에서 이겨야 해요.
 
 90. MARCUS: That's a fighter's reason. I respect it.
     마커스: 싸움꾼다운 이유네. 존중해.
@@ -299,8 +299,8 @@
 92. NOAH: I know. And it makes your visa problem more urgent.
     노아: 알아. 그리고 그만큼 네 비자 문제가 더 급해지지.
 
-93. PRIYA: Much more urgent. I need a plan for that. Soon.
-    프리야: 훨씬 더 급해져. 그거에 대한 계획이 필요해. 빨리.
+93. PRIYA: Much more urgent. My visa won't wait seven years for a clinical trial, Noah. If I can't stay in the country, I can't help build this company. I need a plan for that. Soon.
+    프리야: 훨씬 더 급해져. 내 비자는 임상시험 때문에 7년을 기다려 주지 않아, 노아. 내가 이 나라에 못 있으면 이 회사를 같이 만들 수도 없어. 그거에 대한 계획이 필요해. 빨리.
 
 94. NOAH: It's the first thing I'll ask the lawyer on Thursday.
     노아: 목요일에 변호사한테 제일 먼저 물어볼게.
@@ -320,8 +320,8 @@
 99. ELENA: "Disagree and commit." That's very mature, Marcus.
     엘레나: "반대하되 따른다." 아주 성숙하네요, 마커스.
 
-100. MARCUS: Army again. You argue in the tent. Outside, one voice.
-     마커스: 이것도 군대식이야. 텐트 안에선 싸우고, 밖에선 한목소리.
+100. MARCUS: Army again. You argue in the tent, as loudly as you need to. But once the order is given and you walk outside, there is only one voice. Otherwise people get hurt.
+     마커스: 이것도 군대식이야. 텐트 안에선 필요한 만큼 큰 소리로 싸워. 하지만 일단 명령이 내려지고 밖으로 나가면, 목소리는 하나뿐이야. 안 그러면 사람이 다치거든.
 
 101. NOAH: I like that. Inside, argue. Outside, one voice.
      노아: 그거 좋네요. 안에선 논쟁, 밖에선 한목소리.
@@ -346,8 +346,8 @@
 107. PRIYA: And a plan for my visa. And Noah's non-compete.
      프리야: 그리고 내 비자 계획. 그리고 노아의 경업금지 조항.
 
-108. MARCUS: And a plan for money. Forty million doesn't fall from the sky.
-     마커스: 그리고 돈 계획. 4천만 달러가 하늘에서 떨어지진 않아.
+108. MARCUS: And a plan for money. Forty million doesn't fall from the sky. If we choose the long road, we need investors who can wait seven years, and that's a very short list.
+     마커스: 그리고 돈 계획. 4천만 달러가 하늘에서 떨어지진 않아. 먼 길을 택한다면 7년을 기다려 줄 수 있는 투자자가 필요한데, 그런 사람은 정말 몇 안 돼.
 
 109. NOAH: One thing at a time. Thursday, the lawyer.
      노아: 하나씩요. 목요일엔 변호사.
@@ -416,3 +416,18 @@
 
 예시:
 > *We have two options: Europe first or America first. The upside of Europe is speed and cost. The catch is that the market is crowded and the rules are getting stricter. The upside of America is the biggest market and the strongest proof. The catch is time and money. On balance, I'd go with America first, for three reasons…*
+
+### ④ 긴 발화 분석
+
+> **28턴 MARCUS:** "Revenue. The sooner we sell something, the sooner we survive. A startup with no sales is burning cash every month, and when the cash runs out, it doesn't matter how good the product was."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 결론(한 단어) | Revenue. | 내 입장의 핵심 이유를 한 단어로 먼저 제시 |
+| ② 원칙(비교급 구문) | The sooner we sell something, the sooner we survive. | "The 비교급…, the 비교급…"으로 이유를 기억하기 쉬운 원칙으로 압축 |
+| ③ 근거(위험 설명) | A startup with no sales is burning cash every month, | 반대편 선택지의 현실적 위험을 구체적으로 묘사 |
+| ④ 결과(경고) | and when the cash runs out, it doesn't matter how good the product was. | "when…, it doesn't matter…"로 최악의 결과를 보여 주며 설득 |
+
+**활용 패턴:** 한 단어 결론 → The 비교급, the 비교급 → 위험 → 최악의 결과
+**연결 표현:** The sooner…, the sooner…(~할수록 더 ~하다) · and when…(그리고 ~하면) · it doesn't matter how…(얼마나 ~한지는 상관없다)
+**연습:** 두 가지 안 중 빠른 안을 지지하는 입장에서, 같은 구조로 30단어 안팎으로 이유를 말해 보기.

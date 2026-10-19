@@ -26,8 +26,8 @@
 03. LEO: Two hundred features? Our product has one ingredient.
     레오: 특징이 200개요? 우리 제품은 성분이 하나인데요.
 
-04. ZOE: One ingredient. Two hundred facts about it. Today we find the five that matter.
-    조이: 성분 하나. 그에 관한 사실 200개. 오늘 중요한 다섯 개를 찾을 거예요.
+04. ZOE: One ingredient. Two hundred facts about it. Today we find the five that matter, because a doctor gives a sales rep a few minutes, and nobody remembers two hundred anything.
+    조이: 성분 하나. 그에 관한 사실 200개. 오늘 중요한 다섯 개를 찾을 거예요. 의사는 영업 담당자에게 몇 분밖에 안 주고, 200개짜리는 누구도 기억 못 하니까요.
 
 05. NOAH: Only five?
     노아: 다섯 개만요?
@@ -35,8 +35,8 @@
 06. ZOE: Doctors remember three. I'm being generous.
     조이: 의사들은 세 개를 기억해요. 전 후하게 하는 거예요.
 
-07. ELENA: I'm here to stop anything that breaks the label.
-    엘레나: 난 라벨을 어기는 건 뭐든 막으려고 왔어요.
+07. ELENA: I'm here to stop anything that breaks the label. If one sentence on that wall promises more than our data shows, it won't leave this room. First, do no harm. That includes marketing.
+    엘레나: 난 라벨을 어기는 건 뭐든 막으려고 왔어요. 저 벽의 문장 하나라도 데이터가 보여 주는 것보다 더 약속하면, 이 방 밖으로 못 나가요. 첫째, 해를 끼치지 말 것. 마케팅도 마찬가지예요.
 
 08. ZOE: Perfect. You're my favorite enemy today.
     조이: 완벽해요. 오늘 제가 제일 좋아하는 적이에요.
@@ -100,8 +100,8 @@
 27. PRIYA: It's accurate.
     프리야: 정확한 말이에요.
 
-28. ZOE: Accurate and invisible. We need accurate and memorable. What does it do?
-    조이: 정확하지만 안 보여요. 정확하면서 기억에 남아야 해요. 그게 뭘 하죠?
+28. ZOE: Accurate and invisible. We need accurate and memorable, something a busy doctor can repeat to a colleague in the hallway. So forget the chemistry name for a minute. What does it do?
+    조이: 정확하지만 안 보여요. 정확하면서 기억에 남아야 해요. 바쁜 의사가 복도에서 동료에게 그대로 전할 수 있는 말이요. 그러니 화학 이름은 잠깐 잊어요. 그게 뭘 하죠?
 
 29. PRIYA: The links break faster when hyaluronidase is added.
     프리야: 히알루로니다아제를 넣으면 연결고리가 더 빨리 끊어져요.
@@ -127,8 +127,8 @@
 36. ZOE: Then help me. What can we say honestly?
     조이: 그럼 도와줘요. 정직하게 뭘 말할 수 있어요?
 
-37. ELENA: We measured speed. So speed is fine. "Faster to dissolve when you need to."
-    엘레나: 우린 속도를 측정했어요. 그러니 속도는 괜찮아요. "필요할 때 더 빨리 녹는다."
+37. ELENA: We measured speed. So speed is fine. We didn't measure what happens to the patient afterwards, so we can't promise time or outcomes. Try this: 'Faster to dissolve when you need to.'
+    엘레나: 우린 속도를 측정했어요. 그러니 속도는 괜찮아요. 그 뒤에 환자에게 어떤 일이 생기는지는 측정하지 않았으니, 시간이나 결과는 약속할 수 없어요. 이렇게 해 봐요. '필요할 때 더 빨리 녹는다.'
 
 38. ZOE: "When you need to." I like that. It puts the doctor in charge.
     조이: "필요할 때." 좋네요. 의사를 주도권 자리에 앉혀 줘요.
@@ -160,8 +160,8 @@
 47. ELENA: Especially in a name. A name is repeated a million times.
     엘레나: 특히 이름에서요. 이름은 백만 번 반복되잖아요.
 
-48. PRIYA: What about "FlexLink"? Flexible links. Strong, but they can let go.
-    프리야: "플렉스링크"는요? 유연한 연결고리. 튼튼하지만 놓아줄 수 있는.
+48. PRIYA: What about 'FlexLink'? It describes what the chemistry actually does. The links are flexible and strong while the filler is working, but they can let go when the doctor needs them to.
+    프리야: '플렉스링크'는요? 화학이 실제로 하는 일을 설명해 줘요. 필러가 제 역할을 하는 동안엔 연결고리가 유연하고 튼튼하지만, 의사가 필요할 땐 놓아줄 수 있어요.
 
 49. ZOE: FlexLink. Short. No claim. Easy to say. Priya, that's brilliant.
     조이: 플렉스링크. 짧고. 주장 없고. 말하기 쉽고. 프리야, 그거 훌륭해요.
@@ -174,8 +174,8 @@
 51. ZOE: FlexLink technology. Feature one, done. Feature two. Leo, the injection feel.
     조이: 플렉스링크 기술. 특징 1 완료. 특징 2. 레오, 주입감.
 
-52. LEO: Low extrusion force. Our gel flows at a consistent pressure. Measured in newtons.
-    레오: 낮은 압출력. 우리 젤은 일정한 압력으로 흘러요. 뉴턴 단위로 측정해요.
+52. LEO: Low extrusion force. Our gel flows at a consistent pressure from the first drop to the last, and we measure it in newtons on every batch, so the feel doesn't change.
+    레오: 낮은 압출력. 우리 젤은 첫 방울부터 마지막 방울까지 일정한 압력으로 흘러요. 배치마다 뉴턴 단위로 측정하니까 느낌이 달라지지 않아요.
 
 53. ZOE: Advantage?
     조이: 장점은?
@@ -213,8 +213,8 @@
 64. MARCUS: Table stakes. Explain.
     마커스: 테이블 스테이크. 설명해 줘.
 
-65. ZOE: What you need just to play the game. Not what makes you win.
-    조이: 게임에 참여하기 위해 필요한 것. 이기게 해 주는 건 아니고요.
+65. ZOE: What you need just to play the game, not what makes you win. If we lead with lidocaine, doctors hear 'same as everyone,' and we've wasted our best thirty seconds.
+    조이: 게임에 참여하기 위해 필요한 것이지, 이기게 해 주는 건 아니에요. 리도카인을 앞세우면 의사들은 '다른 데랑 똑같네'로 듣고, 우린 가장 귀한 30초를 날리는 거예요.
 
 66. PRIYA: Feature four. Twelve months. Seventy-one versus seventy percent.
     프리야: 특징 4. 12개월. 71 대 70퍼센트.
@@ -231,8 +231,8 @@
 70. ZOE: Exactly. "You don't have to choose." That's the emotional truth.
     조이: 맞아요. "선택할 필요가 없다." 그게 감정적 진실이에요.
 
-71. MARCUS: Feature five. Not the gel. The system. Training plus emergency kit.
-    마커스: 특징 5. 젤이 아니라 시스템. 교육 더하기 응급 키트.
+71. MARCUS: Feature five. Not the gel. The system. Training plus an emergency kit in every clinic. Any company can ship a syringe, but backing it up with real support takes logistics. That's our ground.
+    마커스: 특징 5. 젤이 아니라 시스템. 교육 더하기 모든 병원의 응급 키트. 주사기는 어느 회사나 보낼 수 있지만, 진짜 지원으로 뒷받침하려면 물류가 필요해. 거기가 우리 진지야.
 
 72. ZOE: Advantage: every injector is trained. Every clinic has a kit.
     조이: 장점: 모든 시술자가 교육받고, 모든 병원에 키트가 있다.
@@ -284,8 +284,8 @@
 87. ZOE: The label. Every word above must stand on the data below.
     조이: 라벨이요. 위에 있는 모든 단어는 아래 데이터 위에 서 있어야 해요.
 
-88. MARCUS: Now that I understand. A house without a foundation falls down.
-    마커스: 그건 이해되네. 기초 없는 집은 무너지지.
+88. MARCUS: Now that I understand. In the army, you don't build anything on ground you haven't checked. A house without a foundation falls down, and so does a campaign without data.
+    마커스: 그건 이해되네. 군대에선 확인 안 한 땅 위엔 아무것도 안 지어. 기초 없는 집은 무너지고, 데이터 없는 캠페인도 마찬가지야.
 
 89. DIANE: Hello, everyone. Legal review. Show me the house.
     다이앤: 안녕하세요, 여러분. 법무 검토. 집을 보여 줘요.
@@ -302,8 +302,8 @@
 93. ZOE: Can we keep it if the data is right next to it? Every time?
     조이: 데이터를 바로 옆에 두면 유지할 수 있을까요? 매번요?
 
-94. DIANE: Yes. Metaphor plus data. Never metaphor alone.
-    다이앤: 네. 비유에 데이터를 붙여요. 비유 혼자는 절대 안 돼요.
+94. DIANE: Yes. Metaphor plus data. Never metaphor alone. A metaphor on its own invites the reader to imagine the benefit, and imagined benefits are exactly what regulators call unsupported claims.
+    다이앤: 네. 비유에 데이터를 붙여요. 비유 혼자는 절대 안 돼요. 비유만 있으면 읽는 사람이 혜택을 상상하게 되는데, 상상된 혜택이 바로 규제 당국이 말하는 근거 없는 주장이에요.
 
 95. ZOE: So every ad says: "Dissolves 2.8 times faster with hyaluronidase. Forty-subject study."
     조이: 그러니까 모든 광고에 "히알루로니다아제로 2.8배 빠른 용해. 40명 연구."를 쓰는 거네요.
@@ -340,8 +340,8 @@
 
 ### 마무리 — 오후 5시
 
-106. DIANE: Just one. This is the most honest marketing house I've reviewed. In twenty years.
-     다이앤: 하나만요. 이건 내가 20년 동안 검토한 것 중 가장 정직한 마케팅 하우스예요.
+106. DIANE: Just one. This is the most honest marketing house I've reviewed in twenty years. Most companies bring me the roof and hope I don't look underneath. You brought the foundation first.
+     다이앤: 하나만요. 이건 내가 20년 동안 검토한 것 중 가장 정직한 마케팅 하우스예요. 대부분의 회사는 지붕만 가져와서 내가 밑을 안 들여다보길 바라죠. 여러분은 기초부터 가져왔어요.
 
 107. ZOE: Is that good for marketing?
      조이: 그게 마케팅에 좋은 거예요?
@@ -355,8 +355,8 @@
 110. NOAH: Zoe, how do you feel? Day four.
      노아: 조이, 기분 어때요? 4일째.
 
-111. ZOE: Like I learned more in four days than in four years of lipstick.
-     조이: 립스틱 4년보다 나흘 동안 더 많이 배운 기분이에요.
+111. ZOE: Like I learned more in four days than in four years of lipstick. In cosmetics, the words came first and the facts followed. Here it's the other way around, and honestly, I like it.
+     조이: 립스틱 4년보다 나흘 동안 더 많이 배운 기분이에요. 화장품에선 말이 먼저고 사실이 뒤따랐어요. 여긴 정반대인데, 솔직히 그게 좋아요.
 
 112. ELENA: You made me write marketing today. I'll never forgive you.
      엘레나: 오늘 날 마케팅하게 만들었어요. 절대 용서 안 할 거예요.
@@ -418,3 +418,17 @@
 | **Foundation** | FDA-approved label, including: *"The clinical benefit of faster dissolution has not been established in clinical studies."* |
 
 > **FAB 연습 문장:** *Our gel has [feature]. That means it [advantage]. What that means for you is [benefit].*
+
+### ④ 긴 발화 분석
+
+> **37턴 ELENA:** "We measured speed. So speed is fine. We didn't measure what happens to the patient afterwards, so we can't promise time or outcomes. Try this: 'Faster to dissolve when you need to.'"
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 근거(한 것) | We measured speed. So speed is fine. | 데이터가 뒷받침하는 범위를 먼저 확인 |
+| ② 한계(안 한 것) | We didn't measure what happens to the patient afterwards, so we can't promise time or outcomes. | didn't… so can't…로 말할 수 없는 범위를 선 긋기 |
+| ③ 대안(제안) | Try this: 'Faster to dissolve when you need to.' | 거절로 끝내지 않고 쓸 수 있는 문구를 바로 제시 |
+
+**활용 패턴:** 우리가 증명한 것 → 증명하지 못한 것(so we can't…) → "Try this: …"
+**연결 표현:** So(그러니까) · We didn't measure…(~는 측정하지 않았다) · so we can't promise(그래서 약속할 수 없다) · Try this(이렇게 해 봐요)
+**연습:** 고객 만족도 조사 결과로 "매출이 오른다"고 쓰자는 동료에게 같은 구조로 30단어 안팎의 대안 문구를 제안해 보기.

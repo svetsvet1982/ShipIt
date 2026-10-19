@@ -44,8 +44,8 @@
 09. AVA: Is it always like this? The night before a show?
     에이바: 원래 이래요? 전시회 전날 밤엔?
 
-10. DEREK: Always. Fifteen years. Something always breaks.
-    데릭: 항상. 15년 동안. 꼭 뭔가 망가져요.
+10. DEREK: Always. Fifteen years. Something always breaks. A crate goes missing, a banner arrives wrong, a booth has no power. The trick is to fix it before the doors open.
+    데릭: 항상. 15년 동안. 꼭 뭔가 망가져요. 상자가 없어지거나, 배너가 잘못 오거나, 부스에 전기가 안 들어오거나. 요령은 문이 열리기 전에 고치는 거예요.
 
 11. AVA: Congratulations on the retake, by the way.
     에이바: 그나저나 재시험 합격 축하해요.
@@ -73,8 +73,8 @@
 18. TASHA: You flew with mannequin heads? Through airport security?
     타샤: 마네킹 머리를 들고 비행기를 탔어요? 공항 보안 검색을 통과해서?
 
-19. MARCUS: The officer asked many questions. Two is one. One is none.
-    마커스: 보안 요원이 질문을 많이 하더군. 둘은 하나. 하나는 없음.
+19. MARCUS: The officer asked many questions. I explained it was for medical training, and he still opened every bag. Took a while. Worth it. Two is one. One is none.
+    마커스: 보안 요원이 질문을 많이 하더군. 의료 교육용이라고 설명했는데도 가방을 전부 열어 봤어. 한참 걸렸지. 그럴 가치가 있었어. 둘은 하나. 하나는 없음.
 
 20. TASHA: Marcus, I could kiss you.
     타샤: 마커스, 뽀뽀해 주고 싶네요.
@@ -103,8 +103,8 @@
 28. ZOE: That's impossible. I approved twenty-four-point type.
     조이: 말도 안 돼요. 24포인트 글씨로 승인했는데.
 
-29. LEO: The printer scaled the whole file down. To fit the frame.
-    레오: 인쇄소가 프레임에 맞추려고 파일 전체를 줄였네요.
+29. LEO: The printer scaled the whole file down to fit the frame. The picture still looks perfect, so nobody checked the small text. Every line shrank, including the limitation statement.
+    레오: 인쇄소가 프레임에 맞추려고 파일 전체를 줄였네요. 사진은 여전히 완벽해 보여서, 아무도 작은 글씨는 확인 안 했어요. 한계 문구를 포함해서 모든 줄이 줄어든 거예요.
 
 30. ELENA: Then this banner can't go up. Readable size. Diane's rule.
     엘레나: 그럼 이 배너는 못 걸어요. 읽을 수 있는 크기. 다이앤의 규칙.
@@ -112,8 +112,8 @@
 31. ZOE: It's our main banner! We have nothing else that big.
     조이: 메인 배너예요! 그만큼 큰 건 다른 게 없어요.
 
-32. NOAH: Elena's right. If the limitation is invisible, the claim is misleading.
-    노아: 엘레나 말이 맞아요. 한계 문구가 안 보이면 주장이 오해를 불러요.
+32. NOAH: Elena's right. If the limitation is invisible, the claim is misleading. Tomorrow thousands of dermatologists walk past this booth, and the FDA reads banners too. We can't hide our honesty in the corner.
+    노아: 엘레나 말이 맞아요. 한계 문구가 안 보이면 주장이 오해를 불러요. 내일 수천 명의 피부과 의사가 이 부스 앞을 지나가고, FDA도 배너를 읽어요. 우리의 정직함을 구석에 숨길 순 없어요.
 
 33. ZOE: I know. I know. I'm the one who said "no tiny letters."
     조이: 알아요. 알아요. "깨알 글씨 금지"라고 한 게 저예요.
@@ -121,8 +121,8 @@
 34. AVA: Could we print a correction strip? And attach it?
     에이바: 수정 띠를 인쇄해서 붙일 수 있을까요?
 
-35. ZOE: A patch on our main banner? It'll look cheap.
-    조이: 메인 배너에 덧대기요? 싸구려처럼 보일 거예요.
+35. ZOE: A patch on our main banner? It'll look cheap. Everyone will see the strip, and right across from a fifty-by-fifty Halvern booth, we'll look like amateurs.
+    조이: 메인 배너에 덧대기요? 싸구려처럼 보일 거예요. 다들 그 띠를 볼 거고, 할번의 50x50 부스 바로 맞은편에서 우린 아마추어처럼 보일 거예요.
 
 36. ELENA: Cheap is better than illegal.
     엘레나: 싸구려가 불법보다 나아요.
@@ -133,8 +133,8 @@
 38. ZOE: At eight p.m.? Every print shop in San Diego is closed.
     조이: 저녁 8시에요? 샌디에이고 인쇄소는 전부 닫았어요.
 
-39. DEREK: Not Manny's. Fifteen years of AAD shows. I know a guy.
-    데릭: 매니네는 아니에요. AAD 15년. 아는 사람이 있어요.
+39. DEREK: Not Manny's. Fifteen years of AAD shows. I know a guy. Manny has saved me before, always after midnight, always for cash. He owes me nothing, but he likes a challenge.
+    데릭: 매니네는 아니에요. AAD 15년. 아는 사람이 있어요. 매니는 전에도 절 구해 줬어요. 늘 자정 넘어서, 늘 현금으로. 저한테 빚진 건 없지만, 도전을 좋아하거든요.
 
 40. NOAH: Can he do it by morning?
     노아: 아침까지 될까요?
@@ -222,8 +222,8 @@
 67. NOAH: When does Flex launch, Tom?
     노아: 플렉스는 언제 출시해요, 톰?
 
-68. TOM: Next year. Same exit. Bigger company. Bigger sales force.
-    톰: 내년. 같은 비상구. 더 큰 회사. 더 큰 영업 조직.
+68. TOM: Next year. Same exit. Bigger company. Bigger sales force. You built a good idea, Noah, but ideas don't win markets. Distribution does, and we have reps in every state.
+    톰: 내년. 같은 비상구. 더 큰 회사. 더 큰 영업 조직. 좋은 아이디어를 만들었지, 노아. 하지만 아이디어가 시장을 이기진 않아. 유통이 이기지. 그리고 우린 모든 주에 영업 사원이 있어.
 
 69. NOAH: Then patients win. That was always the point.
     노아: 그럼 환자들이 이기는 거네요. 그게 처음부터 핵심이었어요.
@@ -234,8 +234,8 @@
 71. NOAH: Dangerous? We're twenty by twenty.
     노아: 위험하다고요? 우린 20x20인데요.
 
-72. TOM: So was I once. Twenty-two years ago. Good luck tomorrow.
-    톰: 나도 한때 그랬지. 22년 전에. 내일 행운을 빌어.
+72. TOM: So was I once. Twenty-two years ago, I had a small booth and a big idea, right at the back of the hall. Nothing personal, Noah. It's just business. Good luck tomorrow.
+    톰: 나도 한때 그랬지. 22년 전, 전시장 맨 뒤쪽에 작은 부스 하나와 큰 아이디어가 있었어. 개인적인 감정은 없어, 노아. 그냥 비즈니스야. 내일 행운을 빌어.
 
 73. ELENA: Did Tom Brennan just say "good luck"?
     엘레나: 톰 브레넌이 방금 "행운을 빈다"고 했어요?
@@ -252,8 +252,8 @@
 77. NOAH: And?
     노아: 그래서?
 
-78. LEO: Up again. A little. Still in spec. Raj says it's the raw material supplier.
-    레오: 또 올랐어요. 조금. 아직 규격 안. 라지는 원료 공급사 탓이래요.
+78. LEO: Up again. A little. Still in spec. Raj says it's the raw material supplier, but that's his explanation, not data. So for now, it's a theory, not an answer.
+    레오: 또 올랐어요. 조금. 아직 규격 안. 라지는 원료 공급사 탓이래요. 하지만 그건 그쪽 설명이지 데이터가 아니에요. 그러니 지금으로선 답이 아니라 가설이에요.
 
 79. NOAH: Keep charting. After the show, we visit Meridian. You and Grace.
     노아: 계속 차트 그려요. 전시 끝나면 메리디안에 가요. 레오랑 그레이스.
@@ -317,11 +317,11 @@
 98. LILY: Can you answer now?
     릴리: 지금 대답해 줄 수 있어요?
 
-99. TASHA: It wasn't your fault. Not for one second.
-    타샤: 당신 잘못이 아니었어요. 단 1초도.
+99. TASHA: It wasn't your fault. Not for one second. You chose a clinic, you trusted a professional, and nobody had trained her for that night. That failure belonged to us, not you.
+    타샤: 당신 잘못이 아니었어요. 단 1초도. 당신은 병원을 골랐고, 전문가를 믿었고, 아무도 그 사람에게 그날 밤을 대비한 교육을 해 주지 않았어요. 그 실패는 당신이 아니라 우리 몫이었어요.
 
-100. LILY: …Thank you. I've waited a long time to hear that. From someone who was there.
-     릴리: …고마워요. 그 말 오래 기다렸어요. 그 자리에 있었던 사람한테서.
+100. LILY: …Thank you. I've waited a long time to hear that, from someone who was there. My family said it, Noah said it, but you saw everything that night.
+     릴리: …고마워요. 그 말 오래 기다렸어요. 그 자리에 있었던 사람한테서요. 가족도 말해 줬고 노아도 말해 줬지만, 그날 밤 모든 걸 본 건 당신이었잖아요.
 
 101. TASHA: Come. Let me show you what we built. So it happens less.
      타샤: 와요. 우리가 만든 걸 보여 줄게요. 그런 일이 덜 일어나도록.
@@ -358,8 +358,8 @@
 111. MARCUS: Now it's a booth. Across from Halvern. Facing them.
      마커스: 이제는 부스지. 할번 건너편. 정면으로.
 
-112. ELENA: First, do no harm. I'm proud of every word on that banner.
-     엘레나: 첫째, 해를 끼치지 말 것. 저 배너의 모든 단어가 자랑스러워요.
+112. ELENA: First, do no harm. I'm proud of every word on that banner. Tomorrow a lot of companies will promise a lot of things. We'll promise only what we can prove.
+     엘레나: 첫째, 해를 끼치지 말 것. 저 배너의 모든 단어가 자랑스러워요. 내일 많은 회사가 많은 것을 약속하겠죠. 우린 증명할 수 있는 것만 약속할 거예요.
 
 113. TASHA: Even the limitation statement?
      타샤: 한계 문구까지요?
@@ -418,3 +418,17 @@
 | Compliance walk-through | Medical/regulatory sign-off on final booth | Elena ✓ (24-pt, readable at 3m) |
 | Team | Roles, schedule, meeting point | Doors 9:00 · team at booth 8:00 |
 | Competitor | Note size, message, launch timing | Halvern 50x50, LED wall: "Lumaderm Flex — Coming soon" (next year) |
+
+### ④ 긴 발화 분석
+
+> **29턴 LEO:** "The printer scaled the whole file down to fit the frame. The picture still looks perfect, so nobody checked the small text. Every line shrank, including the limitation statement."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 원인(무슨 일이) | The printer scaled the whole file down to fit the frame. | 문제의 직접 원인을 한 문장으로 사실만 보고 |
+| ② 놓친 이유 | The picture still looks perfect, so nobody checked the small text. | so로 "왜 아무도 몰랐는지"를 설명 — 비난이 아니라 과정의 빈틈 |
+| ③ 영향(범위) | Every line shrank, including the limitation statement. | including으로 가장 중요한 피해 항목을 짚어 결정권자가 바로 판단하게 함 |
+
+**활용 패턴:** 원인 → 놓친 이유(so) → 영향 범위(including…)
+**연결 표현:** scaled…down to fit(~에 맞추려고 축소했다) · so nobody checked(그래서 아무도 확인하지 않았다) · including…(~를 포함해서)
+**연습:** 행사 전날 인쇄물·자료에서 발견한 오류를 상사에게 같은 구조로 25~30단어로 보고해 보기.

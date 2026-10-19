@@ -41,8 +41,8 @@
 08. ZOE: Can we just fix the slide? Quietly?
     조이: 그냥 슬라이드를 조용히 고치면 안 돼요?
 
-09. MARCUS: No. The board received this deck yesterday. If we change it quietly, that's hiding.
-    마커스: 안 돼. 이사회가 어제 이 덱을 받았어. 조용히 바꾸면 그건 숨기는 거야.
+09. MARCUS: No. The board received this deck yesterday, and Ingrid has already read it, probably twice. If we change it quietly now, that's not fixing a mistake, that's hiding one. And once a board catches you hiding one number, they stop trusting all the others.
+    마커스: 안 돼. 이사회가 어제 이 덱을 받았고, 잉그리드는 이미 읽었어. 아마 두 번. 지금 조용히 바꾸면 그건 실수를 고치는 게 아니라 숨기는 거야. 그리고 이사회가 숫자 하나 숨긴 걸 잡아내면, 나머지 숫자도 전부 안 믿게 돼.
 
 10. ELENA: Rule four. "I'd rather find the problem than hide it."
     엘레나: 규칙 4. "문제를 숨기느니 찾겠다."
@@ -53,8 +53,8 @@
 12. MARCUS: I'll do it. It's my mistake. My team built the model.
     마커스: 내가 할게. 내 실수야. 우리 팀이 모델을 만들었어.
 
-13. SOFIA: Marcus, I gave you the retail numbers. Half of it is mine.
-    소피아: 마커스, 소매 숫자는 내가 줬어요. 절반은 내 거예요.
+13. SOFIA: Marcus, wait. I gave you the retail numbers, and I never checked whether Recover was already in the clinic sales. That's on me as much as on your model. Half of this mistake is mine, so I'm not letting you stand up there alone.
+    소피아: 마커스, 잠깐요. 소매 숫자는 내가 줬고, 리커버가 이미 병원 매출에 들어가 있는지 확인 안 했어요. 당신 모델만큼이나 내 책임이에요. 이 실수의 절반은 내 거니까, 당신 혼자 거기 서게 두지 않을 거예요.
 
 14. MARCUS: Then we'll stand up together. Two is one.
     마커스: 그럼 같이 서자. 둘은 하나.
@@ -76,8 +76,8 @@
 19. ELAINE: Before the report. Marcus asked for two minutes. A correction.
     일레인: 보고 전에. 마커스가 2분을 요청했어요. 정정 사항.
 
-20. MARCUS: Thank you. Slide nine is wrong. We counted Recover revenue twice. Clinic and retail.
-    마커스: 감사합니다. 슬라이드 9가 틀렸어요. 리커버 매출을 두 번 셌어요. 병원과 소매.
+20. MARCUS: Thank you. Slide nine is wrong, and I want you to hear it from me before anyone asks. We counted Recover revenue twice, once in clinic sales and once in retail. The total is four hundred thousand dollars lower than the slide says.
+    마커스: 감사합니다. 슬라이드 9가 틀렸고, 누가 묻기 전에 제 입으로 말씀드리고 싶었습니다. 리커버 매출을 두 번 셌어요. 병원 매출에 한 번, 소매에 한 번. 합계는 슬라이드보다 40만 달러 낮습니다.
 
 21. ELAINE: So the correct second-quarter revenue is eight point nine million? Not nine point three?
     일레인: 그러니까 정확한 2분기 매출은 890만이에요? 930만이 아니라?
@@ -127,8 +127,8 @@
 36. INGRID: Twenty cents for safety. I'll accept that trade.
     잉그리드: 안전을 위한 20센트. 그 교환은 받아들이죠.
 
-37. SOFIA: Recover update. Aurelle's twelve-week test. Sell-through sixty-eight percent. Target was sixty.
-    소피아: 리커버 업데이트. 오렐 12주 테스트. 판매율 68%. 목표는 60%였어요.
+37. SOFIA: Recover update. Aurelle's twelve-week test is finished, and sell-through came in at sixty-eight percent. Our target was sixty, so we beat it by eight points. More importantly, it held up after the launch excitement faded, which tells us it's not just curiosity.
+    소피아: 리커버 업데이트. 오렐 12주 테스트가 끝났고, 판매율은 68%로 나왔어요. 목표가 60%였으니 8%포인트 앞선 거죠. 더 중요한 건, 출시 열기가 식은 뒤에도 유지됐다는 거예요. 단순한 호기심이 아니라는 뜻이죠.
 
 38. ZOE: Monica is expanding us. From fifty stores to one hundred fifty. In September.
     조이: 모니카가 확대해요. 50개 매장에서 150개로. 9월에.
@@ -157,8 +157,8 @@
 46. INGRID: Question three. Why twenty months now? The pitch said twenty-two.
     잉그리드: 질문 3. 왜 이제 20개월이에요? 피칭 땐 22개월이었는데.
 
-47. MARCUS: Glow. The full contract adds about four million a year. Starting next month.
-    마커스: 글로우. 본계약이 연 400만 달러쯤 더해요. 다음 달부터.
+47. MARCUS: Glow. The full contract adds about four million dollars a year in revenue, starting next month. That money comes in faster than we modeled at the pitch, so we reach cash-flow positive about two months earlier. Everything else in the plan stays exactly the same.
+    마커스: 글로우. 본계약이 다음 달부터 연 400만 달러쯤 매출을 더해요. 그 돈이 피칭 때 모델링한 것보다 빨리 들어오니까, 현금 흐름 흑자에 약 두 달 일찍 도달하는 거예요. 계획의 나머지는 그대로예요.
 
 48. ELAINE: The full contract is signed?
     일레인: 본계약이 서명됐어요?
@@ -186,8 +186,8 @@
 55. RICHARD: Up? That sounds bad.
     리처드: 늘었다고요? 나빠 보이는데요.
 
-56. ELENA: It's good. Nurses stopped hiding small events. We see more because they report more.
-    엘레나: 좋은 거예요. 간호사들이 작은 사건을 숨기지 않게 됐어요. 더 많이 보고하니까 더 많이 보이는 거죠.
+56. ELENA: It's good, actually. Before the pilot, nurses hid small events because they were afraid of being blamed. Now they report them, because they know the goal is learning, not punishment. We see more because they report more, and that's exactly how you catch problems early.
+    엘레나: 사실 좋은 거예요. 파일럿 전엔 간호사들이 비난받을까 봐 작은 사건을 숨겼어요. 지금은 목적이 처벌이 아니라 배움이라는 걸 아니까 보고해요. 더 많이 보고하니까 더 많이 보이는 거고, 바로 그렇게 문제를 일찍 잡는 거예요.
 
 57. INGRID: And serious events? The ones that matter?
     잉그리드: 그럼 중대한 사건은요? 중요한 것들?
@@ -222,8 +222,8 @@
 67. ELAINE: Which is?
     일레인: 뭔데요?
 
-68. REESE: The committee reports to this board. Not to the CEO. And our minutes are never edited.
-    리스: 위원회는 CEO가 아니라 이 이사회에 보고한다. 그리고 회의록은 절대 수정하지 않는다.
+68. REESE: The committee reports to this board, not to the CEO. And our minutes are never edited, not by legal, not by marketing, not by anyone. If a safety committee's words can be softened before the board reads them, then it isn't independent. It's just another department.
+    리스: 위원회는 CEO가 아니라 이 이사회에 보고한다. 그리고 회의록은 절대 수정하지 않는다. 법무도, 마케팅도, 누구도요. 이사회가 읽기 전에 안전위원회의 말을 순화할 수 있다면, 그건 독립적인 게 아니에요. 그냥 또 하나의 부서죠.
 
 69. INGRID: That's exactly what I asked for.
     잉그리드: 그게 정확히 내가 요청한 거예요.
@@ -234,8 +234,8 @@
 71. RICHARD: You're inviting the people who gave you the hardest time?
     리처드: 가장 힘들게 했던 사람들을 초대하는 거예요?
 
-72. ELENA: That's the point. A safety committee of friends is decoration.
-    엘레나: 그게 핵심이에요. 친구들로 된 안전위원회는 장식이에요.
+72. ELENA: That's the point. A safety committee of friends is decoration. It looks good on a slide, but it never stops anything. I want people who will ask the questions I don't want to hear, because those are usually the questions patients would ask.
+    엘레나: 그게 핵심이에요. 친구들로 된 안전위원회는 장식이에요. 슬라이드에선 좋아 보여도, 아무것도 멈추지 못해요. 난 내가 듣고 싶지 않은 질문을 할 사람들을 원해요. 그게 보통 환자들이 할 질문이니까요.
 
 73. REESE: Dr. Ruiz is right. And she sits on it. But she doesn't chair it. That's important.
     리스: 루이즈 박사 말이 맞아요. 그리고 그녀도 위원이에요. 하지만 위원장은 아니죠. 그게 중요해요.
@@ -269,11 +269,11 @@
 82. NOAH: More states. More chains. Recover in more stores.
     노아: 더 많은 주. 더 많은 체인. 더 많은 매장의 리커버.
 
-83. RICHARD: That's the U.S. And the U.S. is not enough. Not for the path to a billion.
-    리처드: 그건 미국이죠. 그리고 미국으론 충분하지 않아요. 10억으로 가는 길엔.
+83. RICHARD: That's the U.S., and it's a great plan for the next two years. But the U.S. is not enough, not for the path to a billion. If we wait until we've won here, someone else will take Europe, and we'll be fighting them on their home ground.
+    리처드: 그건 미국이죠. 앞으로 2년 동안은 훌륭한 계획이고요. 하지만 미국으론 충분하지 않아요. 10억으로 가는 길엔요. 여기서 이길 때까지 기다리면, 다른 누군가가 유럽을 차지하고, 우린 그들 안방에서 싸우게 될 거예요.
 
-84. INGRID: I disagree. Focus. You have nine percent of the U.S. market. Win here first.
-    잉그리드: 난 동의 안 해요. 집중. 미국 시장 점유율이 9%예요. 여기서 먼저 이겨요.
+84. INGRID: I disagree. Focus. You have nine percent of the U.S. market, which means ninety-one percent is still available, in a country where you already have approval, a sales team, and a reputation. Win here first. Every dollar spent abroad now is a dollar not spent where you're already winning.
+    잉그리드: 난 동의 안 해요. 집중. 미국 시장 점유율이 9%예요. 즉 91%가 아직 남아 있다는 거고, 그것도 이미 승인, 영업팀, 평판을 갖춘 나라에서요. 여기서 먼저 이겨요. 지금 해외에 쓰는 1달러는 이미 이기고 있는 곳에 쓰지 못하는 1달러예요.
 
 85. RICHARD: Nine percent is a start. Not a reason to wait.
     리처드: 9%는 시작이죠. 기다릴 이유가 아니라.
@@ -296,8 +296,8 @@
 91. INGRID: Asking is not buying.
     잉그리드: 묻는 것과 사는 건 달라요.
 
-92. ZOE: Agreed. But the card is our ambassador. It went where we haven't gone.
-    조이: 동의해요. 하지만 카드가 우리 대사예요. 우리가 안 간 곳에 갔어요.
+92. ZOE: Agreed, asking isn't buying. But the card is already our ambassador. It went to places we haven't gone, and doctors there learned step one from us before they ever heard a sales pitch. That's a kind of trust we usually have to pay for.
+    조이: 동의해요, 묻는 건 사는 게 아니죠. 하지만 카드는 이미 우리 대사예요. 우리가 안 간 곳에 갔고, 거기 의사들은 영업 피칭을 듣기도 전에 우리한테서 1단계를 배웠어요. 그건 보통 돈을 내야 얻는 종류의 신뢰예요.
 
 93. PRIYA: Which countries most?
     프리야: 어느 나라가 제일 많아?
@@ -346,8 +346,8 @@
 107. NOAH: Glow rollout. Three hundred locations. Without a single unexplained syringe.
      노아: 글로우 확대. 300개 지점. 설명 안 되는 주사기 하나 없이.
 
-108. ELAINE: Good. Europe can wait three months. Houston can't happen twice.
-     일레인: 좋아요. 유럽은 석 달 기다릴 수 있어요. 휴스턴은 두 번 일어나면 안 되고요.
+108. ELAINE: Good. That's the right answer. Europe can wait three months, and it will still be there. Houston can't happen twice. If one syringe goes missing during the Glow rollout, nobody will care how many countries downloaded the card.
+     일레인: 좋아요. 그게 맞는 답이에요. 유럽은 석 달 기다릴 수 있고, 그래도 그대로 있을 거예요. 휴스턴은 두 번 일어나면 안 돼요. 글로우 확대 중에 주사기 하나라도 사라지면, 몇 나라에서 카드를 다운로드했는지 아무도 신경 쓰지 않을 거예요.
 
 109. INGRID: Noah. A word.
      잉그리드: 노아. 잠깐.
@@ -361,8 +361,8 @@
 112. NOAH: Marcus has a rule. Two is one.
      노아: 마커스한테 규칙이 있어요. 둘은 하나.
 
-113. INGRID: That's why I invested. Not for the margin. For the people who correct slides at five a.m.
-     잉그리드: 그래서 투자한 거예요. 마진 때문이 아니라. 새벽 5시에 슬라이드를 고치는 사람들 때문에.
+113. INGRID: That's why I invested. Not for the margin, and not for the growth rate. Plenty of companies have good numbers. I invested for the people who correct their own slides at five a.m., because those are the people who'll tell me the truth when things go wrong.
+     잉그리드: 그래서 투자한 거예요. 마진 때문도, 성장률 때문도 아니에요. 좋은 숫자를 가진 회사는 많아요. 새벽 5시에 자기 슬라이드를 고치는 사람들 때문에 투자했어요. 일이 잘못될 때 나한테 진실을 말해 줄 사람들이니까요.
 
 114. ZOE: Noah. Quick thing. The card downloads.
      조이: 노아. 잠깐요. 카드 다운로드.
@@ -421,3 +421,18 @@
 | Glow | **Full contract, 300 locations** | | Pilot: time to first action −78%, reports ×3, 0 serious events, 0 unexplained inventory |
 | Safety committee | **Chair: Dr. Gordon Reese** · Barbara Hughes · Dr. Elena Ruiz | | Reports to the board; minutes never edited |
 | International | Card downloads 430K (31% non-US, 22 countries) | | Small budget to explore Europe; IMCAS decision next quarter |
+
+### ④ 긴 발화 분석
+
+> **20턴 MARCUS:** "Thank you. Slide nine is wrong, and I want you to hear it from me before anyone asks. We counted Recover revenue twice, once in clinic sales and once in retail. The total is four hundred thousand dollars lower than the slide says."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 결론(오류 인정) | Slide nine is wrong, | 돌려 말하지 않고 첫 문장에서 잘못을 인정 |
+| ② 의도(자진 공개) | and I want you to hear it from me before anyone asks. | 숨기지 않는다는 태도를 분명히 해 신뢰를 지킨다 |
+| ③ 원인(구체적 설명) | We counted Recover revenue twice, once in clinic sales and once in retail. | 무엇이 어떻게 틀렸는지 한 문장으로 설명 |
+| ④ 영향(숫자) | The total is four hundred thousand dollars lower than the slide says. | 이사회가 알아야 할 정확한 차이를 숫자로 제시 |
+
+**활용 패턴:** "X is wrong" → "I want you to hear it from me" → 원인 → 영향(숫자)
+**연결 표현:** I want you to hear it from me(제 입으로 먼저 말씀드리고 싶다) · before anyone asks(누가 묻기 전에) · once in A and once in B(A에서 한 번, B에서 한 번) · lower than the slide says(슬라이드보다 낮다)
+**연습:** 이미 보낸 보고서의 숫자 오류를 상사에게 먼저 알리는 상황을 같은 구조로 35~45단어로 말해 보기.

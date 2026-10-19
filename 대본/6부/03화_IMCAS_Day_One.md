@@ -53,8 +53,8 @@
 12. NOAH: Why is that so important?
     노아: 그게 왜 그렇게 중요해요?
 
-13. ZOE: In France, starting without "Bonjour" is like walking into someone's house without knocking.
-    조이: 프랑스에서 "봉주르" 없이 시작하는 건 노크 없이 남의 집에 들어가는 것과 같아요.
+13. ZOE: In France, starting without 'Bonjour' is like walking into someone's house without knocking. It tells them you see them as a customer, not as a person. Say it first, smile, and then they'll usually switch to English for you.
+    조이: 프랑스에서 '봉주르' 없이 시작하는 건 노크 없이 남의 집에 들어가는 것과 같아요. 상대를 사람이 아니라 손님으로만 본다는 뜻이 되거든요. 먼저 그 말을 하고, 웃고, 그러면 대개 상대가 영어로 바꿔 줄 거예요.
 
 14. TASHA: Noted. Bonjour. Arrêtez l'injection. That's all my French.
     타샤: 알겠어요. 봉주르. 아레테 랭젝시옹. 그게 제 프랑스어 전부예요.
@@ -70,8 +70,8 @@
 17. CELINE: Bonjour. Céline Marchand. Dermatologist, Paris. I saw your sign. You can't sell here. Why come?
     셀린: 봉주르. 셀린 마르샹. 파리 피부과 의사예요. 표지판 봤어요. 여기선 팔 수 없잖아요. 왜 왔어요?
 
-18. NOAH: To listen. And to learn how European doctors work. Before we ask for anything.
-    노아: 듣기 위해서요. 그리고 유럽 의사들이 어떻게 일하는지 배우려고요. 뭔가를 요청하기 전에.
+18. NOAH: To listen, mostly. We want to learn how European doctors actually work, what they worry about and what they need, before we ask for anything. It would be strange to sell to people we haven't understood yet.
+    노아: 주로 듣기 위해서요. 뭔가를 요청하기 전에, 유럽 의사들이 실제로 어떻게 일하는지, 뭘 걱정하고 뭐가 필요한지 배우고 싶어요. 아직 이해하지도 못한 사람들에게 판다는 건 이상하잖아요.
 
 19. CELINE: That is unusual for an American company. Usually, you come to teach us.
     셀린: 미국 회사치곤 특이하네요. 보통은 우리를 가르치러 오잖아요.
@@ -88,8 +88,8 @@
 23. ELENA: But do French doctors still see occlusions?
     엘레나: 그래도 프랑스 의사들도 혈관 폐색을 겪나요?
 
-24. CELINE: Of course. Less often. But yes. Doctors are not perfect. Only less imperfect.
-    셀린: 물론이죠. 덜 자주. 하지만 네. 의사도 완벽하지 않아요. 덜 불완전할 뿐.
+24. CELINE: Of course. Less often than in London, I think, but yes. Even a careful doctor with many years of experience can hit a vessel on a bad day. Doctors are not perfect. We are only less imperfect.
+    셀린: 물론이죠. 런던보다는 덜 자주일 거예요, 하지만 네. 경험 많은 신중한 의사도 운 나쁜 날엔 혈관을 건드릴 수 있어요. 의사는 완벽하지 않아요. 덜 불완전할 뿐이죠.
 
 25. TASHA: Would you like to try our drill? Ten seconds. A simulated emergency.
     타샤: 저희 훈련 해 보시겠어요? 10초. 모의 응급 상황이에요.
@@ -115,8 +115,8 @@
 32. CELINE: …Arrêtez l'injection. I forgot. Twenty years, and I forgot step one.
     셀린: …주입 중단. 잊었네요. 20년인데 1단계를 잊었어요.
 
-33. TASHA: Everyone does. Even our CEO. That's why the card exists. In French too.
-    타샤: 다들 그래요. 우리 CEO도요. 그래서 카드가 있는 거예요. 프랑스어로도.
+33. TASHA: Everyone does, even our CEO. Under pressure, the brain jumps to the treatment and skips the simple first step. That's exactly why the card exists, so nobody has to remember. And yes, we have it in French too.
+    타샤: 다들 그래요. 우리 CEO도요. 압박을 받으면 뇌가 치료로 바로 뛰어가서 간단한 1단계를 건너뛰어요. 그래서 바로 카드가 있는 거예요. 아무도 외울 필요가 없게. 그리고 네, 프랑스어판도 있어요.
 
 34. CELINE: Give me ten cards. For my residents. They will laugh at me. Then they will learn.
     셀린: 카드 열 장 줘요. 우리 전공의들한테. 날 비웃겠죠. 그다음 배우겠죠.
@@ -160,8 +160,8 @@
 47. NOAH: Good morning, Dr. Al-Mansouri. What brings you to the show?
     노아: 좋은 아침입니다, 알만수리 박사님. 어떻게 학회에 오셨어요?
 
-48. LAYLA: Safety. Our patients travel. They get treated in many countries. We see the complications.
-    레일라: 안전이요. 우리 환자들은 여행을 해요. 여러 나라에서 시술받죠. 우리가 합병증을 봐요.
+48. LAYLA: Safety. Our patients travel a lot. They get treated in many countries, wherever is cheap or fashionable, and then they come home to us. So we see the complications, and we're the ones who have to fix them.
+    레일라: 안전이요. 우리 환자들은 여행을 많이 해요. 싸거나 유행하는 곳이면 어느 나라에서든 시술받고, 그다음 집으로, 우리한테 돌아와요. 그래서 우리가 합병증을 보고, 그걸 고쳐야 하는 것도 우리예요.
 
 49. NOAH: Let me walk you through our training program. It's the part we can share today.
     노아: 저희 교육 프로그램을 차근차근 설명해 드릴게요. 오늘 공유할 수 있는 부분이에요.
@@ -180,8 +180,8 @@
 53. ANKE: Modified how? Please be precise. Germans like precision.
     안케: 어떻게 변형됐어요? 정확하게 말해 주세요. 독일인은 정확함을 좋아해요.
 
-54. PRIYA: I can't share the exact structure. Patents. But I can show you the dissolution curve.
-    프리야: 정확한 구조는 공유할 수 없어요. 특허 때문에. 하지만 용해 곡선은 보여 드릴 수 있어요.
+54. PRIYA: I can't share the exact structure, because it's covered by our patents. But I can show you the dissolution curve, which honestly tells you more. It shows how fast the gel breaks down with the enzyme, compared with a standard BDDE filler.
+    프리야: 정확한 구조는 공유할 수 없어요. 특허로 보호받고 있거든요. 하지만 용해 곡선은 보여 드릴 수 있어요. 솔직히 그게 더 많은 걸 말해 줘요. 표준 BDDE 필러와 비교해서, 효소가 들어갔을 때 젤이 얼마나 빨리 분해되는지 보여 주거든요.
 
 55. ANKE: Ah. A curve. Wunderbar.
     안케: 아. 곡선. 분더바.
@@ -234,8 +234,8 @@
 71. ZOE: "The loud American." Was that an insult?
     조이: "시끄러운 미국인." 그거 모욕이었어요?
 
-72. ELENA: In Tom's language, it's a warning. Europeans don't trust loud.
-    엘레나: 톰의 언어로는 경고예요. 유럽인은 시끄러운 걸 안 믿어요.
+72. ELENA: In Tom's language, it's a warning, not an insult. Europeans don't trust loud. They trust companies that stay for years and keep their promises. He's telling us that if we act like salesmen here, doctors will politely walk past us.
+    엘레나: 톰의 언어로는 모욕이 아니라 경고예요. 유럽인은 시끄러운 걸 안 믿어요. 오래 머물면서 약속을 지키는 회사를 믿죠. 우리가 여기서 영업사원처럼 굴면, 의사들이 정중하게 우릴 지나쳐 갈 거라고 말하는 거예요.
 
 73. NOAH: Then we stay quiet. And let the drill speak.
     노아: 그럼 조용히 있어요. 그리고 훈련이 말하게 하죠.
@@ -249,8 +249,8 @@
 76. NOAH: Thank you for waiting. What brings you to the show?
     노아: 기다려 주셔서 감사해요. 어떻게 학회에 오셨어요?
 
-77. SARAH: Honestly? I'm tired of fixing other people's work. Every week, I dissolve someone else's filler.
-    세라: 솔직히요? 남이 한 걸 고치는 데 지쳤어요. 매주 다른 사람이 넣은 필러를 녹여요.
+77. SARAH: Honestly? I'm tired of fixing other people's work. Every single week, I dissolve someone else's filler, usually late at night, usually with a frightened patient who didn't know the person injecting her had no medical training at all.
+    세라: 솔직히요? 남이 한 걸 고치는 데 지쳤어요. 매주 빠짐없이 다른 사람이 넣은 필러를 녹여요. 대개 늦은 밤에, 대개 겁에 질린 환자와 함께요. 자기한테 시술한 사람이 의료 교육을 전혀 안 받았다는 걸 몰랐던 환자요.
 
 78. ELENA: Whose work?
     엘레나: 누가 한 걸요?
@@ -275,8 +275,8 @@
 84. NOAH: Three hours. Online. Legal.
     노아: 세 시간. 온라인. 합법.
 
-85. SARAH: Parliament is discussing it. Very slowly. Very politely. Meanwhile, girls get hurt.
-    세라: 의회가 논의하고 있어요. 아주 천천히. 아주 정중하게. 그동안 여자애들이 다쳐요.
+85. SARAH: Parliament is discussing it, very slowly and very politely, the way we discuss everything. There have been reports and consultations for years. Meanwhile, girls like her get hurt every weekend, and people like me clean up afterwards.
+    세라: 의회가 논의하고 있어요. 아주 천천히, 아주 정중하게. 우리가 모든 걸 논의하는 방식대로요. 몇 년째 보고서와 공청회가 이어지고 있죠. 그동안 그 애 같은 여자애들이 주말마다 다치고, 저 같은 사람들이 뒷수습을 해요.
 
 86. TASHA: Would UK nurses take our training? Even before you can buy the product?
     타샤: 영국 간호사들이 우리 교육을 들을까요? 제품을 사기 전이라도?
@@ -317,8 +317,8 @@
 98. NOAH: What did she say?
     노아: 뭐라고 했어?
 
-99. PRIYA: Very little. She watched the drill for ten minutes. Asked me two questions. Very good questions.
-    프리야: 거의 안 했어. 10분 동안 훈련을 지켜봤어. 나한테 질문 두 개 했고. 아주 좋은 질문.
+99. PRIYA: Very little, actually. She watched the drill for ten minutes without saying a word. Then she asked me two questions, very good, very specific questions, the kind you only ask when you've already done your homework on us.
+    프리야: 사실 거의 안 했어. 10분 동안 한마디도 없이 훈련을 지켜봤어. 그러고는 나한테 질문 두 개를 했어. 아주 좋고, 아주 구체적인 질문. 우리에 대해 이미 숙제를 다 해 온 사람만 할 수 있는 그런 질문.
 
 100. NOAH: About what?
      노아: 뭐에 대해?
@@ -346,8 +346,8 @@
 107. ELENA: And how many distributors failed the question?
      엘레나: 그리고 그 질문에서 떨어진 유통사는요?
 
-108. SOFIA: Three. They said yes to beauticians. Instantly. One said, "Of course. That's our biggest market."
-     소피아: 세 곳. 미용사한테 판다고 했어요. 즉시. 한 곳은 "물론이죠. 그게 우리 최대 시장이에요"라고 했어요.
+108. SOFIA: Three. They said yes to beauticians, instantly, without even thinking about it. One of them actually said, 'Of course. That's our biggest market.' So those three are grade C, no matter how big they are or how nice their brochures look.
+     소피아: 세 곳. 미용사한테 판다고 했어요. 생각도 안 하고 즉시. 한 곳은 실제로 '물론이죠. 그게 우리 최대 시장이에요'라고 했어요. 그러니 그 세 곳은 C 등급이에요. 얼마나 크든, 브로슈어가 얼마나 근사하든 상관없이.
 
 109. TASHA: Two hundred twelve drills. In three languages. Fastest time, one point seven. A Spanish nurse.
      타샤: 훈련 212회. 3개 국어로. 최고 기록 1.7초. 스페인 간호사.
@@ -373,8 +373,8 @@
 116. NOAH: Then what does it mean?
      노아: 그럼 무슨 뜻인데요?
 
-117. ZOE: Sometimes "No." Sometimes "Never." I worked with a British agency once. It took me a year to learn.
-     조이: 때로는 "아니요." 때로는 "절대." 영국 에이전시와 일한 적이 있어요. 배우는 데 1년 걸렸어요.
+117. ZOE: Sometimes it means 'No.' Sometimes it means 'Never, and please leave.' I worked with a British agency once, and it took me a whole year to learn that 'quite good' was bad news. The British are very polite, even when they're rejecting you.
+     조이: 때로는 '아니요'라는 뜻이고, 때로는 '절대 안 돼요, 그만 가 주세요'라는 뜻이에요. 영국 에이전시와 일한 적이 있는데, 'quite good'이 나쁜 소식이라는 걸 배우는 데 꼬박 1년 걸렸어요. 영국인은 거절할 때조차 아주 정중해요.
 
 118. NOAH: We have one day.
      노아: 우린 하루밖에 없어요.
@@ -419,3 +419,17 @@
 | Han Seo-yeon | Korea (Daeyang Bio) | Watched drill 10 min; asked about sterilization & Seorin | Card: "Asia needs a safety standard. Let's talk someday." |
 
 > **Day 1:** 186 badges (140 doctors, 14 distributors — 3 failed the beautician question) · 212 drills in 3 languages · fastest 1.7 s (Spanish nurse) · French cards ran out at 3 p.m.
+
+### ④ 긴 발화 분석
+
+> **72턴 ELENA:** "In Tom's language, it's a warning, not an insult. Europeans don't trust loud. They trust companies that stay for years and keep their promises. He's telling us that if we act like salesmen here, doctors will politely walk past us."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 재해석(A가 아니라 B) | In Tom's language, it's a warning, not an insult. | 상대 발언의 숨은 의도를 한 줄로 정리 |
+| ② 문화 규칙(대비) | Europeans don't trust loud. They trust companies that stay for years and keep their promises. | "~는 안 믿고, ~를 믿는다"로 현지 기준 설명 |
+| ③ 함의(조건 → 결과) | He's telling us that if we act like salesmen here, doctors will politely walk past us. | 그래서 우리가 무엇을 조심해야 하는지 행동으로 연결 |
+
+**활용 패턴:** 재해석(it's A, not B) → 문화 규칙 대비 → He's telling us that if…, …
+**연결 표현:** In ~'s language(~식으로 말하면) · He's telling us that…(그 말은 ~라는 뜻이다) · politely walk past(정중하게 지나치다)
+**연습:** 해외 거래처가 회의 끝에 한 애매한 한마디를 팀에게 같은 구조로 40단어 안팎으로 해석해 주기.

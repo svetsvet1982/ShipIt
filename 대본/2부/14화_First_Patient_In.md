@@ -76,8 +76,8 @@
 19. LINDA: Is that okay? Them being here?
     린다: 괜찮은 거예요? 이분들이 여기 있어도?
 
-20. ELENA: Only if you agree. You can ask us to leave. Anytime.
-    엘레나: 동의하실 때만요. 언제든 나가 달라고 하셔도 돼요.
+20. ELENA: Only if you agree. This is your appointment, not ours. If you feel uncomfortable at any point, you can ask us to leave, and nobody will be upset.
+    엘레나: 동의하실 때만요. 이건 저희가 아니라 린다 씨의 진료 시간이에요. 언제든 불편하시면 나가 달라고 하셔도 되고, 아무도 기분 나빠하지 않아요.
 
 21. LINDA: No, it's fine. It's nice to see who makes it.
     린다: 아니에요, 괜찮아요. 누가 만드는지 보니까 좋네요.
@@ -91,8 +91,8 @@
 24. STEIN: Good. Then tell me, in your own words. What is this study?
     스타인: 좋아요. 그럼 직접 말해 봐요. 이 연구가 뭐예요?
 
-25. LINDA: You're testing a new filler. For smile lines. Against one that's already approved.
-    린다: 새 필러를 시험하는 거예요. 팔자주름에요. 이미 승인된 것과 비교해서요.
+25. LINDA: You're testing a new filler for smile lines, against one that's already approved. The point is to show the new one works just as well, and that it's safe.
+    린다: 팔자주름용 새 필러를 이미 승인된 것과 비교해서 시험하는 거예요. 새 필러가 똑같이 효과가 있고, 안전하다는 걸 보여 주는 게 목적이고요.
 
 26. STEIN: Perfect. Do you know which one you'll get?
     스타인: 완벽해요. 어느 걸 맞을지 알아요?
@@ -124,14 +124,14 @@
 35. LINDA: Where you inject a little, then dissolve it on purpose?
     린다: 조금 주사하고 일부러 녹이는 거요?
 
-36. STEIN: Yes. You can say no to that part. And still join the main study.
-    스타인: 네. 그 부분은 거절해도 돼요. 그래도 본 연구엔 참여할 수 있어요.
+36. STEIN: Yes. You can say no to that part and still join the main study. Saying no won't change how we treat you, so please choose what feels right for you.
+    스타인: 네. 그 부분은 거절하고 본 연구에만 참여해도 돼요. 거절해도 우리가 린다 씨를 대하는 방식은 하나도 달라지지 않으니까, 편한 쪽으로 선택하세요.
 
 37. LINDA: Then I'll say no. Just the main study. Is that okay?
     린다: 그럼 거절할게요. 본 연구만요. 괜찮아요?
 
-38. STEIN: Completely okay. It won't affect your care at all.
-    스타인: 완전히 괜찮아요. 치료에는 전혀 영향이 없어요.
+38. STEIN: Completely okay. Thank you for telling me.
+    스타인: 완전히 괜찮아요. 말해 줘서 고마워요.
 
 39. NOAH: Can I ask why? If that's okay. Just to understand.
     노아: 이유를 여쭤봐도 될까요? 괜찮으시다면요. 이해하고 싶어서요.
@@ -166,8 +166,8 @@
 49. ELENA: This is the moment.
     엘레나: 바로 이 순간이네요.
 
-50. NOAH: Thirteen months since the ER. Thirteen months to this chair.
-    노아: 응급실 이후 13개월. 이 의자까지 13개월.
+50. NOAH: Thirteen months since the ER. Thirteen months from a napkin to this chair. I keep thinking about Lily that night, and how scared we all were.
+    노아: 응급실 이후 13개월. 냅킨 한 장에서 이 의자까지 13개월. 자꾸 그날 밤 릴리 생각이 나요. 우리 모두 얼마나 겁에 질렸었는지.
 
 ### 장면2 — 시술
 
@@ -177,8 +177,8 @@
 52. LINDA: Which one did I get?
     린다: 저는 어느 쪽이에요?
 
-53. STEIN: I know, but the evaluator won't. That keeps the results honest.
-    스타인: 나는 알지만 평가자는 몰라요. 그래야 결과가 정직해져요.
+53. STEIN: I know, but the evaluator won't, because they only see the photos and the scores. That keeps the results honest. Nobody can be kind to the new product, even by accident.
+    스타인: 나는 알지만 평가자는 몰라요. 평가자는 사진과 점수만 보거든요. 그래야 결과가 정직해져요. 아무도, 실수로라도 신제품 편을 들 수 없죠.
 
 54. LINDA: Like a blind taste test.
     린다: 블라인드 맛 테스트처럼요.
@@ -246,8 +246,8 @@
 75. LINDA: My husband won't believe this.
     린다: 남편이 안 믿을 거예요.
 
-76. ELENA: Linda, if anything feels wrong, call the number on your card. Day or night.
-    엘레나: 린다, 뭔가 이상하면 카드에 있는 번호로 전화하세요. 밤낮없이요.
+76. ELENA: Linda, if anything feels wrong, call the number on your card, day or night. Most things are small, but a few problems need treatment fast, so we'd rather hear early.
+    엘레나: 린다, 뭔가 이상하면 밤이든 낮이든 카드에 있는 번호로 전화하세요. 대부분은 사소한 일이지만, 몇몇 문제는 빨리 치료해야 해서 일찍 연락받는 게 훨씬 나아요.
 
 77. LINDA: Even at night?
     린다: 밤에도요?
@@ -269,8 +269,8 @@
 82. NOAH: Is Linda okay? What happened?
     노아: 린다 괜찮아요? 무슨 일이에요?
 
-83. GRACE: She's okay. Bruising and swelling on the left side. She called this morning.
-    그레이스: 괜찮아요. 왼쪽에 멍과 부기가 있어요. 오늘 아침 전화했대요.
+83. GRACE: She's okay. She called this morning about bruising and swelling on the left side. Dr. Stein's team saw her, and I'll give you the details. But first, nobody needs to panic.
+    그레이스: 괜찮아요. 오늘 아침에 왼쪽에 멍과 부기가 있다고 전화했대요. 스타인 박사님 팀이 봤고, 자세한 건 제가 말씀드릴게요. 하지만 먼저, 아무도 당황할 필요 없어요.
 
 84. NOAH: Bruising? Is that dangerous? Should we pause the trial?
     노아: 멍이요? 위험해요? 임상을 멈춰야 해요?
@@ -278,8 +278,8 @@
 85. ELENA: Noah. Breathe. Let's follow the protocol.
     엘레나: 노아. 숨 쉬어요. 프로토콜대로 해요.
 
-86. NOAH: Sorry. I'm just… it's our first patient.
-    노아: 미안해요. 그냥… 우리 첫 환자잖아요.
+86. NOAH: Sorry. I'm just… it's our first patient. For thirteen months, she was only a number in a plan. Now she has a name, a husband and a bruise, and it feels very real.
+    노아: 미안해요. 그냥… 우리 첫 환자잖아요. 13개월 동안 그녀는 계획서 속 숫자일 뿐이었어요. 그런데 이제 이름이 있고, 남편이 있고, 멍이 있으니까 너무 실감이 나요.
 
 87. ELENA: I know. That's why we follow the protocol. Calm rules, used in a storm.
     엘레나: 알아요. 그래서 프로토콜을 따르는 거예요. 차분한 규칙을 폭풍 속에서 쓰는 거죠.
@@ -296,8 +296,8 @@
 91. PRIYA: Expected. So it's not a problem?
     프리야: 예상된 거라. 그럼 문제가 아닌 거예요?
 
-92. ELENA: Expected is not the same as nothing. We still document it. Every detail.
-    엘레나: 예상된 것이 아무것도 아닌 것과 같진 않아요. 그래도 기록해요. 세부 사항 전부.
+92. ELENA: Expected is not the same as nothing. We still document it, every detail, because one bruise means very little, but fifty bruises might tell us something. Patterns only appear on paper.
+    엘레나: 예상된 것이 아무것도 아닌 것과 같진 않아요. 그래도 세부 사항까지 전부 기록해요. 멍 하나는 별 의미가 없지만, 멍 쉰 개는 뭔가를 말해 줄 수 있거든요. 패턴은 기록 속에서만 보여요.
 
 93. GRACE: It's recorded as an adverse event. Mild. Non-serious. Expected.
     그레이스: 이상반응으로 기록했어요. 경미. 비중대. 예상됨.
@@ -305,8 +305,8 @@
 94. MARCUS: What makes something "serious"?
     마커스: 뭐가 "중대한" 거야?
 
-95. GRACE: Hospitalization. Permanent damage. Life-threatening. Those have strict reporting deadlines.
-    그레이스: 입원. 영구적 손상. 생명 위협. 그런 건 보고 기한이 엄격해요.
+95. GRACE: Hospitalization, permanent damage, or anything life-threatening. Those are serious events, and they have strict reporting deadlines. A bruise like Linda's is recorded and reported on the normal schedule.
+    그레이스: 입원, 영구적 손상, 또는 생명을 위협하는 것. 그런 게 중대한 사건이고, 보고 기한이 엄격해요. 린다 씨 같은 멍은 기록해서 정해진 일반 일정에 따라 보고해요.
 
 96. ELENA: And anything unexpected related to the device must go to the FDA. Fast.
     엘레나: 그리고 기기와 관련된 예상치 못한 건 FDA에 보고해야 해요. 빨리.
@@ -332,8 +332,8 @@
 103. MARCUS: So for two years, we won't know if our own product is working?
      마커스: 그러니까 2년 동안 우리 제품이 효과가 있는지 모른다는 거야?
 
-104. ELENA: Not for sure. Only the DSMB sees unblinded safety data. To protect patients.
-     엘레나: 확실히는요. 눈가림 해제된 안전성 데이터는 DSMB만 봐요. 환자 보호를 위해서요.
+104. ELENA: Not for sure. Only the DSMB sees unblinded safety data, to protect patients. If we saw it, we might start making decisions based on hope, and that would damage the trial.
+     엘레나: 확실히는요. 눈가림 해제된 안전성 데이터는 환자 보호를 위해 DSMB만 봐요. 우리가 그걸 보면 희망에 기대서 결정을 내리기 시작할 수 있고, 그건 임상을 망쳐요.
 
 105. NOAH: That's going to be the longest two years of my life.
      노아: 내 인생에서 가장 긴 2년이 되겠네요.
@@ -349,8 +349,8 @@
 108. GRACE: Dr. Stein enrolled eight of them herself.
      그레이스: 그중 여덟 명은 스타인 박사님이 직접 등록했어요.
 
-109. STEIN: I told you I'm fast. My waiting list is long.
-     스타인: 빠르다고 했잖아요. 대기자 명단이 길어요.
+109. STEIN: I told you I'm fast. My waiting list is long, and my patients trust me. When I tell them a study is done properly, they join. Trust is my real enrollment tool.
+     스타인: 빠르다고 했잖아요. 대기자 명단이 길고, 환자들이 날 믿어요. 연구가 제대로 진행된다고 내가 말하면 참여해요. 신뢰가 진짜 등록 도구예요.
 
 110. ELENA: How is Linda?
      엘레나: 린다는 어때요?
@@ -364,8 +364,8 @@
 113. STEIN: Unhappy patients don't bake.
      스타인: 불만인 환자는 빵을 굽지 않아요.
 
-114. GRACE: At this pace, all three hundred in about nine months.
-     그레이스: 이 속도면 300명 전원이 약 9개월 걸려요.
+114. GRACE: At this pace, all three hundred in about nine months. But enrollment often slows down after the excitement of the first weeks, so I'll keep watching every site closely.
+     그레이스: 이 속도면 300명 전원이 약 9개월 걸려요. 하지만 등록은 첫 몇 주의 열기가 지나면 느려지는 경우가 많아서, 모든 사이트를 계속 꼼꼼히 지켜볼 거예요.
 
 115. ELENA: Then six months of follow-up. Then twelve-month data. Then analysis.
      엘레나: 그다음 6개월 추적 관찰. 그다음 12개월 데이터. 그다음 분석.
@@ -418,3 +418,18 @@
 
 예시:
 > *Subject 001, Site 1. Event: bruising and swelling, left nasolabial fold, onset day 1. Assessment: mild, non-serious, expected. Action taken: examined by PI; normal color, no pain, good blood flow. Reporting: recorded as an adverse event per protocol. Next check: Monday, standard follow-up.*
+
+### ④ 긴 발화 분석
+
+> **92턴 ELENA:** "Expected is not the same as nothing. We still document it, every detail, because one bruise means very little, but fifty bruises might tell us something. Patterns only appear on paper."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 원칙(정정) | Expected is not the same as nothing. | "A ≠ B"로 상대의 안이한 생각을 한 줄로 바로잡음 |
+| ② 행동 | We still document it, every detail, | still로 "그래도 할 일은 한다"는 절차를 분명히 함 |
+| ③ 이유(대비) | because one bruise means very little, but fifty bruises might tell us something. | because + one vs. fifty 대비로 기록이 왜 필요한지 설명 |
+| ④ 요약 | Patterns only appear on paper. | 짧은 문장으로 원칙을 기억하기 쉽게 마무리 |
+
+**활용 패턴:** A is not the same as B → 그래도 하는 행동 → because 하나 vs. 여럿 → 짧은 요약
+**연결 표현:** is not the same as(~와 같지 않다) · still(그래도) · might tell us something(뭔가를 알려 줄 수도 있다)
+**연습:** 사소한 고객 불만도 기록해야 하는 이유를 신입에게 같은 구조로 30단어 안팎으로 설명해 보기.

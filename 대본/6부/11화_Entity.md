@@ -56,8 +56,8 @@
 13. GARETH: Noted. Boxes at the end. Like dessert.
     개러스: 알겠어요. 상자는 마지막에. 디저트처럼.
 
-14. NOAH: Here's the thing. CE arrives in about six weeks. We need to sell on day one.
-    노아: 요점은 이거예요. CE가 약 6주 후에 나와요. 첫날부터 팔아야 해요.
+14. NOAH: Here's the thing. CE arrives in about six weeks, and the moment it does, we need to sell on day one. James has a network of nurses waiting, and if the company isn't ready, we lose the momentum we've spent months building.
+    노아: 요점은 이거예요. CE가 약 6주 후에 나오고, 나오는 순간 첫날부터 팔아야 해요. 제임스에겐 기다리는 간호사 네트워크가 있어요. 회사가 준비 안 돼 있으면, 몇 달 동안 쌓아 온 추진력을 잃어요.
 
 15. GARETH: Six weeks. That's tight. But possible. If nobody gets creative.
     개러스: 6주. 빠듯하네요. 하지만 가능해요. 아무도 창의적이지 않다면.
@@ -70,8 +70,8 @@
 17. NOAH: What's the difference? Practically?
     노아: 차이가 뭐예요? 실제로는?
 
-18. GARETH: With a branch, a UK lawsuit reaches your US company directly. With a subsidiary, there's a wall.
-    개러스: 지사면 영국 소송이 미국 회사에 바로 닿아요. 자회사면 벽이 있죠.
+18. GARETH: With a branch, the UK business is legally the same company as yours, so a UK lawsuit reaches your US company directly. With a subsidiary, there's a wall between them, which means a problem in London stays in London.
+    개러스: 지사면 영국 사업이 법적으로 당신네와 같은 회사라서, 영국 소송이 미국 회사에 바로 닿아요. 자회사면 둘 사이에 벽이 있어요. 그러니까 런던에서 생긴 문제는 런던에 머무는 거죠.
 
 19. DIANE: A wall. I like walls. Especially in a country with a different legal system.
     다이앤: 벽. 난 벽이 좋아요. 특히 법체계가 다른 나라에선.
@@ -97,8 +97,8 @@
 26. NOAH: Whatever we decide? It's all our money.
     노아: 우리가 정하는 대로요? 다 우리 돈이잖아요.
 
-27. LAUREN: That's what everyone says. Then two tax authorities disagree. The IRS and HMRC both want their share.
-    로런: 다들 그렇게 말해요. 그러다 두 세무 당국이 의견이 갈리죠. IRS와 HMRC 둘 다 자기 몫을 원해요.
+27. LAUREN: That's what everyone says, and it works right up until two tax authorities disagree. The IRS and HMRC both want their share of the same profit, and if each thinks the other took too much, you can end up paying tax twice.
+    로런: 다들 그렇게 말해요. 그리고 두 세무 당국이 의견이 갈리기 전까진 통하죠. IRS와 HMRC 둘 다 같은 이익에서 자기 몫을 원해요. 서로 상대가 너무 많이 가져갔다고 생각하면, 세금을 두 번 내게 될 수도 있어요.
 
 28. PAUL: If the price is high, profit stays in the US. If it's low, profit moves to the UK.
     폴: 가격이 높으면 이익이 미국에 남아요. 낮으면 이익이 영국으로 가고요.
@@ -136,14 +136,14 @@
 39. NOAH: Can't we just choose? A higher price? It's legal, isn't it?
     노아: 그냥 고르면 안 돼요? 더 높은 가격으로? 합법이잖아요?
 
-40. LAUREN: You can document. You can't choose. The function decides the profit. Not your preference.
-    로런: 문서화는 할 수 있어요. 고를 순 없어요. 기능이 이익을 정해요. 당신 선호가 아니라.
+40. LAUREN: You can document. You can't choose. The function decides the profit, not your preference. What each company actually does, and what risks it carries, determines where the profit belongs, and the documents simply prove that to anyone who asks.
+    로런: 문서화는 할 수 있어요. 고를 순 없어요. 기능이 이익을 정해요, 당신 선호가 아니라. 각 회사가 실제로 무슨 일을 하고 어떤 위험을 지는지가 이익이 어디 속하는지를 정하고, 서류는 묻는 사람에게 그걸 증명할 뿐이에요.
 
 41. NOAH: The function decides the profit. Okay. What does that mean for us?
     노아: 기능이 이익을 정한다. 좋아요. 우리한텐 무슨 뜻이에요?
 
-42. LAUREN: The US invents, makes, and owns the patents. Most profit belongs there. The UK sells. It earns a seller's margin.
-    로런: 미국이 발명하고, 만들고, 특허를 가져요. 이익 대부분은 거기 속해요. 영국은 팔고. 판매자 마진을 벌죠.
+42. LAUREN: The US invents, makes, and owns the patents, so it carries the real risk, and most of the profit belongs there. The UK sells, which is valuable, but it's a lower-risk job, so it earns a seller's margin. That keeps the numbers defensible.
+    로런: 미국이 발명하고, 만들고, 특허를 가져요. 그래서 진짜 위험을 지고, 이익 대부분은 거기 속해요. 영국은 팔죠. 가치 있는 일이지만 위험이 낮은 일이라, 판매자 마진을 벌어요. 그래야 숫자를 방어할 수 있어요.
 
 43. PAUL: So we get what you wanted. But for the right reason. With paperwork.
     폴: 그러니까 원하던 걸 얻어요. 하지만 올바른 이유로. 서류와 함께.
@@ -157,8 +157,8 @@
 46. PAUL: The UK company. It's a UK cost.
     폴: 영국 회사요. 영국 비용이니까.
 
-47. LAUREN: Then it's a big cost for a "limited-risk" company. Its margin goes negative. HMRC will ask questions.
-    로런: 그럼 "저위험" 회사에 큰 비용이에요. 마진이 마이너스가 돼요. HMRC가 질문할 거예요.
+47. LAUREN: Then it's a big cost for a 'limited-risk' company. The problem is that a distributor earning a small margin can't absorb heavy training costs, so its margin goes negative, and a loss-making low-risk company is exactly what HMRC will ask questions about.
+    로런: 그럼 '저위험' 회사에 큰 비용이에요. 문제는 작은 마진을 버는 유통사가 무거운 교육비를 감당할 수 없다는 거예요. 그래서 마진이 마이너스가 되고, 적자 나는 저위험 회사야말로 HMRC가 질문할 대상이에요.
 
 48. PAUL: So the US pays for training? Through a service agreement?
     폴: 그럼 미국이 교육비를 내요? 용역 계약으로?
@@ -195,8 +195,8 @@
 58. NOAH: That's exactly who we want. Sarah's clinic. James's network. The two hundred thirty nurses.
     노아: 그게 딱 우리가 원하는 사람들이에요. 사라의 클리닉. 제임스의 네트워크. 간호사 230명.
 
-59. PAUL: So our best customers pay twenty percent more than big chains. That's a pricing problem.
-    폴: 그러니까 우리 최고 고객이 대형 체인보다 20% 더 낸다. 그건 가격 문제예요.
+59. PAUL: So our best customers, the small independent nurses we actually want, pay twenty percent more than the big chains for exactly the same syringe. That's not just a tax detail. That's a pricing problem, and it could slow us down where James's network is strongest.
+    폴: 그러니까 우리 최고 고객, 우리가 정말 원하는 소규모 독립 간호사들이 똑같은 주사기에 대형 체인보다 20% 더 낸다는 거죠. 그건 단순한 세금 문제가 아니에요. 가격 문제고, 제임스 네트워크가 가장 강한 곳에서 우리 발목을 잡을 수 있어요.
 
 60. NOAH: Write it down. James needs to see it. Today.
     노아: 적어 둬요. 제임스가 봐야 해요. 오늘.
@@ -225,8 +225,8 @@
 68. NOAH: Eight weeks? Why?
     노아: 8주? 왜요?
 
-69. GARETH: Know-your-customer checks. They'll want your shareholders. Your investors. Their investors. Possibly your grandmother.
-    개러스: 고객 확인 절차요. 주주를 보고 싶어 할 거예요. 투자자도. 그 투자자의 투자자도. 어쩌면 할머니까지.
+69. GARETH: Know-your-customer checks. Banks have to prove they know who really owns the company, so with an American parent they'll want your shareholders, your investors, and their investors. Every layer adds paperwork and questions. Possibly your grandmother.
+    개러스: 고객 확인 절차요. 은행은 회사의 실제 주인이 누군지 안다는 걸 증명해야 해요. 그래서 미국 모회사가 있으면 주주, 투자자, 그 투자자의 투자자까지 보려 할 거예요. 층마다 서류와 질문이 늘어나죠. 어쩌면 할머니까지.
 
 70. PAUL: Our cap table has eleven funds. Three are in the Cayman Islands.
     폴: 우리 주주 명부에 펀드가 11개예요. 셋은 케이맨 제도에 있고요.
@@ -269,8 +269,8 @@
 82. PAUL: Two months? That's a lot of cash sitting on shelves.
     폴: 2개월? 선반에 놓인 현금이 많네요.
 
-83. MARCUS: Shipping from Austin takes five days. Customs, two more. If something breaks, clinics wait two weeks.
-    마커스: 오스틴에서 운송에 5일. 통관에 이틀 더. 뭔가 고장 나면 클리닉은 2주를 기다려요.
+83. MARCUS: Because shipping from Austin takes five days, and customs takes two more. That's a week on a good day. If something breaks, a shipment gets held, or a batch fails a temperature check, clinics wait two weeks, and they won't wait twice.
+    마커스: 오스틴에서 운송에 5일, 통관에 이틀 더 걸리니까요. 운이 좋아도 일주일이에요. 뭔가 고장 나거나, 화물이 묶이거나, 한 배치가 온도 검사에서 떨어지면 클리닉은 2주를 기다려요. 그리고 두 번은 안 기다려 줘요.
 
 84. PAUL: Let me guess. Plus a backup in Austin? "Two is one"?
     폴: 맞혀 볼게요. 오스틴에도 예비 재고? "둘은 하나"?
@@ -287,8 +287,8 @@
 88. GARETH: Go on.
     개러스: 계속하세요.
 
-89. PAUL: Revenue is in pounds. Costs are in dollars. Seorin, Meridian. If the pound drops ten percent, so does our margin.
-    폴: 매출은 파운드. 원가는 달러. 서린, 메리디언. 파운드가 10% 떨어지면 마진도 떨어져요.
+89. PAUL: Revenue is in pounds, but costs are in dollars. Seorin, Meridian, all of it. So if the pound drops ten percent against the dollar, our margin drops with it, even if we sell exactly as many syringes as we planned.
+    폴: 매출은 파운드인데, 원가는 달러예요. 서린, 메리디언, 전부 다. 그래서 파운드가 달러 대비 10% 떨어지면, 계획한 만큼 주사기를 정확히 팔아도 마진이 같이 떨어져요.
 
 90. NOAH: How much?
     노아: 얼마나요?
@@ -302,8 +302,8 @@
 93. NOAH: Then hedge everything. Lock it all.
     노아: 그럼 전부 헤지해요. 다 고정해요.
 
-94. PAUL: No. If we hedge a hundred percent and sales are slow, we owe pounds we don't have.
-    폴: 안 돼요. 100% 헤지했는데 판매가 느리면, 없는 파운드를 갚아야 해요.
+94. PAUL: No. A hedge is a commitment, not insurance. If we hedge a hundred percent and sales are slower than the forecast, we still owe the pounds we promised, which means buying pounds we don't have at whatever the rate is then.
+    폴: 안 돼요. 헤지는 보험이 아니라 약속이에요. 100% 헤지했는데 판매가 예측보다 느리면, 약속한 파운드는 여전히 갚아야 해요. 그 말은 없는 파운드를 그때 환율이 얼마든 사야 한다는 거예요.
 
 95. LAUREN: Most companies hedge part of the forecast. Fifty percent. Sometimes seventy. Never more than you're sure of.
     로런: 대부분 예측치의 일부를 헤지해요. 50%. 때로는 70%. 확신하는 것 이상은 절대 안 하고요.
@@ -332,8 +332,8 @@
 103. NOAH: That's the good one, right? The real yes?
      노아: 그게 좋은 거죠? 진짜 예스?
 
-104. JAMES: The real yes. One worry, though. VAT. Most of my nurses aren't registered.
-     제임스: 진짜 예스. 그런데 걱정 하나. 부가세. 내 간호사들 대부분이 등록이 안 돼 있어요.
+104. JAMES: The real yes. One worry, though, and I'd rather raise it now than in June. VAT. Most of my nurses aren't registered, so they'd be paying the full twenty percent on top, and for a one-room clinic that's not a small difference.
+     제임스: 진짜 예스. 그런데 걱정 하나, 6월보다는 지금 꺼내는 게 낫겠어요. 부가세. 내 간호사들 대부분이 등록이 안 돼 있어서 20%를 고스란히 더 내게 돼요. 방 하나짜리 클리닉에겐 작은 차이가 아니죠.
 
 105. PAUL: We spotted it. Twenty percent more for your best customers. We'll model it this week.
      폴: 발견했어요. 최고 고객이 20% 더 내는 거. 이번 주에 모델 돌릴게요.
@@ -373,8 +373,8 @@
 116. NOAH: I've been busy. Two continents.
      노아: 바빴어요. 대륙 두 개.
 
-117. MARCUS: We just built backups for boxes. For banks. For currency. Where's your backup?
-     마커스: 방금 상자의 예비를 만들었어요. 은행의 예비도. 환율의 예비도. 당신의 예비는 어디 있어요?
+117. MARCUS: We just spent a whole morning building backups. Backups for boxes, for the bank, for payroll, for currency. Every risk in this company has a plan B now, except the one person everything runs through. So where's your backup?
+     마커스: 방금 오전 내내 예비책을 만들었어요. 상자의 예비, 은행의 예비, 급여의 예비, 환율의 예비. 이제 이 회사의 모든 위험에 플랜 B가 있어요. 모든 게 거쳐 가는 단 한 사람만 빼고요. 그래서, 당신의 예비는 어디 있어요?
 
 118. NOAH: I don't need one. I'm fine.
      노아: 필요 없어요. 난 괜찮아요.
@@ -421,3 +421,18 @@
 | 8 | Inventory | 3PL Milton Keynes (temp-monitored) 2 months + Austin 1 month backup | Marcus | Before CE (early June) |
 
 > **"What's the number?"** — FX exposure ≈ $70K per 10% GBP drop (year one).
+
+### ④ 긴 발화 분석
+
+> **94턴 PAUL:** "No. A hedge is a commitment, not insurance. If we hedge a hundred percent and sales are slower than the forecast, we still owe the pounds we promised, which means buying pounds we don't have at whatever the rate is then."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 반대(한 단어) | No. | 결론을 먼저, 짧고 분명하게 |
+| ② 재정의(대비) | A hedge is a commitment, not insurance. | "A가 아니라 B"로 상대의 오해를 바로잡기 |
+| ③ 조건·결과 | If we hedge a hundred percent and sales are slower than the forecast, we still owe the pounds we promised, | 최악의 시나리오를 if절로 구체화 |
+| ④ 결과 확장 | which means buying pounds we don't have at whatever the rate is then. | which means로 실제 비용을 연결 |
+
+**활용 패턴:** 반대 → "A, not B" 재정의 → If… 최악의 경우 → which means… 결과
+**연결 표현:** A, not B(B가 아니라 A) · If…, we still…(~해도 여전히) · which means…(그 말은 ~라는 뜻)
+**연습:** "예산을 전부 한 채널에 쓰자"는 상사의 제안에 같은 구조로 40단어 안팎으로 반대해 보기.

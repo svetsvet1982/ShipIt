@@ -35,8 +35,8 @@
 06. LEO: Is "with conditions" good or bad?
     레오: "조건부"는 좋은 거예요, 나쁜 거예요?
 
-07. GRACE: It's normal. Most IDEs come with conditions. It means "yes, but fix these."
-    그레이스: 정상이에요. 대부분의 IDE는 조건이 붙어요. "네, 하지만 이것들은 고치세요"라는 뜻이죠.
+07. GRACE: It's normal, so don't worry. Most IDEs come with conditions. It means 'yes, but fix these first.' If the FDA had serious concerns, the letter would say no, not yes.
+    그레이스: 정상이에요, 걱정 마세요. 대부분의 IDE는 조건이 붙어요. "네, 하지만 이것들부터 고치세요"라는 뜻이죠. FDA가 심각한 우려를 가졌다면 서한에 '예'가 아니라 '아니요'라고 썼을 거예요.
 
 08. MARCUS: How many conditions?
     마커스: 조건이 몇 개야?
@@ -91,8 +91,8 @@
 24. LEO: Informed consent. The form patients sign before joining?
     레오: 동의서. 환자들이 참여 전에 서명하는 서류요?
 
-25. GRACE: Right. And in the substudy, we inject filler, then dissolve it on purpose.
-    그레이스: 맞아요. 그리고 하위 연구에선 필러를 주입한 다음 일부러 녹여요.
+25. GRACE: Right. And our substudy is unusual, because we inject filler and then dissolve it on purpose. Patients need to understand that before they sign, or the consent isn't really informed.
+    그레이스: 맞아요. 그리고 우리 하위 연구는 특이해요. 필러를 주입한 다음 일부러 녹이거든요. 환자들이 서명하기 전에 그걸 이해해야 해요. 안 그러면 진짜 '설명 후 동의'가 아니에요.
 
 26. PRIYA: So patients get an injection that disappears. That needs a very clear explanation.
     프리야: 그러니까 환자들은 사라질 주사를 맞는 거네요. 아주 명확한 설명이 필요하겠어요.
@@ -124,8 +124,8 @@
 35. LEO: Independent from us?
     레오: 우리로부터 독립적이라는 거예요?
 
-36. GRACE: Completely. They can recommend stopping the trial. Even if we disagree.
-    그레이스: 완전히요. 임상 중단을 권고할 수 있어요. 우리가 반대해도요.
+36. GRACE: Completely independent. They see the safety data during the trial, and they can recommend stopping it, even if we disagree. That's exactly why the FDA trusts them more than us.
+    그레이스: 완전히 독립적이에요. 임상 중에 안전성 데이터를 보고, 우리가 반대해도 임상 중단을 권고할 수 있어요. 바로 그래서 FDA가 우리보다 그들을 더 신뢰하는 거죠.
 
 37. PRIYA: Like Elena's veto. But outside the company.
     프리야: 엘레나의 거부권 같네요. 다만 회사 밖에 있는.
@@ -136,8 +136,8 @@
 39. NOAH: And stopping rules? What does that mean in practice?
     노아: 그리고 중단 기준은요? 실제로는 무슨 뜻이에요?
 
-40. ELENA: We decide in advance. If X number of occlusions happen, we pause.
-    엘레나: 미리 정하는 거예요. 혈관 폐색이 몇 건 이상 생기면 일시 중지한다.
+40. ELENA: We decide in advance. For example, if a certain number of occlusions happen, we pause enrollment and review every case before anyone gets another injection. No debate, no pressure.
+    엘레나: 미리 정하는 거예요. 예를 들어 혈관 폐색이 일정 건수 이상 생기면, 누구에게든 다음 주사를 놓기 전에 등록을 일시 중지하고 모든 사례를 검토해요. 논쟁도, 압박도 없이요.
 
 41. MARCUS: Decided before anyone is emotional. Smart.
     마커스: 누가 감정적이 되기 전에 정해 둔다. 현명하네.
@@ -154,8 +154,8 @@
 45. PRIYA: How long do we have to respond?
     프리야: 답변 기한이 얼마나 돼요?
 
-46. GRACE: No fixed deadline. But every week of delay costs us money.
-    그레이스: 정해진 기한은 없어요. 하지만 일주일 늦어질 때마다 돈이 들어요.
+46. GRACE: There's no fixed deadline. But every week of delay pushes the first patient back, and our costs don't stop. So the faster we answer, the cheaper this gets.
+    그레이스: 정해진 기한은 없어요. 하지만 일주일 늦어질 때마다 첫 환자 시점이 밀리고, 비용은 계속 나가요. 그러니까 빨리 답할수록 돈이 덜 들어요.
 
 47. MARCUS: Two weeks. Let's commit to two weeks.
     마커스: 2주. 2주로 약속하자.
@@ -189,8 +189,8 @@
 56. LEO: Why not the doctor?
     레오: 왜 의사가 정하면 안 돼요?
 
-57. NOVAK: Doctors might give the new product to "easier" patients. Without meaning to.
-    노박: 의사는 의도치 않게 "쉬운" 환자에게 신제품을 줄 수 있어요.
+57. NOVAK: Because doctors might give the new product to the 'easier' patients, without even meaning to. Then the results look better than they really are, and the whole study loses its value.
+    노박: 의사는 의도치 않게 "쉬운" 환자에게 신제품을 줄 수 있거든요. 그러면 결과가 실제보다 좋아 보이고, 연구 전체가 가치를 잃어요.
 
 58. ELENA: That's called bias. Randomization removes it.
     엘레나: 그걸 편향이라고 해요. 무작위 배정이 그걸 없애요.
@@ -210,8 +210,8 @@
 63. ELENA: It's the standard of care. Doctors know it. The FDA knows it.
     엘레나: 표준 치료예요. 의사들도 알고, FDA도 알아요.
 
-64. NOAH: I know. It just feels strange. Buying Halvern's product to test against it.
-    노아: 알아요. 그냥 기분이 이상해서요. 할번 제품을 사서 그걸 상대로 시험한다는 게.
+64. NOAH: I know, and it's the right choice. It just feels strange. I spent four years selling Lumaderm, and now we're buying Halvern's product so we can test against it.
+    노아: 알아요, 옳은 선택이에요. 그냥 기분이 이상해서요. 4년 동안 루마덤을 팔았는데, 이제 그걸 상대로 시험하려고 할번 제품을 사는 거잖아요.
 
 65. MARCUS: Is that legal? Using a competitor's product?
     마커스: 그거 합법이야? 경쟁사 제품을 쓰는 게?
@@ -243,8 +243,8 @@
 74. NOAH: Not worse? Why not prove it's better?
     노아: 나쁘지 않다? 왜 더 좋다는 걸 증명하지 않아요?
 
-75. NOVAK: For wrinkles, both work well. Proving "better" would need thousands of patients.
-    노박: 주름에는 둘 다 잘 들어요. "더 좋다"를 증명하려면 환자가 수천 명 필요해요.
+75. NOVAK: For wrinkles, both products work well, so the difference would be small. Proving 'better' would need thousands of patients, and that means years and money you don't have.
+    노박: 주름에는 두 제품 다 잘 들어서 차이가 작을 거예요. "더 좋다"를 증명하려면 환자가 수천 명 필요하고, 그건 여러분에게 없는 몇 년의 시간과 돈을 뜻해요.
 
 76. ELENA: Our advantage isn't wrinkles. It's dissolution. That's the substudy.
     엘레나: 우리 장점은 주름이 아니에요. 용해죠. 그게 하위 연구예요.
@@ -272,8 +272,8 @@
 83. NOVAK: Please.
     노박: 하세요.
 
-84. NOAH: "Not worse than Lumaderm" is a weak message. Doctors want "better."
-    노아: "루마덤보다 나쁘지 않다"는 약한 메시지예요. 의사들은 "더 좋다"를 원해요.
+84. NOAH: Here's the thing. 'Not worse than Lumaderm' is a weak message. I sat with doctors for four years, and nobody gets excited about 'not worse.' They want 'better.'
+    노아: 중요한 건 이거예요. "루마덤보다 나쁘지 않다"는 약한 메시지예요. 4년 동안 의사들을 만나 봤는데, "나쁘지 않다"에 흥분하는 사람은 아무도 없어요. 다들 "더 좋다"를 원해요.
 
 85. ELENA: Noah, this is science. Not marketing.
     엘레나: 노아, 이건 과학이에요. 마케팅이 아니라.
@@ -302,8 +302,8 @@
 93. NOAH: Even if our numbers look better?
     노아: 우리 숫자가 더 좋아 보여도요?
 
-94. NOVAK: Even then. You decide the question before you see the answer.
-    노박: 그래도요. 답을 보기 전에 질문을 정하는 거예요.
+94. NOVAK: Even then. You decide the question before you see the answer. If you change the question after the data comes in, regulators will assume you went looking for a good story.
+    노박: 그래도요. 답을 보기 전에 질문을 정하는 거예요. 데이터가 나온 뒤에 질문을 바꾸면, 규제 당국은 여러분이 좋은 이야기를 찾아다녔다고 볼 거예요.
 
 95. GRACE: That's the rule. Otherwise anyone could pick the story after the data.
     그레이스: 그게 규칙이에요. 안 그러면 누구나 데이터를 본 뒤에 이야기를 고를 수 있잖아요.
@@ -349,11 +349,11 @@
 108. NOAH: Mid-November. Three hundred patients. Fifteen sites.
      노아: 11월 중순이요. 환자 300명. 사이트 열다섯 곳.
 
-109. RICHARD: And the trial costs twelve point six million. You have about four left.
-     리처드: 그리고 임상 비용이 1,260만이죠. 남은 돈은 400만 정도고요.
+109. RICHARD: And the trial costs twelve point six million, while you have about four left. So even if everything goes perfectly, the money runs out long before the trial ends.
+     리처드: 그리고 임상 비용은 1,260만인데, 남은 돈은 400만 정도죠. 그러니까 모든 게 완벽하게 흘러가도, 임상이 끝나기 한참 전에 돈이 떨어져요.
 
-110. NOAH: About four. Yes.
-     노아: 400만 정도요. 네.
+110. NOAH: I know. About four. Yes.
+     노아: 알아요. 400만 정도요. 네.
 
 111. RICHARD: Then you know what I'm going to say.
      리처드: 그럼 내가 무슨 말 할지 알겠네요.
@@ -367,8 +367,8 @@
 114. NOAH: Why now? We'd have more data in three months.
      노아: 왜 지금이요? 석 달 뒤면 데이터가 더 생길 텐데요.
 
-115. RICHARD: Raise money when you don't need it. When you need it, it's too late.
-     리처드: 돈은 필요하지 않을 때 모으는 거예요. 필요할 땐 이미 늦어요.
+115. RICHARD: Raise money when you don't need it, because investors can smell desperation. When you really need it, it's too late, and they get to set the price for you.
+     리처드: 돈은 필요하지 않을 때 모으는 거예요. 투자자들은 절박함을 귀신같이 알아채거든요. 정말 필요할 땐 이미 늦고, 가격도 그쪽이 정하게 돼요.
 
 116. NOAH: How much should we raise?
      노아: 얼마를 모아야 할까요?
@@ -417,3 +417,18 @@
 
 예시:
 > *A randomized, evaluator-blinded, controlled trial of 300 patients at 15 sites, randomized 1:1 to Veyra Fill or Lumaderm Volume. Primary endpoint: wrinkle improvement responder rate at six months, tested for non-inferiority. Key secondary endpoints: twelve-month durability and dissolution speed in a 40-patient substudy. Safety is overseen by an independent DSMB with predefined stopping rules.*
+
+### ④ 긴 발화 분석
+
+> **40턴 ELENA:** "We decide in advance. For example, if a certain number of occlusions happen, we pause enrollment and review every case before anyone gets another injection. No debate, no pressure."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 정의(핵심 한 줄) | We decide in advance. | 낯선 용어(stopping rules)를 한 문장으로 정의 |
+| ② 예시(조건) | For example, if a certain number of occlusions happen, | For example + if로 추상 개념을 구체적 상황으로 바꿈 |
+| ③ 행동(절차) | we pause enrollment and review every case before anyone gets another injection. | 조건이 충족되면 무엇을 하는지 순서대로 설명 |
+| ④ 효과(요약) | No debate, no pressure. | 짧은 명사구 두 개로 규칙의 가치를 압축 |
+
+**활용 패턴:** 한 줄 정의 → For example, if… → 그러면 하는 행동 → 짧은 요약
+**연결 표현:** in advance(미리) · For example(예를 들어) · before anyone…(누구든 ~하기 전에)
+**연습:** 팀에 '배포 중단 기준'을 처음 설명하는 상황에서 같은 구조로 30단어 안팎으로 말해 보기.

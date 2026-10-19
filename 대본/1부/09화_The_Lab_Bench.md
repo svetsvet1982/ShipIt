@@ -41,8 +41,8 @@
 08. NOAH: How many companies work here?
     노아: 여기서 몇 개 회사가 일해요?
 
-09. RITA: Twenty-two. Mostly biotech. Two medical device teams. One makes edible packaging.
-    리타: 스물두 곳이요. 대부분 바이오텍이고, 의료기기 팀 두 곳. 한 곳은 먹는 포장재를 만들어요.
+09. RITA: Twenty-two. Mostly biotech, plus two medical device teams. And one makes edible packaging, which surprises everyone. We take anyone who needs a bench and follows the safety rules.
+    리타: 스물두 곳이요. 대부분 바이오텍이고, 의료기기 팀이 두 곳 있어요. 그리고 한 곳은 먹는 포장재를 만드는데, 다들 놀라죠. 실험대가 필요하고 안전 규칙만 지키면 누구든 받아요.
 
 10. MARCUS: Edible packaging. Interesting neighbors.
     마커스: 먹는 포장재라. 흥미로운 이웃이네.
@@ -82,8 +82,8 @@
 21. NOAH: What does a bench cost?
     노아: 실험대 하나에 얼마예요?
 
-22. RITA: Twelve hundred a month. That includes shared equipment and basic supplies.
-    리타: 한 달에 1,200달러요. 공용 장비와 기본 소모품이 포함돼요.
+22. RITA: Twelve hundred a month. That includes shared equipment and basic supplies, so you don't have to buy a centrifuge or an autoclave on day one. For a new startup, that matters.
+    리타: 한 달에 1,200달러요. 공용 장비와 기본 소모품이 포함돼서, 첫날부터 원심분리기나 고압 멸균기를 살 필요가 없어요. 갓 시작한 스타트업에겐 그게 중요하죠.
 
 23. NOAH: Is there a minimum contract?
     노아: 최소 계약 기간이 있어요?
@@ -91,8 +91,8 @@
 24. RITA: Six months is standard.
     리타: 6개월이 기본이에요.
 
-25. NOAH: Six months is a long time for us. Is there any flexibility?
-    노아: 저희한텐 6개월이 길어서요. 조정이 가능할까요?
+25. NOAH: Six months is a long time for us. To be honest, we haven't raised money yet, and I don't want to sign for more than we can pay. Is there any flexibility?
+    노아: 저희한텐 6개월이 길어서요. 솔직히 말씀드리면 아직 투자를 못 받았고, 감당할 수 있는 것 이상으로 계약하고 싶지 않아요. 조정이 가능할까요?
 
 26. RITA: What did you have in mind?
     리타: 어떻게 생각하셨는데요?
@@ -142,8 +142,8 @@
 41. MARCUS: Waste disposal. Who handles chemical waste?
     마커스: 폐기물 처리요. 화학 폐기물은 누가 처리해요?
 
-42. RITA: We do, every Tuesday. Label everything. Unlabeled waste gets you a warning.
-    리타: 저희가 매주 화요일에 해요. 전부 라벨 붙이세요. 라벨 없는 폐기물은 경고 받아요.
+42. RITA: We do, every Tuesday. Label everything, with the date and your company name. Unlabeled waste gets you a warning, because if we don't know what it is, we can't dispose of it safely.
+    리타: 저희가 매주 화요일에 해요. 전부 날짜와 회사 이름을 적어서 라벨 붙이세요. 라벨 없는 폐기물은 경고 받아요. 그게 뭔지 모르면 안전하게 처리할 수가 없거든요.
 
 43. MARCUS: And after a warning?
     마커스: 경고 다음엔요?
@@ -195,8 +195,8 @@
 58. MARCUS: Short and clear. I approve.
     마커스: 짧고 명확하네. 승인.
 
-59. NOAH: I'll go first. Done: we incorporated in Delaware. All four 83(b) forms are filed.
-    노아: 저부터요. 한 일: 델라웨어 법인 설립 완료. 네 명 모두 83(b) 제출 완료.
+59. NOAH: I'll go first. Done: we're officially a company. We incorporated in Delaware, and all four 83(b) forms are filed, so nobody gets a surprise tax bill on shares they can't sell.
+    노아: 저부터요. 한 일: 우린 공식적으로 회사가 됐어요. 델라웨어에 법인을 설립했고, 네 명 모두 83(b)를 제출했어요. 그러니 팔지도 못하는 지분 때문에 갑자기 세금 고지서를 받는 사람은 없어요.
 
 60. PRIYA: Within thirty days? Diane would be proud.
     프리야: 30일 안에? 다이앤이 자랑스러워하겠네.
@@ -222,8 +222,8 @@
 67. ELENA: Twelve. That's more than I expected.
     엘레나: 열두 곳이요. 생각보다 많네요.
 
-68. MARCUS: Only four do sterile hyaluronic acid gels. Those four matter.
-    마커스: 무균 히알루론산 젤을 하는 데는 네 곳뿐이야. 그 네 곳이 중요해.
+68. MARCUS: Only four do sterile hyaluronic acid gels. Those four matter. The others make creams or devices, and they'd need years to learn what we need, so I crossed them off.
+    마커스: 무균 히알루론산 젤을 하는 데는 네 곳뿐이야. 그 네 곳이 중요해. 나머지는 크림이나 기기를 만들어서, 우리한테 필요한 걸 배우려면 몇 년은 걸릴 거야. 그래서 지웠어.
 
 69. NOAH: Next?
     노아: 다음은요?
@@ -252,8 +252,8 @@
 77. NOAH: About what?
     노아: 무슨 얘기요?
 
-78. ELENA: How they'd design a filler trial. Blocker: I can't share our idea yet.
-    엘레나: 필러 임상을 어떻게 설계할지요. 막힌 점: 아직 우리 아이디어를 공유할 수 없어요.
+78. ELENA: How they'd design a filler trial: how many patients, how long to follow them, what to measure. Blocker: I can't share our idea yet, so I have to ask in general terms.
+    엘레나: 필러 임상을 어떻게 설계할지요. 환자는 몇 명, 얼마나 오래 추적할지, 무엇을 측정할지. 막힌 점: 아직 우리 아이디어를 공유할 수 없어서, 일반적인 질문으로만 물어봐야 해요.
 
 79. NOAH: Right. Not until we have patents. Priya, last one.
     노아: 맞아요. 특허 전까지는 안 돼요. 프리야, 마지막.
@@ -266,8 +266,8 @@
 81. ELENA: Priya, that sounds frustrating.
     엘레나: 프리야, 정말 답답하겠어요.
 
-82. PRIYA: It's torture. I can see the bench. I can't touch it.
-    프리야: 고문이에요. 실험대가 보이는데 만질 수가 없어요.
+82. PRIYA: It's torture. I can see the bench. I can't touch it. For four years this idea lived in my head, and now that it finally has a home, I'm not allowed in.
+    프리야: 고문이에요. 실험대가 보이는데 만질 수가 없어요. 4년 동안 이 아이디어는 제 머릿속에만 있었는데, 이제 드디어 집이 생겼더니 정작 저는 들어갈 수가 없네요.
 
 83. NOAH: Diane was very clear. Talk business, not chemistry.
     노아: 다이앤이 아주 분명하게 말했잖아. 사업 얘기는 되고, 화학은 안 된다고.
@@ -284,8 +284,8 @@
 87. NOAH: Can we wait until Priya is free?
     노아: 프리야가 자유로워질 때까지 기다릴 수 있을까요?
 
-88. MARCUS: We could. But investors will ask, "Does it survive sterilization?"
-    마커스: 그럴 수도 있지. 근데 투자자들이 물을 거야. "멸균을 견디나요?"
+88. MARCUS: We could. But investors will ask, "Does it survive sterilization?" It's the first question anyone serious asks, and if we can't answer it, the meeting is basically over.
+    마커스: 그럴 수도 있지. 근데 투자자들이 물을 거야. "멸균을 견디나요?" 진지한 사람이라면 누구나 제일 먼저 묻는 질문이고, 거기에 답 못 하면 미팅은 사실상 끝이야.
 
 89. ELENA: And "I don't know yet" won't get us money.
     엘레나: 그리고 "아직 모른다"로는 돈을 못 받을 거고요.
@@ -299,8 +299,8 @@
 92. NOAH: To do what, exactly?
     노아: 정확히 뭘 하게요?
 
-93. MARCUS: Repeat the recipe from the thesis. Then autoclave it. Then measure.
-    마커스: 논문에 있는 제조법을 그대로 재현하고, 멸균하고, 측정하는 거지.
+93. MARCUS: Repeat the recipe from the thesis. Then autoclave it. Then measure. They don't need anything new from Priya, just the public method, so nobody can say Halvern's chemist did the work.
+    마커스: 논문에 있는 제조법을 그대로 재현하고, 멸균하고, 측정하는 거지. 프리야한테서 새로운 건 하나도 필요 없고 공개된 방법만 쓰면 돼. 그러면 할번 소속 화학자가 일했다고 아무도 말 못 해.
 
 94. PRIYA: The recipe is public. Page one twelve. Anyone can follow it.
     프리야: 그 제조법은 공개돼 있어. 112페이지. 누구나 따라 할 수 있어.
@@ -326,8 +326,8 @@
 101. PRIYA: Noah, that's a big chunk of your savings.
      프리야: 노아, 그거 네 저축에서 큰 부분이잖아.
 
-102. NOAH: It's the right test. If it fails, better to know now.
-     노아: 꼭 필요한 시험이야. 실패할 거면 지금 아는 게 나아.
+102. NOAH: It's the right test. If the gel breaks down in the autoclave, I'd rather lose eighteen thousand dollars now than find out after we've spent millions.
+     노아: 꼭 필요한 시험이야. 젤이 고압 멸균기에서 분해된다면, 수백만 달러를 쓴 뒤에 알게 되느니 지금 1만 8천 달러를 잃는 게 나아.
 
 103. MARCUS: Agreed. Fail fast, fail cheap.
      마커스: 동의. 빨리 실패하고, 싸게 실패하자.
@@ -340,8 +340,8 @@
 
 ### 마무리 — 정리와 첫날
 
-106. MARCUS: I own it. I'll get two quotes by Friday.
-     마커스: 내가 맡을게. 금요일까지 견적 두 개 받아 올게.
+106. MARCUS: I own it. I'll get two quotes by Friday, compare price, timeline and quality, and bring you a recommendation. If both labs are bad, I'll find a third.
+     마커스: 내가 맡을게. 금요일까지 견적 두 개 받아서 가격, 일정, 품질을 비교하고 추천안을 가져올게. 두 곳 다 별로면 세 번째를 찾을 거야.
 
 107. NOAH: Two quotes. Of course. Two is one.
      노아: 견적 두 개. 당연하죠. 둘은 하나니까.
@@ -415,3 +415,18 @@
 
 예시:
 > *Done: I made a list of twelve contract manufacturers. Next: I'll call two of them this week. Blocker: time — I still work full-time at another company.*
+
+### ④ 긴 발화 분석
+
+> **25턴 NOAH:** "Six months is a long time for us. To be honest, we haven't raised money yet, and I don't want to sign for more than we can pay. Is there any flexibility?"
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 문제 제기(부드럽게) | Six months is a long time for us. | 조건을 거절하지 않고 "우리에겐" 부담이라고 완곡하게 말함 |
+| ② 솔직한 이유 | To be honest, we haven't raised money yet, | 숨기지 않고 사정을 밝혀 신뢰를 얻음 |
+| ③ 원칙(한계선) | and I don't want to sign for more than we can pay. | 감당할 수 있는 범위를 분명히 해 협상의 기준을 세움 |
+| ④ 열린 질문 | Is there any flexibility? | 요구 대신 질문으로 상대가 대안을 제시하게 함 |
+
+**활용 패턴:** 부담 표현 → To be honest + 이유 → 한계선 → 열린 질문
+**연결 표현:** To be honest(솔직히 말하면) · more than we can…(우리가 ~할 수 있는 것 이상) · Is there any flexibility?(조정 가능할까요?)
+**연습:** 1년 약정을 요구하는 거래처에 같은 구조로 30단어 안팎의 조건 조정 요청을 해 보기.

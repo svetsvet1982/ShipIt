@@ -41,8 +41,8 @@
 08. NOAH: Why did we miss? The real reasons.
     노아: 왜 미달했어요? 진짜 이유.
 
-09. PAUL: Three. Korea is slower than planned. Glow Collective delayed a large order by a month. And one-time IPO costs.
-    폴: 세 가지. 한국이 계획보다 느려요. 글로우 콜렉티브가 대량 주문을 한 달 미뤘고요. 그리고 일회성 IPO 비용.
+09. PAUL: Three. First, Korea is slower than planned. Second, Glow Collective delayed a large order by a month, which moves that revenue into the second quarter. And third, one-time IPO costs that won't repeat next year.
+    폴: 세 가지예요. 첫째, 한국이 계획보다 느려요. 둘째, 글로우 콜렉티브가 대량 주문을 한 달 미뤘고, 그래서 그 매출이 2분기로 넘어가요. 그리고 셋째, 내년엔 반복되지 않을 일회성 IPO 비용.
 
 10. RUTH: Two of those are timing. One is strategy. The market will ask about the strategy one.
     루스: 둘은 시점 문제예요. 하나는 전략이고요. 시장은 전략 쪽을 물을 거예요.
@@ -59,8 +59,8 @@
 14. NOAH: Three months.
     노아: 3개월.
 
-15. MARISOL: Three months. I'd rather tell you now than in July.
-    마리솔: 3개월. 7월보다 지금 말하는 게 낫죠.
+15. MARISOL: Three months. I'd rather tell you now than in July, when it would look like we'd been sitting on it. I don't like bringing bad news without a fix, but waiting for a fix would only make the news worse.
+    마리솔: 3개월. 7월보다 지금 말하는 게 낫죠. 그때 말하면 우리가 숨기고 있었던 것처럼 보일 테니까요. 해결책 없이 나쁜 소식을 가져오는 건 싫지만, 해결책을 기다리면 소식만 더 나빠질 뿐이에요.
 
 ### 장면1 — 숫자의 뒤편
 
@@ -88,8 +88,8 @@
 23. NOAH: So the strategy is working. But slowly.
     노아: 그러니까 전략은 통하고 있어요. 하지만 느리게.
 
-24. GRACE: Reorders are eighty-one percent. Higher than the UK. But new clinics take time. Doctors here wait for other doctors.
-    그레이스: 재주문율 81%. 영국보다 높아요. 하지만 신규 클리닉은 시간이 걸려요. 여기 의사들은 다른 의사들을 기다려요.
+24. GRACE: Reorders are eighty-one percent, which is higher than the UK. So the clinics that try us stay. But new clinics take time, because doctors here wait for other doctors. Nobody wants to be first, and everybody wants to be second.
+    그레이스: 재주문율이 81%로, 영국보다 높아요. 그러니까 써 본 클리닉은 남아요. 하지만 신규 클리닉은 시간이 걸려요. 여기 의사들은 다른 의사들을 기다리거든요. 아무도 첫 번째가 되고 싶어 하지 않고, 다들 두 번째가 되고 싶어 해요.
 
 25. ELENA: Like the UK. "We'll reflect."
     엘레나: 영국처럼요. "생각해 보겠다."
@@ -136,8 +136,8 @@
 39. PAUL: It sounds like a pharmaceutical advertisement. "Results may vary."
     폴: 제약 광고처럼 들리죠. "효과는 개인마다 다를 수 있습니다."
 
-40. DIANE: It protects you. If you say "we expect" and you're wrong, you're wrong. If you say "we will," you're sued.
-    다이앤: 그게 당신들을 보호해요. "예상한다"고 하고 틀리면 틀린 거예요. "~할 것이다"라고 하면 소송당하죠.
+40. DIANE: It protects you. If you say "we expect" and you're wrong, you're wrong, and you explain why next quarter. If you say "we will" and you're wrong, you're sued. Get it in writing, and then say it the way it's written.
+    다이앤: 그게 당신들을 보호해요. "예상한다"고 하고 틀리면, 틀린 거고 다음 분기에 이유를 설명하면 돼요. "~할 것이다"라고 하고 틀리면 소송당하죠. 서면으로 받아 두고, 그다음엔 쓰인 그대로 말해요.
 
 41. NOAH: Okay. Now the big question. Annual guidance. What do we tell the market for the full year?
     노아: 좋아요. 이제 큰 질문. 연간 가이던스. 연간으로 시장에 뭐라고 해요?
@@ -157,8 +157,8 @@
 46. RUTH: No. Under-promise. Over-deliver. Never the other way around.
     루스: 안 돼요. 약속은 적게. 실적은 많게. 절대 반대로는 안 돼요.
 
-47. NOAH: Ruth, with respect, we just missed by seven percent. If we guide low, the stock drops.
-    노아: 루스, 실례지만, 방금 7% 미달했어요. 가이던스를 낮게 잡으면 주가가 떨어져요.
+47. NOAH: Ruth, with respect, we just missed by seven percent in our very first quarter. If we guide low on top of that, the stock drops, the team panics, and the story becomes that we've lost momentum. I don't want that to be our first headline.
+    노아: 루스, 실례지만, 우린 바로 첫 분기에 7% 미달했어요. 거기에 가이던스까지 낮게 잡으면 주가는 떨어지고, 팀은 동요하고, 우리가 동력을 잃었다는 이야기가 돼요. 그게 우리 첫 헤드라인이 되는 건 원치 않아요.
 
 48. RUTH: The stock will drop anyway. The question is whether it drops once. Or every quarter.
     루스: 주가는 어차피 떨어져요. 문제는 한 번 떨어지느냐. 매 분기 떨어지느냐죠.
@@ -189,8 +189,8 @@
 56. DANA: Paul. Dana Brooks-Hall. Just checking in before the call. Anything you can share on Line C? Some color?
     데이나: 폴. 데이나 브룩스홀이에요. 콜 전에 확인차 연락했어요. 라인 C에 대해 공유할 거 있어요? 약간의 분위기라도?
 
-57. PAUL: Dana, thank you for calling. We're in our quiet period before earnings. Anything material, we'll share with everyone at once.
-    폴: 데이나, 전화 고마워요. 실적 발표 전 조용한 기간이에요. 중요한 건 모두에게 동시에 공유할 거예요.
+57. PAUL: Dana, thank you for calling, and I know why you're asking. We're in our quiet period before earnings, so I can't give you anything beyond what's public. Anything material, we'll share with everyone at once, on the sixth.
+    폴: 데이나, 전화 고마워요. 왜 묻는지도 알아요. 실적 발표 전 조용한 기간이라, 공개된 것 이상은 드릴 수 없어요. 중요한 건 6일에 모두에게 동시에 공유할 거예요.
 
 58. DANA: Of course. Off the record? Just directionally? Ahead or behind?
     데이나: 물론이죠. 비공식으로? 방향성만이라도? 앞서 있어요, 뒤처져 있어요?
@@ -240,8 +240,8 @@
 73. ELENA: Why do we care so much about one quarter? We're building something for ten years.
     엘레나: 왜 한 분기를 그렇게 신경 써요? 10년짜리를 만들고 있잖아요.
 
-74. RUTH: Every quarter is a promise kept or broken. The market forgets the number. It remembers whether you were honest.
-    루스: 모든 분기가 지킨 약속이거나 깬 약속이에요. 시장은 숫자는 잊어요. 정직했는지를 기억하죠.
+74. RUTH: Every quarter is a promise kept or broken. The market forgets the number within a few weeks, honestly. What it remembers is whether you told the truth when the number was bad, and that memory sets your price for years.
+    루스: 모든 분기가 지킨 약속이거나 깬 약속이에요. 솔직히 시장은 몇 주 만에 숫자를 잊어요. 기억하는 건 숫자가 나빴을 때 당신이 사실을 말했느냐이고, 그 기억이 몇 년 동안 당신의 가격을 정해요.
 
 75. ELENA: Then it's like medicine. Patients forgive complications. They don't forgive surprises.
     엘레나: 그럼 의학이랑 같네요. 환자는 합병증은 용서해요. 놀라게 한 건 용서 안 하고요.
@@ -258,8 +258,8 @@
 79. NOAH: So the call. What do we say about Line C?
     노아: 그럼 콜. 라인 C에 대해선 뭐라고 해요?
 
-80. MARISOL: The truth. Three months. Why. What we're doing. And what it means for next year. Before anyone asks.
-    마리솔: 사실이요. 3개월. 왜. 우리가 뭘 하고 있는지. 그리고 내년에 무슨 의미인지. 누가 묻기 전에.
+80. MARISOL: The truth. Three months, and why. What we're doing about it. And what it means for next year's Asian capacity. Before anyone asks, because if Dana has to drag it out of us, the delay becomes a credibility problem.
+    마리솔: 사실이요. 3개월, 그리고 이유. 우리가 그에 대해 뭘 하고 있는지. 그리고 내년 아시아 생산 능력에 무슨 의미인지. 누가 묻기 전에요. 데이나가 억지로 끌어내야 한다면, 지연이 신뢰의 문제가 되니까요.
 
 ### 절정·전환 — 4월 29일 오후 3시, 모의 실적 발표 콜
 
@@ -287,8 +287,8 @@
 88. RUTH: Most CEOs make five. Try again. Start with the truth. Then the plan. Then stop.
     루스: 대부분의 CEO는 다섯 개를 해요. 다시 해요. 사실로 시작해요. 그다음 계획. 그다음 멈추고.
 
-89. NOAH: We fell short of expectations this quarter. Two reasons were timing. One was our Korea strategy. A deliberate one.
-    노아: 이번 분기 기대에 미치지 못했습니다. 두 가지 이유는 시점이었고. 하나는 한국 전략이었습니다. 의도적인.
+89. NOAH: We fell short of expectations this quarter, and I want to explain why plainly. Two of the reasons were timing, and we expect them to reverse. One was our Korea strategy, a deliberate one, and we still believe in it.
+    노아: 이번 분기 기대에 미치지 못했고, 그 이유를 있는 그대로 설명드리고 싶습니다. 두 가지 이유는 시점 문제였고, 이는 회복될 것으로 예상합니다. 하나는 한국 전략이었습니다. 의도적인 전략이었고, 저희는 여전히 그것을 믿습니다.
 
 90. RUTH: Better. Keep going.
     루스: 나아요. 계속해요.
@@ -299,8 +299,8 @@
 92. RUTH: "Mr. Bennett, your competitor's filler costs a third of yours in Korea. Isn't your strategy simply wrong?"
     루스: "베넷 대표님, 한국에서 경쟁사 필러는 귀사의 3분의 1 가격입니다. 귀사 전략이 그냥 틀린 것 아닙니까?"
 
-93. NOAH: We believe it's right. And slow. Our reorder rate in Korea is eighty-one percent. Clinics that try us stay.
-    노아: 맞다고 믿습니다. 그리고 느리고요. 한국 재주문율은 81%입니다. 써 본 클리닉은 남습니다.
+93. NOAH: We believe it's right, and we accept that it's slow. We chose to sell only for risk zones, where safety matters most. Our reorder rate in Korea is eighty-one percent. Clinics that try us tend to stay, and price isn't why.
+    노아: 옳다고 믿습니다. 그리고 느리다는 것도 받아들입니다. 저희는 안전이 가장 중요한 위험 부위용으로만 판매하기로 했습니다. 한국 재주문율은 81%입니다. 써 본 클리닉은 대체로 남고, 그 이유는 가격이 아닙니다.
 
 94. RUTH: "And Line C? I predicted execution risk. Was I right?"
     루스: "그럼 라인 C는요? 제가 실행 위험을 예측했죠. 맞았나요?"
@@ -314,8 +314,8 @@
 97. NOAH: Is that a mistake?
     노아: 그게 실수예요?
 
-98. RUTH: …No. It's the best answer I've heard in twelve years. Analysts never get credit. She'll remember it.
-    루스: …아니요. 12년 동안 들은 최고의 답이에요. 애널리스트는 인정받는 일이 없어요. 기억할 거예요.
+98. RUTH: …No. It's the best answer I've heard in twelve years. Analysts never get credit; they get blamed when they're wrong and ignored when they're right. She'll remember that you said it first, in public, without being forced to.
+    루스: …아니요. 12년 동안 들은 최고의 답이에요. 애널리스트는 인정받는 일이 없어요. 틀리면 비난받고, 맞으면 무시당하죠. 당신이 억지로가 아니라, 공개적으로, 먼저 말했다는 걸 그녀는 기억할 거예요.
 
 99. DIANE: Legally, it's fine. It's a fact. And it's disclosed to everyone at once.
     다이앤: 법적으로 괜찮아요. 사실이니까. 그리고 모두에게 동시에 공개되고요.
@@ -364,8 +364,8 @@
 113. NOAH: Ruth. It's me. In this room.
      노아: 루스. 나예요. 이 방에서.
 
-114. RUTH: …Down. Ten to twenty percent. First-quarter misses are punished hard. Prepare the team.
-     루스: …하락. 10에서 20%. 첫 분기 미달은 혹독하게 처벌받아요. 팀을 준비시켜요.
+114. RUTH: …Down. Ten to twenty percent, if I had to guess, and I don't usually guess. First-quarter misses are punished hard, because the market has nothing else to judge us by yet. Prepare the team, so nobody hears it first from their phone.
+     루스: …하락. 굳이 추측하자면 10에서 20%. 난 보통 추측 안 해요. 첫 분기 미달은 혹독하게 처벌받아요. 시장이 아직 우리를 판단할 다른 근거가 없으니까요. 팀을 준비시켜요. 누구도 휴대폰으로 처음 알게 되지 않도록.
 
 115. NOAH: Ben's options.
      노아: 벤의 옵션.
@@ -376,8 +376,8 @@
 117. ELENA: Then tell them before. Not after. Patients forgive complications. Not surprises.
      엘레나: 그럼 전에 말해요. 후에 말고. 환자는 합병증은 용서해요. 놀라게 한 건 아니고요.
 
-118. DIANE: Not the numbers. Not before the call. That's material. You can tell them to be ready for volatility. In general.
-     다이앤: 숫자는 안 돼요. 콜 전엔 안 돼요. 중요 정보니까. 변동성에 대비하라고는 말할 수 있어요. 일반적으로.
+118. DIANE: Not the numbers, and not before the call. That's material, and telling employees early turns every one of them into an insider. You can tell them to be ready for volatility, in general terms. No ranges, no hints, no winks. Get it in writing first.
+     다이앤: 숫자는 안 돼요. 콜 전엔 안 돼요. 중요 정보니까요. 직원들에게 미리 말하면 그 한 사람 한 사람이 다 내부자가 돼요. 변동성에 대비하라고는 말할 수 있어요. 일반적인 표현으로. 범위도, 힌트도, 눈짓도 안 돼요. 먼저 서면으로 정리해요.
 
 119. NOAH: "Be ready for volatility." I'll say it at the town hall. Without a single number.
      노아: "변동성에 대비하라." 타운홀에서 말할게요. 숫자 하나 없이.
@@ -420,3 +420,18 @@
 | Q&A rule | Truth → plan → stop | "You were right." is allowed |
 
 > **Reg FD script:** "Anything material, we'll share with everyone at once." — to Dana, to Marcy, to everyone.
+
+### ④ 긴 발화 분석
+
+> **89턴 NOAH:** "We fell short of expectations this quarter, and I want to explain why plainly. Two of the reasons were timing, and we expect them to reverse. One was our Korea strategy, a deliberate one, and we still believe in it."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 인정(사실 먼저) | We fell short of expectations this quarter, | 나쁜 결과를 변명 없이 첫 문장에서 인정 |
+| ② 예고(설명 약속) | and I want to explain why plainly. | 듣는 사람에게 무엇이 이어질지 알려 신뢰 확보 |
+| ③ 원인 분류①(일시적) | Two of the reasons were timing, and we expect them to reverse. | 원인을 묶어 분류하고, "expect"로 약속 없이 전망 |
+| ④ 원인 분류②(전략적) | One was our Korea strategy, a deliberate one, and we still believe in it. | 의도된 선택임을 밝히고 "believe"로 확신을 절제해 표현 |
+
+**활용 패턴:** 결과 인정 → 설명 예고 → 일시적 원인(expect) → 전략적 원인(believe)
+**연결 표현:** fall short of(~에 미치지 못하다) · explain why plainly(있는 그대로 설명하다) · we expect … to reverse(~가 회복될 것으로 예상하다) · a deliberate one(의도적인 것)
+**연습:** 분기 목표를 달성하지 못한 팀 실적을 경영진에게 같은 구조로 40단어 안팎으로 보고해 보기.

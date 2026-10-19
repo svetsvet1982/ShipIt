@@ -44,8 +44,8 @@
 09. NINA: Nina Park. Product. I built Veyra Circle. Is my baby in trouble too?
     니나: 니나 박. 제품 담당. 베이라 서클을 만들었어요. 제 자식도 곤란해요?
 
-10. ANNELIES: Your baby lives on American servers. In Europe, that's a big conversation.
-    아넬리스: 당신 자식은 미국 서버에 살고 있어요. 유럽에서 그건 큰 논의 거리예요.
+10. ANNELIES: Your baby lives on American servers. In Europe, that's a big conversation. Health data about European patients is protected very strictly here, and every time it crosses the Atlantic, someone like me has to explain why that is legal and safe.
+    아넬리스: 당신 자식은 미국 서버에 살고 있어요. 유럽에서 그건 큰 논의 거리예요. 여기선 유럽 환자의 건강 정보를 아주 엄격하게 보호하고, 그게 대서양을 건널 때마다 저 같은 사람이 왜 그게 합법적이고 안전한지 설명해야 하거든요.
 
 11. ELENA: Elena Ruiz. Medical. I have no babies in this meeting. I'm here to say "yes, remove it."
     엘레나: 엘레나 루이즈. 의료 담당. 이 회의에 제 자식은 없어요. "네, 빼세요"라고 말하러 왔어요.
@@ -53,8 +53,8 @@
 12. IMOGEN: A doctor who likes rules. How refreshing.
     이머전: 규칙을 좋아하는 의사라니. 신선하네요.
 
-13. NOAH: Here's the thing. Our CE certificate comes in early June. We want to launch in the UK right after.
-    노아: 요점은 이거예요. CE 인증서가 6월 초에 나와요. 바로 뒤에 영국 출시를 원해요.
+13. NOAH: Here's the thing. Our CE certificate comes in early June. We want to launch in the UK right after, because every month we wait is a month without revenue there. So I need to know today what could stop us.
+    노아: 요점은 이거예요. CE 인증서가 6월 초에 나와요. 바로 뒤에 영국 출시를 원해요. 기다리는 한 달 한 달이 거기서 매출 없는 한 달이니까요. 그래서 오늘 우리를 막을 수 있는 게 뭔지 알아야 해요.
 
 14. ANNELIES: Then today we decide what you can say. What you can collect. And where you can keep it.
     아넬리스: 그럼 오늘 정할 거예요. 무엇을 말할 수 있는지. 무엇을 수집할 수 있는지. 그리고 어디에 보관할 수 있는지.
@@ -100,8 +100,8 @@
 27. ZOE: No? Not even with consent? Linda signed everything.
     조이: 안 돼요? 동의가 있어도요? 린다는 다 서명했어요.
 
-28. ANNELIES: Consent doesn't matter. German courts treat filler injections like cosmetic surgery. Before-and-after ads are banned.
-    아넬리스: 동의는 상관없어요. 독일 법원은 필러 주사를 미용 성형 수술처럼 취급해요. 비포·애프터 광고는 금지예요.
+28. ANNELIES: Consent doesn't matter. German courts treat filler injections like cosmetic surgery, and for surgery, the law protects the public from being tempted by dramatic results. So before-and-after ads to the public are banned, even when the patient is happy to share.
+    아넬리스: 동의는 상관없어요. 독일 법원은 필러 주사를 미용 성형 수술처럼 취급하고, 수술에 대해선 법이 극적인 결과에 대중이 현혹되지 않도록 보호해요. 그래서 대중 대상 비포·애프터 광고는 금지예요. 환자가 기꺼이 공개하겠다고 해도요.
 
 29. ELENA: Good. I never liked those photos. Remember my fight about them?
     엘레나: 좋아요. 난 그 사진들 원래 싫었어요. 그거 때문에 내가 싸웠던 거 기억해요?
@@ -127,8 +127,8 @@
 36. ZOE: Let me check. …Thirty-one percent under eighteen. Oh.
     조이: 확인해 볼게요. …31%가 18세 미만. 아.
 
-37. IMOGEN: Oh, indeed. Her posts would need age restrictions. And clear labels. "Ad." At the start. Not hidden.
-    이머전: 그러게요. 그 사람 게시물엔 연령 제한이 필요해요. 그리고 분명한 표시. "광고." 맨 앞에. 숨기지 말고.
+37. IMOGEN: Oh, indeed. Her posts would need age restrictions, so that under-eighteens never see them. And clear labels. "Ad." At the start. Not hidden at the end after twenty hashtags. If she gets it wrong, it's your brand in the headline, not hers.
+    이머전: 그러게요. 그 사람 게시물엔 18세 미만이 아예 못 보도록 연령 제한이 필요해요. 그리고 분명한 표시. "광고." 맨 앞에. 해시태그 스무 개 뒤 끝에 숨기지 말고요. 그 사람이 실수하면 기사 제목에 나오는 건 그 사람이 아니라 당신 브랜드예요.
 
 38. ZOE: The "Ask if they're Ready" campaign. Is that an ad? It's safety education.
     조이: "Ask if they're Ready" 캠페인. 그게 광고예요? 안전 교육인데요.
@@ -145,8 +145,8 @@
 42. ZOE: Third. Spring promotion. "Twenty percent off your first Veyra treatment. This month only."
     조이: 셋째. 봄 프로모션. "첫 베이라 시술 20% 할인. 이번 달만."
 
-43. IMOGEN: No. Time-limited discounts pressure people. For a medical procedure, the regulator hates that.
-    이머전: 안 돼요. 기간 한정 할인은 사람들을 압박해요. 의료 시술이니까 규제 기관이 그걸 싫어해요.
+43. IMOGEN: No. Time-limited discounts pressure people into deciding quickly, and a patient should choose an injection based on safety and need, not because a price ends on Friday. For a medical procedure, the regulator hates that.
+    이머전: 안 돼요. 기간 한정 할인은 사람들이 서둘러 결정하도록 압박해요. 환자는 금요일에 가격이 끝나서가 아니라 안전과 필요에 따라 주사를 선택해야 하죠. 의료 시술이니까 규제 기관이 그걸 싫어해요.
 
 44. ELENA: So do I. I hated it in America too.
     엘레나: 나도 그래요. 미국에서도 싫었어요.
@@ -166,8 +166,8 @@
 49. ANNELIES: Good instinct. But in Germany, even that may look like an incentive. Remove points there.
     아넬리스: 좋은 직감이에요. 하지만 독일에선 그것도 유인책처럼 보일 수 있어요. 거기선 포인트를 빼요.
 
-50. ZOE: Slogan stays. Photos, UK only. Brooke, age-gated. No discounts. No points in Germany. We can't make half our claims here.
-    조이: 그러니까. 슬로건 유지. 사진은 영국만. 브룩은 연령 제한. 할인 없음. 독일은 포인트 없음. 여기선 주장 절반을 못 하네요.
+50. ZOE: So let me summarise. Slogan stays. Photos, UK only. Brooke, age-gated. No discounts. No points in Germany. In America, we could say almost anything that was true. Here, being true is only the beginning. We can't make half our claims here.
+    조이: 그러니까 정리해 볼게요. 슬로건 유지. 사진은 영국만. 브룩은 연령 제한. 할인 없음. 독일은 포인트 없음. 미국에선 사실이면 거의 뭐든 말할 수 있었어요. 여기선 사실인 건 시작일 뿐이네요. 여기선 주장 절반을 못 하네요.
 
 ### 장면2 — 무엇을 수집하고, 어디에 두는가
 
@@ -183,8 +183,8 @@
 54. NOAH: What does that mean in practice?
     노아: 실제로는 무슨 뜻이에요?
 
-55. ANNELIES: You need a lawful basis. For health data in a patient app, that's usually explicit consent. Clear. Separate. Recorded.
-    아넬리스: 적법한 처리 근거가 필요해요. 환자 앱의 건강 정보라면 보통 명시적 동의예요. 분명하게. 따로. 기록해서.
+55. ANNELIES: You need a lawful basis. For health data in a patient app, that's usually explicit consent. Clear. Separate. Recorded. Not hidden in the terms and conditions, not a box that's already ticked. The patient must actively say yes, and be able to say no later.
+    아넬리스: 적법한 처리 근거가 필요해요. 환자 앱의 건강 정보라면 보통 명시적 동의예요. 분명하게. 따로. 기록해서. 약관 속에 숨기지 말고, 미리 체크된 칸도 안 돼요. 환자가 적극적으로 예라고 해야 하고, 나중에 아니라고 할 수도 있어야 해요.
 
 56. NINA: We already ask separately. And marketing emails are opt-in. Off by default.
     니나: 이미 따로 물어요. 그리고 마케팅 이메일은 옵트인이에요. 기본값은 꺼짐.
@@ -216,8 +216,8 @@
 65. ELENA: Do we use it? For safety?
     엘레나: 우리가 그걸 써요? 안전을 위해?
 
-66. NINA: No. For a recall, we trace serial to clinic. The clinic finds the patient. We never needed the name.
-    니나: 아니요. 회수할 땐 일련번호로 클리닉을 찾아요. 환자는 클리닉이 찾고요. 이름은 필요한 적이 없어요.
+66. NINA: No. For a recall, we trace serial to clinic. The clinic finds the patient, because the clinic already has the medical record. We never needed the name, and keeping data we don't need just means more to protect and more to lose.
+    니나: 아니요. 회수할 땐 일련번호로 클리닉을 찾아요. 환자는 클리닉이 찾고요. 클리닉에 이미 진료 기록이 있으니까요. 이름은 필요한 적이 없어요. 필요 없는 데이터를 갖고 있으면 지켜야 할 것도, 잃을 것도 늘어날 뿐이에요.
 
 67. ANNELIES: Then remove it. Serial, clinic, date. The clinic keeps the identity. That's called pseudonymisation. Regulators love it.
     아넬리스: 그럼 빼요. 일련번호, 클리닉, 날짜. 신원은 클리닉이 보관해요. 그걸 가명화라고 해요. 규제 기관이 좋아하죠.
@@ -240,8 +240,8 @@
 73. IMOGEN: The rules for transfers have been struck down twice in ten years. Courts change their minds.
     이머전: 이전 규칙이 10년 사이에 두 번 무효가 됐어요. 법원이 마음을 바꾸거든요.
 
-74. ANNELIES: My advice? Keep European data in Europe. Then the next court ruling isn't your problem.
-    아넬리스: 제 조언은? 유럽 데이터는 유럽에 둬요. 그러면 다음 판결이 당신 문제가 아니죠.
+74. ANNELIES: My advice? Keep European data in Europe. It costs a little more and takes some work now, but then the next court ruling isn't your problem. You'll sleep better, and so will I, because I won't have to call you at midnight.
+    아넬리스: 제 조언은? 유럽 데이터는 유럽에 둬요. 지금 돈이 조금 더 들고 일도 좀 생기지만, 그러면 다음 판결이 당신 문제가 아니죠. 당신도 편히 자고 나도 편히 자요. 한밤중에 당신한테 전화할 일이 없을 테니까요.
 
 75. NINA: Our cloud provider has a Frankfurt region. A separate EU database. UK data too.
     니나: 우리 클라우드 업체에 프랑크푸르트 리전이 있어요. 별도의 EU 데이터베이스. 영국 데이터도요.
@@ -266,8 +266,8 @@
 81. NOAH: Okay. Let's back up a second. CE in early June. Patient app needs twelve weeks. That's September.
     노아: 좋아요. 잠깐 정리해 보죠. CE는 6월 초. 환자 앱은 12주. 그럼 9월이에요.
 
-82. ZOE: September? The campaign launches with the product. The app is the campaign. Patients sign up at the clinic.
-    조이: 9월? 캠페인은 제품과 같이 시작해요. 앱이 곧 캠페인이에요. 환자들이 클리닉에서 가입하거든요.
+82. ZOE: September? The campaign launches with the product. The app is the campaign. Patients sign up at the clinic, they get reminders, they share their results, and that's how happy patients bring their friends. Without the app, I'm launching a product with no community.
+    조이: 9월? 캠페인은 제품과 같이 시작해요. 앱이 곧 캠페인이에요. 환자들이 클리닉에서 가입하고, 알림을 받고, 결과를 공유하고, 그렇게 만족한 환자들이 친구를 데려오는 거예요. 앱 없이는 커뮤니티 없는 제품을 출시하는 거예요.
 
 83. NINA: Then we cut corners. Or we launch without the app.
     니나: 그럼 대충 하든가. 앱 없이 출시하든가.
@@ -278,8 +278,8 @@
 85. ZOE: Then delay the launch. Launch in September. Everything together. Properly.
     조이: 그럼 출시를 늦춰요. 9월에 출시해요. 전부 같이. 제대로.
 
-86. NOAH: Three more months without UK revenue? The board expects Europe this year.
-    노아: 영국 매출 없이 석 달 더요? 이사회는 올해 유럽을 기대해요.
+86. NOAH: Three more months without UK revenue? The board expects Europe this year, and they heard "June" from me. If we delay everything to September, we lose the summer, and I have to explain why one app held back the whole company.
+    노아: 영국 매출 없이 석 달 더요? 이사회는 올해 유럽을 기대하고, 내 입에서 "6월"이라는 말을 들었어요. 전부 9월로 미루면 여름을 날리고, 앱 하나가 왜 회사 전체를 붙잡았는지 내가 설명해야 해요.
 
 87. ELENA: Noah, what do we actually need on day one? Not want. Need.
     엘레나: 노아, 첫날 실제로 필요한 게 뭐예요? 원하는 거 말고. 필요한 거.
@@ -293,14 +293,14 @@
 90. ZOE: And the app? The patient community? That's how we won America.
     조이: 그럼 앱은요? 환자 커뮤니티는요? 그걸로 미국에서 이겼잖아요.
 
-91. ELENA: Zoe, the scans protect patients. The app protects our campaign. Both matter. One matters first.
-    엘레나: 조이, 스캔은 환자를 보호해요. 앱은 우리 캠페인을 보호하고요. 둘 다 중요해요. 하나가 먼저 중요할 뿐.
+91. ELENA: Zoe, the scans protect patients. The app protects our campaign. Both matter. One matters first. If a syringe goes missing in July, nobody will ask about our community. They'll ask whether we could trace it. The app can wait. The scans can't.
+    엘레나: 조이, 스캔은 환자를 보호해요. 앱은 우리 캠페인을 보호하고요. 둘 다 중요해요. 하나가 먼저 중요할 뿐. 7월에 주사기 하나가 사라지면 아무도 우리 커뮤니티를 묻지 않아요. 그걸 추적할 수 있었는지를 묻겠죠. 앱은 기다릴 수 있어요. 스캔은 못 기다려요.
 
 92. ZOE: …That's unfair. Because it's true.
     조이: …불공평하네요. 맞는 말이라서.
 
-93. NOAH: Decision. UK launch in June. Medical professionals only. Serial scans from day one. The patient app in the fourth quarter.
-    노아: 결정. 6월 영국 출시. 의료 전문가만. 첫날부터 일련번호 스캔. 환자 앱은 4분기.
+93. NOAH: Decision. UK launch in June. Medical professionals only. Serial scans from day one, on European servers. The patient app in the fourth quarter, built properly, with the EU database and the consent Annelies described. Nobody cuts corners.
+    노아: 결정. 6월 영국 출시. 의료 전문가만. 첫날부터 일련번호 스캔, 유럽 서버로. 환자 앱은 4분기에, EU 데이터베이스와 아넬리스가 말한 동의 절차까지 갖춰서 제대로. 아무도 대충 하지 않아요.
 
 94. ZOE: And my campaign?
     조이: 그럼 내 캠페인은요?
@@ -349,8 +349,8 @@
 108. ZOE: Annelies said my baby needs changes. Not a new baby. I'll hold on to that.
      조이: 아넬리스가 내 자식에게 변화가 필요하댔어요. 새 자식이 아니라. 그거 붙잡고 있을게요.
 
-109. NINA: Frankfurt region starts tomorrow. And I'm deleting the name field. Tonight. Personally.
-     니나: 프랑크푸르트 리전은 내일 시작해요. 그리고 이름 칸은 지울 거예요. 오늘 밤. 내 손으로.
+109. NINA: Frankfurt region starts tomorrow. And I'm deleting the name field. Tonight. Personally. Nobody noticed it for so long, and that bothers me more than the field itself. Data we never use is still data we have to protect.
+     니나: 프랑크푸르트 리전은 내일 시작해요. 그리고 이름 칸은 지울 거예요. 오늘 밤. 내 손으로. 그렇게 오랫동안 아무도 몰랐다는 게, 그 칸 자체보다 더 신경 쓰여요. 한 번도 안 쓰는 데이터도 결국 지켜야 하는 데이터니까요.
 
 110. NOAH: Thank you, Nina. That field was a risk nobody saw.
      노아: 고마워요, 니나. 그 칸은 아무도 못 본 위험이었어요.
@@ -423,3 +423,18 @@
 | Governance | — | EU representative · DPO · DPIA | same | Diane's list (11 pages) |
 
 > **Launch scope (decision):** UK · June · medical professionals only · serial scans from day one · **patient app Q4** · unbranded safety education starts now.
+
+### ④ 긴 발화 분석
+
+> **91턴 ELENA:** "Zoe, the scans protect patients. The app protects our campaign. Both matter. One matters first. If a syringe goes missing in July, nobody will ask about our community. They'll ask whether we could trace it. The app can wait. The scans can't."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 대비(두 선택지의 목적) | The scans protect patients. The app protects our campaign. | 같은 문장 틀로 두 선택지의 "보호 대상"을 나란히 비교 |
+| ② 인정 + 우선순위 | Both matter. One matters first. | 상대의 가치를 인정하면서 순서를 정함 |
+| ③ 가정 시나리오 | If a syringe goes missing in July, nobody will ask about our community. They'll ask whether we could trace it. | 최악의 상황을 if로 그려 우선순위의 근거를 보여 줌 |
+| ④ 결론(대구) | The app can wait. The scans can't. | 짧은 대구로 결정을 기억하기 쉽게 마무리 |
+
+**활용 패턴:** A는 X를, B는 Y를 지킨다 → 둘 다 중요, 하나가 먼저 → if 최악의 시나리오 → "A can wait. B can't."
+**연결 표현:** Both matter(둘 다 중요하다) · One matters first(하나가 먼저다) · If…, nobody will ask about…(~하면 아무도 …를 묻지 않는다) · can wait / can't(기다릴 수 있다/없다)
+**연습:** 예산이 부족해 신기능과 보안 패치 중 하나만 먼저 해야 하는 상황에서, 같은 구조로 40단어 안팎으로 팀을 설득해 보기.

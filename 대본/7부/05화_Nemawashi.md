@@ -9,7 +9,7 @@
 > - 비즈니스 스킬: 합의 형성 문화 이해, 인내, 이해관계자 지도 그리기, 개별 사전 설득
 > - 난이도: C1 · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
 > - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내 + 긴 턴 10~15회(30~60단어).
-> - 복선 설치: **명함 교환(일본식): 고개 숙여 건네기, 받은 명함은 좌석 순서대로 테이블 위에** · 상석(kamiza) — 문에서 가장 먼 자리 · **Mitsukawa 제안 구조: 일본 독점 유통 + 제조판매업자(MAH)로서 PMDA 승인 대행** · **일본 현실: 승인 HA 필러 소수, 다수 의사가 미승인 필러를 개인 수입으로 사용 → Tanaka의 문제의식** · **Noah가 독점 여부 결정을 요구 → 긴 침묵 → Ishikawa "We will consider it positively."** · **이자카야 Kenji: "In our meetings, decisions are announced, not made." / 링기쇼(품의서) 도장 7개, 6~8주 / "Speed is not a value here. Certainty is." / 숨은 결정권자 = Tanaka(규제)** · Noah "Who else needs to be involved?" — Kenji의 이해관계자 지도: Ishikawa(최종), Tanaka(거부권 사실상), Mori(책임 조항), Fujita(가격·환율), 의료기기 사업부장, 컴플라이언스, 사장실 · **Tanaka 조건: 일본인 대상 임상(약 150명) + 레지스트리 데이터 공유 → Elena 수락("Data has no accent.") → Tanaka "Then I will support it in the ringi."** · Fujita: 엔화 약세 → 엔화 가격 고정 기간 요구 → Paul 1년 고정 + 이후 연동 · **Ishikawa 조찬(영어 유창): "If Halvern buys you, what happens to us?" — 인수설이 도쿄까지 → Noah "We're not for sale." → Ishikawa "Everyone says that." → Noah "Then let me show you. Not tell you."** · Kenji: 링기 6월 말 결론(Q3 이전) · Noah: Tom 저녁 9일 전, Elaine에게 전화 — "my own nemawashi"(→6·7화)
+> - 복선 설치: **명함 교환(일본식): 고개 숙여 건네기, 받은 명함은 좌석 순서대로 테이블 위에** · 상석(kamiza) — 문에서 가장 먼 자리 · **Mitsukawa 제안 구조: 일본 독점 유통 + 제조판매업자(MAH)로서 PMDA 승인 대행** · **일본 현실: 승인 HA 필러 소수, 다수 의사가 미승인 필러를 개인 수입으로 사용 → Tanaka의 문제의식** · **Noah가 독점 여부 결정을 요구 → 긴 침묵 → Ishikawa "We will consider it positively."** · **이자카야 Kenji: "In our meetings, decisions are announced, not made." / 링기쇼(품의서) 도장 7개, 6~8주 / "Speed is not a value here. Certainty is." / 숨은 결정권자 = Tanaka(규제)** · Noah "Who else needs to be involved?" — Kenji의 이해관계자 지도: Ishikawa(최종), Tanaka(거부권 사실상), Mori(책임 조항), Fujita(가격·환율), 의료기기 사업부장, 컴플라이언스, 사장실 · **Tanaka 조건: 일본인 대상 임상(약 150명) + 레지스트리 데이터 공유 → Elena 수락("Data has no accent.") → Tanaka "Then I will support it in the ringi."** · Fujita: 엔화 약세 → 엔화 가격 고정 기간 요구 → Paul 1년 고정 + 이후 연동 · **Ishikawa 조찬(영어 유창): "If Halvern buys you, what happens to us?" — 인수설이 도쿄까지 → Noah "We're not for sale." → Ishikawa "Everyone says that." → Noah "Then let me show you. Not tell you."** · Kenji: 링기 6월 말 결론(Q3 이전) · Noah: Tom 저녁 7일 전, Elaine에게 전화 — "my own nemawashi"(→6·7화)
 
 ---
 
@@ -41,8 +41,8 @@
 08. NOAH: And three?
     노아: 그럼 셋은요?
 
-09. KENJI: Three. Please don't expect a decision today. Nothing will be decided in this room.
-    겐지: 셋. 오늘 결정을 기대하지 마세요. 이 방에서는 아무것도 결정되지 않습니다.
+09. KENJI: Three. Please don't expect a decision today. Nothing will be decided in this room, and that is not a bad sign. In Japan, a first meeting is for listening and for showing respect. If it feels slow, it means it's going normally, so please don't try to rescue it.
+    겐지: 셋. 오늘 결정을 기대하지 마세요. 이 방에서는 아무것도 결정되지 않을 거고, 그건 나쁜 신호가 아닙니다. 일본에서 첫 회의는 듣고 존중을 보여 주는 자리예요. 느리게 느껴진다면 정상적으로 흘러가고 있다는 뜻이니, 분위기를 살리려고 애쓰지 마세요.
 
 10. ZOE: Grace warned us. "Bring patience."
     조이: 그레이스가 경고했어요. "인내심을 챙겨요."
@@ -79,8 +79,8 @@
 20. KENJI: Bennett-san, please. The floor is yours.
     겐지: 베넷 상, 부탁드립니다. 말씀하시죠.
 
-21. NOAH: Thank you. In short, we'd like Mitsukawa as our partner in Japan. Exclusive distribution. And regulatory approval.
-    노아: 감사합니다. 요약하자면, 일본에서 미쓰카와를 파트너로 모시고 싶습니다. 독점 유통. 그리고 규제 승인.
+21. NOAH: Thank you. In short, we'd like Mitsukawa as our partner in Japan, for exclusive distribution and for regulatory approval. You know this market and its regulators far better than we do, and we bring a product with a safety system built around it. We'd rather enter Japan slowly with the right partner than quickly with the wrong one.
+    노아: 감사합니다. 요약하자면, 일본에서 미쓰카와를 독점 유통과 규제 승인 파트너로 모시고 싶습니다. 이 시장과 규제 기관은 저희보다 훨씬 잘 아시고, 저희는 안전 시스템을 갖춘 제품을 가져옵니다. 잘못된 파트너와 빨리 들어가느니, 맞는 파트너와 천천히 일본에 들어가고 싶습니다.
 
 22. KENJI: As the marketing authorisation holder. Mitsukawa would hold the licence with PMDA. Our regulator.
     겐지: 제조판매업자로서요. 미쓰카와가 PMDA에 허가를 보유하게 됩니다. 저희 규제 기관이죠.
@@ -103,8 +103,8 @@
 28. NOAH: Please.
     노아: 그러세요.
 
-29. TANAKA: In Japan, few HA fillers are approved. Many doctors personally import unapproved fillers. Legally. With no tracking.
-    다나카: 일본에선 승인된 HA 필러가 적어요. 많은 의사가 미승인 필러를 개인 수입해요. 합법적으로. 추적 없이.
+29. TANAKA: In Japan, few HA fillers are approved. So many doctors personally import unapproved fillers, which is legal, but there is no tracking at all. This worries me more than any single product, and it is the problem I have been trying to solve for many years.
+    다나카: 일본에선 승인된 HA 필러가 적어요. 그래서 많은 의사가 미승인 필러를 개인 수입하는데, 합법이긴 하지만 추적이 전혀 없어요. 저는 어떤 개별 제품보다 이게 더 걱정되고, 오랫동안 해결하려고 애써 온 문제예요.
 
 30. ELENA: No tracking. So when something goes wrong, nobody knows which product it was.
     엘레나: 추적 없이. 그러니 문제가 생기면 어떤 제품이었는지 아무도 모르죠.
@@ -121,8 +121,8 @@
 34. MORI: Thank you. We'll review the language carefully.
     모리: 감사합니다. 문구를 신중히 검토하겠습니다.
 
-35. FUJITA: Price. The yen is weak now. If we sign in dollars, our cost rises every month.
-    후지타: 가격. 지금 엔화가 약해요. 달러로 계약하면 매달 원가가 올라요.
+35. FUJITA: Price. The yen is weak now, and nobody can tell me when it will recover. If we sign in dollars, our cost rises every month, but our price to clinics cannot change that often. So the currency risk would sit entirely with Mitsukawa, and that is difficult to approve.
+    후지타: 가격. 지금 엔화가 약하고, 언제 회복될지는 아무도 말해 줄 수 없어요. 달러로 계약하면 원가는 매달 오르는데, 클리닉 공급가는 그렇게 자주 바꿀 수 없어요. 그러면 환율 리스크가 전부 미쓰카와에 남게 되고, 그건 승인받기 어렵습니다.
 
 36. ZOE: Could we price in yen? For a fixed period?
     조이: 엔화로 가격을 정할 수 있을까요? 일정 기간 고정으로?
@@ -157,8 +157,8 @@
 46. TANAKA: Dr. Ruiz. One more question. Would Veyra share its vascular event registry? With PMDA? With us?
     다나카: 루이즈 박사님. 질문 하나 더. 베이라가 혈관 사건 레지스트리를 공유할 의향이 있나요? PMDA와? 저희와?
 
-47. ELENA: I'd like to answer that properly. Not in front of eight people. Could we meet tomorrow? Just us?
-    엘레나: 제대로 답하고 싶어요. 여덟 명 앞에서 말고요. 내일 만날 수 있을까요? 우리 둘만?
+47. ELENA: I'd like to answer that properly, Tanaka-san, and not in front of eight people. The registry includes some difficult cases, and I'd rather explain each one carefully than give you a short answer that sounds defensive. Could we meet tomorrow? Just us?
+    엘레나: 제대로 답하고 싶어요, 다나카 상. 여덟 명 앞에서 말고요. 레지스트리엔 어려운 사례도 있어서, 방어적으로 들리는 짧은 답보다는 하나하나 신중히 설명하고 싶어요. 내일 만날 수 있을까요? 우리 둘만?
 
 48. TANAKA: …Yes. Tomorrow. Ten o'clock.
     다나카: …네. 내일. 10시.
@@ -174,8 +174,8 @@
 51. KENJI: Kanpai. Thank you for your patience today. I know Americans find it… difficult.
     겐지: 건배. 오늘 인내해 주셔서 감사합니다. 미국인들이 그걸… 힘들어한다는 거 알아요.
 
-52. NOAH: Honestly? I asked for a decision. And the room went quiet. I felt like I'd said something rude.
-    노아: 솔직히요? 결정을 요구했어요. 그러자 방이 조용해졌죠. 무례한 말을 한 것 같았어요.
+52. NOAH: Honestly? I asked for a decision, and the room went completely quiet. In Austin, silence like that usually means you've lost the deal, so I was counting in my head and trying very hard not to fill it. I felt like I'd said something rude.
+    노아: 솔직히요? 결정을 요구했더니 방이 완전히 조용해졌어요. 오스틴에서 그런 침묵은 보통 거래를 놓쳤다는 뜻이라, 속으로 숫자를 세면서 침묵을 채우지 않으려고 무진장 애썼죠. 무례한 말을 한 것 같았어요.
 
 53. KENJI: Not rude. Early. In our meetings, decisions are announced. Not made.
     겐지: 무례한 게 아니라. 이른 거예요. 저희 회의에서 결정은 발표되는 거지. 내려지는 게 아닙니다.
@@ -183,8 +183,8 @@
 54. ELENA: Then where are they made?
     엘레나: 그럼 어디서 내려져요?
 
-55. KENJI: Before the meeting. In corridors. Over coffee. One person at a time. We call it nemawashi.
-    겐지: 회의 전에. 복도에서. 커피 마시며. 한 사람씩. 그걸 네마와시라고 합니다.
+55. KENJI: Before the meeting. In corridors, over coffee, one person at a time. Each person hears the proposal privately and raises concerns where nobody loses face, so by the time we meet formally, everyone already agrees. We call it nemawashi.
+    겐지: 회의 전에요. 복도에서, 커피 마시며, 한 사람씩. 각자 제안을 따로 듣고 아무도 체면을 잃지 않는 자리에서 우려를 말하죠. 그래서 공식적으로 모일 때쯤엔 모두가 이미 동의하고 있어요. 그걸 네마와시라고 합니다.
 
 56. ZOE: Nemawashi. What does it mean literally?
     조이: 네마와시. 글자 그대로 무슨 뜻이에요?
@@ -207,8 +207,8 @@
 62. NOAH: Eight weeks. We have a deadline. The third quarter. Can we speed it up?
     노아: 8주. 우린 마감이 있어요. 3분기. 빠르게 할 수 없을까요?
 
-63. KENJI: Bennett-san. Speed is not a value here. Certainty is. If you push, someone stops stamping.
-    겐지: 베넷 상. 여기선 속도가 가치가 아닙니다. 확실성이 가치죠. 밀어붙이면 누군가 도장을 멈춥니다.
+63. KENJI: Bennett-san. Speed is not a value here. Certainty is. Every stamp means that person accepts responsibility for the decision. If you push, someone feels you are hiding a risk, and then that person stops stamping. Quietly, and without telling you why.
+    겐지: 베넷 상. 여기선 속도가 가치가 아닙니다. 확실성이 가치죠. 도장 하나하나는 그 사람이 결정에 대한 책임을 진다는 뜻이에요. 밀어붙이면 누군가는 당신이 리스크를 숨긴다고 느끼고, 그 사람이 도장을 멈춥니다. 조용히, 이유도 말하지 않고요.
 
 64. NOAH: Then let me ask a better question. Who else needs to be involved?
     노아: 그럼 더 나은 질문을 할게요. 또 누가 관여해야 하죠?
@@ -272,8 +272,8 @@
 83. TANAKA: All of it? Including the events in America?
     다나카: 전부요? 미국에서의 사건까지?
 
-84. ELENA: All of it. Including the recall in year four. And the medical assistant in Houston. Data has no accent.
-    엘레나: 전부요. 4년 차 회수까지 포함해서. 휴스턴 의료 보조원 사건도. 데이터엔 억양이 없어요.
+84. ELENA: All of it. Including the recall in year four, and the medical assistant in Houston. If we only shared the good cases, the registry would be marketing, not science. PMDA should see our worst days as well as our best ones. Data has no accent.
+    엘레나: 전부요. 4년 차 회수, 그리고 휴스턴 의료 보조원 사건까지 포함해서요. 좋은 사례만 공유하면 레지스트리는 과학이 아니라 마케팅이 돼요. PMDA는 우리의 가장 좋은 날뿐 아니라 가장 나쁜 날도 봐야 해요. 데이터엔 억양이 없어요.
 
 85. TANAKA: And a Japanese clinical study? PMDA will ask.
     다나카: 그리고 일본 임상 연구는요? PMDA가 요구할 거예요.
@@ -296,8 +296,8 @@
 91. FUJITA: Yes. We need a yen price. Fixed. For three years.
     후지타: 네. 엔화 가격이 필요합니다. 고정으로. 3년.
 
-92. PAUL: Three years is a long bet on a currency. One year fixed. Then adjusted quarterly. With a ceiling.
-    폴: 3년은 환율에 대한 긴 베팅이에요. 1년 고정. 그다음 분기별 조정. 상한선을 두고.
+92. PAUL: Three years is a long bet on a currency, and neither of us can predict the yen that far ahead. So here's a middle path: one year fixed in yen, then adjusted quarterly, with a ceiling so your cost can't jump suddenly. You get stability, and we don't carry all the risk.
+    폴: 3년은 환율에 대한 긴 베팅이고, 우리 둘 다 엔화를 그렇게 멀리까지 예측할 순 없어요. 그래서 중간 길을 제안할게요. 엔화로 1년 고정, 그다음 분기별 조정, 원가가 갑자기 뛰지 않게 상한선을 두고요. 그쪽은 안정성을 얻고, 우리는 리스크를 혼자 다 지지 않는 거죠.
 
 93. FUJITA: One year, then adjusted with a ceiling. I think the division head can stamp that.
     후지타: 1년 후 상한선 있는 조정. 사업부장님이 도장을 찍으실 수 있을 것 같아요.
@@ -311,8 +311,8 @@
 96. NOAH: Ishikawa-san. Thank you for the invitation. Your English is… better than yesterday.
     노아: 이시카와 상. 초대 감사합니다. 영어가… 어제보다 좋으시네요.
 
-97. ISHIKAWA: Yesterday, a managing director. This morning, a Stanford graduate. One question. If Halvern buys you, what happens to us?
-    이시카와: 어제는 상무. 오늘 아침엔 스탠퍼드 졸업생. 질문 하나. 할번이 당신 회사를 인수하면, 저희는 어떻게 되죠?
+97. ISHIKAWA: Yesterday, a managing director. This morning, a Stanford graduate. In the meeting room, I listen. At breakfast, I can ask what I really want to know. So, one question. If Halvern buys you, what happens to us?
+    이시카와: 어제는 상무. 오늘 아침엔 스탠퍼드 졸업생. 회의실에선 듣기만 하죠. 아침 식사 자리에선 정말 알고 싶은 걸 물을 수 있고요. 그래서 질문 하나. 할번이 당신 회사를 인수하면, 저희는 어떻게 되죠?
 
 98. NOAH: …You've heard the rumour. In Tokyo.
     노아: …소문을 들으셨군요. 도쿄에서.
@@ -326,8 +326,8 @@
 101. ISHIKAWA: Everyone says that. Until the number is large enough.
      이시카와: 다들 그렇게 말하죠. 숫자가 충분히 커질 때까지는.
 
-102. NOAH: Then let me show you. Not tell you. Give me until the end of June.
-     노아: 그럼 말로 하지 않고 보여 드리죠. 6월 말까지 시간을 주세요.
+102. NOAH: Then let me show you. Not tell you. Give me until the end of June. If we're still independent then, you'll have your answer, and it will be worth more than any promise I could make over breakfast.
+     노아: 그럼 말로 하지 않고 보여 드리죠. 6월 말까지 시간을 주세요. 그때도 저희가 독립 회사라면 그게 답이 될 거고, 그건 제가 아침 식사 자리에서 할 수 있는 어떤 약속보다 값질 겁니다.
 
 103. ISHIKAWA: End of June. That's when the ringi reaches my desk. A coincidence?
      이시카와: 6월 말. 링기가 제 책상에 오는 때네요. 우연일까요?
@@ -343,8 +343,8 @@
 106. ZOE: So. Three days in Tokyo. Nothing decided. Everything decided. I'm very confused.
      조이: 그러니까. 도쿄 사흘. 아무것도 결정 안 됐어요. 모든 게 결정됐고요. 너무 헷갈려요.
 
-107. ELENA: Tanaka will stamp. Fujita thinks her boss will stamp. Mori is reviewing language. That's three of seven.
-     엘레나: 다나카는 찍을 거예요. 후지타는 상사가 찍을 것 같대요. 모리는 문구를 검토 중. 일곱 중 셋.
+107. ELENA: Tanaka will stamp, because we answered her real question. Fujita thinks her boss will stamp, now that Paul has given them a yen price. Mori is still reviewing the liability language. That's three of seven, and probably the three most likely to stop it.
+     엘레나: 다나카는 찍을 거예요. 우리가 그분의 진짜 질문에 답했으니까요. 후지타는 폴이 엔화 가격을 줬으니 상사가 찍을 것 같대요. 모리는 아직 책임 문구를 검토 중이고요. 일곱 중 셋, 그리고 아마 이 건을 멈출 가능성이 가장 큰 세 사람이에요.
 
 108. NOAH: And Ishikawa will stamp only if we're still independent by the end of June.
      노아: 그리고 이시카와는 6월 말까지 우리가 독립 회사로 남아 있을 때만 찍을 거고요.
@@ -370,8 +370,8 @@
 115. ZOE: Meaning?
      조이: 무슨 뜻이에요?
 
-116. NOAH: Who else needs to be involved? The board. One person at a time. Starting with Elaine.
-     노아: 또 누가 관여해야 하나? 이사회. 한 명씩. 일레인부터.
+116. NOAH: Who else needs to be involved? The board. If Tom makes an offer, I don't want any director hearing about it for the first time in a formal meeting. So I'll talk to them one person at a time, before the dinner, starting with Elaine.
+     노아: 또 누가 관여해야 하나? 이사회. 톰이 제안을 하면, 어떤 이사도 공식 회의에서 처음 듣게 하고 싶지 않아요. 그러니 저녁 전에 한 명씩 얘기할 거예요. 일레인부터.
 
 117. ELENA: And Richard?
      엘레나: 그럼 리처드는요?
@@ -420,3 +420,18 @@
 | 7 | **Ishikawa Hiroshi (MD, final)** | **"If Halvern buys you, what happens to us?"** | Stay independent — "Let me show you. Not tell you." | ⏳ Ringi conclusion **June 30** |
 
 > **Proposed structure:** Mitsukawa = exclusive distributor + marketing authorisation holder (PMDA) · Japanese clinical study (~150) · registry shared with PMDA/Mitsukawa · yen pricing.
+
+### ④ 긴 발화 분석
+
+> **55턴 KENJI:** "Before the meeting. In corridors, over coffee, one person at a time. Each person hears the proposal privately and raises concerns where nobody loses face, so by the time we meet formally, everyone already agrees. We call it nemawashi."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 짧은 답(시점·장소) | Before the meeting. In corridors, over coffee, one person at a time. | 질문("어디서?")에 단편 구로 바로 답함 |
+| ② 과정 설명 | Each person hears the proposal privately and raises concerns where nobody loses face, | 무엇이 어떻게 일어나는지 단계로 풀어 줌 |
+| ③ 결과(so + by the time) | so by the time we meet formally, everyone already agrees. | 과정이 낳는 결과를 시간 표현과 함께 제시 |
+| ④ 이름 붙이기 | We call it nemawashi. | 설명을 마친 뒤 개념에 이름을 붙여 기억시킴 |
+
+**활용 패턴:** 짧은 답 → 과정 → so + 결과 → We call it…
+**연결 표현:** one person at a time(한 사람씩) · by the time(~할 때쯤엔) · We call it…(그걸 ~라고 부른다)
+**연습:** 우리 회사의 의사결정 방식(예: 결재, 사전 보고)을 외국인 동료에게 같은 구조로 35~45단어로 설명해 보기.

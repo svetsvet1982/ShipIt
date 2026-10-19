@@ -41,8 +41,8 @@
 08. AVA: Four. Our training is a sales funnel. Disguised as safety.
     에이바: 넷. 우리 교육은 영업 깔때기다. 안전으로 위장한.
 
-09. DEREK: Thirty thousand followers. Half are doctors. This is serious.
-    데릭: 팔로워 3만. 절반이 의사예요. 심각해요.
+09. DEREK: Thirty thousand followers, and half of them are doctors. That's not random noise online. Those are exactly the people we need to train and sell to, so this is serious.
+    데릭: 팔로워 3만, 그중 절반이 의사예요. 그냥 온라인 소음이 아니에요. 바로 우리가 교육하고 팔아야 하는 사람들이에요. 그러니 심각해요.
 
 10. ZOE: I'm writing a reply. Right now. Point by point.
     조이: 답글 쓸게요. 지금 당장. 하나하나.
@@ -53,8 +53,8 @@
 12. ZOE: He called us liars, basically!
     조이: 기본적으로 우리를 거짓말쟁이라고 했잖아요!
 
-13. ELENA: He didn't use that word. I watched it twice. He's angry. But careful.
-    엘레나: 그 단어는 안 썼어요. 두 번 봤어요. 화났지만. 신중해요.
+13. ELENA: He didn't use that word, Zoe. I watched it twice. He's angry, yes, but he's careful. Every point he makes is something we could check ourselves.
+    엘레나: 그 단어는 안 썼어요, 조이. 두 번 봤어요. 화난 건 맞지만 신중해요. 그가 말하는 모든 요점은 우리가 직접 확인해 볼 수 있는 것들이에요.
 
 14. DIANE: Nothing goes public until I read it. Nothing. Not a comment. Not a like.
     다이앤: 내가 읽기 전엔 아무것도 공개하지 마요. 아무것도. 댓글도. 좋아요도.
@@ -100,8 +100,8 @@
 27. DEREK: What? It's true. Training sells. Tasha said it herself.
     데릭: 왜요? 사실이잖아요. 교육은 팔려요. 타샤가 직접 말했어요.
 
-28. NOAH: He's right. Training is good business. And good medicine. Both can be true.
-    노아: 데릭 말이 맞아요. 교육은 좋은 사업이에요. 그리고 좋은 의학이고요. 둘 다 사실일 수 있어요.
+28. NOAH: He's right, Zoe. Training is good business for us, and it's also good medicine. Both can be true at the same time. The problem is only if we pretend it isn't.
+    노아: 데릭 말이 맞아요, 조이. 교육은 우리에게 좋은 사업이고, 동시에 좋은 의학이에요. 둘 다 동시에 사실일 수 있어요. 문제는 우리가 아닌 척할 때뿐이에요.
 
 29. ELENA: Partly fair. We should say that openly. Not hide it.
     엘레나: 부분적으로 정당해요. 그걸 공개적으로 말해야 해요. 숨기지 말고.
@@ -118,8 +118,8 @@
 33. DEREK: And the locator only shows clinics that bought from us.
     데릭: 그리고 병원 찾기엔 우리 제품을 산 병원만 나와요.
 
-34. ELENA: So a twenty-year surgeon with perfect training. Not on our map.
-    엘레나: 그러니까 완벽하게 교육받은 20년 차 외과의는. 우리 지도에 없는 거죠.
+34. ELENA: So think about a twenty-year surgeon with perfect training who just doesn't buy from us. He's not on our map. And nobody looking at the map would ever know why.
+    엘레나: 그러니까 완벽하게 교육받았지만 그냥 우리 제품을 안 사는 20년 차 외과의를 생각해 봐요. 우리 지도에 없어요. 그리고 지도를 보는 사람은 아무도 그 이유를 모르죠.
 
 35. DEREK: Like Alan Pierce.
     데릭: 앨런 피어스처럼요.
@@ -136,8 +136,8 @@
 39. ELENA: Point three is fair. Maybe the fairest of all.
     엘레나: 셋째는 정당해요. 어쩌면 제일 정당하고요.
 
-40. ZOE: I hate this. But you're right. I built that map.
-    조이: 싫지만. 맞아요. 그 지도를 내가 만들었어요.
+40. ZOE: I hate this, but you're right. I built that map, and I was so focused on the funnel that I never asked how it looks to a doctor who isn't on it.
+    조이: 싫지만 맞아요. 그 지도를 내가 만들었는데, 퍼널에만 너무 집중해서 거기 없는 의사한테 어떻게 보일지는 한 번도 생각해 보지 않았어요.
 
 41. NOAH: Nobody owns a red. We all built it.
     노아: 빨강의 주인은 없어요. 우리 모두가 만들었죠.
@@ -154,8 +154,8 @@
 45. ELENA: It won't die. Alan doesn't let things die.
     엘레나: 안 잦아들어요. 앨런은 그냥 넘어가는 법이 없어요.
 
-46. NOAH: Three. Meet him. In person. Before we say anything.
-    노아: 셋. 만난다. 직접. 아무 말도 하기 전에.
+46. NOAH: Three. We meet him, in person, before we say anything in public. If we talk to him first, we understand him better, and a private conversation can't go viral.
+    노아: 셋. 공개적으로 무슨 말을 하기 전에 직접 만난다. 먼저 이야기하면 그를 더 잘 이해하게 되고, 사적인 대화는 퍼질 일도 없어요.
 
 47. ZOE: He won't meet us. He just attacked us.
     조이: 안 만나 줄 거예요. 방금 우릴 공격했잖아요.
@@ -183,8 +183,8 @@
 54. NOAH: Not today. Today, I'm here to listen.
     노아: 오늘은 아니에요. 오늘은 들으러 왔어요.
 
-55. PIERCE: Hmm. Last week, a patient cancelled. Twelve years with me.
-    피어스: 흠. 지난주에 환자 한 명이 취소했어요. 나랑 12년 된 환자.
+55. PIERCE: Hmm. Let me tell you why I posted. Last week, a patient cancelled her appointment. She'd been with me for twelve years. Twelve years, and suddenly she didn't trust me.
+    피어스: 흠. 내가 왜 글을 올렸는지 말해 주죠. 지난주에 환자 한 명이 예약을 취소했어요. 나랑 12년 된 환자예요. 12년인데, 갑자기 나를 믿지 않게 된 거죠.
 
 56. ELENA: Why?
     엘레나: 왜요?
@@ -204,14 +204,14 @@
 61. ELENA: Alan, I'm sorry. That's wrong. And it's our fault.
     엘레나: 앨런, 미안해요. 그건 잘못됐어요. 그리고 우리 잘못이에요.
 
-62. PIERCE: My nurse has trained for nine years. Her patients now ask if she's "ready."
-    피어스: 우리 간호사는 9년 동안 교육받았어요. 이제 환자들이 그녀에게 "준비됐냐"고 물어요.
+62. PIERCE: My nurse has trained for nine years. She's careful and she's skilled. Now her patients ask if she's "ready." Nine years of work, questioned by one video.
+    피어스: 우리 간호사는 9년 동안 교육받았어요. 신중하고 숙련된 사람이에요. 그런데 이제 환자들이 그녀에게 "준비됐냐"고 물어요. 9년의 노력이 영상 하나로 의심받는 거죠.
 
 63. ELENA: As if safety were a sticker. As if one company owned it.
     엘레나: 마치 안전이 스티커인 것처럼. 마치 한 회사가 소유한 것처럼.
 
-64. NOAH: You're right. That's not what we meant. But it's what we did.
-    노아: 맞는 말씀이에요. 우리가 의도한 건 아니었어요. 하지만 우리가 한 일이죠.
+64. NOAH: You're right. That's not what we meant, but intent doesn't matter much to your patient. It's what we did. And if we did it, we're the ones who fix it.
+    노아: 맞는 말씀이에요. 우리가 의도한 건 아니었지만, 선생님 환자에겐 의도가 별로 중요하지 않죠. 그건 우리가 한 일이에요. 우리가 했으니, 고치는 것도 우리 몫이에요.
 
 65. PIERCE: At least you see the difference.
     피어스: 적어도 그 차이는 아네요.
@@ -219,8 +219,8 @@
 66. NOAH: What would fix it? In your view?
     노아: 어떻게 하면 고쳐질까요? 선생님 생각엔?
 
-67. PIERCE: Separate the map from your sales. Safety isn't a customer list.
-    피어스: 지도를 당신네 판매와 분리해요. 안전은 고객 명단이 아니에요.
+67. PIERCE: Separate the map from your sales. Safety isn't a customer list. If your map only shows buyers, then it's an advertisement, and patients deserve to know that.
+    피어스: 지도를 당신네 판매와 분리해요. 안전은 고객 명단이 아니에요. 지도에 구매자만 나온다면 그건 광고고, 환자들은 그걸 알 권리가 있어요.
 
 68. ELENA: Anyone who completes emergency training is on the map. Any product.
     엘레나: 응급 교육을 이수한 사람은 누구나 지도에 올라가요. 어떤 제품이든.
@@ -266,8 +266,8 @@
 81. ZOE: You promised to take buyers off the map? Our map is our funnel!
     조이: 지도를 구매자랑 분리하겠다고 약속했어요? 지도가 우리 퍼널인데!
 
-82. NOAH: Not off. We add everyone trained. Our customers stay. With a filter.
-    노아: 빼는 게 아니에요. 교육받은 모두를 추가하는 거죠. 고객은 그대로. 필터와 함께.
+82. NOAH: Not off. We add everyone who's trained, whatever product they use. Our customers stay on the map, and they get a filter, so Jess can still find them if she wants.
+    노아: 빼는 게 아니에요. 어떤 제품을 쓰든 교육받은 모두를 추가하는 거죠. 우리 고객은 지도에 그대로 있고 필터도 생겨요. 그래서 제스가 원하면 여전히 찾을 수 있어요.
 
 83. AVA: Like "Offers Veyra Fill." A separate checkbox.
     에이바: "베이라 필 취급" 같은 거요. 별도 체크박스.
@@ -290,14 +290,14 @@
 89. AVA: Brooke called. She wants to clap back at Pierce. In a story.
     에이바: 브룩이 전화했어요. 피어스한테 반박하고 싶대요. 스토리로.
 
-90. DIANE: Absolutely not. A paid influencer attacking a doctor? That's a disaster.
-    다이앤: 절대 안 돼요. 돈 받은 인플루언서가 의사를 공격한다고요? 그건 재앙이에요.
+90. DIANE: Absolutely not. A paid influencer attacking a doctor online? That's a disaster. It looks like we sent her, and legally, as her sponsor, we could be responsible for what she says.
+    다이앤: 절대 안 돼요. 돈 받은 인플루언서가 온라인에서 의사를 공격한다고요? 그건 재앙이에요. 우리가 시킨 것처럼 보이고, 법적으로도 협찬사인 우리가 그녀의 말에 책임질 수 있어요.
 
 91. BROOKE: But he's mean!
     브룩: 근데 그 사람 못됐잖아요!
 
-92. ZOE: He's fair, Brooke. He's just not nice. We're fixing the video.
-    조이: 공정한 사람이에요, 브룩. 친절하지 않을 뿐. 우리가 영상을 고칠 거예요.
+92. ZOE: He's fair, Brooke. He's just not nice. We're fixing the video, and if you fight him now, it only makes things worse, for you and for us.
+    조이: 공정한 사람이에요, 브룩. 친절하지 않을 뿐이에요. 우린 영상을 고칠 거예요. 지금 그 사람이랑 싸우면 당신한테도 우리한테도 상황만 더 나빠져요.
 
 93. BROOKE: Fixing? So he was right?
     브룩: 고친다고요? 그럼 그 사람이 옳았어요?
@@ -329,8 +329,8 @@
 102. ZOE: No "amazing"? No "exciting"?
      조이: "놀라운" 없어요? "신나는"도?
 
-103. DIANE: Zoe. It's an apology. Not a launch.
-     다이앤: 조이. 이건 사과예요. 출시가 아니라.
+103. DIANE: Zoe, it's an apology, not a launch. The moment we sound excited, people will think we're celebrating instead of fixing. Plain words show we took it seriously.
+     다이앤: 조이, 이건 출시가 아니라 사과예요. 우리가 들뜬 것처럼 들리는 순간, 사람들은 우리가 고치는 대신 축하하고 있다고 생각할 거예요. 담백한 말이 진지하게 받아들였다는 걸 보여 줘요.
 
 104. DEREK: Should we tag him?
      데릭: 태그할까요?
@@ -417,3 +417,18 @@ SNS 비판에 대한 미국 기업의 모범 대응은 **즉각 반박이 아니
 | ④ Training = sales funnel | Partly fair | "Good for patients. Good for our business. Both are true." | Say it openly |
 
 > **Public response rules:** Start with thanks · No adjectives · No attacks · Say what changed · Legal review · Tell the critic before posting
+
+### ④ 긴 발화 분석
+
+> **64턴 NOAH:** "You're right. That's not what we meant, but intent doesn't matter much to your patient. It's what we did. And if we did it, we're the ones who fix it."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 인정 | You're right. | 변명 전에 상대 말이 옳다고 먼저 인정 |
+| ② 의도 vs 영향 | That's not what we meant, but intent doesn't matter much to your patient. | 의도를 짧게 밝히되, 중요한 건 상대가 받은 영향임을 인정 |
+| ③ 책임 수용 | It's what we did. | 주어를 we로 두어 책임을 분명히 함 |
+| ④ 행동 약속 | And if we did it, we're the ones who fix it. | 사과를 '고치겠다'는 행동으로 연결 |
+
+**활용 패턴:** You're right → not what we meant, but… → It's what we did → we're the ones who fix it
+**연결 표현:** That's not what we meant(의도한 건 아니었다) · doesn't matter much to(~에겐 별로 중요하지 않다) · we're the ones who…(~하는 건 바로 우리다)
+**연습:** 고객이 우리 회사 안내문 때문에 오해를 받았다고 항의할 때, 같은 구조로 책임을 인정하는 말을 30단어 안팎으로 해 보기.

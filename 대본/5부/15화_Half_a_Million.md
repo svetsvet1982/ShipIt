@@ -35,8 +35,8 @@
 06. NOAH: Denise, thank you. Is my mom here yet?
     노아: 데니스, 고마워요. 엄마 아직 안 왔어요?
 
-07. LILY: Right behind me. She took the early flight from Phoenix. She's nervous.
-    릴리: 내 바로 뒤에. 피닉스에서 아침 비행기 탔어. 긴장했어.
+07. LILY: Right behind me. She took the early flight from Phoenix, and she's been nervous the whole way. She kept asking what to wear to a company office. I told her it's a party, not a board meeting, but she bought a new dress anyway.
+    릴리: 내 바로 뒤에. 피닉스에서 아침 비행기 탔는데, 오는 내내 긴장했어. 회사 사무실에 뭘 입고 가야 하냐고 계속 묻더라. 이사회가 아니라 파티라고 했는데도, 결국 새 원피스를 샀어.
 
 08. CAROL: Noah! Look at this place. You have real chairs now. Not folding ones.
     캐럴: 노아! 여기 좀 봐. 이제 진짜 의자가 있네. 접이식 말고.
@@ -50,8 +50,8 @@
 11. NOAH: The recall article?
     노아: 회수 기사요?
 
-12. CAROL: I cut it out. It's on my refrigerator. Next to your father's bridge photo.
-    캐럴: 오려 놨어. 냉장고에 붙어 있어. 네 아빠 다리 사진 옆에.
+12. CAROL: I cut it out and put it on my refrigerator, right next to your father's bridge photo. Some people saw the word "recall" and thought it was bad news. I read the whole thing and thought, that's my son telling the truth.
+    캐럴: 오려서 냉장고에 붙여 놨어. 네 아빠 다리 사진 바로 옆에. 어떤 사람들은 "회수"라는 단어만 보고 나쁜 소식인 줄 알았지. 난 전부 읽고 생각했어. 우리 아들이 진실을 말하고 있구나.
 
 13. PRIYA: Mrs. Bennett! I'm Priya. Noah's chemist. From the very first morning.
     프리야: 베넷 부인! 프리야예요. 노아의 화학자. 맨 첫날 아침부터.
@@ -76,8 +76,8 @@
 19. AVA: "I teach the card to every new nurse now. Eleven so far. None of them will freeze."
     에이바: "이제 모든 신입 간호사한테 그 카드를 가르쳐요. 지금까지 열한 명. 아무도 얼어붙지 않을 거예요."
 
-20. TASHA: Eleven. From one webinar.
-    타샤: 열한 명. 웨비나 하나에서.
+20. TASHA: Eleven nurses, from one webinar. That's how this works. Rebecca learned it once, and now she teaches it to every new nurse who walks into her clinic. None of us will ever meet those eleven people, but they'll be ready.
+    타샤: 간호사 열한 명. 웨비나 하나에서. 이게 이렇게 퍼지는 거예요. 레베카가 한 번 배웠고, 이제 자기 병원에 들어오는 모든 신입 간호사한테 가르쳐요. 우린 그 열한 명을 절대 만나지 못하겠지만, 그들은 준비돼 있을 거예요.
 
 21. DEREK: Second message. From Keisha. "Cold pizza tonight? Proud of you all."
     데릭: 두 번째 메시지. 키샤한테서. "오늘 밤 식은 피자? 다들 자랑스러워요."
@@ -160,8 +160,8 @@
 47. NOAH: Where?
     노아: 어디예요?
 
-48. GRACE: Seoul. South Korea. A nurse. Her email says "clinic in Gangnam."
-    그레이스: 서울. 대한민국. 간호사. 이메일에 "강남의 병원"이라고 돼 있어요.
+48. GRACE: Seoul, South Korea. A nurse, according to the registration. Her email says "clinic in Gangnam," so she probably works with fillers every day. Our five hundred thousandth download came from a country where we don't even sell yet.
+    그레이스: 서울, 대한민국. 등록 정보로는 간호사예요. 이메일에 "강남의 병원"이라고 돼 있으니, 아마 매일 필러를 다룰 거예요. 50만 번째 다운로드가 우리가 아직 팔지도 않는 나라에서 왔네요.
 
 49. MARCUS: Korea. CEO Park will say, "I told you so."
     마커스: 한국. 박 대표님이 "내가 그랬잖아요"라고 하시겠네.
@@ -204,14 +204,14 @@
 61. ELENA: Five years ago, Noah told me he knew a chemist. I didn't believe him.
     엘레나: 5년 전, 노아가 화학자를 안다고 했어요. 난 안 믿었죠.
 
-62. PRIYA: He called me first. At seven a.m. On a Saturday.
-    프리야: 나한테 제일 먼저 전화했어요. 토요일 아침 7시에.
+62. PRIYA: He called me first, at seven a.m. on a Saturday. I told him somebody had better be dying. Then he explained what had happened to Lily, and I stopped being angry. I haven't stopped working since.
+    프리야: 나한테 제일 먼저 전화했어요. 토요일 아침 7시에. 누가 죽어 가고 있어야 할 거라고 했죠. 그러다 릴리한테 무슨 일이 있었는지 설명을 듣고, 화가 풀렸어요. 그 뒤로 일을 멈춘 적이 없어요.
 
 63. MARCUS: Then me. In a parking lot.
     마커스: 그다음 나. 주차장에서.
 
-64. ELENA: Then all of you. I never thought he'd call this many people.
-    엘레나: 그다음 여러분 모두. 이렇게 많은 사람한테 전화할 줄은 몰랐어요.
+64. ELENA: Then all of you, one by one. I never thought he'd call this many people. Five years ago I thought this was a napkin idea that would be over in a month. Instead, it became a room full of people I trust with my patients.
+    엘레나: 그다음 여러분 모두, 한 명씩. 이렇게 많은 사람한테 전화할 줄은 몰랐어요. 5년 전엔 이게 한 달이면 끝날 냅킨 아이디어라고 생각했어요. 그런데 내 환자들을 맡길 수 있는 사람들로 가득한 방이 됐네요.
 
 65. TASHA: He hired me without knowing who I was. Then found out.
     타샤: 내가 누군지도 모르고 날 뽑았어요. 그러고 나서 알게 됐죠.
@@ -243,8 +243,8 @@
 74. NOAH: "Build the bridge you can finish."
     노아: "끝낼 수 있는 다리를 지어라."
 
-75. CAROL: That was the second one. About the first one, he said, "Now people can cross. Even people I'll never meet."
-    캐럴: 그건 두 번째야. 첫 번째 다리에 대해선 "이제 사람들이 건널 수 있다. 내가 절대 만나지 못할 사람들까지."라고 했지.
+75. CAROL: That was the second one. About the first one, he said, "Now people can cross. Even people I'll never meet." He stood on it for a long time that day, just watching cars go over. I think it was the proudest I ever saw him.
+    캐럴: 그건 두 번째야. 첫 번째 다리에 대해선 "이제 사람들이 건널 수 있다. 내가 절대 만나지 못할 사람들까지."라고 했지. 그날 한참을 다리 위에 서서 차들이 건너가는 걸 보고만 있었어. 그때가 내가 본 그 사람의 가장 자랑스러운 모습이었던 것 같아.
 
 76. NOAH: …I never heard that one.
     노아: …그건 처음 들어요.
@@ -272,8 +272,8 @@
 83. INGRID: Let me guess. Thirty-one percent international. And number five hundred thousand came from Seoul.
     잉그리드: 맞혀 볼게요. 31%가 해외. 그리고 50만 번째는 서울에서 왔다.
 
-84. RICHARD: Exactly. The US is not enough. Not anymore. The world already knows your card.
-    리처드: 바로 그거예요. 미국으론 충분하지 않아요. 이제는. 세계가 이미 당신들 카드를 알아요.
+84. RICHARD: Exactly. The US is not enough, not anymore. Doctors in twenty-two countries are already writing to ask when they can buy. The world already knows your card. It's waiting for the product.
+    리처드: 바로 그거예요. 미국으론 충분하지 않아요. 이제는. 22개국 의사들이 벌써 언제 살 수 있냐고 편지를 보내고 있어요. 세계는 이미 당신들 카드를 알아요. 제품을 기다리고 있는 거죠.
 
 85. INGRID: Knowing a card is not buying a filler, Richard.
     잉그리드: 카드를 아는 건 필러를 사는 게 아니에요, 리처드.
@@ -293,8 +293,8 @@
 90. ELENA: We can't sell. But we can exhibit. With a clear sign. "Not available for sale in the EU."
     엘레나: 팔 순 없죠. 하지만 전시는 할 수 있어요. 명확한 표시와 함께. "EU 내 판매 불가."
 
-91. ZOE: A booth to learn. Not to sell. We meet the doctors who downloaded the card. We listen.
-    조이: 배우기 위한 부스. 팔기 위한 게 아니라. 카드를 다운로드한 의사들을 만나요. 듣고요.
+91. ZOE: A booth to learn, not to sell. We meet the doctors who downloaded the card, face to face, and we listen. Right now, all we know about Europe comes from emails and download numbers. A booth turns those numbers into real conversations.
+    조이: 팔기 위한 게 아니라 배우기 위한 부스예요. 카드를 다운로드한 의사들을 직접 만나서 들어요. 지금 우리가 유럽에 대해 아는 건 전부 이메일과 다운로드 숫자에서 나온 거예요. 부스는 그 숫자를 진짜 대화로 바꿔 줘요.
 
 92. INGRID: How much?
     잉그리드: 얼마예요?
@@ -323,8 +323,8 @@
 100. RICHARD: Ingrid! You agree with me?
      리처드: 잉그리드! 나한테 동의하는 거예요?
 
-101. INGRID: No. I agree with Zoe. There's a difference. You want to conquer Europe. She wants to listen to it.
-     잉그리드: 아니요. 조이한테 동의하는 거예요. 차이가 있죠. 당신은 유럽을 정복하고 싶고. 그녀는 유럽의 말을 듣고 싶은 거예요.
+101. INGRID: No. I agree with Zoe, and there's a difference. You want to conquer Europe, Richard. She wants to listen to it first. Conquering costs millions and fails quietly. Listening costs two hundred thousand and tells us whether conquering is even a good idea.
+     잉그리드: 아니요. 조이한테 동의하는 거예요. 차이가 있죠. 리처드, 당신은 유럽을 정복하고 싶고, 그녀는 먼저 유럽의 말을 듣고 싶은 거예요. 정복은 수백만 달러가 들고 조용히 실패해요. 듣는 건 20만 달러가 들고, 정복이 좋은 생각인지부터 알려 줘요.
 
 102. ELAINE: The board votes in October. Officially. But unofficially? I'll vote yes.
      일레인: 이사회 공식 투표는 10월이에요. 하지만 비공식적으로? 난 찬성할게요.
@@ -358,8 +358,8 @@
 111. NOAH: Mom. She tells me everything. Eventually.
      노아: 엄마. 엄만 다 말해 줘. 결국엔.
 
-112. LILY: I'm not ready. The scar is part of the story now. Destiny compares hers to mine.
-     릴리: 아직 준비 안 됐어. 흉터는 이제 이야기의 일부야. 데스티니가 자기 거랑 내 거를 비교해.
+112. LILY: I'm not ready. The scar is part of the story now, and I'm not sure I want to erase it yet. Destiny compares hers to mine, and she's proud that hers is smaller. If mine disappears, she loses something to measure against.
+     릴리: 아직 준비 안 됐어. 흉터는 이제 이야기의 일부고, 아직 지우고 싶은지 잘 모르겠어. 데스티니가 자기 거랑 내 거를 비교하는데, 자기 게 더 작다고 자랑스러워해. 내 게 사라지면, 그 애는 비교할 대상을 잃는 거잖아.
 
 113. NOAH: When will you be ready?
      노아: 언제 준비될 것 같아?
@@ -370,8 +370,8 @@
 115. NOAH: How will I know when it's finished?
      노아: 다 지은 걸 어떻게 알아?
 
-116. LILY: You'll know. Probably not in Paris. But Paris is a good next step.
-     릴리: 알게 될 거야. 아마 파리에선 아니겠지. 하지만 파리는 좋은 다음 단계야.
+116. LILY: You'll know, the same way Dad knew. Probably not in Paris, because Paris is just the first booth, not the whole bridge. But it's a good next step, and you can finish it. Sign the form.
+     릴리: 알게 될 거야. 아빠가 알았던 것처럼. 아마 파리에선 아니겠지. 파리는 첫 번째 부스일 뿐, 다리 전체가 아니니까. 하지만 좋은 다음 단계고, 오빠가 끝낼 수 있는 거야. 서명해.
 
 117. NOAH: Zoe. Pen.
      노아: 조이. 펜.
@@ -418,3 +418,17 @@
 | Toast (Tasha) | 건배 | *"Let's raise a glass to the first ten seconds…"* |
 
 > **Next step:** IMCAS Paris (January) — small booth, ~$200K incl. travel · "A booth to learn, not to sell" · "Not available for sale in the EU" sign · free emergency training (EN/FR/DE) · Application deadline Sept 30 · Board vote in October
+
+### ④ 긴 발화 분석
+
+> **101턴 INGRID:** "No. I agree with Zoe, and there's a difference. You want to conquer Europe, Richard. She wants to listen to it first. Conquering costs millions and fails quietly. Listening costs two hundred thousand and tells us whether conquering is even a good idea."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 입장 정리(오해 바로잡기) | No. I agree with Zoe, and there's a difference. | 상대의 해석을 짧게 부정하고 "차이가 있다"로 주의를 끈다 |
+| ② 대비(두 접근) | You want to conquer Europe, Richard. She wants to listen to it first. | 같은 목표에 대한 두 태도를 나란히 놓는다 |
+| ③ 비용·결과 비교 | Conquering costs millions and fails quietly. Listening costs two hundred thousand and tells us whether conquering is even a good idea. | 같은 문장 구조를 반복해 작은 단계의 가치를 숫자로 보여 준다 |
+
+**활용 패턴:** "No. I agree with B" → You want A. / She wants B. → A costs… / B costs… and tells us…
+**연결 표현:** there's a difference(차이가 있다) · first(먼저) · fails quietly(조용히 실패한다) · whether … is even a good idea(애초에 좋은 생각인지)
+**연습:** 큰 투자와 작은 시범 사업 중 하나를 고르는 회의에서, 두 안을 같은 구조로 대비하며 40~50단어로 의견을 말해 보기.

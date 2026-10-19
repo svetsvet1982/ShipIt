@@ -26,8 +26,8 @@
 03. ELAINE: Go ahead, Diane. Plain English is the only kind I trust.
     일레인: 하세요, 다이앤. 쉬운 영어만 믿어요.
 
-04. DIANE: You owe a fiduciary duty to all shareholders. Not to your fund. Not to your feelings.
-    다이앤: 여러분은 모든 주주에게 신인의무를 집니다. 자기 펀드가 아니라. 자기 감정이 아니라.
+04. DIANE: You owe a fiduciary duty to all shareholders. Not to your fund, not to your limited partners, and not to your feelings about Halvern or anyone else. Every one of you represents someone, I know, but in this room, you represent the company.
+    다이앤: 여러분은 모든 주주에게 신인의무를 집니다. 자기 펀드가 아니라, 출자자가 아니라, 할번이든 누구든 그에 대한 자기 감정이 아니라. 각자 대표하는 사람이 있다는 건 알아요. 하지만 이 방 안에서 여러분은 회사를 대표합니다.
 
 05. RICHARD: We know, Diane.
     리처드: 알아요, 다이앤.
@@ -56,8 +56,8 @@
 13. VICTORIA: And Halvern's one point two?
     빅토리아: 그럼 할번의 12억은요?
 
-14. JONATHAN: Fair. But not full. A good price for Halvern. Not the best price for you.
-    조너선: 공정합니다. 하지만 충분하진 않아요. 할번에겐 좋은 가격. 여러분에겐 최선이 아니고요.
+14. JONATHAN: Fair, but not full. A good price for Halvern, not the best price for you. It's inside our independent range, so nobody could call it insulting, but it doesn't pay you for the growth you'd be creating, mostly in Asia.
+    조너선: 공정합니다. 하지만 충분하진 않아요. 할번에겐 좋은 가격, 여러분에겐 최선이 아닌 가격. 독립 시나리오 범위 안이라 모욕적이라고 할 순 없지만, 여러분이 만들어 낼 성장, 주로 아시아에서의 성장에 대한 값은 치르지 않아요.
 
 15. RICHARD: "Fair, but not full." So we negotiate. Nobody's proposing we accept the first number.
     리처드: "공정하지만 충분하지 않다." 그럼 협상하죠. 아무도 첫 숫자를 받자고 하진 않아요.
@@ -88,8 +88,8 @@
 23. ELAINE: And your fund?
     일레인: 그리고 당신 펀드는요?
 
-24. RICHARD: Year nine. My investors are teachers' pensions. Firefighters. They've waited nine years.
-    리처드: 9년 차예요. 출자자는 교사 연금. 소방관들. 9년을 기다렸어요.
+24. RICHARD: Year nine. My investors are teachers' pensions and firefighters, people who trusted me with their retirement money. They've waited nine years, Elaine. At some point, a paper return has to become a real check, or I've failed them.
+    리처드: 9년 차예요. 출자자는 교사 연금과 소방관들, 노후 자금을 나한테 맡긴 사람들이에요. 9년을 기다렸어요, 일레인. 언젠가는 장부상 수익이 진짜 수표가 돼야 해요. 아니면 내가 그들을 실망시킨 거죠.
 
 25. VICTORIA: That's real, Elaine. Fund life matters.
     빅토리아: 그건 현실이에요, 일레인. 펀드 만기는 중요해요.
@@ -106,8 +106,8 @@
 29. NOAH: Lumaderm Flex in Korea. At Bellacare prices.
     노아: 한국에 루마덤 플렉스. 벨라케어 가격으로.
 
-30. VICTORIA: Exactly. Our Asia plan loses two years. I'm not saying sell. I'm saying talk. Engaging isn't agreeing.
-    빅토리아: 바로 그거예요. 아시아 계획이 2년을 잃어요. 팔자는 게 아니라. 대화하자는 거죠. 협상 개시가 동의는 아니에요.
+30. VICTORIA: Exactly. If Halvern starts a price war in Korea this fall, our Asia plan loses two years, and Asia is in every scenario Jonathan just showed us. So I'm not saying sell. I'm saying talk. Engaging isn't agreeing.
+    빅토리아: 바로 그거예요. 할번이 올가을 한국에서 가격 전쟁을 시작하면 아시아 계획이 2년을 잃어요. 그리고 조너선이 방금 보여 준 모든 시나리오에 아시아가 들어 있죠. 그러니 팔자는 게 아니에요. 대화하자는 거예요. 협상 개시가 동의는 아니에요.
 
 31. ELAINE: Victor.
     일레인: 빅터.
@@ -118,8 +118,8 @@
 33. RICHARD: So at one point five, you'd negotiate. Same as me.
     리처드: 그럼 15억이면 협상하겠네요. 나랑 같은.
 
-34. VICTOR: No. I'm against a no-shop at one point two. It freezes Tokyo and Seoul for forty-five days.
-    빅터: 아니요. 12억에 노숍 하는 데 반대해요. 도쿄와 서울이 45일간 얼어붙어요.
+34. VICTOR: No. I'm against a no-shop at one point two, because it freezes Tokyo and Seoul for forty-five days. Mitsukawa and Daeyang won't wait forever while we negotiate with Halvern. Partners remember who froze them out.
+    빅터: 아니요. 12억에 노숍 하는 데 반대해요. 도쿄와 서울이 45일간 얼어붙으니까요. 우리가 할번과 협상하는 동안 미쓰카와와 대양이 마냥 기다려 주진 않아요. 파트너들은 누가 자기를 따돌렸는지 기억해요.
 
 35. PAUL: And the IPO story depends on Asia.
     폴: 그리고 IPO 스토리는 아시아에 달려 있죠.
@@ -136,8 +136,8 @@
 39. ELAINE: Your view?
     일레인: 당신 의견은요?
 
-40. INGRID: Fjord invests where principles are part of the value. Not decoration. Which principles disappear? In writing.
-    잉그리드: 피오르드는 원칙이 가치의 일부인 곳에 투자해요. 장식이 아니라. 어떤 원칙이 사라지죠? 서면으로.
+40. INGRID: Fjord invests where principles are part of the value, not decoration. That's written into our fund documents, and our own investors check it every year. So my question is simple: which principles disappear if Halvern buys Veyra? In writing, please.
+    잉그리드: 피오르드는 원칙이 장식이 아니라 가치의 일부인 곳에 투자해요. 그건 우리 펀드 문서에 적혀 있고, 우리 출자자들이 매년 확인하죠. 그러니 질문은 간단해요. 할번이 베이라를 사면 어떤 원칙이 사라지죠? 서면으로 부탁해요.
 
 41. ELAINE: Elena?
     일레인: 엘레나?
@@ -183,8 +183,8 @@
 54. ELAINE: Explain.
     일레인: 설명해 줘요.
 
-55. PRIYA: Halvern rejected FlexLink when I worked there. Too risky. Now they want to buy what they rejected.
-    프리야: 내가 할번에 있을 때 FlexLink를 거절했어요. 너무 위험하다고. 이제 자기들이 거절한 걸 사고 싶어 하죠.
+55. PRIYA: Halvern rejected FlexLink when I worked there. Too risky, they said, and that was the end of the discussion. Now they want to pay over a billion dollars for the exact chemistry they rejected. That tells me they still don't understand it.
+    프리야: 내가 할번에 있을 때 FlexLink를 거절했어요. 너무 위험하다면서, 논의는 거기서 끝났죠. 이제 자기들이 거절한 바로 그 화학에 10억 달러 넘게 내겠대요. 그건 그들이 아직도 그걸 이해하지 못한다는 뜻이에요.
 
 56. VICTOR: And your skin booster?
     빅터: 그럼 스킨부스터는요?
@@ -207,8 +207,8 @@
 62. RICHARD: Thank you. Finally, someone honest about money.
     리처드: 고마워요. 드디어 돈에 대해 솔직한 사람이네요.
 
-63. MARCUS: Leo has three kids. Ha-eun has loans. Jamal starts college. Money matters. But I asked twenty employees.
-    마커스: 레오는 아이가 셋. 하은은 대출. 자말은 대학에 가요. 돈은 중요해요. 하지만 직원 스무 명에게 물었어요.
+63. MARCUS: Leo has three kids. Ha-eun has loans. Jamal starts college. Money matters, and I'm not going to pretend it doesn't, sir. But before this meeting, I asked twenty employees what they thought, one by one, face to face.
+    마커스: 레오는 아이가 셋. 하은은 대출. 자말은 대학에 가요. 돈은 중요해요. 아닌 척하지 않겠습니다. 하지만 이 회의 전에 직원 스무 명에게 생각을 물었어요. 한 명씩, 얼굴을 보고요.
 
 64. ELAINE: And?
     일레인: 그래서요?
@@ -234,8 +234,8 @@
 71. RICHARD: You've had thirteen days.
     리처드: 13일이 있었잖아요.
 
-72. NOAH: Thirteen days of everyone's opinion. I know what each of you wants. I don't know what I want.
-    노아: 13일 동안 모두의 의견. 각자 뭘 원하는지 알아요. 내가 뭘 원하는지 모르겠어요.
+72. NOAH: Thirteen days of everyone's opinion. Investors, lawyers, bankers, employees, even my fiancée. I know exactly what each of you wants, and most of it makes sense. What I don't know yet is what I want, and I won't fake that in front of this board.
+    노아: 13일 동안 모두의 의견. 투자자, 변호사, 은행가, 직원, 심지어 약혼자까지. 각자 뭘 원하는지 정확히 알고, 대부분 일리가 있어요. 아직 모르는 건 내가 뭘 원하는지예요. 그리고 이 이사회 앞에서 아는 척하진 않을 거예요.
 
 73. VICTOR: That's honest. It's also a problem. The board needs a CEO recommendation.
     빅터: 정직하네요. 그리고 문제기도 해요. 이사회는 CEO 권고가 필요해요.
@@ -281,8 +281,8 @@
 86. RICHARD: One point three. He moved a hundred million in two weeks. That's negotiation working.
     리처드: 13억. 2주 만에 1억을 올렸어요. 협상이 통하고 있다는 거예요.
 
-87. JONATHAN: Or that's an exploding offer. Designed to stop you thinking.
-    조너선: 아니면 시한부 제안이죠. 생각을 멈추게 하려고 설계된.
+87. JONATHAN: Or that's an exploding offer, designed to stop you thinking. In my experience, a buyer who's confident gives you time, because he believes the numbers will win. A buyer who adds a deadline is usually worried about what you'll learn if you wait.
+    조너선: 아니면 시한부 제안이죠. 생각을 멈추게 하려고 설계된. 제 경험상 자신 있는 인수자는 시간을 줘요. 숫자가 이길 거라고 믿으니까요. 마감을 붙이는 인수자는 대개 여러분이 기다리는 동안 뭘 알게 될지 걱정하는 거예요.
 
 88. ELAINE: An offer that explodes is an offer that's nervous. Why is Tom nervous?
     일레인: 폭발하는 제안은 초조한 제안이에요. 톰은 왜 초조하죠?
@@ -332,8 +332,8 @@
 103. RICHARD: Three hours before his deadline? Elaine, that's reckless.
      리처드: 그의 마감 세 시간 전에요? 일레인, 무모해요.
 
-104. ELAINE: Three hours is enough to sign, Richard. If we decide to. The thinking happens before.
-     일레인: 세 시간이면 서명하기 충분해요, 리처드. 그러기로 한다면. 생각은 그 전에 하는 거고요.
+104. ELAINE: Three hours is enough to sign, Richard, if we decide to. Signing takes minutes. The thinking happens before, and I'd rather this board think for two more days than react in two hours. Deadlines are Tom's tool. They don't have to be ours.
+     일레인: 세 시간이면 서명하기 충분해요, 리처드. 그러기로 한다면. 서명은 몇 분이면 돼요. 생각은 그 전에 하는 거고, 난 이 이사회가 두 시간 만에 반응하느니 이틀 더 생각하길 바라요. 마감은 톰의 도구예요. 우리 도구일 필요는 없어요.
 
 105. RICHARD: Noah. Seven years I've backed you. If not now, when? And for how much? Think about it.
      리처드: 노아. 7년 동안 당신을 밀었어요. 지금이 아니면, 언제? 그리고 얼마에? 생각해 봐요.
@@ -361,8 +361,8 @@
 112. ELAINE: Then. And what's the one thing now?
      일레인: 그때는요. 그럼 지금의 그 한 가지는 뭐예요?
 
-113. NOAH: …I don't know. Two weeks ago, I'd have said it immediately. Now everything sounds like a reason.
-     노아: …모르겠어요. 2주 전이라면 바로 말했을 거예요. 지금은 모든 게 이유처럼 들려요.
+113. NOAH: …I don't know. Two weeks ago, I'd have said it immediately: patient safety, no shortcuts. Now everything sounds like a reason. The money sounds like a reason, the employees sound like a reason, and the rules sound like a reason. I can't hear the one thing anymore.
+     노아: …모르겠어요. 2주 전이라면 바로 말했을 거예요. 환자 안전, 지름길 없음. 지금은 모든 게 이유처럼 들려요. 돈도 이유 같고, 직원들도 이유 같고, 규칙도 이유 같아요. 그 한 가지가 더는 들리지 않아요.
 
 114. ELAINE: Then don't decide with the board. Decide with the people who drew the first napkin.
      일레인: 그럼 이사회와 결정하지 마요. 첫 냅킨을 그린 사람들과 결정해요.
@@ -420,3 +420,17 @@
 | Noah Bennett | Founder / CEO | — | Undecided | Tempted by 400 employees, held back by the rules |
 
 > **Calder Partners:** independent DCF $1.1–1.6B · IPO path $1.5–2.0B · Halvern = *fair, but not full.* · **Halvern revised: $1.3B if exclusivity signed by Friday noon** · Formal vote **Friday 9 a.m.** · Lost if sold (Elena): medical-only · veto · independent committee (Reese would resign) · public registry · Mitsukawa data promise.
+
+### ④ 긴 발화 분석
+
+> **87턴 JONATHAN:** "Or that's an exploding offer, designed to stop you thinking. In my experience, a buyer who's confident gives you time, because he believes the numbers will win. A buyer who adds a deadline is usually worried about what you'll learn if you wait."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 재정의(이름 붙이기) | Or that's an exploding offer, designed to stop you thinking. | 상대가 "협상 성공"이라 본 것을 다른 이름으로 다시 규정 |
+| ② 경험 근거(대비 A) | In my experience, a buyer who's confident gives you time, because he believes the numbers will win. | 자신 있는 인수자의 행동과 그 이유 |
+| ③ 대비 B(함의) | A buyer who adds a deadline is usually worried about what you'll learn if you wait. | 마감의 숨은 의도를 드러내 압박을 약점으로 뒤집음 |
+
+**활용 패턴:** "Or that's A"(재정의) → In my experience, X does… because… → Y (who does the opposite) is usually…
+**연결 표현:** Or that's…(아니면 그건 ~이다) · designed to…(~하도록 설계된) · In my experience(제 경험상) · is usually worried about…(대개 ~를 걱정한다)
+**연습:** 공급사가 "오늘 서명하면 10% 할인"을 제시했을 때, 같은 구조로 그 마감의 의도를 팀에 설명해 보기(40단어 안팎).

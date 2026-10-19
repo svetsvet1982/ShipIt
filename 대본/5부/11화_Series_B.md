@@ -23,8 +23,8 @@
 02. NOAH: Numbers first. Then the story. I learned that at the board.
     노아: 숫자 먼저. 그다음 이야기. 이사회에서 배웠어요.
 
-03. VICTORIA: And address the lawsuit before they ask. If they ask first, it looks like you're hiding.
-    빅토리아: 그리고 소송은 그쪽이 묻기 전에 다뤄요. 먼저 물으면 숨기는 것처럼 보여요.
+03. VICTORIA: And address the lawsuit before they ask, because investors forgive bad news much faster than they forgive surprises. If they have to ask first, it looks like you're hiding something, and then every other number on your slides gets questioned too.
+    빅토리아: 그리고 소송은 그쪽이 묻기 전에 다뤄요. 투자자들은 놀랄 일보다 나쁜 소식을 훨씬 빨리 용서하거든요. 그쪽이 먼저 물어야 하면 뭔가 숨기는 것처럼 보이고, 그러면 슬라이드에 있는 다른 숫자까지 전부 의심받아요.
 
 04. MARCUS: Slide four. Right after the numbers.
     마커스: 4번 슬라이드. 숫자 바로 다음.
@@ -50,8 +50,8 @@
 11. ELENA: How do they know about that?
     엘레나: 그걸 어떻게 알아요?
 
-12. RICHARD: Austin is small. Investors talk. Someone will ask. Better you answer than Noah.
-    리처드: 오스틴은 좁아요. 투자자들은 말이 많고. 누군가 물을 거예요. 노아보다 당신이 답하는 게 나아요.
+12. RICHARD: Austin is small, and investors talk to each other more than they talk to founders. Someone in that room will ask about it, I promise you. And honestly, it's better if you answer than Noah, because if he answers, it sounds like a CEO defending himself.
+    리처드: 오스틴은 좁고, 투자자들은 창업자들과 얘기하는 것보다 자기들끼리 더 많이 얘기해요. 그 방에서 누군가는 꼭 물을 거예요, 장담해요. 그리고 솔직히 노아보다 당신이 답하는 게 나아요. 노아가 답하면 CEO가 자기 변호를 하는 것처럼 들리거든요.
 
 13. ELENA: What should I say?
     엘레나: 뭐라고 해야 해요?
@@ -82,8 +82,8 @@
 21. OWEN: Why do they stay? If Flex is cheaper?
     오언: 왜 남는 거죠? 플렉스가 더 싼데?
 
-22. SOFIA: Training before every order. Monthly quality charts. And a company that recalls itself in two hours.
-    소피아: 모든 주문 전 교육. 월간 품질 차트. 그리고 두 시간 만에 스스로 회수하는 회사.
+22. SOFIA: Three reasons, really. We train every clinic before every order, so the injectors feel confident. We send monthly quality charts, so they can see exactly what they're buying. And they know we're a company that recalls itself in two hours. That kind of trust is hard to undercut on price.
+    소피아: 사실 이유는 세 가지예요. 모든 주문 전에 모든 병원을 교육해서 시술자들이 자신감을 갖게 해요. 월간 품질 차트를 보내서 자기가 뭘 사는지 정확히 볼 수 있게 하고요. 그리고 우리가 두 시간 만에 스스로 회수하는 회사라는 걸 알아요. 그런 신뢰는 가격으로 깎아내리기 어렵죠.
 
 23. RAFAEL: The recall is a selling point now?
     라파엘: 회수가 이제 셀링 포인트예요?
@@ -112,8 +112,8 @@
 31. NOAH: Halvern sued us in Delaware last week. Patent infringement. We expected it.
     노아: 할번이 지난주 델라웨어에서 우릴 소송했어요. 특허 침해. 예상했어요.
 
-32. MARCUS: Our response has two parts. We don't infringe their narrow claim. Their broad claim is invalid.
-    마커스: 우리 대응은 두 부분이에요. 그쪽 좁은 청구항은 침해하지 않는다. 넓은 청구항은 무효다.
+32. MARCUS: Our response has two parts, and I'll keep it simple. First, we don't infringe their narrow claim, because that claim covers something narrower than what we make. Second, their broad claim is invalid, which means it should never have been granted in the first place.
+    마커스: 우리 대응은 두 부분이고, 간단히 말할게요. 첫째, 그쪽 좁은 청구항은 침해하지 않아요. 그 청구항은 우리가 만드는 것보다 좁은 걸 다루니까요. 둘째, 넓은 청구항은 무효예요. 애초에 승인되지 말았어야 했다는 뜻이죠.
 
 33. RAFAEL: Invalid why?
     라파엘: 왜 무효예요?
@@ -127,8 +127,8 @@
 36. OWEN: And your estimate? Win or lose?
     오언: 그럼 예상은요? 이길지 질지?
 
-37. RAYMOND: I don't make promises. But I've rarely seen prior art this clean. A dated thesis. A conference poster.
-    레이먼드: 약속은 안 해요. 하지만 이렇게 깨끗한 선행기술은 드물게 봤어요. 날짜 있는 논문. 학회 포스터.
+37. RAYMOND: I don't make promises, and I'd be suspicious of any lawyer who did. But I'll say this: in my career, I've rarely seen prior art this clean. A dated thesis, a conference poster, and both published years before Halvern filed. That's the kind of evidence a patent office takes seriously.
+    레이먼드: 약속은 안 해요. 약속하는 변호사가 있다면 의심하는 게 좋고요. 하지만 이건 말할게요. 제 경력에서 이렇게 깨끗한 선행기술은 드물게 봤어요. 날짜 있는 논문, 학회 포스터, 그리고 둘 다 할번이 출원하기 몇 년 전에 발표됐죠. 특허청이 진지하게 받아들이는 종류의 증거예요.
 
 38. OWEN: Cost?
     오언: 비용은?
@@ -151,8 +151,8 @@
 44. RAFAEL: Europe? You're not even three years old in the U.S.
     라파엘: 유럽이요? 미국에서 3년도 안 됐는데요.
 
-45. NOAH: That's a fair concern. Europe is next year's experiment. Not this year's priority. Five percent of the budget.
-    노아: 정당한 우려예요. 유럽은 내년의 실험이에요. 올해 우선순위가 아니라. 예산의 5%.
+45. NOAH: That's a fair concern, and I'd ask the same question. Here's the thing. Europe is next year's experiment, not this year's priority. It's five percent of the budget, and if the Paris conference doesn't open real doors, we stop and put that money back into the U.S.
+    노아: 정당한 우려예요. 저라도 같은 질문을 할 거예요. 중요한 건 이거예요. 유럽은 내년의 실험이지 올해의 우선순위가 아니에요. 예산의 5%이고, 파리 학회에서 실질적인 기회가 열리지 않으면 멈추고 그 돈을 다시 미국에 넣을 거예요.
 
 46. INGRID: Path to profitability?
     잉그리드: 흑자 전환 경로는요?
@@ -186,8 +186,8 @@
 55. RAFAEL: Everything can be bought. At the right price.
     라파엘: 모든 건 살 수 있어요. 맞는 가격이면.
 
-56. NOAH: Maybe. But a way of working usually breaks when it's bought. I've seen it happen.
-    노아: 그럴지도요. 하지만 일하는 방식은 팔리면 보통 부서져요. 그런 걸 봤어요.
+56. NOAH: Maybe. But a way of working usually breaks when it's bought, because the new owner brings their own rules, their own targets, and their own people. The culture that made the company worth buying is the first thing to go. I've seen it happen up close.
+    노아: 그럴지도요. 하지만 일하는 방식은 팔리면 보통 부서져요. 새 주인이 자기 규칙, 자기 목표, 자기 사람들을 데려오니까요. 그 회사를 살 가치가 있게 만든 문화가 가장 먼저 사라져요. 그걸 가까이서 봤어요.
 
 57. RAFAEL: Where?
     라파엘: 어디서요?
@@ -216,8 +216,8 @@
 65. OWEN: Over what?
     오언: 무엇 때문에요?
 
-66. ELENA: Inventory controls at Glow. After a stolen syringe hurt a girl in Houston. I wanted monthly counts.
-    엘레나: 글로우의 재고 관리. 도난당한 주사기가 휴스턴에서 한 여자애를 다치게 한 뒤. 난 월간 조사를 원했어요.
+66. ELENA: Inventory controls at Glow. After a stolen syringe hurt a girl in Houston, I couldn't stop thinking that it could happen again, in another city, with another product that had our name on it. So I wanted monthly counts at every location, without exceptions.
+    엘레나: 글로우의 재고 관리요. 도난당한 주사기가 휴스턴에서 한 여자애를 다치게 한 뒤로, 다른 도시에서, 우리 이름이 붙은 다른 제품으로 또 일어날 수 있다는 생각을 멈출 수가 없었어요. 그래서 모든 지점에서 예외 없이 월간 조사를 원했어요.
 
 67. NOAH: Sales wanted quarterly. I was in the middle. We said things we regret.
     노아: 영업은 분기를 원했고. 난 가운데 있었어요. 후회할 말들을 했죠.
@@ -237,8 +237,8 @@
 72. OWEN: Why keep it?
     오언: 왜 갖고 있어요?
 
-73. ELENA: Because a company this size should have someone who can say no. And mean it.
-    엘레나: 이 규모의 회사엔 "노"라고 말하고 진심일 수 있는 사람이 있어야 하니까요.
+73. ELENA: Because a company this size should have someone who can say no, and mean it. We're growing fast, and fast companies make mistakes. First, do no harm. That rule only works if someone in the building has the power to stop things before patients pay for it.
+    엘레나: 이 규모의 회사엔 "노"라고 말하고 진심일 수 있는 사람이 있어야 하니까요. 우린 빠르게 크고 있고, 빠른 회사는 실수를 해요. 첫째, 해를 끼치지 마라. 그 원칙은 환자가 대가를 치르기 전에 일을 멈출 힘을 가진 사람이 회사 안에 있어야만 작동해요.
 
 74. RAFAEL: …That's the most honest answer I've heard in a pitch this year.
     라파엘: …올해 피칭에서 들은 답 중 가장 정직하네요.
@@ -290,8 +290,8 @@
 89. NOAH: Why does a growth fund care about that?
     노아: 성장 펀드가 왜 그걸 신경 써요?
 
-90. INGRID: Because I lost money on a device company. They grew too fast. Nobody could say no. One recall killed them.
-    잉그리드: 의료기기 회사에서 돈을 잃었거든요. 너무 빨리 컸어요. 아무도 "노"라고 못 했죠. 회수 한 번에 끝났어요.
+90. INGRID: Because I lost money on a device company once. They grew too fast, everyone was chasing the next quarter, and nobody in the building could say no. Then one recall killed them, and I watched good people lose everything. I don't want to fund that story twice.
+    잉그리드: 예전에 의료기기 회사에서 돈을 잃었거든요. 너무 빨리 컸고, 다들 다음 분기만 쫓았고, 회사 안에서 아무도 "노"라고 못 했어요. 그러다 회수 한 번에 끝났고, 좋은 사람들이 모든 걸 잃는 걸 지켜봤어요. 그런 이야기에 두 번 투자하고 싶지 않아요.
 
 91. ELENA: …I'm sorry.
     엘레나: …안됐네요.
@@ -308,8 +308,8 @@
 95. MARCUS: That's sixty million higher than Fjord.
     마커스: 피오르보다 6천만 높네요.
 
-96. OWEN: One condition. The veto goes. Safety becomes a committee. Advisory only. The CEO decides.
-    오언: 조건 하나. 거부권은 없어져요. 안전은 위원회로. 자문만. CEO가 결정.
+96. OWEN: One condition, and it's not negotiable. The veto goes. Safety becomes a committee, advisory only, and the CEO makes the final call. At this stage you need speed, and I can't pay a higher price for a company where one person can stop everything.
+    오언: 조건 하나, 협상 불가예요. 거부권은 없어져요. 안전은 자문만 하는 위원회가 되고, 최종 결정은 CEO가 해요. 이 단계에선 속도가 필요하고, 한 사람이 모든 걸 멈출 수 있는 회사에 더 높은 가격을 낼 순 없어요.
 
 97. ELENA: Advisory only. So I can say no. And nobody has to listen.
     엘레나: 자문만. 그러니까 내가 "노"라고 해도. 아무도 들을 필요가 없다는 거네요.
@@ -352,8 +352,8 @@
 109. ELENA: I'll be honest. I don't want to be the reason you lose two percent.
      엘레나: 솔직히 말할게요. 내가 당신들이 2%를 잃는 이유가 되고 싶지 않아요.
 
-110. NOAH: You won't be. The veto is the reason we're worth three twenty. Not the reason we're not worth three eighty.
-     노아: 안 그럴 거예요. 거부권은 우리가 3억 2천의 가치가 있는 이유예요. 3억 8천이 안 되는 이유가 아니라.
+110. NOAH: You won't be. Look at what happened today. Ingrid didn't offer three twenty in spite of the veto. She offered it because of the veto. It's the reason we're worth three twenty, not the reason we're not worth three eighty.
+     노아: 안 그럴 거예요. 오늘 무슨 일이 있었는지 봐요. 잉그리드는 거부권에도 불구하고 3억 2천을 제시한 게 아니에요. 거부권 때문에 제시한 거예요. 거부권은 우리가 3억 2천의 가치가 있는 이유지, 3억 8천이 안 되는 이유가 아니에요.
 
 111. ELAINE: Years ago, I told you something. Do you remember?
      일레인: 몇 년 전에 내가 한 말이 있어요. 기억해요?
@@ -361,8 +361,8 @@
 112. NOAH: "Don't fall in love with the biggest number."
      노아: "가장 큰 숫자와 사랑에 빠지지 마라."
 
-113. ELAINE: Still true. The biggest number usually comes with the biggest string.
-     일레인: 여전히 사실이에요. 가장 큰 숫자엔 보통 가장 큰 끈이 달려 있죠.
+113. ELAINE: Still true. The biggest number usually comes with the biggest string attached. Owen isn't paying sixty million more out of kindness. He's paying it to buy control, and once you've sold control, you can't buy it back at any price.
+     일레인: 여전히 사실이에요. 가장 큰 숫자엔 보통 가장 큰 끈이 달려 있죠. 오언이 친절해서 6천만을 더 내는 게 아니에요. 통제권을 사려고 내는 거고, 통제권은 한번 팔면 어떤 가격에도 되살 수 없어요.
 
 114. MARCUS: Fjord. Unanimous?
      마커스: 피오르. 만장일치?
@@ -421,3 +421,18 @@
 | **Decision** | **✅ Unanimous** | ❌ |
 
 > **Traction slide (April, Year 5):** Run rate $31M (from $19M) · 780 active clinics · 70% reorder · 88% GM · Recover 64% sell-through at week 6 (Aurelle) · Glow pilot resumed with monthly scans
+
+### ④ 긴 발화 분석
+
+> **45턴 NOAH:** "That's a fair concern, and I'd ask the same question. Here's the thing. Europe is next year's experiment, not this year's priority. It's five percent of the budget, and if the Paris conference doesn't open real doors, we stop and put that money back into the U.S."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 인정(공감) | That's a fair concern, and I'd ask the same question. | 반론을 먼저 인정해 방어적인 인상을 없앤다 |
+| ② 전환(신호) | Here's the thing. | 이제 핵심을 말하겠다는 신호 |
+| ③ 재구성(대비) | Europe is next year's experiment, not this year's priority. | "A가 아니라 B"로 위험의 크기를 다시 정의 |
+| ④ 근거·출구(조건문) | It's five percent of the budget, and if the Paris conference doesn't open real doors, we stop and put that money back into the U.S. | 숫자로 규모를 보여 주고, 실패 시 철수 계획까지 제시 |
+
+**활용 패턴:** 인정 → 전환 신호 → "A가 아니라 B" → 숫자 + if…, we stop…
+**연결 표현:** That's a fair concern(정당한 우려다) · Here's the thing(중요한 건 이거다) · not this year's priority(올해 우선순위가 아니다) · if…, we stop…(~하면 멈춘다)
+**연습:** 투자자가 "신규 사업은 너무 이르지 않나?"라고 물을 때 같은 구조로 40~50단어로 답해 보기.

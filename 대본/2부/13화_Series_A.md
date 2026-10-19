@@ -53,8 +53,8 @@
 12. ELENA: Everyone is giving advice by text today.
     엘레나: 오늘은 다들 문자로 조언하네요.
 
-13. NOAH: Here's my rule. We don't say yes in any meeting. We decide together, inside.
-    노아: 내 원칙은 이거예요. 어떤 미팅에서도 "예"라고 하지 않는다. 안에서 함께 결정한다.
+13. NOAH: Here's my rule. We don't say yes in any meeting, no matter how good the number sounds. We listen, we ask questions, and then we decide together, inside, as a team.
+    노아: 내 원칙은 이거예요. 숫자가 아무리 좋게 들려도 어떤 미팅에서도 "예"라고 하지 않는다. 듣고, 질문하고, 그다음에 안에서 한 팀으로 함께 결정한다.
 
 14. PRIYA: You learned from the seed pitch.
     프리야: 시드 피칭에서 배웠구나.
@@ -82,8 +82,8 @@
 21. PRIYA: Sixty?
     프리야: 6,000만이요?
 
-22. COLE: Sixty. Nobody else will offer you sixty. I promise.
-    콜: 6,000만. 아무도 6,000만은 제시 안 할 거예요. 장담해요.
+22. COLE: Sixty. Nobody else will offer you sixty, I promise. We don't usually pay this much at your stage, but we believe in this team, and we're putting real money behind it.
+    콜: 6,000만. 아무도 6,000만은 제시 안 할 거예요, 장담해요. 이 단계 회사에 보통 이만큼은 안 주는데, 저희는 이 팀을 믿고, 진짜 돈으로 그걸 보여 드리는 거예요.
 
 23. NOAH: That's very generous. What are the other terms?
     노아: 정말 후하네요. 다른 조건은요?
@@ -100,8 +100,8 @@
 27. ELENA: Can you explain participating? In plain English?
     엘레나: 참여형을 설명해 줄 수 있어요? 쉬운 말로요?
 
-28. COLE: If you sell, we get double our money first. Then our share of the rest.
-    콜: 회사를 팔면, 저희가 먼저 투자금의 두 배를 받아요. 그다음 나머지에서 지분만큼.
+28. COLE: If you sell the company, we get double our money back first. Then we also get our share of whatever is left, like everyone else. It's very common in tech deals.
+    콜: 회사를 팔면, 저희가 먼저 투자금의 두 배를 돌려받아요. 그다음 남은 것에서도 다른 주주들처럼 지분만큼 받고요. 테크 딜에선 아주 흔한 거예요.
 
 29. PRIYA: So you get paid twice. Before and after.
     프리야: 그러니까 두 번 받는 거네요. 먼저 한 번, 그다음 또 한 번.
@@ -160,8 +160,8 @@
 47. ELENA: And a two-times participating preference. And two board seats. And forty-eight hours.
     엘레나: 그리고 2배 참여형 우선권. 이사회 두 석. 그리고 48시간.
 
-48. MARCUS: That's called an exploding offer. Designed to stop you from shopping around.
-    마커스: 그걸 익스플로딩 오퍼라고 해. 다른 데 알아보지 못하게 만든 거지.
+48. MARCUS: That's called an exploding offer. It's designed to stop you from shopping around, because if you can't compare offers, you can't negotiate. In the army, we'd call that controlling the terrain.
+    마커스: 그걸 익스플로딩 오퍼라고 해. 다른 데 알아보지 못하게 만든 거지. 제안을 비교할 수 없으면 협상도 못 하니까. 군대에선 그걸 지형을 장악한다고 하지.
 
 49. NOAH: It's still the biggest number.
     노아: 그래도 가장 큰 숫자잖아요.
@@ -192,8 +192,8 @@
 57. VICTORIA: Including your manufacturer?
     빅토리아: 생산업체도요?
 
-58. MARCUS: Not yet. That's our weakest point. Honestly.
-    마커스: 아직은요. 그게 우리의 가장 약한 부분이에요. 솔직히요.
+58. MARCUS: Not yet, and honestly, that's our weakest point. We have one manufacturer and no backup, which breaks my own rule on that sign. Finding a second one is at the top of my list.
+    마커스: 아직은요. 솔직히 그게 우리의 가장 약한 부분이에요. 생산업체가 한 곳뿐이고 백업이 없어요. 저 표지판에 쓴 제 규칙을 스스로 어기고 있는 거죠. 두 번째 업체 찾는 게 제 최우선 과제예요.
 
 59. VICTORIA: Thank you for saying that. Most founders hide it.
     빅토리아: 말씀해 주셔서 감사해요. 대부분의 창업자는 그걸 숨기죠.
@@ -216,8 +216,8 @@
 65. VICTORIA: What if the human result is lower than the animal result?
     빅토리아: 사람 결과가 동물 결과보다 낮으면요?
 
-66. PRIYA: Then we report it. Like we reported one point eight.
-    프리야: 그럼 보고하죠. 1.8을 보고했던 것처럼요.
+66. PRIYA: Then we report it, exactly like we reported one point eight. A lower number is still a real number, and investors who only want good news are the wrong investors for us.
+    프리야: 그럼 보고하죠. 1.8을 보고했던 것과 똑같이요. 낮은 숫자도 진짜 숫자예요. 좋은 소식만 원하는 투자자라면 우리와 맞지 않는 투자자예요.
 
 67. VICTORIA: I read about that. Richard told me. It's why I'm here.
     빅토리아: 그 얘기 읽었어요. 리처드가 말해 줬어요. 그래서 제가 여기 온 거예요.
@@ -225,8 +225,8 @@
 68. ELENA: Because we reported bad news?
     엘레나: 우리가 나쁜 소식을 보고해서요?
 
-69. VICTORIA: Because you reported it before anyone asked. That's rare. Now, Halvern.
-    빅토리아: 아무도 묻기 전에 보고했으니까요. 그건 드물어요. 자, 할번 얘기요.
+69. VICTORIA: Because you reported it before anyone asked, and that's rare. In twenty years, I've seen many companies hide a bad study until diligence finds it. Now, let's talk about Halvern.
+    빅토리아: 아무도 묻기 전에 보고했으니까요. 그건 드물어요. 20년 동안 실사에서 들킬 때까지 나쁜 시험 결과를 숨기는 회사를 많이 봤어요. 자, 할번 얘기를 해 보죠.
 
 70. NOAH: You've heard about their reversible program? We have. Nothing official.
     노아: 그쪽의 되돌릴 수 있는 필러 프로그램 얘기 들으셨어요? 저희도 들었어요. 공식적인 건 없고요.
@@ -278,8 +278,8 @@
 85. NOAH: Their number is fifteen million higher.
     노아: 그쪽 숫자가 1,500만 더 높아요.
 
-86. VICTORIA: On paper. With two-times participating, the real price is much lower.
-    빅토리아: 서류상으로요. 2배 참여형이면 실질 가격은 훨씬 낮아요.
+86. VICTORIA: On paper, yes. But you have to read the whole term sheet, not just one line. With a two-times participating preference, the real price is much lower than the headline says.
+    빅토리아: 서류상으로는요. 하지만 한 줄만 보지 말고 텀싯 전체를 읽어야 해요. 2배 참여형 우선권이 붙으면, 실질 가격은 헤드라인 숫자보다 훨씬 낮아요.
 
 87. PRIYA: Because they get paid twice if we sell.
     프리야: 우리가 매각하면 그쪽이 두 번 받으니까요.
@@ -317,8 +317,8 @@
 98. PRIYA: Two a.m.?
     프리야: 새벽 2시요?
 
-99. ELAINE: When the trial has a problem. When the FDA says no. When Halvern sues you.
-    일레인: 임상에 문제가 생겼을 때. FDA가 안 된다고 할 때. 할번이 소송을 걸 때.
+99. ELAINE: When the trial has a problem. When the FDA says no. When Halvern sues you. Those calls always come at night, and you need someone who has been there before.
+    일레인: 임상에 문제가 생겼을 때. FDA가 안 된다고 할 때. 할번이 소송을 걸 때. 그런 전화는 늘 밤에 와요. 그럴 땐 그런 일을 겪어 본 사람이 필요해요.
 
 100. ELENA: Victoria. Without question.
      엘레나: 빅토리아요. 의심의 여지 없이.
@@ -332,8 +332,8 @@
 103. NOAH: Victoria. Cole didn't ask a single hard question.
      노아: 빅토리아. 콜은 어려운 질문을 하나도 안 했어요.
 
-104. ELAINE: Then you have your answer. Price matters. Partners matter more.
-     일레인: 그럼 답이 나왔네요. 가격도 중요해요. 하지만 파트너가 더 중요해요.
+104. ELAINE: Then you have your answer. Price matters, of course. But partners matter more, because you'll sit in a boardroom with them for many years, through the good news and the bad.
+     일레인: 그럼 답이 나왔네요. 가격도 물론 중요해요. 하지만 파트너가 더 중요해요. 좋은 소식이든 나쁜 소식이든, 앞으로 오랫동안 그 사람들과 한 이사회실에 앉아 있어야 하니까요.
 
 105. NOAH: Diane, can you call Cypress? And politely decline Bayline?
      노아: 다이앤, 사이프러스에 연락해 줄래요? 그리고 베이라인엔 정중하게 거절하고요?
@@ -361,8 +361,8 @@
 112. PRIYA: The same. Twelve months, three times faster. Now in humans.
      프리야: 똑같아요. 12개월, 세 배 빠르게. 이젠 사람에서요.
 
-113. ELAINE: Good. Don't change the one thing just because the money got bigger.
-     일레인: 좋아요. 돈이 커졌다고 핵심을 바꾸지 마요.
+113. ELAINE: Good. Don't change the one thing just because the money got bigger. More money brings more meetings, more people and more ideas, and every one of them will pull you sideways.
+     일레인: 좋아요. 돈이 커졌다고 핵심을 바꾸지 마요. 돈이 많아지면 회의도, 사람도, 아이디어도 많아지는데, 그 하나하나가 다 여러분을 옆길로 끌어당길 거예요.
 
 114. DIANE: How did Cole take the "no"?
      다이앤: 콜은 거절을 어떻게 받아들였어요?
@@ -382,8 +382,8 @@
 119. NOAH: First patient. November fourteenth. At Rachel's clinic.
      노아: 첫 환자. 11월 14일. 레이첼의 병원에서.
 
-120. ELENA: Then we have seven weeks to get every site ready. No excuses.
-     엘레나: 그럼 7주 안에 모든 사이트를 준비해야 해요. 변명은 없어요.
+120. ELENA: Then we have seven weeks to get every site ready, trained and checked. Fifteen sites, one protocol, no excuses. The first patient is the one everyone will remember.
+     엘레나: 그럼 7주 안에 모든 사이트를 준비하고, 교육하고, 점검해야 해요. 사이트 열다섯 곳, 프로토콜 하나, 변명은 없어요. 첫 환자는 모두가 기억하게 될 환자니까요.
 
 ---
 
@@ -420,3 +420,18 @@
 | Hard questions asked | 0 | **Many** |
 
 > *On paper, Bayline is higher. In real terms, Cypress is better. Price matters. Partners matter more.*
+
+### ④ 긴 발화 분석
+
+> **86턴 VICTORIA:** "On paper, yes. But you have to read the whole term sheet, not just one line. With a two-times participating preference, the real price is much lower than the headline says."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 일부 인정 | On paper, yes. | 상대의 말(더 높은 숫자)을 먼저 인정해 방어심을 낮춤 |
+| ② 관점 전환 | But you have to read the whole term sheet, not just one line. | But으로 "숫자 하나가 아닌 전체를 보라"는 기준을 제시 |
+| ③ 근거(구체 조건) | With a two-times participating preference, | 판단을 바꾸는 구체적인 조항을 짚음 |
+| ④ 결론(재해석) | the real price is much lower than the headline says. | headline vs. real로 숫자의 진짜 의미를 다시 정의 |
+
+**활용 패턴:** 일부 인정(On paper, yes) → But + 판단 기준 → With + 구체 조건 → 진짜 결론
+**연결 표현:** On paper(서류상으로는) · not just A(A만이 아니라) · much lower than…(~보다 훨씬 낮은)
+**연습:** 더 싸 보이는 경쟁 견적을 내미는 고객에게, 총비용을 보라고 설득하는 말을 같은 구조로 30단어 안팎으로 해 보기.

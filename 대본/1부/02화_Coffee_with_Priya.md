@@ -50,8 +50,8 @@
 11. PRIYA: Oh no. A vascular occlusion?
     프리야: 세상에. 혈관 폐색이야?
 
-12. NOAH: Yeah. Her nose turned gray. We were in the ER all night.
-    노아: 응. 코가 잿빛으로 변했어. 밤새 응급실에 있었고.
+12. NOAH: Yeah. Her nose turned gray, and it spread fast. We were in the ER all night, and honestly, I've never been that scared in my whole life.
+    노아: 응. 코가 잿빛으로 변했는데, 순식간에 번졌어. 밤새 응급실에 있었고, 솔직히 살면서 그렇게 무서웠던 적은 처음이야.
 
 13. PRIYA: Is she okay? Tell me she's okay.
     프리야: 괜찮아? 괜찮다고 말해 줘.
@@ -82,8 +82,8 @@
 21. PRIYA: You're still drawing on napkins? We're thirty-two years old.
     프리야: 너 아직도 냅킨에 그림 그려? 우리 서른두 살이야.
 
-22. NOAH: Just look. It's a net. The knots break, but only with the enzyme.
-    노아: 그냥 봐 봐. 그물이야. 매듭이 끊어져. 단, 효소가 닿을 때만.
+22. NOAH: Just look. It's a net, and the knots hold it together for months. But the knots only break when the enzyme touches them, so a doctor could dissolve it quickly.
+    노아: 그냥 봐 봐. 그물이야. 매듭들이 몇 달 동안 그물을 붙잡고 있어. 근데 매듭은 효소가 닿을 때만 끊어져. 그러니까 의사가 빨리 녹일 수 있는 거지.
 
 23. PRIYA: Who drew the nice version? This line work isn't yours.
     프리야: 깔끔한 버전은 누가 그렸어? 이 선은 네 솜씨가 아닌데.
@@ -127,8 +127,8 @@
 36. NOAH: That's it. That's exactly it. Did it work?
     노아: 그거야. 딱 그거야. 효과가 있었어?
 
-37. PRIYA: In a test tube, it dissolved two point four times faster.
-    프리야: 시험관에서는 2.4배 빨리 녹았어.
+37. PRIYA: In a test tube, it dissolved two point four times faster. That's a real result, and I'm proud of it, but please remember it was a small lab experiment, nothing more.
+    프리야: 시험관에서는 2.4배 빨리 녹았어. 진짜 결과고 나도 자랑스러워. 근데 그건 작은 실험실 실험이었을 뿐이라는 걸 꼭 기억해 줘. 그 이상은 아니야.
 
 38. NOAH: Two point four! Priya, that's huge.
     노아: 2.4배! 프리야, 그거 엄청난 거잖아.
@@ -139,8 +139,8 @@
 40. NOAH: Okay, but it's a start. Why didn't anyone build it?
     노아: 알았어, 그래도 시작이잖아. 왜 아무도 안 만들었어?
 
-41. PRIYA: Nobody asked. I graduated, Halvern hired me, life happened.
-    프리야: 아무도 안 물어봤으니까. 졸업했고, 할번이 날 뽑았고, 그렇게 살았지.
+41. PRIYA: Nobody asked. I graduated, Halvern hired me, and life happened. To be honest, I thought the idea was interesting, but I never believed anyone would pay to build it.
+    프리야: 아무도 안 물어봤으니까. 졸업했고, 할번이 날 뽑았고, 그렇게 살았지. 솔직히 아이디어는 흥미롭다고 생각했지만, 누가 돈을 들여서 만들 거라고는 한 번도 생각 안 했어.
 
 42. NOAH: What do you work on at Halvern?
     노아: 할번에선 무슨 일 해?
@@ -154,14 +154,14 @@
 45. PRIYA: Once. My manager said, "Interesting, but who's asking for it?"
     프리야: 한 번. 매니저가 그러더라. "흥미롭네. 근데 누가 그걸 원해?"
 
-46. NOAH: Every injector who's ever had a complication. That's who.
-    노아: 부작용을 한 번이라도 겪어 본 모든 시술자. 그 사람들이 원해.
+46. NOAH: Every injector who's ever had a complication. That's who. Last night I watched a doctor fight a filler that wouldn't dissolve, and believe me, she would have wanted your chapter four.
+    노아: 부작용을 한 번이라도 겪어 본 모든 시술자. 그 사람들이 원해. 어젯밤에 의사 선생님이 녹지 않는 필러랑 씨름하는 걸 지켜봤어. 정말이야, 그분이라면 네 4장을 간절히 원했을 거야.
 
 47. PRIYA: Show me the data. How many complications? How often?
     프리야: 데이터를 보여 줘. 부작용이 몇 건이야? 얼마나 자주 일어나?
 
-48. NOAH: I don't have the numbers yet. But the doctor said it's growing.
-    노아: 아직 숫자는 없어. 근데 의사 선생님이 늘고 있다고 했어.
+48. NOAH: I don't have the numbers yet, and I know that's a problem. But the doctor said complications are growing, because more people are getting filler at cheap places like Lily did.
+    노아: 아직 숫자는 없어. 그게 문제라는 것도 알아. 근데 의사 선생님이 부작용이 늘고 있다고 했어. 릴리처럼 싼 곳에서 필러를 맞는 사람이 많아지고 있으니까.
 
 49. PRIYA: "A doctor said" is a story. I need data.
     프리야: "의사가 그랬다"는 이야기야. 난 데이터가 필요해.
@@ -195,8 +195,8 @@
 58. PRIYA: And you'd be CEO. Owning... the napkins?
     프리야: 그리고 넌 CEO고. 냅킨 담당?
 
-59. NOAH: Owning the market, the money, the story. I know how fillers sell.
-    노아: 시장, 돈, 스토리 담당. 난 필러가 어떻게 팔리는지 알아.
+59. NOAH: Owning the market, the money, the story. I sell Lumaderm to doctors every day, so I know how fillers sell, who buys them, and what makes an injector trust a new product.
+    노아: 시장, 돈, 스토리 담당. 난 매일 의사들한테 루마덤을 팔아. 그래서 필러가 어떻게 팔리는지, 누가 사는지, 시술자가 새 제품을 믿게 만드는 게 뭔지 알아.
 
 60. PRIYA: That's fair. You were always better at people than pipettes.
     프리야: 그건 인정. 넌 늘 피펫보다 사람을 더 잘 다뤘지.
@@ -222,8 +222,8 @@
 67. NOAH: I have some savings. Enough for a few months.
     노아: 모아 둔 돈이 좀 있어. 몇 달은 버틸 만큼.
 
-68. PRIYA: A few months. For a product that needs years.
-    프리야: 몇 달. 몇 년이 걸리는 제품에.
+68. PRIYA: A few months. For a product that needs years. Noah, I'm not saying no, but if the money runs out before the science works, then we both lose everything.
+    프리야: 몇 달. 몇 년이 걸리는 제품에. 노아, 안 한다는 게 아니야. 근데 과학이 성공하기 전에 돈이 떨어지면, 우리 둘 다 전부 잃는 거야.
 
 69. NOAH: The doctor guessed forty million and seven years.
     노아: 의사 선생님은 4천만 달러에 7년이라고 했어.
@@ -255,8 +255,8 @@
 78. PRIYA: What's in it for me, Noah? Besides no salary.
     프리야: 나한테 좋은 게 뭐야, 노아? 월급 없는 거 말고.
 
-79. NOAH: Equity. A real share of the company. And your science, finally used.
-    노아: 지분. 회사의 진짜 몫. 그리고 마침내 쓰이게 될 네 연구.
+79. NOAH: Equity. A real share of the company, not a salary someone else decides. And your science, finally used, which means chapter four helps real patients instead of sitting on a shelf.
+    노아: 지분. 남이 정해 주는 월급이 아니라 회사의 진짜 몫. 그리고 마침내 쓰이게 될 네 연구. 4장이 책장에 꽂혀 있는 대신 진짜 환자들을 돕게 된다는 뜻이야.
 
 80. PRIYA: That last part is not nothing.
     프리야: 마지막 그건, 솔직히 작은 게 아니네.
@@ -278,8 +278,8 @@
 85. NOAH: Oh. I didn't even think about that.
     노아: 아. 그건 생각도 못 했네.
 
-86. PRIYA: Most people don't. If I quit, I have sixty days.
-    프리야: 대부분 그래. 내가 그만두면 60일이 주어져.
+86. PRIYA: Most people don't. My visa is tied to Halvern, which means my right to stay here depends on my job. If I quit, I have sixty days.
+    프리야: 대부분 그래. 내 비자는 할번에 묶여 있어. 그러니까 내가 여기 머물 권리가 직장에 달려 있다는 뜻이야. 내가 그만두면 60일이 주어져.
 
 87. NOAH: Sixty days for what?
     노아: 무슨 60일?
@@ -302,11 +302,11 @@
 93. NOAH: Then what if you keep your job? And help on weekends?
     노아: 그럼 회사는 계속 다니고? 주말에만 도와주는 건?
 
-94. PRIYA: Halvern owns anything I invent while I work there. It's in my contract.
-    프리야: 내가 거기 다니는 동안 발명한 건 전부 할번 소유야. 계약서에 있어.
+94. PRIYA: Halvern owns anything I invent while I work there. It's in my contract, and I signed it without thinking, like everyone does. So weekend work could still belong to them.
+    프리야: 내가 거기 다니는 동안 발명한 건 전부 할번 소유야. 계약서에 있어. 다들 그렇듯이 나도 별생각 없이 서명했지. 그러니까 주말에 한 일도 할번 것이 될 수 있어.
 
-95. NOAH: Even on weekends? Even at home?
-    노아: 주말에도? 집에서 해도?
+95. NOAH: Even at home? On my own kitchen table?
+    노아: 집에서 해도? 우리 집 식탁에서 해도?
 
 96. PRIYA: Probably. Read your contract too. You have one just like it.
     프리야: 아마도. 너도 계약서 읽어 봐. 너도 똑같은 거 있을걸.
@@ -314,8 +314,8 @@
 97. NOAH: Great. So we're both stuck.
     노아: 좋네. 그러니까 우리 둘 다 꼼짝 못 하는 거네.
 
-98. PRIYA: Not completely. My thesis is public. I published it before Halvern hired me.
-    프리야: 완전히는 아니야. 내 논문은 공개돼 있어. 할번 입사 전에 발표했거든.
+98. PRIYA: Not completely. My thesis is public. I published it before Halvern hired me, so chapter four existed before my contract did. That could matter a lot.
+    프리야: 완전히는 아니야. 내 논문은 공개돼 있어. 할번 입사 전에 발표했거든. 그러니까 4장은 내 계약서보다 먼저 존재했던 거야. 그게 아주 중요할 수 있어.
 
 99. NOAH: So chapter four isn't Halvern's.
     노아: 그러니까 4장은 할번 게 아니네.
@@ -364,8 +364,8 @@
 113. NOAH: And?
      노아: 그래서?
 
-114. PRIYA: It's better than I remembered. I'm in. On two conditions.
-     프리야: 기억보다 괜찮더라. 할게. 조건이 두 가지 있어.
+114. PRIYA: It's better than I remembered. The chemistry is solid, and your napkin finally makes sense to me. So I'm in, Noah. But I'm in on two conditions, and they aren't negotiable.
+     프리야: 기억보다 괜찮더라. 화학은 탄탄하고, 네 냅킨도 이제야 이해가 돼. 그러니까 할게, 노아. 근데 조건이 두 가지 있어. 그리고 그건 협상 불가야.
 
 115. NOAH: Name them.
      노아: 말해 봐.
@@ -376,8 +376,8 @@
 117. NOAH: Done. And two?
      노아: 그럴게. 두 번째는?
 
-118. PRIYA: You jump first. Quit Halvern, then I'll figure out my visa.
-     프리야: 네가 먼저 뛰어내려. 할번 그만둬. 그럼 난 비자 문제를 해결해 볼게.
+118. PRIYA: You jump first. Quit Halvern, and then I'll figure out my visa. I'm not being unfair, Noah. I just can't risk my home until I know you're really committed.
+     프리야: 네가 먼저 뛰어내려. 할번 그만둬. 그다음에 내가 비자 문제를 해결해 볼게. 불공평하게 구는 게 아니야, 노아. 네가 정말 진심이라는 걸 알기 전에는 내 집을 걸 수가 없어서 그래.
 
 119. NOAH: Fair enough. I'll talk to my boss on Monday.
      노아: 그럴 만하네. 월요일에 상사랑 얘기할게.
@@ -417,3 +417,18 @@
 
 예시:
 > *I'm in, on two conditions. One, we find a lawyer before we find investors. Two, you leave Halvern first. If we can agree on those, I'll start working on my visa.*
+
+### ④ 긴 발화 분석
+
+> **118턴 PRIYA:** "You jump first. Quit Halvern, and then I'll figure out my visa. I'm not being unfair, Noah. I just can't risk my home until I know you're really committed."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 조건(한 줄 요구) | You jump first. | 원하는 것을 짧고 강하게 먼저 제시 |
+| ② 순서(행동 → 대가) | Quit Halvern, and then I'll figure out my visa. | 상대가 할 일과 내가 할 일을 순서대로 연결 |
+| ③ 오해 차단 | I'm not being unfair, Noah. | 조건이 공격으로 들리지 않도록 미리 해명 |
+| ④ 이유(감정 + 리스크) | I just can't risk my home until I know you're really committed. | 조건 뒤에 있는 진짜 리스크를 솔직하게 공유 |
+
+**활용 패턴:** 조건 한 줄 → "A, and then B" → "I'm not being…" → "I just can't… until…"
+**연결 표현:** and then(그다음에) · I'm not being unfair(불공평하게 구는 게 아니다) · until I know…(~을 알기 전까지는)
+**연습:** 파트너사에 선입금을 먼저 요구하는 상황을 같은 구조로 30단어 안팎으로 말해 보기.

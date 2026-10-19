@@ -29,8 +29,8 @@
 04. NOAH: Not at all? Then what do we talk about?
     노아: 아예요? 그럼 무슨 얘길 해요?
 
-05. ELENA: Their problems. Their past. What they actually did, not what they'd do.
-    엘레나: 그들의 문제. 그들의 과거. 앞으로 할 일 말고, 실제로 한 일이요.
+05. ELENA: Their problems. Their past. What they actually did, not what they'd do. Ask them to tell you about a real day, a real patient, and let them walk you through it.
+    엘레나: 그들의 문제. 그들의 과거. 앞으로 할 일 말고, 실제로 한 일이요. 실제 있었던 하루, 실제 환자에 대해 얘기해 달라고 하고, 처음부터 차근차근 들려주게 해요.
 
 06. NOAH: Why not ask what they'd do?
     노아: 앞으로 어떻게 할지는 왜 물으면 안 돼요?
@@ -91,8 +91,8 @@
 24. NOAH: What happened?
     노아: 무슨 일이 있었어요?
 
-25. JASMINE: I was injecting a nasolabial fold. The skin went white. Instantly.
-    재스민: 팔자주름에 주사하고 있었어요. 피부가 하얘졌어요. 순식간에.
+25. JASMINE: I was injecting a nasolabial fold. Routine, something I do every day. Then the skin went white. Instantly. I knew right away what it meant, because they warn you about it in training.
+    재스민: 팔자주름에 주사하고 있었어요. 매일 하는 평범한 시술이었죠. 그런데 피부가 하얘졌어요. 순식간에. 그게 무슨 뜻인지 바로 알았어요. 교육받을 때 그걸 경고하거든요.
 
 26. ELENA: Blanching. What did you do next?
     엘레나: 창백해졌군요. 그다음엔 뭘 했어요?
@@ -115,8 +115,8 @@
 32. NOAH: Sorry. Go on, please.
     노아: 죄송해요. 계속하세요.
 
-33. JASMINE: About ninety minutes. Three rounds. I called our medical director twice.
-    재스민: 90분쯤이요. 세 번 놨어요. 의료 책임자한테 두 번 전화했고요.
+33. JASMINE: About ninety minutes. Three rounds of enzyme, and after each one I waited and watched the skin. I called our medical director twice, because I wasn't sure it was working.
+    재스민: 90분쯤이요. 효소를 세 번 놨고, 매번 놓고 나서 기다리면서 피부를 지켜봤어요. 효과가 있는 건지 확신이 안 서서 의료 책임자한테 두 번 전화했어요.
 
 34. ELENA: Was the medical director on site?
     엘레나: 의료 책임자가 현장에 있었어요?
@@ -160,8 +160,8 @@
 47. ELENA: Last question. What worries you most when you inject?
     엘레나: 마지막 질문이요. 시술할 때 가장 걱정되는 게 뭐예요?
 
-48. JASMINE: That one day it won't be a bruise. That it'll be someone's eye.
-    재스민: 언젠가 멍으로 안 끝날까 봐요. 누군가의 눈이 될까 봐요.
+48. JASMINE: That one day it won't be a bruise. That it'll be someone's eye. Every time I inject near the nose, I think about it, and I know the enzyme might not work fast enough.
+    재스민: 언젠가 멍으로 안 끝날까 봐요. 누군가의 눈이 될까 봐요. 코 근처에 주사할 때마다 그 생각을 해요. 효소가 충분히 빨리 안 들을 수도 있다는 걸 아니까요.
 
 49. ELENA: Thank you, Jasmine. That was very honest.
     엘레나: 고마워요, 재스민. 아주 솔직하게 말해 줬어요.
@@ -177,8 +177,8 @@
 52. NOAH: I asked a leading question. "Wouldn't you love…?"
     노아: 유도 질문을 했어요. "…하면 좋지 않겠어요?"
 
-53. ELENA: Right. A leading question gets a polite yes. A useless yes.
-    엘레나: 맞아요. 유도 질문은 예의 바른 "네"를 얻어요. 쓸모없는 "네"요.
+53. ELENA: Right. A leading question gets a polite yes. A useless yes. You told her the answer you wanted, so she won't tell you what she really thinks. Ask about what happened instead.
+    엘레나: 맞아요. 유도 질문은 예의 바른 "네"를 얻어요. 쓸모없는 "네"요. 원하는 답을 먼저 말해 버렸으니, 상대는 진짜 생각을 말하지 않을 거예요. 대신 실제로 무슨 일이 있었는지를 물어요.
 
 54. NOAH: Noted. It won't happen again.
     노아: 명심할게요. 다시는 안 그럴게요.
@@ -207,8 +207,8 @@
 62. NOAH: What matters most to you when you choose a filler?
     노아: 필러를 고를 때 가장 중요한 게 뭐예요?
 
-63. PIERCE: How long it lasts. My patients pay a lot. They want results that stay.
-    피어스: 얼마나 오래가는지. 내 환자들은 돈을 많이 내. 머무는 결과를 원하지.
+63. PIERCE: How long it lasts. My patients pay a lot, and they don't want to come back so soon. They want results that stay. Everything else is secondary.
+    피어스: 얼마나 오래가는지. 내 환자들은 돈을 많이 내고, 금방 다시 오고 싶어 하지 않아. 머무는 결과를 원하지. 나머지는 다 부차적이야.
 
 64. NOAH: Results that stay. I've heard that somewhere.
     노아: 머무는 결과. 어디서 들어 본 말이네요.
@@ -234,8 +234,8 @@
 71. NOAH: What happened after that?
     노아: 그 뒤엔 어떻게 됐어요?
 
-72. TIFFANY: We settled. Then my insurance went up forty percent.
-    티파니: 합의했죠. 그러고 나서 보험료가 40퍼센트 올랐어요.
+72. TIFFANY: We settled. It was cheaper than going to court, and I didn't want the publicity. Then my insurance went up forty percent, and it hasn't come back down.
+    티파니: 합의했죠. 재판까지 가는 것보다 싸게 먹혔고, 소문나는 것도 싫었어요. 그러고 나서 보험료가 40퍼센트 올랐는데, 아직도 안 내려왔어요.
 
 73. ELENA: Forty percent. That's a lot.
     엘레나: 40퍼센트요. 엄청나네요.
@@ -246,8 +246,8 @@
 75. NOAH: What would change that for you?
     노아: 어떻게 하면 그게 달라질까요?
 
-76. TIFFANY: Fewer complications. Or faster fixes. Lawsuits come from bad outcomes.
-    티파니: 부작용이 줄거나, 더 빨리 해결되거나요. 소송은 나쁜 결과에서 나와요.
+76. TIFFANY: Fewer complications. Or faster fixes. Lawsuits come from bad outcomes, not from small bruises. If a problem is fixed in minutes instead of hours, the patient goes home happy and doesn't call a lawyer.
+    티파니: 부작용이 줄거나, 더 빨리 해결되거나요. 소송은 작은 멍이 아니라 나쁜 결과에서 나와요. 문제가 몇 시간이 아니라 몇 분 만에 해결되면, 환자는 기분 좋게 집에 가고 변호사한테 전화하지 않아요.
 
 77. NOAH: Would you pay more for a product that lowered that risk?
     노아: 그 리스크를 줄여 주는 제품이라면 돈을 더 내실까요?
@@ -302,8 +302,8 @@
 93. PRIYA: What?
     프리야: 뭔데?
 
-94. NOAH: Insurance. Spa owners worry about lawsuits more than anything.
-    노아: 보험. 스파 원장들은 무엇보다 소송을 걱정해.
+94. NOAH: Insurance. Spa owners worry about lawsuits more than anything. One bad case can raise their premium, and that hits their margins every single month, whether they have another complication or not.
+    노아: 보험. 스파 원장들은 무엇보다 소송을 걱정해. 나쁜 사례 한 건이면 보험료가 오를 수 있고, 그건 부작용이 또 생기든 안 생기든 매달 마진을 깎아 먹어.
 
 95. ELENA: Tiffany's premium went up forty percent after one case.
     엘레나: 티파니는 한 건 이후로 보험료가 40퍼센트 올랐대요.
@@ -320,8 +320,8 @@
 99. PRIYA: Three customers. Three different reasons to care.
     프리야: 고객 셋. 신경 쓰는 이유도 셋.
 
-100. NOAH: That's the most useful thing we learned. Same product, different value.
-     노아: 그게 우리가 배운 가장 유용한 거야. 같은 제품, 다른 가치.
+100. NOAH: That's the most useful thing we learned. Same product, different value. If we pitch everyone the same way, we'll miss most of them, so each customer needs their own message.
+     노아: 그게 우리가 배운 가장 유용한 거야. 같은 제품, 다른 가치. 모두에게 똑같이 피칭하면 대부분을 놓칠 테니까, 고객마다 각자에게 맞는 메시지가 필요해.
 
 101. ELENA: Also, one doctor was skeptical. Alan Pierce. Twenty years, "no complications."
      엘레나: 그리고 의사 한 명은 회의적이었어요. 앨런 피어스. 20년간 "부작용 없음."
@@ -329,8 +329,8 @@
 102. PRIYA: Is that possible?
      프리야: 그게 가능해요?
 
-103. ELENA: Possible. Or he doesn't remember. Or he doesn't report.
-     엘레나: 가능하죠. 아니면 기억을 못 하거나. 아니면 보고를 안 하거나.
+103. ELENA: Possible. Or he doesn't remember. Or he doesn't report. When something goes wrong and resolves quickly, a lot of doctors don't count it as a complication. Jasmine's director probably didn't report hers either.
+     엘레나: 가능하죠. 아니면 기억을 못 하거나. 아니면 보고를 안 하거나. 문제가 생겼다가 금방 해결되면, 많은 의사들이 그걸 부작용으로 치지 않아요. 재스민네 의료 책임자도 아마 그 건을 보고하지 않았을 거예요.
 
 104. NOAH: He quoted my slogan. "Results that stay." He said whoever wrote it deserves a raise.
      노아: 내 슬로건을 인용하더라. "머무는 결과." 쓴 사람 연봉 올려 줘야 한대.
@@ -355,8 +355,8 @@
 110. ELENA: The problem is real. It's common. And it's underreported.
      엘레나: 문제는 진짜예요. 흔하고요. 그리고 제대로 보고되지 않아요.
 
-111. NOAH: And people are already spending money on it. Courses, enzyme, insurance.
-     노아: 그리고 사람들이 이미 거기에 돈을 쓰고 있어. 교육, 효소, 보험.
+111. NOAH: And people are already spending money on it. Courses, enzyme, insurance. Jasmine paid six hundred dollars of her own money for a weekend course. That tells me the pain is real.
+     노아: 그리고 사람들이 이미 거기에 돈을 쓰고 있어. 교육, 효소, 보험. 재스민은 주말 교육 과정에 자기 돈 600달러를 냈어. 그건 그 고통이 진짜라는 뜻이야.
 
 112. PRIYA: That's a problem worth solving.
      프리야: 해결할 가치가 있는 문제네.
@@ -419,3 +419,18 @@
 
 예시:
 > *Interviews: 12 (nurses, doctors, spa owners). Key numbers: 9 out of 12 experienced a vascular occlusion. Biggest surprise: spa owners worry most about insurance costs. Doctors care about safety, owners care about risk, nurses care about peace of mind. Conclusion: the problem is real, common, and underreported.*
+
+### ④ 긴 발화 분석
+
+> **53턴 ELENA:** "Right. A leading question gets a polite yes. A useless yes. You told her the answer you wanted, so she won't tell you what she really thinks. Ask about what happened instead."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 원리(짧은 규칙) | Right. A leading question gets a polite yes. A useless yes. | 상대의 실수를 인정한 뒤, 왜 문제인지 한 줄 규칙으로 정리 |
+| ② 진단(무슨 일이 있었나) | You told her the answer you wanted, | 실제 상황에서 무엇이 잘못됐는지 구체적으로 짚음 |
+| ③ 결과(so) | so she won't tell you what she really thinks. | "so"로 그 행동이 낳는 결과를 연결 |
+| ④ 대안(instead) | Ask about what happened instead. | 비판으로 끝내지 않고 바로 쓸 수 있는 대안 제시 |
+
+**활용 패턴:** 규칙 → 구체적 진단 → so 결과 → instead 대안
+**연결 표현:** A useless yes(쓸모없는 "네") · so(그래서) · …instead(대신 ~하라)
+**연습:** 회의에서 실수한 후배에게 같은 구조로 30단어 안팎의 건설적인 피드백을 해 보기.

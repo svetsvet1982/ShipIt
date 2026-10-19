@@ -54,8 +54,8 @@
 12. ELENA: How do we handle her?
     엘레나: 어떻게 대해야 할까요?
 
-13. GRACE: Respect her. Don't flatter her. And never say yes just to please her.
-    그레이스: 존중하세요. 아부하지 말고요. 그리고 기분 맞춰 주려고 "예"라고 하면 절대 안 돼요.
+13. GRACE: Respect her, but don't flatter her, because she hears flattery all day and she hates it. And never say yes just to please her. She remembers every promise you make.
+    그레이스: 존중하되 아부는 하지 마세요. 그분은 하루 종일 아부를 듣고, 그걸 싫어하거든요. 그리고 기분 맞춰 주려고 절대 "예"라고 하지 마세요. 그분은 우리가 한 약속을 하나도 빠짐없이 기억해요.
 
 14. NOAH: That sounds like Elaine.
     노아: 일레인 같네요.
@@ -113,8 +113,8 @@
 31. STEIN: Good answer. Short. Honest. Okay. Show me the data.
     스타인: 좋은 대답이에요. 짧고. 솔직하고. 좋아요. 데이터 보여 줘요.
 
-32. ELENA: Animal study at an emergency dose. Two point seven times faster. Both arms, same dose.
-    엘레나: 응급 용량 동물 시험. 2.7배 빠름. 양쪽 군 동일 용량.
+32. ELENA: We ran the animal study at an emergency dose, the dose you'd really use in an occlusion. It was two point seven times faster. Both arms got the same dose, so it's fair.
+    엘레나: 동물 시험은 응급 용량으로 했어요. 실제 혈관 폐색에서 쓰실 용량이죠. 2.7배 빨랐어요. 양쪽 군 모두 같은 용량을 받았으니 공정한 비교예요.
 
 33. STEIN: Animals. And the first study? At a low dose?
     스타인: 동물이네요. 그리고 첫 시험은요? 낮은 용량으로 한 거?
@@ -122,8 +122,8 @@
 34. NOAH: One point eight. We reported both.
     노아: 1.8이요. 둘 다 보고했어요.
 
-35. STEIN: You reported the bad one too? Most companies hide the first study.
-    스타인: 나쁜 것도 보고했어요? 대부분의 회사는 첫 시험을 숨겨요.
+35. STEIN: You reported the bad one too? Most companies hide the first study, or they call it a pilot and bury it in an appendix. I've read hundreds of those decks.
+    스타인: 나쁜 것도 보고했어요? 대부분의 회사는 첫 시험을 숨기거나, 파일럿이라고 부르면서 부록 속에 묻어 버려요. 그런 발표 자료를 수백 개는 읽어 봤어요.
 
 36. GRACE: Not this company. That's why I joined.
     그레이스: 이 회사는 안 그래요. 그래서 제가 합류했어요.
@@ -146,8 +146,8 @@
 42. NOAH: Of course. What would make this work for you?
     노아: 물론이죠. 어떻게 하면 함께하실 수 있을까요?
 
-43. STEIN: One. I'm the national PI. Not one PI among fifteen. The lead.
-    스타인: 하나. 내가 전국 책임연구자예요. 열다섯 명 중 한 명이 아니라. 대표로.
+43. STEIN: One. I'm the national PI. Not one PI among fifteen, sitting quietly at the back of the investigator meeting. The lead. If my name is on this trial, I run it properly.
+    스타인: 하나. 내가 전국 책임연구자예요. 연구자 회의 뒤쪽에 조용히 앉아 있는 열다섯 명 중 한 명이 아니라. 대표로요. 이 임상에 내 이름이 걸린다면, 제대로 이끌 거예요.
 
 44. ELENA: That's reasonable. You'd chair the investigator meetings.
     엘레나: 합리적이에요. 연구자 회의 의장을 맡으시는 거죠.
@@ -181,8 +181,8 @@
 53. STEIN: Lips would make the trial more interesting. And my patients would love it.
     스타인: 입술을 넣으면 임상이 더 흥미로워질 거예요. 내 환자들도 좋아할 거고요.
 
-54. NOAH: It would also need a softer gel. A different product. And more risk.
-    노아: 그러려면 더 부드러운 젤도 필요해요. 다른 제품이고요. 리스크도 더 크죠.
+54. NOAH: It would also need a softer gel, which means a different product with a different safety profile. That's more risk, more time and more money, and we can't get our first trial wrong.
+    노아: 그러려면 더 부드러운 젤도 필요한데, 그건 안전성 특성이 다른 별개의 제품이라는 뜻이에요. 리스크도, 시간도, 돈도 더 들고, 저희는 첫 임상을 망칠 수 없어요.
 
 55. STEIN: You've thought about this.
     스타인: 생각해 봤군요.
@@ -211,14 +211,14 @@
 63. STEIN: Fair market value in Beverly Hills is not fair market value in Texas.
     스타인: 베벌리힐스의 공정 시장 가치는 텍사스의 공정 시장 가치가 아니에요.
 
-64. GRACE: True. The value is based on local costs. We'll use an independent benchmark.
-    그레이스: 맞아요. 지역 비용 기준이에요. 독립적인 기준 자료를 쓸 거예요.
+64. GRACE: True. The value is based on local costs, so a clinic in Beverly Hills can be paid more than one in Texas. But we'll use an independent benchmark, so nobody can say we chose it.
+    그레이스: 맞아요. 지역 비용을 기준으로 하니까, 베벌리힐스 병원은 텍사스 병원보다 더 받을 수 있어요. 하지만 독립적인 기준 자료를 쓸 거라서, 우리가 숫자를 임의로 골랐다고 아무도 말 못 해요.
 
 65. NOAH: Why does that matter so much, Grace?
     노아: 그게 왜 그렇게 중요해요, 그레이스?
 
-66. GRACE: If we overpay a doctor, it can look like a bribe. That's illegal.
-    그레이스: 의사에게 과하게 지급하면 뇌물처럼 보일 수 있어요. 그건 불법이에요.
+66. GRACE: Because if we overpay a doctor, it can look like a bribe, either for enrolling patients or for saying nice things about the product. That's illegal, and it could put the whole trial at risk.
+    그레이스: 의사에게 과하게 지급하면, 환자를 등록해 준 대가나 제품을 좋게 말해 준 대가로 주는 뇌물처럼 보일 수 있거든요. 그건 불법이고, 임상 전체를 위험에 빠뜨릴 수 있어요.
 
 67. STEIN: She's right. I've seen companies get in trouble for that. I don't want it either.
     스타인: 그 말이 맞아요. 그것 때문에 곤란해진 회사들을 봤어요. 나도 원치 않아요.
@@ -247,8 +247,8 @@
 75. STEIN: Stop shipping? Who?
     스타인: 출시를 막는다고요? 누가요?
 
-76. ELENA: Me. It's in our founders' agreement. With an independent expert beside me.
-    엘레나: 저요. 창업자 계약서에 있어요. 독립 전문가가 옆에 있는 조건으로요.
+76. ELENA: Me. It's in our founders' agreement. If I believe the product isn't safe, I can stop the launch, with an independent expert beside me, so it's never just my opinion against the business.
+    엘레나: 저요. 창업자 계약서에 있어요. 제품이 안전하지 않다고 판단하면 출시를 막을 수 있어요. 독립 전문가가 옆에 있는 조건이라, 절대 제 의견 하나와 회사 사업이 맞서는 구도가 되지 않아요.
 
 77. STEIN: I've never heard of that. In twenty years.
     스타인: 그런 건 처음 들어요. 20년 동안.
@@ -297,8 +297,8 @@
 91. GRACE: Can I ask why? Personally?
     그레이스: 이유를 여쭤봐도 될까요? 개인적으로요?
 
-92. STEIN: Eight years ago, a colleague's patient lost vision in one eye. From filler.
-    스타인: 8년 전에 동료의 환자가 필러 때문에 한쪽 눈 시력을 잃었어요.
+92. STEIN: Eight years ago, a colleague's patient lost vision in one eye. From filler. It was a routine treatment, the kind we all do every day. When it happens, you have minutes, not hours.
+    스타인: 8년 전에 동료의 환자가 필러 때문에 한쪽 눈 시력을 잃었어요. 우리 모두가 매일 하는 평범한 시술이었어요. 그런 일이 생기면 주어진 건 몇 시간이 아니라 몇 분이에요.
 
 93. GRACE: I'm so sorry.
     그레이스: 정말 안타까워요.
@@ -318,8 +318,8 @@
 98. STEIN: And?
     스타인: 그래서요?
 
-99. NOAH: She kept her nose. And a small scar. Elena treated her.
-    노아: 코는 지켰어요. 작은 흉터가 남았고요. 엘레나가 치료했어요.
+99. NOAH: She kept her nose, and now she only has a small scar. Elena treated her that night in the ER. That's how we met, and honestly, that's why this company exists.
+    노아: 코는 지켰고, 지금은 작은 흉터만 남았어요. 그날 밤 응급실에서 엘레나가 치료했어요. 그렇게 우리가 만났고, 솔직히 그게 이 회사가 존재하는 이유예요.
 
 100. STEIN: Then you all know why this matters. Okay. I'm in.
      스타인: 그럼 다들 이게 왜 중요한지 아는군요. 좋아요. 할게요.
@@ -336,8 +336,8 @@
 104. STEIN: You're new at this. You'll see.
      스타인: 이 일이 처음이군요. 곧 알게 될 거예요.
 
-105. GRACE: I'll send the agreement next week. With fair market value. And in writing.
-     그레이스: 다음 주에 계약서 보낼게요. 공정 시장 가치로. 그리고 서면으로.
+105. GRACE: I'll send the agreement next week, with fair market value, the lips promise and the Halvern disclosure. Everything we agreed today will be in writing, so there are no surprises later.
+     그레이스: 다음 주에 계약서 보낼게요. 공정 시장 가치, 입술 제품 약속, 할번 관련 공개 내용까지 담아서요. 오늘 합의한 건 전부 서면으로 남길 테니, 나중에 놀랄 일은 없을 거예요.
 
 ### 마무리 — 코리아타운, 오후 6시
 
@@ -371,8 +371,8 @@
 115. NOAH: Sorry, my phone. It's Priya. Hey, Priya.
      노아: 미안해요, 전화요. 프리야예요. 응, 프리야.
 
-116. PRIYA: The final animal report came in. Six months. Durability matched the comparator.
-     프리야: 동물 최종 보고서 나왔어. 6개월. 지속력이 비교 제품과 같아.
+116. PRIYA: The final animal report came in this afternoon. Six months, and durability matched the comparator, which is exactly what we needed. So the durability question is answered, at least in animals.
+     프리야: 동물 최종 보고서가 오늘 오후에 나왔어. 6개월, 지속력이 비교 제품과 같아. 딱 우리가 필요했던 결과야. 그러니까 지속력 문제는 해결된 거지, 적어도 동물에서는.
 
 117. NOAH: And the four biocompatibility tests?
      노아: 그리고 생체적합성 시험 네 가지는?
@@ -417,3 +417,18 @@
 | Lips arm | 거절 + 대안 | *I'm afraid that's outside our protocol. But you'd be the first PI we call.* |
 | Higher fees | 기준 제시 | *We pay fair market value, based on an independent benchmark.* |
 | Launch speaker | 조건부 수용 | *If the data is good, we'd be thrilled.* |
+
+### ④ 긴 발화 분석
+
+> **54턴 NOAH:** "It would also need a softer gel, which means a different product with a different safety profile. That's more risk, more time and more money, and we can't get our first trial wrong."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 사실(조건) | It would also need a softer gel, | 요구를 받아들이면 무엇이 필요한지 담담하게 제시 |
+| ② 의미 풀기 | which means a different product with a different safety profile. | which means로 그 조건이 실제로 뜻하는 바를 확장 |
+| ③ 비용 나열 | That's more risk, more time and more money, | 세 가지 비용을 리듬감 있게 나열해 무게를 보여 줌 |
+| ④ 원칙(거절의 이유) | and we can't get our first trial wrong. | 개인 감정이 아닌 회사의 원칙으로 거절을 마무리 |
+
+**활용 패턴:** 필요한 조건 → which means(의미) → 비용 3가지 나열 → 지켜야 할 원칙
+**연결 표현:** which means(즉 ~라는 뜻이다) · more A, more B and more C(A도 B도 C도 더) · can't get ~ wrong(~을 망칠 수 없다)
+**연습:** 고객이 계약 범위 밖의 기능을 요구할 때, 관계를 지키며 거절하는 말을 같은 구조로 30단어 안팎으로 해 보기.

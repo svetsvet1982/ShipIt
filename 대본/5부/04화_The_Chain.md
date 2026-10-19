@@ -38,8 +38,8 @@
 07. TASHA: So he'll say no to us.
     타샤: 그럼 우리한테도 "노"라고 하겠네요.
 
-08. SOFIA: He'll say no to a price. We're not selling a price. We're selling his problem back to him, solved.
-    소피아: 가격엔 "노"라고 하겠죠. 우린 가격을 파는 게 아니에요. 그 사람 문제를 해결해서 돌려주는 거예요.
+08. SOFIA: He'll say no to a price, because that's his job and he's very good at it. But we're not selling a price. We're selling his own problem back to him, solved, and nobody says no to that.
+    소피아: 가격엔 "노"라고 하겠죠. 그게 그 사람 일이고, 아주 잘하니까요. 하지만 우린 가격을 파는 게 아니에요. 그 사람 자신의 문제를 해결해서 돌려주는 거고, 거기엔 아무도 "노"라고 못 해요.
 
 09. DEREK: What's his problem?
     데릭: 그 사람 문제가 뭔데요?
@@ -50,8 +50,8 @@
 11. TASHA: Noah's calling. Speaker?
     타샤: 노아 전화예요. 스피커로?
 
-12. NOAH: Just wishing you luck. And a reminder. Training in the contract. Or no contract.
-    노아: 행운을 빌려고요. 그리고 한 가지 상기. 계약에 교육. 아니면 계약 없음.
+12. NOAH: Just wishing you luck. And a reminder, because I know how these meetings go when a big number is on the table. Training in the contract, every injector, including new hires. Or no contract.
+    노아: 행운을 빌려고요. 그리고 한 가지 상기. 큰 숫자가 테이블에 오르면 이런 미팅이 어떻게 흘러가는지 아니까요. 계약에 교육, 모든 시술자, 신규 채용자 포함. 아니면 계약 없음.
 
 13. SOFIA: Noah, I wrote that on my hand. In ink.
     소피아: 노아, 그거 손에 써 놨어요. 펜으로.
@@ -100,8 +100,8 @@
 27. SOFIA: "That we know of." So probably more.
     소피아: "우리가 아는 건." 그러니까 아마 더 있겠네.
 
-28. NADIA: Probably. Our nurses are afraid to report. They think they'll be fired.
-    나디아: 아마도. 우리 간호사들은 보고하길 두려워해. 해고될 거라고 생각하거든.
+28. NADIA: Probably. Our nurses are afraid to report, especially the new ones. They think one complication means they'll be fired, so they call a friend instead of calling us. And by the time we hear about it, it's too late.
+    나디아: 아마도. 우리 간호사들은 보고하길 두려워해, 특히 신입들은. 합병증 한 건이면 해고될 거라고 생각해서, 우리 대신 친구한테 전화해. 그리고 우리가 알게 될 때쯤엔 이미 늦어.
 
 29. TASHA: That's the most dangerous sentence in aesthetics.
     타샤: 그게 미용 분야에서 가장 위험한 문장이에요.
@@ -121,8 +121,8 @@
 34. NADIA: Yes. Exactly that. Can you help with both?
     나디아: 맞아. 바로 그거. 둘 다 도와줄 수 있어?
 
-35. TASHA: Our certification. Theory online. Hands-on in the clinic. Half a day. New hires within a month.
-    타샤: 우리 인증이요. 이론은 온라인. 실습은 병원에서. 반나절. 신규 채용자는 한 달 안에.
+35. TASHA: Our certification. The theory is online, so they can do it at home, and the hands-on part happens in the clinic. Half a day in total. And every new hire is certified within their first month, which is exactly the window you just described.
+    타샤: 우리 인증이요. 이론은 온라인이라 집에서 할 수 있고, 실습은 병원에서 해요. 다 합쳐 반나절. 그리고 신규 채용자는 전원 첫 달 안에 인증받아요. 방금 말씀하신 바로 그 기간이죠.
 
 36. NADIA: Half a day? Our current onboarding is three days. And inconsistent.
     나디아: 반나절이요? 지금 우리 온보딩은 사흘이에요. 그리고 일관성도 없고.
@@ -142,8 +142,8 @@
 41. SOFIA: It's included with volume. Not a separate line item.
     소피아: 물량에 포함돼. 별도 항목이 아니야.
 
-42. NADIA: I want this. But Greg signs contracts. And Greg cares about total cost. Not unit price.
-    나디아: 나 이거 원해. 하지만 계약은 그레그가 해. 그리고 그레그는 총비용을 신경 써. 단가가 아니라.
+42. NADIA: I want this, Sofia. But I don't sign contracts, Greg does. And Greg doesn't care about unit price as much as total cost: what we spend on a location over a whole year. That's the only language he listens to.
+    나디아: 나 이거 원해, 소피아. 하지만 계약은 내가 아니라 그레그가 해. 그리고 그레그는 단가보다 총비용, 그러니까 지점 하나에 1년 동안 쓰는 돈을 더 신경 써. 그 사람이 듣는 언어는 그것뿐이야.
 
 43. SOFIA: Total cost. Then we'll talk total cost. What does he hate most?
     소피아: 총비용. 그럼 총비용으로 얘기하자. 그 사람이 제일 싫어하는 건?
@@ -210,8 +210,8 @@
 63. GREG: Everyone's problem is the price of a syringe.
     그레그: 모두의 문제는 주사기 가격이에요.
 
-64. SOFIA: Your problem is one and a half million dollars a year. Training and insurance. Before a single syringe.
-    소피아: 당신 문제는 연 150만 달러예요. 교육과 보험. 주사기 하나 사기도 전에.
+64. SOFIA: Your problem is about one and a half million dollars a year. Almost eight hundred thousand on training new injectors, and about seven hundred thousand more on insurance. That's before you buy a single syringe, from anyone.
+    소피아: 당신 문제는 연 150만 달러 정도예요. 신규 시술자 교육에 거의 80만, 보험에 약 70만 추가. 그게 누구한테서든 주사기 하나 사기도 전이에요.
 
 65. GREG: …Go on.
     그레그: …계속하세요.
@@ -243,11 +243,11 @@
 74. GREG: Eight percent? On two point four million?
     그레그: 8%? 240만에?
 
-75. DEREK: Close to two hundred thousand. If your insurer matches. We can't promise that. But Medex offers it.
-    데릭: 20만 가까이요. 보험사가 맞춰 주면요. 그건 약속 못 해요. 하지만 메덱스는 제공해요.
+75. DEREK: Close to two hundred thousand a year, if your insurer matches it. To be honest, we can't promise that, because it's their decision, not ours. But Medex offers it today, and we can show you their terms.
+    데릭: 연 20만 가까이요, 보험사가 맞춰 주면요. 솔직히 그건 약속 못 해요. 우리가 아니라 보험사가 결정하는 거니까요. 하지만 메덱스는 지금 제공하고 있고, 조건을 보여 드릴 수 있어요.
 
-76. GREG: You're not promising. I notice that. Most reps promise everything.
-    그레그: 약속은 안 하네요. 알아챘어요. 영업 사원 대부분은 다 약속하는데.
+76. GREG: You're not promising. I notice that. Most reps who walk into this room promise everything: lower prices, faster delivery, fewer lawsuits. Then I spend the next year holding them to it. You just did the opposite.
+    그레그: 약속은 안 하네요. 알아챘어요. 이 방에 들어오는 영업 사원 대부분은 다 약속해요. 더 낮은 가격, 더 빠른 배송, 더 적은 소송. 그리고 난 그다음 1년을 그 약속 지키게 하느라 보내죠. 당신은 방금 정반대로 했어요.
 
 77. SOFIA: We explore. We don't promise. It's a company rule.
     소피아: 우린 알아봐요. 약속하진 않고요. 회사 규칙이에요.
@@ -278,8 +278,8 @@
 85. GREG: Tiffany, your Austin clinics. Before we acquired you. What happened?
     그레그: 티파니, 오스틴 병원들. 우리가 인수하기 전에. 무슨 일이 있었죠?
 
-86. TIFFANY: An occlusion. A settlement. Insurance up forty percent. I almost lost the business. That's why I sold.
-    티파니: 혈관 폐색. 합의. 보험료 40% 인상. 사업을 거의 잃을 뻔했어요. 그래서 판 거예요.
+86. TIFFANY: An occlusion. One patient, one bad afternoon. Then a settlement, and our insurance went up forty percent the next year. I almost lost the whole business. That's why I sold to you, Greg. Not because of the price.
+    티파니: 혈관 폐색. 환자 한 명, 운 나쁜 오후 한 번. 그다음 합의, 그리고 이듬해 보험료가 40% 올랐어요. 사업 전체를 거의 잃을 뻔했어요. 그래서 당신한테 판 거예요, 그레그. 가격 때문이 아니라.
 
 87. GREG: You never told me that was why.
     그레그: 그게 이유라고는 말한 적 없잖아요.
@@ -302,8 +302,8 @@
 93. NADIA: Greg, I want this program. Medically, it's the right thing. You know it.
     나디아: 그레그, 난 이 프로그램을 원해요. 의학적으로 옳은 일이에요. 알잖아요.
 
-94. GREG: Medically, maybe. Financially, I need proof. Not a story.
-    그레그: 의학적으론 그럴지도. 재무적으론 증거가 필요해요. 이야기 말고.
+94. GREG: Medically, maybe. But I don't get to approve things because they feel right. Financially, I need proof I can take to my CFO, with numbers from our own clinics. Not a story, however good the story is.
+    그레그: 의학적으론 그럴지도. 하지만 난 옳다고 느껴진다고 승인할 수 있는 자리가 아니에요. 재무적으론 우리 병원들 숫자로 된, CFO한테 가져갈 수 있는 증거가 필요해요. 이야기 말고요. 아무리 좋은 이야기라도.
 
 95. SOFIA: Then let's create proof. We'd love to pilot. Thirty locations. Ninety days.
     소피아: 그럼 증거를 만들죠. 파일럿을 하고 싶어요. 지점 30곳. 90일.
@@ -314,8 +314,8 @@
 97. TASHA: Time to first action. Complications reported. Patient satisfaction. Training hours saved.
     타샤: 첫 행동까지 시간. 보고된 합병증. 환자 만족도. 절약된 교육 시간.
 
-98. NADIA: And reporting culture. Do nurses report more? That's a good sign. Not a bad one.
-    나디아: 그리고 보고 문화. 간호사들이 더 보고하는지. 그건 나쁜 신호가 아니라 좋은 신호예요.
+98. NADIA: And reporting culture. If nurses start reporting more complications, that's a good sign, not a bad one. It means they trust us enough to tell the truth, and we finally see the real number instead of the one we know of.
+    나디아: 그리고 보고 문화. 간호사들이 합병증을 더 많이 보고하기 시작하면, 그건 나쁜 신호가 아니라 좋은 신호예요. 진실을 말할 만큼 우릴 믿는다는 뜻이고, 마침내 '우리가 아는' 숫자가 아니라 진짜 숫자를 보게 되는 거죠.
 
 99. GREG: More reports is good? That will be hard to explain to my CFO.
     그레그: 보고가 늘면 좋은 거라고요? CFO한테 설명하기 어렵겠네요.
@@ -343,8 +343,8 @@
 106. DEREK: Thirty locations. A pilot. In one meeting. Sofia, how did you do that?
      데릭: 30곳. 파일럿. 미팅 한 번에. 소피아, 어떻게 한 거예요?
 
-107. SOFIA: I didn't. Tiffany did. And Nadia. And Greg's own numbers.
-     소피아: 내가 한 게 아니에요. 티파니가 했죠. 그리고 나디아. 그리고 그레그 자신의 숫자.
+107. SOFIA: I didn't. Tiffany did, with a story Greg had never heard. Nadia did, by wanting it for two years. And Greg's own numbers did the rest. All I did was ask the questions and stay quiet.
+     소피아: 내가 한 게 아니에요. 티파니가 했죠, 그레그가 한 번도 못 들은 이야기로. 나디아가 했고요, 2년 동안 이걸 원해 왔으니까. 나머지는 그레그 자신의 숫자가 했어요. 난 질문하고 입 다물고 있었을 뿐이에요.
 
 108. TASHA: You asked him for his numbers. Then you gave them back to him.
      타샤: 그 사람한테 숫자를 물었죠. 그리고 그걸 다시 돌려줬고요.
@@ -418,3 +418,17 @@
 | Unit price | Flex $300 | Volume tier (written, transparent) — TBD |
 
 > **Pilot:** Texas (Tiffany Moore) · 30 locations · 90 days · Metrics: time to first action · complications reported · patient satisfaction · training hours saved · reporting culture
+
+### ④ 긴 발화 분석
+
+> **64턴 SOFIA:** "Your problem is about one and a half million dollars a year. Almost eight hundred thousand on training new injectors, and about seven hundred thousand more on insurance. That's before you buy a single syringe, from anyone."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 문제 재정의(총액) | Your problem is about one and a half million dollars a year. | 상대가 말한 '단가' 문제를 더 큰 '총비용' 문제로 바꿈 |
+| ② 근거(상대의 숫자 분해) | Almost eight hundred thousand on training new injectors, and about seven hundred thousand more on insurance. | 고객이 직접 말한 숫자로 총액을 증명 |
+| ③ 대비(단가는 작다) | That's before you buy a single syringe, from anyone. | 주사기 가격 논쟁을 상대적으로 작게 보이게 함 |
+
+**활용 패턴:** "Your problem is (총액)." → 고객 숫자로 항목 분해 → "That's before…"로 기존 쟁점 축소
+**연결 표현:** about(약) · almost(거의) · and…more on(거기에 ~에 더) · That's before…(그건 ~하기도 전이다)
+**연습:** 가격만 묻는 B2B 고객에게, 그 고객이 말한 숫자를 활용해 '진짜 문제'의 총비용을 35단어 안팎으로 제시해 보기.

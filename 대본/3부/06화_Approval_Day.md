@@ -29,8 +29,8 @@
 04. MARCUS: So we're close.
     마커스: 그러니까 가까워졌다는 거네.
 
-05. ELENA: Close. Not finished. Every word on the label matters for years.
-    엘레나: 가까워요. 끝난 건 아니고요. 라벨의 모든 단어가 몇 년 동안 중요해요.
+05. ELENA: Close. Not finished. Every word on the label matters for years, because once it's printed, doctors read it, lawyers quote it, and we can only promote what it says.
+    엘레나: 가까워요. 끝난 건 아니고요. 라벨의 모든 단어가 몇 년 동안 중요해요. 한번 인쇄되면 의사들이 읽고, 변호사들이 인용하고, 우리는 거기 쓰인 것만 홍보할 수 있거든요.
 
 06. PRIYA: What do they want to change?
     프리야: 뭘 바꾸고 싶어 해요?
@@ -53,8 +53,8 @@
 12. ELENA: Yes. The label includes storage and shelf life. Your numbers.
     엘레나: 네. 라벨엔 보관과 유통기한이 들어가요. 당신 숫자예요.
 
-13. LEO: Eighteen months. Room temperature. I checked it four times.
-    레오: 18개월. 상온. 네 번 확인했어요.
+13. LEO: Eighteen months at room temperature. I checked the stability data four times, because if that number is wrong on the label, every clinic storing our syringes is relying on a mistake.
+    레오: 18개월, 상온. 안정성 데이터를 네 번 확인했어요. 라벨의 그 숫자가 틀리면, 우리 주사기를 보관하는 모든 클리닉이 실수에 기대고 있는 거니까요.
 
 14. MARCUS: Only four?
     마커스: 겨우 네 번?
@@ -82,8 +82,8 @@
 21. NOAH: Could we say "approximately three times faster"? It's easier for doctors to remember.
     노아: "약 세 배 빠르게"라고 할 수 있을까요? 의사들이 기억하기 쉬워서요.
 
-22. PARK: No. Two point eight is the measured number. Rounding up is a claim.
-    파크: 안 됩니다. 2.8이 측정된 숫자예요. 반올림하는 건 주장이에요.
+22. PARK: No. Two point eight is the measured number, and that's what your study showed. If we round it up to three, that's no longer a measurement. Rounding up is a claim.
+    파크: 안 됩니다. 2.8이 측정된 숫자이고, 그게 여러분 연구가 보여 준 겁니다. 3으로 반올림하면 더 이상 측정값이 아니에요. 반올림하는 건 주장입니다.
 
 23. NOAH: Understood. Two point eight it is.
     노아: 이해했습니다. 2.8로 하죠.
@@ -106,8 +106,8 @@
 29. ELENA: Noah. Careful.
     엘레나: 노아. 조심해요.
 
-30. NOAH: Sorry. Dr. Park, could you clarify the reason for that sentence?
-    노아: 죄송합니다. 파크 박사님, 그 문장의 이유를 설명해 주시겠습니까?
+30. NOAH: Sorry. Dr. Park, could you clarify the reason for that sentence? I'm asking because doctors may read it as 'faster doesn't matter,' and I want to understand what you're concerned about.
+    노아: 죄송합니다. 파크 박사님, 그 문장의 이유를 설명해 주시겠습니까? 의사들이 그걸 '빠른 건 중요하지 않다'로 읽을 수 있어서 여쭙는 겁니다. 어떤 점을 우려하시는지 이해하고 싶습니다.
 
 31. PARK: Your own team said it at the panel. You measured speed, not outcomes.
     파크: 여러분 팀이 패널에서 직접 말했어요. 속도를 측정했지, 결과를 측정한 건 아니라고요.
@@ -133,8 +133,8 @@
 38. NOAH: Elena, is that sentence going to hurt sales?
     노아: 엘레나, 그 문장이 매출에 타격을 줄까요?
 
-39. ELENA: It might help. Doctors trust labels that admit limits. Rachel said so.
-    엘레나: 도움이 될지도 몰라요. 의사들은 한계를 인정하는 라벨을 믿어요. 레이첼이 그랬어요.
+39. ELENA: It might help, actually. Doctors trust labels that admit limits, because it tells them we aren't hiding anything. Rachel said so. An honest limitation makes our real number more believable.
+    엘레나: 오히려 도움이 될지도 몰라요. 의사들은 한계를 인정하는 라벨을 믿어요. 우리가 아무것도 숨기지 않는다는 뜻이니까요. 레이첼이 그랬어요. 정직한 한계 문구가 우리의 진짜 숫자를 더 믿을 만하게 만들어 줘요.
 
 40. GRACE: And it protects us. Nobody can say we overclaimed.
     그레이스: 그리고 우리를 보호해 줘요. 아무도 우리가 과장했다고 못 하죠.
@@ -183,8 +183,8 @@
 54. NOAH: Post-approval study? We're not even approved.
     노아: 시판 후 연구요? 아직 승인도 안 났는데요.
 
-55. GRACE: Approval usually comes with conditions. Studies after launch. Five years, probably.
-    그레이스: 승인엔 보통 조건이 붙어요. 출시 후 연구. 아마 5년.
+55. GRACE: Approval usually comes with conditions. The most common one is a study after launch, probably for five years, so the FDA can keep watching how the product performs once it's widely used.
+    그레이스: 승인엔 보통 조건이 붙어요. 가장 흔한 게 출시 후 연구예요. 아마 5년쯤. 제품이 널리 쓰이기 시작한 뒤 어떻게 작동하는지 FDA가 계속 지켜볼 수 있도록요.
 
 56. ELENA: Following real patients. Real complications. Real injectors. Outside a perfect trial.
     엘레나: 실제 환자를 추적하는 거예요. 실제 부작용, 실제 시술자. 완벽한 임상 밖에서.
@@ -255,8 +255,8 @@
 78. NOAH: Only smile lines. Not lips. Not cheeks. Not "everything."
     노아: 팔자주름만. 입술도, 볼도 아니고. "전부"가 아니라.
 
-79. ELENA: Indications for use. If it's not on the label, we can't promote it.
-    엘레나: 사용 적응증이요. 라벨에 없으면 홍보할 수 없어요.
+79. ELENA: Those are the indications for use. If it's not on the label, we can't promote it, even if doctors ask us. That would be off-label promotion, and the penalties are serious.
+    엘레나: 그게 사용 적응증이에요. 라벨에 없으면 홍보할 수 없어요. 의사들이 물어봐도요. 그건 적응증 외 홍보가 되고, 처벌이 아주 무거워요.
 
 80. MARCUS: Then the label is our map. We stay inside the map.
     마커스: 그럼 라벨이 우리 지도네. 지도 안에서만 움직이는 거야.
@@ -287,8 +287,8 @@
 88. CAROL: Your father would have framed this. Next to his bridge photos.
     캐럴: 너희 아빠라면 이걸 액자에 넣었을 거야. 다리 사진들 옆에.
 
-89. NOAH: You built the bridge you could finish, Dad. We did too.
-    노아: 아빠가 끝낼 수 있는 다리를 지었던 것처럼, 우리도 지었어요.
+89. NOAH: You built the bridge you could finish, Dad. That's what I kept thinking about. We didn't promise everything. We built something smaller and honest, and we finished it too.
+    노아: 아빠는 끝낼 수 있는 다리를 지었죠. 계속 그 생각을 했어요. 우린 전부를 약속하지 않았어요. 더 작고 정직한 걸 지었고, 우리도 끝까지 해냈어요.
 
 90. CAROL: Don't make me cry at work. I'm at the library.
     캐럴: 일하는 중에 울리지 마. 나 도서관이야.
@@ -314,8 +314,8 @@
 97. NOAH: Thank you. Five months before your March deadline.
     노아: 감사해요. 은행 3월 기한보다 5개월 빨라요.
 
-98. HANNAH: I noticed. The covenant is satisfied. No penalty. Well done.
-    해나: 알아요. 약정 충족. 벌칙 없음. 잘했어요.
+98. HANNAH: I noticed. The approval came well before the March deadline, so the covenant is satisfied and there's no penalty. Honestly, very few companies beat these deadlines. Well done.
+    해나: 알아요. 승인이 3월 기한보다 훨씬 일찍 나와서 약정은 충족됐고 벌칙도 없어요. 솔직히 이런 기한을 앞당기는 회사는 거의 없어요. 잘했어요.
 
 99. DIANE: Noah, Diane. I read the approval letter. Twice. It's clean.
     다이앤: 노아, 다이앤이에요. 승인 서한 읽었어요. 두 번. 깔끔해요.
@@ -323,8 +323,8 @@
 100. NOAH: Clean meaning good?
      노아: 깔끔하다는 건 좋다는 거죠?
 
-101. DIANE: Clean meaning no surprises. In my world, that's the best possible word.
-     다이앤: 깔끔하다는 건 놀랄 게 없다는 뜻이에요. 내 세계에선 최고의 단어죠.
+101. DIANE: Clean meaning no surprises. Every condition is written clearly, the training language matches our policy, and there's nothing hidden that could hurt us later. In my world, that's the best possible word.
+     다이앤: 깔끔하다는 건 놀랄 게 없다는 뜻이에요. 모든 조건이 명확하게 쓰여 있고, 교육 문구가 우리 정책과 일치하고, 나중에 우리를 해칠 만한 숨은 내용이 없어요. 내 세계에선 그게 최고의 단어죠.
 
 102. ELENA: Rachel texted. "Told you. Fight the FDA. Win." With three exclamation marks.
      엘레나: 레이첼이 문자 보냈어요. "말했잖아. FDA랑 싸워서. 이겨." 느낌표 세 개.
@@ -346,8 +346,8 @@
 107. MARCUS: Speech! CEO! Speech!
      마커스: 연설! CEO! 연설!
 
-108. NOAH: Okay. Short. Four years ago, a napkin. Today, a label. Boring and true.
-     노아: 좋아요. 짧게. 4년 전엔 냅킨. 오늘은 라벨. 지루하고 진실한.
+108. NOAH: Okay. Short. Four years ago, a napkin in an emergency room. Today, a label with every word checked. Boring and true. Here's the thing. Boring and true is exactly what we wanted.
+     노아: 좋아요. 짧게. 4년 전엔 응급실의 냅킨 한 장. 오늘은 단어 하나하나 확인된 라벨. 지루하고 진실한. 중요한 건 이거예요. 지루하고 진실한 것, 그게 바로 우리가 원했던 거예요.
 
 109. NOAH: Thank you. Every single one of you. Now… we have to sell it.
      노아: 고마워요. 한 사람 한 사람 모두. 이제… 팔아야 해요.
@@ -376,8 +376,8 @@
 117. ELENA: And?
      엘레나: 그래서요?
 
-118. ZOE: It's beautifully boring. Honest. Precise. Every sentence protected.
-     조이: 아름답게 지루해요. 정직하고, 정확하고, 문장마다 보호돼 있어요.
+118. ZOE: It's beautifully boring. Honest. Precise. Every sentence protected. I've worked with labels that were full of promises, and they all caused trouble later. Yours gives me something real to build on.
+     조이: 아름답게 지루해요. 정직하고, 정확하고, 문장마다 보호돼 있어요. 약속으로 가득한 라벨들을 다뤄 봤는데, 다 나중에 문제가 됐어요. 이 라벨은 제가 쌓아 올릴 진짜 토대를 줘요.
 
 119. PRIYA: Is that a compliment?
      프리야: 그거 칭찬이에요?
@@ -418,3 +418,18 @@
 
 예시:
 > *Approved on October 28. Indication: moderate to severe nasolabial folds in adults over 22. Key claim: in a 40-subject study, dissolved 2.8x faster with hyaluronidase (blinded photo assessment). Limitation: clinical benefit of faster dissolution has not been established in clinical studies. Conditions: five-year post-approval study; injectors should complete manufacturer's training. We can promote smile lines and measured dissolution speed. We cannot promote lips, cheeks, or "safer."*
+
+### ④ 긴 발화 분석
+
+> **22턴 PARK:** "No. Two point eight is the measured number, and that's what your study showed. If we round it up to three, that's no longer a measurement. Rounding up is a claim."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 결론(거절) | No. | 협상에서 받아들일 수 없는 요청에 먼저 분명하게 답 |
+| ② 근거(사실) | Two point eight is the measured number, and that's what your study showed. | 상대의 데이터를 근거로 들어 반박의 여지를 줄임 |
+| ③ 결과(조건) | If we round it up to three, that's no longer a measurement. | if절로 요청을 받아들였을 때 생기는 문제를 보여 줌 |
+| ④ 원칙(한 줄 요약) | Rounding up is a claim. | 판단 기준을 짧은 문장으로 남김 |
+
+**활용 패턴:** 짧은 거절 → 사실 근거 → "If we…, that's no longer…" → 원칙 한 줄
+**연결 표현:** and that's what…(그게 바로 ~한 것) · If we…(만약 우리가 ~하면) · no longer(더 이상 ~가 아닌)
+**연습:** 보고서 수치를 "약 30%"로 바꾸자는 동료에게 같은 구조로 30단어 안팎으로 거절해 보기.

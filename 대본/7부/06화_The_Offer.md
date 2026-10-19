@@ -41,8 +41,8 @@
 08. NOAH: I saw your booth in Seoul. Forty square meters. Next to the coffee cart.
     노아: 서울에서 부스 봤어요. 40제곱미터. 커피 카트 옆.
 
-09. TOM: And I saw yours. One hundred. Main hall. Lily's logo, four meters high. I stood there for a while.
-    톰: 나도 네 걸 봤지. 100. 메인 홀. 릴리 로고, 높이 4미터. 한참 서 있었어.
+09. TOM: And I saw yours. One hundred square meters in the main hall, with Lily's logo four meters high. I stood there for a while, if you want the truth, because I remembered the kid who couldn't get a meeting with anybody. That kid built that booth.
+    톰: 나도 네 걸 봤지. 메인 홀에 100제곱미터, 릴리 로고가 높이 4미터. 솔직히 말하면 한참 서 있었어. 아무하고도 미팅 하나 못 잡던 꼬마가 생각나서. 그 꼬마가 저 부스를 세운 거야.
 
 10. NOAH: You were in Seoul? I didn't see you.
     노아: 서울에 있었어요? 못 봤는데.
@@ -56,8 +56,8 @@
 13. TOM: Everybody's mother. Okay. Small talk is over. I'm not good at it, and you're on a curfew.
     톰: 다들 어머니 타령이군. 좋아. 잡담은 끝. 난 그거 잘 못하고, 넌 통금이 있으니까.
 
-14. NOAH: Before you start. Whatever you say tonight, I won't answer tonight. I'll listen.
-    노아: 시작하기 전에. 오늘 밤 무슨 말씀을 하든, 오늘 밤엔 답하지 않을 거예요. 듣기만 할게요.
+14. NOAH: Before you start, one ground rule. Whatever you say tonight, I won't answer tonight, because anything this big has to go through my co-founders and the board first. So I'll listen, I'll ask questions, and I'll take notes. That's all.
+    노아: 시작하기 전에 규칙 하나. 오늘 밤 무슨 말씀을 하든, 오늘 밤엔 답하지 않을 거예요. 이만큼 큰일은 먼저 공동창업자들과 이사회를 거쳐야 하니까요. 그러니 듣고, 질문하고, 메모할게요. 그게 다예요.
 
 15. TOM: Good. Then listen carefully. Because I'm only going to say it once.
     톰: 좋아. 그럼 잘 들어. 한 번만 말할 거니까.
@@ -76,8 +76,8 @@
 19. NOAH: I said I'd listen. Go on.
     노아: 듣겠다고 했잖아요. 계속하세요.
 
-20. TOM: Your Series C closed at eight-twenty pre. Nine-seventy post. One-two is a twenty-four percent premium. In five months.
-    톰: 시리즈 C가 프리 8억 2천에 끝났지. 포스트 9억 7천. 12억이면 24% 프리미엄이야. 다섯 달 만에.
+20. TOM: Your Series C closed at eight-twenty pre and nine-seventy post. One-two is a twenty-four percent premium, in five months. Nobody else is going to offer you that, Noah, and you know it, because your next round would need Asia to work first.
+    톰: 시리즈 C가 프리 8억 2천, 포스트 9억 7천에 끝났지. 12억이면 24% 프리미엄이야. 다섯 달 만에. 이런 제안을 할 사람은 아무도 없어, 노아. 너도 알잖아. 다음 라운드를 하려면 먼저 아시아가 성공해야 하니까.
 
 21. NOAH: You know our valuation.
     노아: 우리 가치 평가를 아시네요.
@@ -118,8 +118,8 @@
 33. NOAH: Why now, Tom? Two years ago, you sued us. Then we settled. Now you want to buy us.
     노아: 왜 지금이에요, 톰? 2년 전엔 우릴 고소했죠. 그러고 합의했고. 이젠 사고 싶다고요.
 
-34. TOM: Because Lumaderm Flex isn't working. Clinics prefer yours. Even at a hundred dollars more.
-    톰: 루마덤 플렉스가 안 통하니까. 클리닉들이 너희 걸 선호해. 100달러 더 비싸도.
+34. TOM: Because Lumaderm Flex isn't working, and I'm not going to pretend otherwise. Clinics prefer yours, even at a hundred dollars more per syringe. When doctors pay more for a competitor's product, you have two choices: fight it for years, or buy it.
+    톰: 루마덤 플렉스가 안 통하니까. 아닌 척하지 않을게. 클리닉들이 너희 걸 선호해. 주사기 하나에 100달러 더 비싸도. 의사들이 경쟁사 제품에 돈을 더 낸다면 선택지는 둘이야. 몇 년이고 싸우거나, 사 버리거나.
 
 35. NOAH: That's honest.
     노아: 솔직하네요.
@@ -127,8 +127,8 @@
 36. TOM: I'm always honest with you. I'm just not always kind.
     톰: 난 너한테 늘 솔직했어. 늘 친절하진 않았을 뿐이지.
 
-37. NOAH: And there's another reason. Your CEO retires next year. You want the job.
-    노아: 그리고 다른 이유도 있죠. 본사 CEO가 내년에 은퇴해요. 그 자리를 원하시고요.
+37. NOAH: And there's another reason, and I think it matters more. Your CEO retires next year, and you want the job. A big acquisition in a growing market is exactly what a board likes to see from a candidate. So this isn't only about Lumaderm.
+    노아: 그리고 다른 이유도 있죠. 그게 더 중요한 것 같고요. 본사 CEO가 내년에 은퇴하고, 그 자리를 원하시잖아요. 성장하는 시장에서의 대형 인수는 이사회가 후보에게서 딱 보고 싶어 하는 거죠. 그러니 이건 루마덤만의 문제가 아니에요.
 
 38. TOM: …You've been reading the Financial Ledger.
     톰: …파이낸셜 레저 읽었구나.
@@ -177,8 +177,8 @@
 52. NOAH: "Reviewed as part of integration." In British, that's "no." In Halvern, too?
     노아: "통합 과정의 일부로 검토." 영국식으론 "노"인데요. 할번식으로도요?
 
-53. TOM: In Halvern, it means "not on day one." Halvern UK sells to Level Seven practitioners. Channels must align.
-    톰: 할번식으론 "첫날은 아니다"란 뜻이야. 할번 UK는 레벨 7 시술자에게 팔아. 채널이 맞춰져야지.
+53. TOM: In Halvern, it means 'not on day one.' But let's be realistic. Halvern UK already sells to Level Seven practitioners, and you can't run two different channel policies inside one company for very long. Sooner or later, the channels must align.
+    톰: 할번식으론 '첫날은 아니다'란 뜻이야. 하지만 현실적으로 보자. 할번 UK는 이미 레벨 7 시술자에게 팔고 있고, 한 회사 안에서 서로 다른 채널 정책 두 개를 오래 끌고 갈 순 없어. 조만간 채널은 맞춰져야 해.
 
 54. NOAH: Align. Meaning our syringes go to beauticians. Eventually.
     노아: 맞춘다. 그러니까 우리 주사기가 미용사에게 간다는 거네요. 결국엔.
@@ -201,8 +201,8 @@
 60. NOAH: Question three. Elena has a written safety veto. Since year one. Does it survive?
     노아: 질문 셋. 엘레나에겐 서면 안전 거부권이 있어요. 1년 차부터. 살아남아요?
 
-61. TOM: Halvern doesn't do vetoes. We do processes. Elena would be a valued voice. A very well-paid one.
-    톰: 할번은 거부권을 안 해. 절차를 하지. 엘레나는 존중받는 목소리가 될 거야. 아주 보수 좋은.
+61. TOM: Halvern doesn't do vetoes. We do processes, with committees, sign-offs and escalation paths, because one person stopping a global company is a risk we can't insure. Elena would be a valued voice in that process. A very well-paid one.
+    톰: 할번은 거부권을 안 해. 절차를 하지. 위원회, 승인, 보고 체계로. 한 사람이 글로벌 회사를 멈춰 세우는 건 우리가 감당할 수 없는 리스크니까. 엘레나는 그 절차 안에서 존중받는 목소리가 될 거야. 아주 보수 좋은.
 
 62. NOAH: A well-paid voice. Without a veto.
     노아: 보수 좋은 목소리. 거부권 없는.
@@ -252,8 +252,8 @@
 77. TOM: Two floors below Mitsukawa, kid. Shimbashi has good bars.
     톰: 미쓰카와 두 층 아래야, 꼬마. 신바시엔 좋은 바가 있지.
 
-78. NOAH: Five answers. Rule, reviewed. Committee, advisory. Veto, gone. Korea, ends. Twenty-one days. Is that right?
-    노아: 답 다섯 개. 규칙, 검토. 위원회, 자문. 거부권, 없음. 한국, 끝. 21일. 맞아요?
+78. NOAH: Let me read it back, so we don't misunderstand each other later. Five answers. Rule, reviewed. Committee, advisory. Veto, gone. Korea, ends. And you want an answer in twenty-one days, followed by forty-five days of no-shop. Is that right?
+    노아: 나중에 서로 오해하지 않게 다시 읽어 볼게요. 답 다섯 개. 규칙, 검토. 위원회, 자문. 거부권, 없음. 한국, 끝. 그리고 21일 안에 답을 원하시고, 그다음 45일 노숍. 맞아요?
 
 79. TOM: You make it sound bad. You left out the one point two billion.
     톰: 나쁘게 들리게 하네. 12억은 빼먹었잖아.
@@ -269,8 +269,8 @@
 82. NOAH: Go on.
     노아: 계속하세요.
 
-83. TOM: Lumaderm Flex launches in Korea this fall. At Bellacare prices. We can lose money for three years. Can you?
-    톰: 루마덤 플렉스가 올가을 한국에 출시돼. 벨라케어 가격으로. 우린 3년간 손해 볼 수 있어. 너흰?
+83. TOM: Lumaderm Flex launches in Korea this fall, at Bellacare prices. We can lose money there for three years without our shareholders noticing, because Korea is a rounding error for us. For you, it's your growth story. Can you lose money for three years?
+    톰: 루마덤 플렉스가 올가을 한국에 출시돼. 벨라케어 가격으로. 우린 거기서 3년간 손해를 봐도 주주들이 눈치채지 못해. 우리한테 한국은 반올림 오차 수준이니까. 너희한텐 성장 스토리 그 자체지. 너흰 3년간 손해를 버틸 수 있어?
 
 84. NOAH: That sounds like a threat, Tom.
     노아: 협박처럼 들리는데요, 톰.
@@ -293,8 +293,8 @@
 90. NOAH: Is that why you're here? To be right, finally?
     노아: 그래서 여기 계신 거예요? 마침내 맞기 위해서?
 
-91. TOM: I hired you at twenty-six. You couldn't read a P and L. Everything you used against me, I taught you.
-    톰: 스물여섯에 널 뽑았어. 손익계산서도 못 읽었지. 네가 나한테 쓴 모든 걸, 내가 가르쳤어.
+91. TOM: I hired you at twenty-six. You couldn't read a P and L, you couldn't run a meeting, and you argued with every regional director in the building. Everything you used against me in that lawsuit, every tactic, I taught you. Don't forget that.
+    톰: 스물여섯에 널 뽑았어. 손익계산서도 못 읽었고, 회의 진행도 못 했고, 건물 안의 지역 책임자란 책임자와는 다 싸웠지. 그 소송에서 네가 나한테 쓴 모든 것, 모든 전술은 내가 가르친 거야. 그걸 잊지 마.
 
 92. NOAH: You did. I've never denied it.
     노아: 그랬죠. 부정한 적 없어요.
@@ -314,8 +314,8 @@
 97. TOM: Not "no"? Not "never"?
     톰: "노"가 아니고? "절대"도 아니고?
 
-98. NOAH: I have a fiduciary duty. And investors who expect to hear within forty-eight hours. I'll do this properly.
-    노아: 저한텐 신인의무가 있어요. 그리고 48시간 안에 듣길 기대하는 투자자들도요. 제대로 할 거예요.
+98. NOAH: I have a fiduciary duty to our shareholders, Tom, and investors who expect to hear about any offer within forty-eight hours. If I say 'no' at a dinner table without asking anyone, I'm not protecting the company. I'm protecting my ego. I'll do this properly.
+    노아: 저한텐 주주들에 대한 신인의무가 있어요, 톰. 그리고 어떤 제안이든 48시간 안에 듣길 기대하는 투자자들도요. 아무에게도 묻지 않고 저녁 식탁에서 '노'라고 하면, 그건 회사를 지키는 게 아니에요. 제 자존심을 지키는 거죠. 제대로 할 거예요.
 
 99. TOM: Properly. Look at you. All grown up. Written offer, tomorrow at nine. Twenty-one days.
     톰: 제대로. 이것 봐. 다 컸네. 서면 제안서, 내일 9시. 21일.
@@ -349,8 +349,8 @@
 108. NOAH: None of the three. It's Tom. One point two billion.
      노아: 셋 다 아니에요. 톰이에요. 12억.
 
-109. ELENA: …Then it's not an emergency. Tomorrow, eight a.m. All four founders. Go home, Noah.
-     엘레나: …그럼 응급이 아니네요. 내일 오전 8시. 공동창업자 네 명 다. 집에 가요, 노아.
+109. ELENA: …Then it's not an emergency. Nobody is bleeding, and the offer will still be there in the morning. Tomorrow, eight a.m., all four founders, with clear heads. Don't call Priya or Marcus tonight. Go home, Noah. Claire is waiting.
+     엘레나: …그럼 응급이 아니네요. 피 흘리는 사람도 없고, 제안은 아침에도 그대로 있을 거예요. 내일 오전 8시, 공동창업자 네 명 다, 맑은 정신으로. 오늘 밤 프리야나 마커스한테 전화하지 마요. 집에 가요, 노아. 클레어가 기다리잖아요.
 
 110. NOAH: Paul. Text only. "Offer received tonight. Written version at nine. Notify Bluewater tomorrow. Within forty-eight hours."
      노아: 폴. 문자만. "오늘 밤 제안 받음. 서면은 9시. 내일 블루워터에 통지. 48시간 내."
@@ -370,8 +370,8 @@
 115. CLAIRE: …That's a lot of bridges.
      클레어: …다리를 엄청 많이 지을 수 있겠네.
 
-116. NOAH: Eighteen million for me. Every employee gets their options. Ha-eun pays off her loans. Tom knew her name.
-     노아: 나한테 1,800만. 모든 직원이 스톡옵션을 받고. 하은은 대출을 갚아. 톰이 그 이름을 알더라.
+116. NOAH: Eighteen million for me. Every employee gets their options accelerated, so Ha-eun pays off her loans and our receptionist buys a house. And the strange part is that Tom knew her name. He did his homework on people, not just on numbers.
+     노아: 나한테 1,800만. 모든 직원의 스톡옵션이 가속돼서, 하은은 대출을 갚고 우리 안내 직원은 집을 사. 그런데 이상한 건, 톰이 그 이름을 알더라는 거야. 숫자만이 아니라 사람까지 조사해 왔어.
 
 117. CLAIRE: And what does it cost?
      클레어: 그럼 대가는 뭔데?
@@ -421,3 +421,18 @@
 | If "no" | Lumaderm Flex in Korea at Bellacare prices, 3 years of losses | Price war threat |
 
 > **Next steps:** written offer tomorrow 9 a.m. (clock starts) · **notify Bluewater within 48 hours** (Paul, Diane's draft) · founders 8 a.m. · board.
+
+### ④ 긴 발화 분석
+
+> **98턴 NOAH:** "I have a fiduciary duty to our shareholders, Tom, and investors who expect to hear about any offer within forty-eight hours. If I say 'no' at a dinner table without asking anyone, I'm not protecting the company. I'm protecting my ego. I'll do this properly."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 근거(의무) | I have a fiduciary duty to our shareholders, Tom, and investors who expect to hear about any offer within forty-eight hours. | 즉답하지 않는 이유를 개인 감정이 아닌 공식 의무로 제시 |
+| ② 가정(반대 상황) | If I say 'no' at a dinner table without asking anyone, | 즉석 거절이 어떤 모습인지 그려 보여 줌 |
+| ③ 대비(재정의) | I'm not protecting the company. I'm protecting my ego. | "A가 아니라 B"로 즉답의 진짜 성격을 한 줄로 압축 |
+| ④ 결론(약속) | I'll do this properly. | 거절도 수락도 아닌 '절차'를 약속하며 선을 그음 |
+
+**활용 패턴:** 의무·규정 → "If I…, I'm not A. I'm B." → 절차 약속
+**연결 표현:** I have a duty to…(~할 의무가 있다) · expect to hear within…(~안에 보고받기를 기대하다) · without asking anyone(아무와도 상의하지 않고) · do this properly(절차대로 하다)
+**연습:** 거래처가 회식 자리에서 계약 조건 변경에 즉답을 요구할 때, 같은 구조로 40단어 안팎으로 정중하게 답을 미뤄 보기.

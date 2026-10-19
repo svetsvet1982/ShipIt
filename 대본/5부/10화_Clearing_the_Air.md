@@ -53,8 +53,8 @@
 12. MIRIAM: With a simple question. Why did you start this company? Together?
     미리엄: 간단한 질문으로요. 왜 이 회사를 시작했어요? 함께?
 
-13. ELENA: Because I watched a girl's nose turn white. And the enzyme was too slow.
-    엘레나: 한 여자애의 코가 하얗게 변하는 걸 봤으니까요. 그리고 효소가 너무 느렸고요.
+13. ELENA: Because I watched a girl's nose turn white in my ER, and the enzyme was too slow. I remember standing there, doing everything right, and still feeling helpless. That night I promised myself I'd help build something better.
+    엘레나: 제 응급실에서 한 여자애의 코가 하얗게 변하는 걸 봤으니까요. 그리고 효소가 너무 느렸고요. 거기 서서 모든 걸 제대로 하고 있었는데도 무력하다고 느꼈던 게 기억나요. 그날 밤 더 나은 걸 만드는 데 힘을 보태겠다고 스스로 약속했어요.
 
 14. NOAH: Because that girl was my sister. And Elena was the doctor who saved her.
     노아: 그 여자애가 내 동생이었으니까요. 그리고 엘레나가 그 애를 구한 의사였고요.
@@ -106,8 +106,8 @@
 29. ELENA: You felt I stopped seeing you. When I compared you to Tom.
     엘레나: 내가 당신을 톰과 비교했을 때. 내가 더 이상 당신을 보지 않는다고 느꼈다.
 
-30. NOAH: Tom is why I left Halvern. Hearing his words from you hurt more than the lawsuit.
-    노아: 톰은 내가 할번을 떠난 이유예요. 당신 입에서 그 사람 말을 듣는 게 소송보다 더 아팠어요.
+30. NOAH: Tom is why I left Halvern. I walked away from a safe job because I didn't want to become him, and I've spent years trying to build the opposite. So hearing his words from you hurt more than the lawsuit.
+    노아: 톰은 내가 할번을 떠난 이유예요. 그 사람처럼 되고 싶지 않아서 안정된 직장을 떠났고, 몇 년 동안 그 반대를 만들려고 애써 왔어요. 그래서 당신 입에서 그 사람 말을 듣는 게 소송보다 더 아팠어요.
 
 31. MIRIAM: Elena. Would you like to answer?
     미리엄: 엘레나. 답하고 싶어요?
@@ -127,8 +127,8 @@
 36. MIRIAM: Scared of what?
     미리엄: 뭐가 무서웠어요?
 
-37. ELENA: That we'd become the company that bends its rules. Slowly. One "reasonable" exception at a time.
-    엘레나: 우리가 규칙을 굽히는 회사가 될까 봐요. 천천히. "합리적인" 예외 하나씩.
+37. ELENA: That we'd become the company that bends its rules slowly, one "reasonable" exception at a time. Nobody ever decides to be unsafe. It happens in meetings like Tuesday's, where every small compromise sounds sensible, and nobody adds up the total.
+    엘레나: 우리가 규칙을 천천히 굽히는 회사가 될까 봐요. "합리적인" 예외 하나씩. 위험해지자고 결정하는 사람은 없어요. 그건 화요일 같은 회의에서 일어나요. 작은 타협 하나하나는 다 그럴듯하게 들리고, 아무도 그 합계를 더해 보지 않죠.
 
 38. NOAH: I'm scared of that too.
     노아: 나도 그게 무서워요.
@@ -136,8 +136,8 @@
 39. MIRIAM: And what else are you scared of, Noah?
     미리엄: 그리고 또 뭐가 무서워요, 노아?
 
-40. NOAH: That we keep our rules. And run out of money. And then nobody keeps any rules. Because we're gone.
-    노아: 우리가 규칙을 지키다가. 돈이 떨어지는 거요. 그럼 아무도 규칙을 못 지켜요. 우리가 없어지니까.
+40. NOAH: That we keep our rules and run out of money. Then nobody keeps any rules, because we're gone, and the clinics go back to whatever brand is cheapest. Sixty-two people lose their jobs, and patients lose the one company that was actually careful.
+    노아: 우리가 규칙을 지키다가 돈이 떨어지는 거요. 그럼 아무도 규칙을 못 지켜요. 우리가 없어지니까요. 병원들은 제일 싼 브랜드로 돌아가겠죠. 62명이 일자리를 잃고, 환자들은 정말로 신중했던 단 하나의 회사를 잃어요.
 
 41. MIRIAM: So. Elena fears bending. Noah fears breaking. Both fears protect the same thing.
     미리엄: 그러니까. 엘레나는 굽는 걸 두려워하고. 노아는 부러지는 걸 두려워해요. 두 두려움 모두 같은 걸 지키죠.
@@ -192,8 +192,8 @@
 57. NOAH: Elena.
     노아: 엘레나.
 
-58. MIRIAM: And that's the problem. Elena owns it alone. So everyone else stops thinking about it.
-    미리엄: 그리고 그게 문제예요. 엘레나 혼자 소유해요. 그래서 다른 모두가 그걸 생각하길 멈추죠.
+58. MIRIAM: And that's the problem. Elena owns it alone, so everyone else stops thinking about it. When one person carries the whole responsibility, the others start treating her as a gate to get through instead of a partner to plan with.
+    미리엄: 그리고 그게 문제예요. 엘레나 혼자 소유하니까, 다른 모두가 그걸 생각하길 멈춰요. 한 사람이 책임 전체를 짊어지면, 나머지는 그 사람을 함께 계획하는 파트너가 아니라 통과해야 할 관문처럼 대하기 시작하죠.
 
 59. ELENA: …That's true. Sofia's proposal felt like "Elena will say no, so let's ask Elena last."
     엘레나: …사실이에요. 소피아 제안은 "엘레나가 안 된다고 할 테니 엘레나한테 마지막에 묻자"처럼 느껴졌어요.
@@ -255,8 +255,8 @@
 78. ELENA: Only for agencies. Sit. Sofia, I owe you an apology. "Tell that to the next Destiny" was cruel.
     엘레나: 에이전시한테만요. 앉아요. 소피아, 사과할게요. "다음 데스티니한테 말해 봐요"는 잔인했어요.
 
-79. SOFIA: Thank you. And I'm sorry I called your standard an ultimatum. It was a principle.
-    소피아: 고마워요. 그리고 당신 기준을 최후통첩이라고 해서 미안해요. 그건 원칙이었어요.
+79. SOFIA: Thank you. And I'm sorry I called your standard an ultimatum. It was a principle, and I knew that even while I was saying it. I was frustrated, and I think I wanted to win the argument more than I wanted to solve the problem.
+    소피아: 고마워요. 그리고 당신 기준을 최후통첩이라고 해서 미안해요. 그건 원칙이었고, 말하면서도 알고 있었어요. 답답했고, 아마 문제를 해결하는 것보다 말싸움에서 이기고 싶었던 것 같아요.
 
 80. MIRIAM: Now you have a team. Go solve Glow. Together. And invite me to the launch party.
     미리엄: 이제 팀이 생겼네요. 가서 글로우를 해결해요. 함께. 그리고 출시 파티에 날 초대해요.
@@ -266,8 +266,8 @@
 81. ELENA: Monthly counts. That's my need. Not my position. Can we meet it differently?
     엘레나: 월간 조사. 그게 내 필요예요. 입장이 아니라. 다른 방식으로 충족할 수 있을까요?
 
-82. SOFIA: Greg's problem is labor. Three hundred locations counting by hand. He'd need a person at each.
-    소피아: 그레그의 문제는 인력이에요. 300곳이 손으로 세는 거. 지점마다 사람이 필요할 거예요.
+82. SOFIA: Greg's problem is labor, not principle. Three hundred locations counting by hand means a person at each one, every month, doing work that doesn't bring in a single patient. If we can remove that cost, I honestly think he'll say yes.
+    소피아: 그레그의 문제는 원칙이 아니라 인력이에요. 300곳이 손으로 세려면 지점마다 매달 사람이 한 명씩 필요하고, 그 일은 환자를 한 명도 데려오지 않아요. 그 비용을 없앨 수 있다면, 솔직히 그레그는 좋다고 할 거예요.
 
 83. NINA: What if nobody counts by hand?
     니나: 아무도 손으로 세지 않으면요?
@@ -278,8 +278,8 @@
 85. NINA: Every syringe now has a serial number. Leo's labels. What if the clinic scans it? With a phone.
     니나: 이제 모든 주사기에 일련번호가 있잖아요. 레오의 라벨. 병원이 그걸 스캔하면요? 휴대폰으로.
 
-86. LEO: Scan when a box arrives. Scan when a syringe is used. The app knows what's on the shelf.
-    레오: 상자가 도착하면 스캔. 주사기를 쓰면 스캔. 앱이 선반에 뭐가 있는지 알아요.
+86. LEO: Scan when a box arrives, and scan when a syringe is used. That's it. The app always knows what's on the shelf, so the staff never have to stop and count anything. They just point the phone, like scanning a boarding pass.
+    레오: 상자가 도착하면 스캔, 주사기를 쓰면 스캔. 그게 다예요. 앱이 선반에 뭐가 있는지 항상 알고 있으니까, 직원들은 멈춰서 뭘 셀 필요가 전혀 없어요. 탑승권 스캔하듯 휴대폰만 갖다 대면 돼요.
 
 87. NINA: Then the monthly count is automatic. The app compares. Received, used, remaining.
     니나: 그럼 월간 조사가 자동이에요. 앱이 비교해요. 받은 것, 쓴 것, 남은 것.
@@ -311,8 +311,8 @@
 96. MARCUS: Cost?
     마커스: 비용은?
 
-97. NINA: About sixty thousand. Cheaper than one audit trip to three hundred locations.
-    니나: 약 6만 달러. 300곳 감사 출장 한 번보다 싸요.
+97. NINA: About sixty thousand dollars. That sounds like a lot, but it's cheaper than one audit trip to three hundred locations, and we only build it once. After that, every new customer gets the same protection for free, not just Glow.
+    니나: 약 6만 달러요. 많아 보이지만, 300곳 감사 출장 한 번보다 싸고, 한 번만 만들면 돼요. 그다음부턴 글로우만이 아니라 모든 신규 고객이 같은 보호 장치를 공짜로 얻어요.
 
 98. ELENA: And the second condition. Certification. Every Glow injector. New hires within thirty days.
     엘레나: 그리고 두 번째 조건. 인증. 글로우 시술자 전원. 신규 채용자는 30일 안에.
@@ -326,8 +326,8 @@
 101. SOFIA: I know. I wrote it while thinking, "What would Elena write?"
      소피아: 알아요. "엘레나라면 뭐라고 쓸까?"를 생각하면서 썼어요.
 
-102. NOAH: Then we bring one proposal. One voice. Elena and Sofia present it. Together.
-     노아: 그럼 제안 하나를 가져가요. 한목소리로. 엘레나와 소피아가 함께 발표해요.
+102. NOAH: Then we bring one proposal, with one voice, and Elena and Sofia present it together. If Greg sees medicine and sales arguing, he'll pick the side he likes. If he sees them agreeing, he has nothing to negotiate against.
+     노아: 그럼 제안 하나를 한목소리로 가져가고, 엘레나와 소피아가 함께 발표해요. 그레그가 의학과 영업이 다투는 걸 보면, 자기 맘에 드는 편을 고를 거예요. 둘이 같은 말을 하는 걸 보면, 맞서서 협상할 거리가 없죠.
 
 103. ELENA: Together? To Greg?
      엘레나: 함께요? 그레그한테?
@@ -343,8 +343,8 @@
 106. GREG: Sofia. And Dr. Ruiz. Together. That's new.
      그레그: 소피아. 그리고 루이즈 박사. 함께. 새롭네요.
 
-107. ELENA: Greg, we heard you. "Not a pharmacy." So we built something that isn't one.
-     엘레나: 그레그, 들었어요. "약국이 아니다." 그래서 약국이 아닌 걸 만들었어요.
+107. ELENA: Greg, we heard you. You said you're a medspa, not a pharmacy, and you were right that hand counts at three hundred locations would cost too much. So instead of arguing, we built something that isn't a pharmacy at all.
+     엘레나: 그레그, 들었어요. 메디스파지 약국이 아니라고 했죠. 300곳에서 손으로 세면 비용이 너무 든다는 것도 맞는 말이었어요. 그래서 다투는 대신, 약국과는 전혀 다른 걸 만들었어요.
 
 108. SOFIA: A phone scan. Two seconds per syringe. Two minutes per month. Alerts within a day.
      소피아: 휴대폰 스캔. 주사기당 2초. 한 달에 2분. 하루 안에 알림.
@@ -355,8 +355,8 @@
 110. ELENA: Supply to that location pauses. Until fixed. Not the whole chain. Just that location.
      엘레나: 그 지점 공급이 일시 중지돼요. 고칠 때까지. 체인 전체가 아니라. 그 지점만.
 
-111. GREG: …That's fair. And Nadia will love the alerts. She's wanted this for years.
-     그레그: …공정하네요. 그리고 나디아가 알림을 좋아할 거예요. 몇 년째 이걸 원했거든요.
+111. GREG: …That's fair. Honestly, I expected another ultimatum, and instead you've given me a system my managers can actually use. Nadia will love the alerts. She's wanted this for years, and it helps us with our own investors too.
+     그레그: …공정하네요. 솔직히 또 최후통첩을 예상했는데, 우리 매니저들이 실제로 쓸 수 있는 시스템을 주셨네요. 나디아가 알림을 좋아할 거예요. 몇 년째 이걸 원했거든요. 그리고 우리 투자자들 앞에서도 도움이 되고요.
 
 112. SOFIA: So?
      소피아: 그래서요?
@@ -419,3 +419,17 @@
 | 6 | Glow conditions: monthly auto-reconciliation + 100% certification (new hires within 30 days) → **location-level supply pause** if missed | Elena & Sofia (presented together) |
 
 > **I-statement template:** *"When you ___, I felt ___. What I need from you is ___."* → Listener: *"You felt ___ when I ___. You need ___."*
+
+### ④ 긴 발화 분석
+
+> **82턴 SOFIA:** "Greg's problem is labor, not principle. Three hundred locations counting by hand means a person at each one, every month, doing work that doesn't bring in a single patient. If we can remove that cost, I honestly think he'll say yes."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 문제 재정의(대비) | Greg's problem is labor, not principle. | 상대의 "입장" 뒤에 숨은 진짜 "필요"를 한 줄로 짚음 |
+| ② 구체화 | Three hundred locations counting by hand means a person at each one, every month, doing work that doesn't bring in a single patient. | "A means B"로 그 문제가 실제로 어떤 부담인지 그려 줌 |
+| ③ 조건과 예측 | If we can remove that cost, I honestly think he'll say yes. | 해결 조건을 제시해 팀을 다음 단계(아이디어 찾기)로 이끔 |
+
+**활용 패턴:** X's problem is A, not B → A means … → If we can remove A, he'll say yes.
+**연결 표현:** not principle(원칙이 아니라) · means(~라는 뜻이다, ~를 수반한다) · If we can remove…(~를 없앨 수 있다면)
+**연습:** 신규 시스템 도입을 거부하는 거래처의 진짜 이유를 팀에 설명하는 상황에서 같은 구조로 35단어 안팎으로 말해 보기.

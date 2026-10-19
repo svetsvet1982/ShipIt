@@ -26,8 +26,8 @@
 03. NOAH: Six reps three weeks ago. Sixteen today. How did you hire ten people so fast?
     노아: 3주 전엔 여섯 명. 오늘은 열여섯. 어떻게 그렇게 빨리 열 명을 뽑았어요?
 
-04. SOFIA: I called people I've worked with. Then they called people they trust. That's a network.
-    소피아: 같이 일했던 사람들한테 전화했어요. 그다음 그 사람들이 믿는 사람들한테 전화했고요. 그게 네트워크예요.
+04. SOFIA: I called people I've worked with over twenty years, people I'd already seen in front of a difficult doctor. Then they called people they trust. That's a network, and it's faster than any recruiter.
+    소피아: 20년 동안 같이 일했던 사람들, 까다로운 의사 앞에서 어떻게 하는지 이미 본 사람들한테 전화했어요. 그다음 그 사람들이 믿는 사람들한테 전화했고요. 그게 네트워크예요. 어떤 헤드헌터보다 빠르죠.
 
 05. TASHA: And every new hire passed Dr. Hart. I made sure.
     타샤: 그리고 신입은 전원 닥터 하트를 통과했어요. 제가 확인했어요.
@@ -76,14 +76,14 @@
 19. SOFIA: Tyler. Why do doctors not buy from us?
     소피아: 타일러. 의사들은 왜 우리한테 안 사요?
 
-20. TYLER: Price. Flex is cheaper. And Halvern's rep brings lunch every week.
-    타일러: 가격이요. 플렉스가 더 싸요. 그리고 할번 영업 사원이 매주 점심을 사 와요.
+20. TYLER: Price, mostly. Flex is ninety-six dollars cheaper, and that's the first thing they mention. And Halvern's rep brings lunch to the office every week, so by the time I walk in, the staff already have a favorite.
+    타일러: 주로 가격이요. 플렉스가 96달러 싸고, 그게 그분들이 제일 먼저 꺼내는 얘기예요. 그리고 할번 영업 사원이 매주 병원에 점심을 사 와서, 제가 들어갈 때쯤이면 직원들은 이미 마음에 둔 쪽이 있어요.
 
 21. SOFIA: Rosa. What surprised you most this year?
     소피아: 로사. 올해 가장 놀라운 건 뭐였어요?
 
-22. ROSA: The recall. My clinics in LA trusted us more after it. I didn't expect that.
-    로사: 회수요. LA 제 병원들이 그 후에 우릴 더 믿었어요. 예상 못 했어요.
+22. ROSA: The recall. I was sure I'd lose half my clinics in LA after it. Instead, they trusted us more, because we called them before they heard it from anyone else. I really didn't expect that.
+    로사: 회수요. 그 일 이후 LA 병원 절반은 잃을 거라고 확신했어요. 그런데 오히려 우릴 더 믿었어요. 다른 데서 듣기 전에 우리가 먼저 전화했으니까요. 정말 예상 못 했어요.
 
 23. SOFIA: Thank you. Three answers. Honesty, price, trust. That's our whole business. On one slide.
     소피아: 고마워요. 세 개의 답. 정직, 가격, 신뢰. 그게 우리 사업 전체예요. 슬라이드 한 장에.
@@ -133,8 +133,8 @@
 38. TYLER: So a territory with lots of Flex gets a lower quota?
     타일러: 그럼 플렉스가 많은 지역은 할당량이 낮아져요?
 
-39. GRACE: Slightly lower. Because it's harder. We don't punish you for Halvern's lunch budget.
-    그레이스: 약간 낮아요. 더 어려우니까요. 할번 점심 예산 때문에 여러분을 벌주진 않아요.
+39. GRACE: Slightly lower, because it's harder to win a clinic where Flex is already on the shelf. The goal is a quota that measures your work, not your luck with geography. We don't punish you for Halvern's lunch budget.
+    그레이스: 약간 낮아요. 플렉스가 이미 선반에 있는 병원을 따내는 건 더 어려우니까요. 목표는 지역 운이 아니라 여러분의 노력을 측정하는 할당량이에요. 할번 점심 예산 때문에 여러분을 벌주진 않아요.
 
 40. SOFIA: Average quota, twenty-two hundred syringes per rep. Per year.
     소피아: 평균 할당량, 영업 사원당 2,200개. 연간.
@@ -148,8 +148,8 @@
 43. JAMAL: Why seventy?
     자말: 왜 70%예요?
 
-44. SOFIA: Everyone hits quota? Too easy. Nobody hits it? A fantasy. Fantasy quotas make people cheat.
-    소피아: 모두 달성하면? 너무 쉬운 거. 아무도 못 하면? 환상. 환상적인 할당량은 사람들을 부정행위로 몰아요.
+44. SOFIA: If everyone hits quota, it's too easy, and the company is planning on the wrong number. If nobody hits it, it's a fantasy. And fantasy quotas make good people cheat, because they feel they have no honest way to win.
+    소피아: 모두 달성하면 너무 쉬운 거고, 회사는 잘못된 숫자로 계획을 세우는 거예요. 아무도 못 하면 환상이고요. 그리고 환상적인 할당량은 좋은 사람들까지 부정행위로 몰아요. 정직하게 이길 방법이 없다고 느끼니까요.
 
 45. TASHA: Cheat how?
     타샤: 어떻게 부정행위를 해요?
@@ -157,8 +157,8 @@
 46. SOFIA: Skip training to close faster. Hint at off-label use. Promise prices they can't give.
     소피아: 빨리 계약하려고 교육을 건너뛰기. 오프라벨 사용 암시하기. 줄 수 없는 가격 약속하기.
 
-47. DEREK: I've seen all three. At Kessler.
-    데릭: 셋 다 봤어요. 케슬러에서.
+47. DEREK: I've seen all three, at Kessler. Not from bad people, either. From good reps with a quota nobody could hit and a manager asking every Friday where the numbers were. That pressure changes people faster than you'd think.
+    데릭: 셋 다 봤어요, 케슬러에서. 그것도 나쁜 사람들이 아니었어요. 아무도 달성 못 할 할당량을 받은 좋은 영업 사원들, 그리고 매주 금요일마다 숫자 어디 있냐고 묻는 매니저. 그 압박은 생각보다 빨리 사람을 바꿔요.
 
 48. SOFIA: So have I. At Brightline. That's why the quota is honest. And the bonus has guardrails.
     소피아: 저도요. 브라이트라인에서. 그래서 할당량이 정직한 거예요. 그리고 보너스엔 안전장치가 있고요.
@@ -183,8 +183,8 @@
 54. TYLER: Is that a good thing or a bad thing?
     타일러: 그게 좋은 거예요, 나쁜 거예요?
 
-55. TASHA: For me, it's a training trip. I'll come with you. First month.
-    타샤: 저한텐 교육 출장이죠. 같이 갈게요. 첫 달에.
+55. TASHA: For me, it's a training trip. No Veyra rep means almost nobody out there has been certified properly, so I'll come with you for the first month. We train the injectors first, and then you sell.
+    타샤: 저한텐 교육 출장이죠. 베이라 영업 사원이 없다는 건 거기서 제대로 인증받은 사람이 거의 없다는 뜻이니까, 첫 달엔 같이 갈게요. 시술자 교육이 먼저고, 판매는 그다음이에요.
 
 56. ROSA: LA stays with me? All of it?
     로사: LA는 저한테 남아요? 전부?
@@ -225,8 +225,8 @@
 68. JAMAL: What about incentives? Beyond the bonus?
     자말: 인센티브는요? 보너스 외에?
 
-69. SOFIA: Two. First, a quarterly award. Not for most revenue. For best customer story. Voted by the team.
-    소피아: 두 가지. 첫째, 분기 상. 최대 매출이 아니라. 최고의 고객 이야기에. 팀이 투표해요.
+69. SOFIA: Two. First, a quarterly award, and not for the most revenue. It's for the best customer story, voted by the team. I want you to remember why a doctor trusted you, not just how much she ordered.
+    소피아: 두 가지. 첫째, 분기 상인데, 최대 매출에 주는 게 아니에요. 최고의 고객 이야기에 주고, 팀이 투표해요. 의사가 얼마나 주문했는지만이 아니라, 왜 여러분을 믿었는지를 기억했으면 해요.
 
 70. TYLER: Not for revenue? That's weird.
     타일러: 매출이 아니라고요? 이상하네요.
@@ -263,8 +263,8 @@
 
 ### 절정·전환 — 점심, Sofia와 Derek
 
-81. DEREK: You took Dallas. Fifteen years of relationships. Dr. Wade. Haddad. You gave them to a rep with one year.
-    데릭: 댈러스를 가져갔어요. 15년의 관계를. 웨이드 선생님. 하다드. 1년 된 영업 사원한테 줬어요.
+81. DEREK: You took Dallas. Fifteen years of relationships, Sofia. Dr. Wade. Haddad. People who pick up the phone when I call. And you gave them to a rep with one year of experience, without even asking me first.
+    데릭: 댈러스를 가져갔어요. 15년의 관계를요, 소피아. 웨이드 선생님. 하다드. 제가 전화하면 받는 사람들. 그걸 경력 1년 된 영업 사원한테 줬어요. 저한테 먼저 묻지도 않고.
 
 82. SOFIA: I did. Can I explain before you decide I'm wrong?
     소피아: 그랬죠. 제가 틀렸다고 결정하기 전에 설명해도 될까요?
@@ -272,8 +272,8 @@
 83. DEREK: Go ahead.
     데릭: 하세요.
 
-84. SOFIA: You're the best relationship builder on this team. You're wasted on twenty clinics.
-    소피아: 당신은 이 팀 최고의 관계 구축자예요. 병원 스무 곳에 쓰기엔 아까워요.
+84. SOFIA: You're the best relationship builder on this team. I watched you with doctors for three weeks, and I read your notes. Someone who can do what you do is wasted on twenty clinics.
+    소피아: 당신은 이 팀 최고의 관계 구축자예요. 3주 동안 의사들 앞에서 당신을 지켜봤고, 노트도 읽었어요. 당신이 하는 일을 할 수 있는 사람이 병원 스무 곳에 쓰이기엔 아까워요.
 
 85. DEREK: Wasted?
     데릭: 아깝다고요?
@@ -343,8 +343,8 @@
 106. AVA: Derek. Sofia told me. Dallas. I'm sorry. I didn't ask for it.
      에이바: 데릭. 소피아가 말해 줬어요. 댈러스. 미안해요. 제가 요청한 거 아니에요.
 
-107. DEREK: I know. Monday, seven a.m. We start with Dr. Wade. I'll introduce you.
-     데릭: 알아요. 월요일 오전 7시. 웨이드 선생님부터 시작해요. 내가 소개할게요.
+107. DEREK: I know. It's not your fault, and it's not personal. Monday, seven a.m., we start with Dr. Wade. I'll introduce you myself, clinic by clinic, before January, so nobody in Dallas feels like they were handed off.
+     데릭: 알아요. 당신 잘못도 아니고, 개인적인 감정도 없어요. 월요일 오전 7시, 웨이드 선생님부터 시작해요. 1월 전에 병원 하나하나 내가 직접 소개할게요. 댈러스에서 누구도 떠넘겨졌다고 느끼지 않게.
 
 108. AVA: You'd do that?
      에이바: 그래 줄 거예요?
@@ -358,8 +358,8 @@
 111. NOAH: Sofia. How did it go? With Derek?
      노아: 소피아. 어떻게 됐어요? 데릭이랑?
 
-112. SOFIA: He's angry. And excited. That's the right mix.
-     소피아: 화났어요. 그리고 신났고요. 딱 맞는 조합이에요.
+112. SOFIA: He's angry, and he's excited, and honestly, that's the right mix. Angry means he cares about his doctors. Excited means he can see what Glow could be. If he'd just said yes, I'd be worried.
+     소피아: 화났어요. 그리고 신났고요. 솔직히 그게 딱 맞는 조합이에요. 화났다는 건 자기 의사들을 아낀다는 뜻이고, 신났다는 건 글로우가 뭐가 될 수 있는지 보인다는 뜻이에요. 그냥 알겠다고만 했으면 오히려 걱정했을 거예요.
 
 113. NOAH: And the team?
      노아: 그리고 팀은요?
@@ -420,3 +420,17 @@
 | **National key accounts (Glow Collective)** | **Derek Shaw** | 300 locations, 40% injector turnover | Contract + 100% certification |
 
 > **Rules:** Average quota 2,200/rep · set for ~70% attainment · Bonus = 2/3 revenue + 1/3 (certified clinics + compliance) — top to bottom · Quarterly award = best customer story (team vote) · Quota hitters → bring one customer to IMCAS Paris (goal, not promise)
+
+### ④ 긴 발화 분석
+
+> **44턴 SOFIA:** "If everyone hits quota, it's too easy, and the company is planning on the wrong number. If nobody hits it, it's a fantasy. And fantasy quotas make good people cheat, because they feel they have no honest way to win."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 극단 1(너무 쉬움) | If everyone hits quota, it's too easy, and the company is planning on the wrong number. | 목표가 낮을 때의 문제를 조건문으로 제시 |
+| ② 극단 2(너무 어려움) | If nobody hits it, it's a fantasy. | 반대 극단을 같은 구조로 짧게 대비 |
+| ③ 결과와 이유 | And fantasy quotas make good people cheat, because they feel they have no honest way to win. | 왜 '70%' 같은 중간값이 필요한지 위험과 원인으로 설명 |
+
+**활용 패턴:** If everyone…, A. → If nobody…, B. → 그래서 생기는 위험 + because 이유
+**연결 표현:** If everyone…(모두가 ~하면) · If nobody…(아무도 ~하지 못하면) · make people + 동사(사람들이 ~하게 만들다) · because they feel…(~라고 느끼기 때문에)
+**연습:** 팀의 분기 목표를 왜 '도전적이지만 달성 가능한' 수준으로 정했는지 같은 구조로 40단어 안팎으로 설명해 보기.

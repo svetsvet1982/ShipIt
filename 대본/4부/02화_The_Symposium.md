@@ -29,8 +29,8 @@
 04. NOAH: The company history. The funding story. My dad's bridge.
     노아: 회사 역사. 투자 이야기. 아빠의 다리.
 
-05. RACHEL: Doctors don't care about your funding. They care about Tuesday morning.
-    레이첼: 의사들은 당신 투자 얘기에 관심 없어요. 화요일 아침에 관심 있죠.
+05. RACHEL: Good. Doctors don't care about your funding or your history. They care about Tuesday morning, when a patient is on the table and something goes wrong. Talk about that.
+    레이첼: 좋아요. 의사들은 당신 투자 얘기나 회사 역사에 관심 없어요. 화요일 아침, 환자가 시술대에 누워 있는데 뭔가 잘못되는 순간에 관심 있죠. 그 얘기를 해요.
 
 06. ELENA: The Halvern advisors are already seated. Front row. Center.
     엘레나: 할번 자문위원들이 벌써 앉았어요. 맨 앞줄. 가운데.
@@ -47,8 +47,8 @@
 10. NOAH: Answer, then stop. Got it.
     노아: 답하고, 멈추기. 알겠어요.
 
-11. RACHEL: Most CEOs answer, then keep talking. That's where they get killed.
-    레이첼: CEO들 대부분은 답하고 나서 계속 말해요. 거기서 당하는 거예요.
+11. RACHEL: Most CEOs answer the question, then keep talking because the silence feels uncomfortable. That's where they get killed. Every extra sentence gives the next questioner something new to attack.
+    레이첼: CEO들 대부분은 질문에 답하고 나서, 침묵이 불편하니까 계속 말해요. 거기서 당하는 거예요. 덧붙인 문장 하나하나가 다음 질문자에게 공격할 거리를 새로 주거든요.
 
 12. TASHA: And the "one more thing"? Are we really doing it?
     타샤: 그리고 "하나 더"요? 정말 하는 거예요?
@@ -73,8 +73,8 @@
 18. RACHEL: Thank you, Victor. Elena presents the data. Then Noah. Then your questions.
     레이첼: 고마워요, 빅터. 엘레나가 데이터를 발표하고. 그다음 노아. 그다음 여러분 질문.
 
-19. ELENA: Three hundred patients. Fifteen sites. Six-month response, eighty-two versus eighty percent.
-    엘레나: 환자 300명. 사이트 15곳. 6개월 반응률 82 대 80퍼센트.
+19. ELENA: The pivotal study had three hundred patients at fifteen sites. At six months, the response rate was eighty-two percent for Veyra Fill versus eighty percent for the control.
+    엘레나: 허가 임상시험에는 15개 사이트에서 환자 300명이 참여했습니다. 6개월 시점 반응률은 베이라 필 82퍼센트, 대조군 80퍼센트였습니다.
 
 20. RACHEL: Non-inferior. For the residents in the room, that means "not worse."
     레이첼: 비열등. 이 방의 전공의들을 위해 말하면 "더 나쁘지 않다"는 뜻이에요.
@@ -103,8 +103,8 @@
 28. LANG: We know.
     랭: 알고 있어요.
 
-29. NOAH: It was true. Not the whole truth. Results stay. Until you need them gone.
-    노아: 사실이었습니다. 진실의 전부는 아니었죠. 결과는 오래갑니다. 그게 사라져야 할 때까지는.
+29. NOAH: It was true, but it wasn't the whole truth. Results do stay, and most days that's exactly what patients want. But results stay even when you need them gone.
+    노아: 사실이었습니다. 하지만 진실의 전부는 아니었죠. 결과는 정말 오래갑니다. 대부분의 날엔 그게 바로 환자가 원하는 거고요. 하지만 결과는 사라져야 할 때에도 남아 있습니다.
 
 30. MARCUS: He's got the room.
     마커스: 방을 휘어잡았네.
@@ -118,20 +118,20 @@
 33. MARIA: Yes!
     마리아: 맞아요!
 
-34. NOAH: Thank you, Houston. Three things. Results. Same as the leader. You don't have to choose.
-    노아: 고마워요, 휴스턴. 세 가지. 결과. 1위와 같음. 선택할 필요가 없습니다.
+34. NOAH: Thank you, Houston. I have three things to say. First, results. They're the same as the market leader at six and twelve months, so you don't have to choose.
+    노아: 고마워요, 휴스턴. 세 가지를 말씀드리겠습니다. 첫째, 결과. 6개월과 12개월 모두 시장 1위와 같습니다. 그러니 선택할 필요가 없습니다.
 
 35. ZOE: Pillar one. Perfect.
     조이: 기둥 하나. 완벽해.
 
-36. NOAH: Control. FlexLink. Faster to dissolve when you need to. Two point eight times.
-    노아: 통제. 플렉스링크. 필요할 때 더 빨리 녹습니다. 2.8배.
+36. NOAH: Second, control. Our FlexLink technology dissolves two point eight times faster with hyaluronidase. That means when you need the filler gone, you're not waiting, and neither is your patient.
+    노아: 둘째, 통제. 저희 플렉스링크 기술은 히알루로니다아제로 2.8배 빨리 녹습니다. 즉, 필러를 없애야 할 때 여러분도, 여러분의 환자도 기다리지 않는다는 뜻입니다.
 
 37. MARCUS: Five minutes. On pace.
     마커스: 5분. 페이스 좋아.
 
-38. NOAH: Support. Training before every first order. An emergency kit in every clinic.
-    노아: 지원. 모든 첫 주문 전에 교육. 모든 병원에 응급 키트.
+38. NOAH: Third, support. Every clinic gets training before its first order, and an emergency kit on the shelf. We don't sell you a syringe and disappear. We stay for the hard day.
+    노아: 셋째, 지원. 모든 병원은 첫 주문 전에 교육을 받고, 선반에 응급 키트를 둡니다. 주사기 하나 팔고 사라지지 않습니다. 힘든 날에 곁에 있겠습니다.
 
 39. PIERCE: Hmm. Go on.
     피어스: 흠. 계속해요.
@@ -171,8 +171,8 @@
 
 ### 장면2 — 칼날 같은 질문들
 
-51. RACHEL: The FDA asked for a blinded re-read. Three independent dermatologists. I was there.
-    레이첼: FDA가 눈가림 재판독을 요청했어요. 독립 피부과 전문의 셋. 제가 거기 있었죠.
+51. RACHEL: Let me take the process part, because I was there. The FDA asked for a blinded re-read of the photos by three independent dermatologists. Elena, tell them what happened next.
+    레이첼: 과정 부분은 제가 말할게요. 제가 거기 있었으니까요. FDA가 독립 피부과 전문의 세 명에게 사진 눈가림 재판독을 요청했어요. 엘레나, 그다음에 무슨 일이 있었는지 말해 줘요.
 
 52. ELENA: The blinded number was lower. Two point eight. We reported the lower number.
     엘레나: 눈가림 결과가 더 낮았어요. 2.8. 우린 낮은 숫자를 보고했습니다.
@@ -192,8 +192,8 @@
 57. RACHEL: Hello, Alan. Be gentle.
     레이첼: 안녕, 앨런. 살살 해요.
 
-58. PIERCE: Never. Here's my worry. A faster exit makes injectors careless. Moral hazard.
-    피어스: 절대 안 하죠. 제 걱정은 이거예요. 빠른 비상구가 시술자를 부주의하게 만든다. 도덕적 해이.
+58. PIERCE: Never. Here's my worry. If injectors know there's a faster exit, they'll take more risks and get careless. Economists call that moral hazard. I call it a bad Tuesday morning.
+    피어스: 절대 안 하죠. 제 걱정은 이거예요. 더 빠른 비상구가 있다는 걸 알면 시술자들은 위험을 더 감수하고 부주의해질 거예요. 경제학자들은 그걸 도덕적 해이라고 하죠. 난 나쁜 화요일 아침이라고 부르고요.
 
 59. NOAH: That's a fair concern. The FDA panel asked the same.
     노아: 정당한 우려입니다. FDA 패널도 같은 걸 물었죠.
@@ -213,8 +213,8 @@
 64. PIERCE: …No. We add driving lessons.
     피어스: …아니요. 운전 교육을 추가하죠.
 
-65. NOAH: Exactly. That's why we don't sell without training. Not one syringe.
-    노아: 바로 그거예요. 그래서 교육 없인 팔지 않습니다. 주사기 하나도.
+65. NOAH: Exactly. A safety tool works best with good habits, not instead of them. That's why we don't sell without training. Not one syringe, to anyone, no matter how experienced.
+    노아: 바로 그거예요. 안전 도구는 좋은 습관을 대신하는 게 아니라, 좋은 습관과 함께할 때 가장 잘 작동합니다. 그래서 교육 없인 팔지 않습니다. 경력이 얼마든, 누구에게도 주사기 하나도요.
 
 66. PIERCE: Not one? Even to a twenty-year surgeon? Like me?
     피어스: 하나도요? 20년 차 외과의에게도요? 나 같은?
@@ -231,8 +231,8 @@
 70. MARIA: Maria Santos, nurse injector, Houston. Will nurses be treated equally? In training?
     마리아: 마리아 산토스, 간호사 시술자, 휴스턴. 교육에서 간호사도 똑같이 대우받나요?
 
-71. TASHA: Same course. Same exam. Same certificate. I'm a nurse. I wrote it.
-    타샤: 같은 과정. 같은 시험. 같은 인증서. 저도 간호사예요. 제가 만들었어요.
+71. TASHA: Same course, same exam, same certificate. I'm a nurse myself, and I wrote that course, so I made sure nobody gets treated like a second-class injector. Not on my watch.
+    타샤: 같은 과정, 같은 시험, 같은 인증서. 저도 간호사이고 그 과정을 제가 만들었어요. 그래서 누구도 이류 시술자 취급을 받지 않게 했죠. 제가 있는 한 절대요.
 
 72. MARIA: Then I'm in. My whole team.
     마리아: 그럼 저 할게요. 우리 팀 전부.
@@ -284,8 +284,8 @@
 87. MARIA: Free? For Lumaderm users too?
     마리아: 무료요? 루마덤 쓰는 사람한테도요?
 
-88. NOAH: For anyone holding a needle. Occlusions don't check the brand.
-    노아: 바늘을 든 모든 사람에게요. 혈관 폐색은 브랜드를 확인하지 않습니다.
+88. NOAH: For anyone holding a needle. Occlusions don't check the brand on the syringe, and a patient in trouble doesn't care who made the filler. They care about the first ten seconds.
+    노아: 바늘을 든 모든 사람에게요. 혈관 폐색은 주사기에 적힌 브랜드를 확인하지 않고, 위험에 처한 환자는 누가 필러를 만들었는지 신경 쓰지 않습니다. 처음 10초가 중요할 뿐이죠.
 
 89. MARCUS: Listen. They're clapping.
     마커스: 들어 봐. 박수 치고 있어.
@@ -352,8 +352,8 @@
 109. NOAH: Is that bad?
      노아: 그게 나빠요?
 
-110. TOM: For me, yes. Now I have to match it. Or look cheap.
-     톰: 나한텐 그래. 이제 나도 따라 해야 해. 아니면 싸구려처럼 보이든가.
+110. TOM: For me, yes. Now I have to match it, or I look cheap in front of every customer who was in that room. Either way, you've just spent my training budget.
+     톰: 나한텐 그래. 이제 나도 따라 하든가, 아니면 그 방에 있던 모든 고객 앞에서 싸구려처럼 보이든가. 어느 쪽이든, 당신이 방금 내 교육 예산을 써 버린 거야.
 
 111. NOAH: Then patients win. Again.
      노아: 그럼 환자들이 이기네요. 또.
@@ -379,8 +379,8 @@
 118. NOAH: Me? Why?
      노아: 나요? 왜요?
 
-119. DEREK: CEOs who sell for one day stop making silly forecasts.
-     데릭: 하루 영업해 본 CEO는 엉터리 예측을 그만두거든요.
+119. DEREK: Because CEOs who sell for one day stop making silly forecasts. You'll sit in waiting rooms, hear 'no' five times, and come back with much better numbers.
+     데릭: 하루 영업해 본 CEO는 엉터리 예측을 그만두거든요. 대기실에 앉아 있고, '아니요'를 다섯 번 듣고 나면, 훨씬 나은 숫자를 들고 돌아올 거예요.
 
 120. ZOE: He's right. Bring comfortable shoes. And no smile.
      조이: 맞는 말이에요. 편한 신발 신어요. 그리고 미소는 빼고요.
@@ -417,3 +417,17 @@
 | 6:00–7:40 | What we won't say | *"We won't say 'safer.' 'Safer' is a promise. 'Faster' is a measurement."* |
 | Q&A | Answer, then stop | Acknowledge → answer → stop. |
 | Last 0:20 | One more thing | *"Our emergency module is free. For every injector. Any product."* |
+
+### ④ 긴 발화 분석
+
+> **36턴 NOAH:** "Second, control. Our FlexLink technology dissolves two point eight times faster with hyaluronidase. That means when you need the filler gone, you're not waiting, and neither is your patient."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 신호(번호+키워드) | Second, control. | 연설 구조 속 위치와 주제를 두 단어로 알림 |
+| ② 사실(숫자) | Our FlexLink technology dissolves two point eight times faster with hyaluronidase. | 측정된 숫자로 주장을 뒷받침 |
+| ③ 의미(청중의 이익) | That means when you need the filler gone, you're not waiting, and neither is your patient. | 숫자를 듣는 사람의 현장 상황으로 번역 |
+
+**활용 패턴:** 번호+키워드 → 숫자로 된 사실 → "That means…" 청중의 이익
+**연결 표현:** Second,(둘째로) · That means…(즉 ~라는 뜻이다) · neither is…(~도 마찬가지로 아니다)
+**연습:** 신제품 발표에서 '속도' 장점을 같은 구조로 30단어 안팎으로 말해 보기.

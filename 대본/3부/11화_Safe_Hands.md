@@ -35,8 +35,8 @@
 06. NOAH: Why a timer?
     노아: 타이머는 왜요?
 
-07. TASHA: Because in an emergency, you lose all sense of time. Every nurse does.
-    타샤: 응급 상황에선 시간 감각을 완전히 잃거든요. 모든 간호사가 그래요.
+07. TASHA: Because in an emergency, you lose all sense of time. Every nurse does. Two minutes feel like ten seconds, and ten seconds feel like an hour. The timer tells you the truth.
+    타샤: 응급 상황에선 시간 감각을 완전히 잃거든요. 모든 간호사가 그래요. 2분이 10초처럼 느껴지고, 10초가 한 시간처럼 느껴져요. 타이머는 진실을 말해 주죠.
 
 08. ELENA: Twelve years in the ER. Four years teaching injectors. You've seen both sides.
     엘레나: 응급실 12년. 시술자 교육 4년. 양쪽을 다 보셨네요.
@@ -53,8 +53,8 @@
 12. ELENA: That's why you're here.
     엘레나: 그래서 당신이 여기 있는 거죠.
 
-13. TASHA: I've done two hundred trainings for other companies. Most were sales pitches.
-    타샤: 다른 회사들을 위해 교육 200번 했어요. 대부분은 영업 피칭이었죠.
+13. TASHA: I've done two hundred trainings for other companies. Most were sales pitches. A little on safety, a lot on the product, and a free lunch from the sales team.
+    타샤: 다른 회사들을 위해 교육을 200번 했어요. 대부분은 영업 피칭이었죠. 안전은 조금, 제품은 잔뜩, 그리고 영업팀이 사 주는 공짜 점심.
 
 14. NOAH: With a certificate at the end?
     노아: 마지막에 수료증 주는?
@@ -79,8 +79,8 @@
 20. NOAH: Can you say more?
     노아: 좀 더 말해 줄래요?
 
-21. TASHA: Not "what will they know." What will they be able to do?
-    타샤: "무엇을 알게 될까"가 아니라. 무엇을 할 수 있게 될까?
+21. TASHA: Not "what will they know." What will they be able to do? A nurse can know every artery and still freeze. So every goal in this course starts with a verb, not a fact.
+    타샤: "무엇을 알게 될까"가 아니라요. 무엇을 할 수 있게 될까? 간호사도 동맥을 전부 알면서 얼어붙을 수 있어요. 그래서 이 과정의 모든 목표는 사실이 아니라 동사로 시작해요.
 
 22. ELENA: Competency, not knowledge. I agree completely.
     엘레나: 지식이 아니라 역량. 완전히 동의해요.
@@ -109,8 +109,8 @@
 30. TASHA: Yes. Or it's not a certification. It's attendance.
     타샤: 네. 아니면 그건 인증이 아니에요. 출석이죠.
 
-31. ZOE: Failing customers. That's a marketing problem.
-    조이: 고객을 떨어뜨린다. 그건 마케팅 문제인데요.
+31. ZOE: Failing customers. That's a marketing problem. If a clinic pays for our product and then fails our course, they won't blame themselves. They'll blame us, and they'll tell other clinics.
+    조이: 고객을 떨어뜨린다. 그건 마케팅 문제예요. 병원이 우리 제품값을 내고 과정에서 떨어지면, 자기 탓을 하지 않아요. 우리 탓을 하고, 다른 병원들에도 말할 거예요.
 
 32. TASHA: Untrained customers. That's a patient problem.
     타샤: 교육 안 된 고객. 그건 환자 문제죠.
@@ -151,8 +151,8 @@
 44. ZOE: Then they're not our customer. Yet.
     조이: 그럼 우리 고객이 아니죠. 아직은.
 
-45. TASHA: But their patients can still have an occlusion tomorrow.
-    타샤: 하지만 그 환자들도 내일 폐색이 올 수 있어요.
+45. TASHA: But their patients can still have an occlusion tomorrow. The patient doesn't choose the brand in the syringe. If we only teach our customers, we're protecting our sales, not faces.
+    타샤: 하지만 그 환자들도 내일 폐색이 올 수 있어요. 환자는 주사기 속 브랜드를 고르지 않아요. 우리 고객만 가르치면, 우린 얼굴이 아니라 매출을 지키는 거예요.
 
 46. ELENA: She's right. The emergency module saves faces. Not just our faces.
     엘레나: 맞는 말이에요. 응급 모듈은 얼굴을 살려요. 우리 고객 얼굴만이 아니라.
@@ -180,8 +180,8 @@
 53. TASHA: Nice to meet you. Elena says you've had an occlusion.
     타샤: 반가워요. 엘레나가 폐색을 겪으셨다고 하던데요.
 
-54. JASMINE: Four years ago. I told Elena and Noah once. "For ten seconds, I froze."
-    재스민: 4년 전에요. 엘레나랑 노아한테 한 번 말했죠. "10초 동안 얼어붙었다."
+54. JASMINE: Four years ago. I told Elena and Noah once. "For ten seconds, I froze." I've never said it in a room full of people before, so please forgive me if my voice shakes.
+    재스민: 4년 전에요. 엘레나랑 노아한테 한 번 말했죠. "10초 동안 얼어붙었다." 사람들이 가득한 방에서 말하는 건 처음이라, 목소리가 떨려도 이해해 주세요.
 
 55. TASHA: Tell me about those ten seconds. Exactly.
     타샤: 그 10초에 대해 말해 줘요. 정확히.
@@ -192,8 +192,8 @@
 57. TASHA: What were you thinking?
     타샤: 무슨 생각을 했어요?
 
-58. JASMINE: "What's the first step?" I knew ten steps. I couldn't find the first one.
-    재스민: "첫 단계가 뭐지?" 열 단계를 알았는데. 첫 번째를 못 찾았어요.
+58. JASMINE: I kept asking myself, "What's the first step?" I knew ten steps, but I couldn't find the first one. It was like a list with the top line erased.
+    재스민: 계속 스스로에게 물었어요. "첫 단계가 뭐지?" 열 단계를 알았는데, 첫 번째를 못 찾았어요. 맨 윗줄이 지워진 목록 같았죠.
 
 59. TASHA: That's the most important sentence I'll hear this year.
     타샤: 올해 들을 문장 중 가장 중요한 문장이에요.
@@ -201,8 +201,8 @@
 60. NOAH: Why?
     노아: 왜요?
 
-61. TASHA: Because the kit isn't just tools. It must tell you step one. Immediately.
-    타샤: 키트는 도구만이 아니어야 하니까요. 1단계를 바로 알려 줘야 해요.
+61. TASHA: Because the kit isn't just tools. It must tell you step one, immediately. When you panic, you can't think, but you can still read and follow one short instruction.
+    타샤: 키트는 도구만이 아니어야 하니까요. 1단계를 바로 알려 줘야 해요. 공황 상태에선 생각은 못 해도, 짧은 지시 하나는 여전히 읽고 따를 수 있거든요.
 
 62. ELENA: A card. On top. The first thing you see when you open it.
     엘레나: 카드. 맨 위에. 열었을 때 제일 먼저 보이는 것.
@@ -258,8 +258,8 @@
 79. TASHA: A sticker on the lid. And an automatic reminder email. Every quarter.
     타샤: 뚜껑에 스티커. 그리고 분기마다 자동 알림 이메일.
 
-80. ELENA: Good. An expired kit is worse than no kit. It's false comfort.
-    엘레나: 좋아요. 기한 지난 키트는 키트가 없는 것보다 나빠요. 가짜 안심이죠.
+80. ELENA: Good. An expired kit is worse than no kit, because it's false comfort. The injector thinks she's ready, opens the box in an emergency, and finds medicine that may not work.
+    엘레나: 좋아요. 기한 지난 키트는 키트가 없는 것보다 나빠요. 가짜 안심이거든요. 시술자는 준비됐다고 생각하고, 응급 상황에서 상자를 열었는데 효과가 없을지도 모르는 약을 발견하는 거예요.
 
 ### 절정·전환 — 교육실, 마네킹 실습
 
@@ -311,8 +311,8 @@
 96. TASHA: Yes. Time to first action. Before and after training. Every learner.
     타샤: 네. 첫 행동까지의 시간. 교육 전후. 모든 학습자.
 
-97. ELENA: Careful. That measures training. Not patient outcomes. Don't overclaim.
-    엘레나: 조심해요. 그건 교육을 측정하는 거예요. 환자 결과가 아니라. 과장하지 마요.
+97. ELENA: Careful. That measures training, not patient outcomes. A faster first action is a good sign, but we haven't proven it saves a single face. Don't overclaim, or the FDA will notice.
+    엘레나: 조심해요. 그건 교육을 측정하는 거지, 환자 결과가 아니에요. 첫 행동이 빨라진 건 좋은 신호지만, 그게 얼굴 하나라도 살린다는 건 증명 못 했어요. 과장하지 마요. 아니면 FDA가 알아챌 거예요.
 
 98. TASHA: Right. We measure "faster to act." Not "safer patients."
     타샤: 맞아요. "더 빠른 대응"을 측정해요. "더 안전한 환자"가 아니라.
@@ -323,14 +323,14 @@
 100. NOAH: You read the interview notes?
      노아: 인터뷰 기록 읽었어요?
 
-101. ZOE: All twelve. What if insurers saw our training records? Maybe lower premiums?
-     조이: 열두 개 전부요. 보험사가 우리 교육 기록을 본다면? 보험료가 낮아질지도?
+101. ZOE: All twelve. What if insurers saw our training records? A clinic with certified injectors is a lower risk, so maybe they'd pay lower premiums. That gives owners like Tiffany a business reason to train.
+     조이: 열두 개 전부요. 보험사가 우리 교육 기록을 본다면요? 인증받은 시술자가 있는 병원은 위험이 더 낮으니까, 보험료가 낮아질지도 몰라요. 그럼 티파니 같은 원장들한테 교육할 사업상 이유가 생기죠.
 
 102. ELENA: Interesting. But we can't promise what an insurer will do.
      엘레나: 흥미롭네요. 하지만 보험사가 뭘 할지 약속할 순 없어요.
 
-103. NOAH: Then explore it. Don't promise it. Talk to two insurers. Quietly.
-     노아: 그럼 알아봐요. 약속은 말고. 보험사 두 곳과 얘기해 봐요. 조용히.
+103. NOAH: Then explore it. Don't promise it. Talk to two insurers, quietly. If one clinic hears "lower premiums" from us and it doesn't happen, we've lost their trust for years.
+     노아: 그럼 알아봐요. 약속은 말고. 보험사 두 곳과 조용히 얘기해 봐요. 병원 한 곳이라도 우리한테서 "보험료 인하"를 듣고 그게 안 이뤄지면, 몇 년 동안 신뢰를 잃는 거예요.
 
 104. ZOE: Explore, don't promise. I'll write that on my hand.
      조이: 알아보되 약속하지 않기. 손에 적어 둘게요.
@@ -367,8 +367,8 @@
 114. NOAH: I don't remember you. I'm sorry.
      노아: 당신이 기억 안 나요. 미안해요.
 
-115. TASHA: Nobody remembers the nurse. But Lily asked me one question. "Was it my fault?"
-     타샤: 간호사는 아무도 기억 못 해요. 하지만 릴리가 질문 하나를 했어요. "제 잘못인가요?"
+115. TASHA: Nobody remembers the nurse. But Lily asked me one question. "Was it my fault?" I didn't have a good answer that night, and I've been thinking about it for four years.
+     타샤: 간호사는 아무도 기억 못 해요. 하지만 릴리가 질문 하나를 했어요. "제 잘못인가요?" 그날 밤 전 좋은 대답을 못 했고, 4년 동안 그걸 생각해 왔어요.
 
 116. NOAH: At the FDA panel, she said, "I wasn't careless."
      노아: FDA 패널에서 걔가 "저는 부주의하지 않았어요"라고 했어요.
@@ -420,3 +420,17 @@
 | Maintenance | Recertify every 2 years · 15-minute online drill yearly |
 | Metric | Time to first action (before vs. after) — *not* a patient-outcome claim |
 | Kit card | **The First Ten Seconds** — 1. Stop injecting. 2. Call for help. 3. Start the timer. (Protocol on back) |
+
+### ④ 긴 발화 분석
+
+> **45턴 TASHA:** "But their patients can still have an occlusion tomorrow. The patient doesn't choose the brand in the syringe. If we only teach our customers, we're protecting our sales, not faces."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 반론(위험 제시) | But their patients can still have an occlusion tomorrow. | But으로 상대 논리(고객만 교육)에 바로 현실적 위험을 맞세움 |
+| ② 근거(관점 전환) | The patient doesn't choose the brand in the syringe. | 회사가 아니라 환자의 입장에서 문제를 다시 봄 |
+| ③ 결론(조건+대비) | If we only teach our customers, we're protecting our sales, not faces. | If…, then 구조와 "A, not B" 대비로 원칙을 한 줄로 압축 |
+
+**활용 패턴:** But + 현실 위험 → 관점 바꾸기 → If we only…, we're protecting A, not B.
+**연결 표현:** But…can still(그래도 여전히 ~할 수 있다) · doesn't choose(선택하지 않는다) · If we only…(우리가 ~만 한다면)
+**연습:** 안전 교육을 유료 고객에게만 주자는 동료에게 같은 구조로 30단어 안팎으로 반론해 보기.

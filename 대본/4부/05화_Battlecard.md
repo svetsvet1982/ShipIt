@@ -35,8 +35,8 @@
 06. TYLER: Where we don't win? Why would we write that down?
     타일러: 우리가 못 이기는 곳이요? 그걸 왜 적어요?
 
-07. ELENA: Because doctors already know. If you pretend, you lose them.
-    엘레나: 의사들은 이미 알거든요. 모른 척하면 그 사람들을 잃어요.
+07. ELENA: Because doctors already know where we're weaker. They've read the label and the trial. If you pretend we win everything, you lose their trust on every other claim, too.
+    엘레나: 의사들은 우리가 어디서 약한지 이미 알거든요. 라벨도, 임상도 읽었어요. 우리가 전부 이긴다고 우기면, 다른 모든 주장에 대한 신뢰까지 잃어요.
 
 08. ZOE: Rule one for today. Never trash the competition.
     조이: 오늘의 규칙 1. 절대 경쟁사를 깎아내리지 않기.
@@ -44,11 +44,11 @@
 09. TYLER: Not even a little?
     타일러: 조금도요?
 
-10. DEREK: Not even a little. Half your doctors like Lumaderm. Insult it, insult them.
-    데릭: 조금도요. 의사 절반은 루마덤을 좋아해요. 그걸 욕하면 그 사람들을 욕하는 거예요.
+10. DEREK: Not even a little. Half your doctors like Lumaderm, and they chose it themselves. Insult the product, and you insult their judgment. Nobody buys from someone who just insulted them.
+    데릭: 조금도요. 의사 절반은 루마덤을 좋아하고, 스스로 그걸 골랐어요. 제품을 욕하면 그 사람들 판단을 욕하는 거예요. 방금 자길 모욕한 사람한테서 사는 사람은 없어요.
 
-11. ROSA: I worked in a derm clinic six years. Reps who trashed others never returned.
-    로사: 피부과 병원에서 6년 일했어요. 남 욕하던 영업 사원은 다시 못 왔어요.
+11. ROSA: I worked in a derm clinic for six years. The reps who trashed other companies never got a second appointment. The doctors simply stopped coming out to the front desk.
+    로사: 피부과 병원에서 6년 일했어요. 다른 회사를 욕하던 영업 사원들은 두 번째 약속을 절대 못 잡았어요. 의사들이 그냥 프런트로 나오지 않았죠.
 
 12. ZOE: Rule two. Every claim must stand on data. Diane joins at ten.
     조이: 규칙 2. 모든 주장은 데이터 위에 서야 해요. 다이앤이 10시에 와요.
@@ -79,8 +79,8 @@
 20. ZOE: Why does the misunderstanding sound logical? Explain it to a doctor.
     조이: 그 오해가 왜 그럴듯하게 들릴까요? 의사한테 설명해 봐요.
 
-21. AVA: Because people think "dissolves faster" means "breaks down faster." All the time.
-    에이바: 사람들이 "빨리 녹는다"를 "빨리 분해된다"로 생각하니까요. 항상.
+21. AVA: Because people hear 'dissolves faster' and think it means 'breaks down faster' on its own. It sounds logical, so nobody stops to check. I almost believed it myself, honestly.
+    에이바: 사람들은 '빨리 녹는다'를 듣고 '저절로 빨리 분해된다'는 뜻으로 생각하니까요. 그럴듯하게 들려서 아무도 멈춰서 확인하지 않아요. 솔직히 저도 믿을 뻔했어요.
 
 22. ELENA: And that's the key. FlexLink only responds to the enzyme. Not to time.
     엘레나: 그게 핵심이에요. 플렉스링크는 효소에만 반응해요. 시간에가 아니라.
@@ -115,8 +115,8 @@
 32. ROSA: So what do we say?
     로사: 그럼 뭐라고 해요?
 
-33. NOAH: The truth. FDA-approved. Funded. Two manufacturers soon. Training staff in every region.
-    노아: 진실을요. FDA 승인. 자금 확보. 곧 제조사 둘. 지역마다 교육 인력.
+33. NOAH: The truth. We're FDA-approved and funded, and we'll have two manufacturers soon. We have training staff in every region. Small doesn't mean temporary, but they shouldn't take my word for it.
+    노아: 진실을요. 우린 FDA 승인을 받았고 자금도 확보했고, 곧 제조사가 둘이 돼요. 지역마다 교육 인력도 있고요. 작다고 금방 사라지는 건 아니에요. 하지만 의사들이 제 말만 믿을 필요는 없죠.
 
 34. DEREK: And this: "Ask Dr. Wade. Ask Lakeway Skin. They reordered."
     데릭: 그리고 이것도: "웨이드 선생님께 물어보세요. 레이크웨이 스킨에 물어보세요. 재주문했어요."
@@ -142,8 +142,8 @@
 41. TYLER: But… that's on our own label.
     타일러: 근데… 그건 우리 라벨에 있는 말이잖아요.
 
-42. NOAH: Exactly. Kyle is quoting our label. So we agree. Loudly.
-    노아: 바로 그거예요. 카일이 우리 라벨을 인용하고 있어요. 그러니 동의해요. 크게.
+42. NOAH: Exactly. Kyle is quoting our own label, and he's right. So we don't fight it. We agree, loudly, and then we explain what we did measure. That's where the trust comes from.
+    노아: 바로 그거예요. 카일은 우리 라벨을 인용하고 있고, 그 말이 맞아요. 그러니 맞서 싸우지 않아요. 크게 동의하고, 그다음 우리가 실제로 측정한 걸 설명해요. 신뢰는 거기서 나와요.
 
 43. ROSA: Agree with a competitor? On purpose?
     로사: 경쟁사한테 동의한다고요? 일부러요?
@@ -177,14 +177,14 @@
 52. TYLER: …No?
     타일러: …없나요?
 
-53. ELENA: In our trial, vascular events were one per group. Equal. You'd be making it up.
-    엘레나: 우리 임상에서 혈관 사건은 군당 1건씩이었어요. 같아요. 지어내는 게 되는 거예요.
+53. ELENA: In our trial, vascular events were one per group, so they were equal. If you tell a doctor Lumaderm causes more necrosis, you'd be making it up. And doctors check.
+    엘레나: 우리 임상에서 혈관 사건은 군당 1건씩, 그러니까 같았어요. 의사한테 루마덤이 괴사를 더 일으킨다고 말하면, 지어내는 거예요. 그리고 의사들은 확인해요.
 
 54. TYLER: Got it. I'm glad I said it here. Not in a clinic.
     타일러: 알겠어요. 병원 말고 여기서 말해서 다행이에요.
 
-55. DEREK: That's why we practice inside. Inside, argue. Outside, one voice.
-    데릭: 그래서 안에서 연습하는 거예요. 안에선 논쟁. 밖에선 한목소리.
+55. DEREK: That's exactly why we practice inside this room. In here, you can say the wrong thing and argue all day. Out there, we speak with one voice, and it's accurate.
+    데릭: 바로 그래서 이 방 안에서 연습하는 거예요. 여기선 틀린 말을 해도 되고 하루 종일 논쟁해도 돼요. 밖에선 한목소리로 말해요. 정확한 목소리로요.
 
 56. ZOE: Table. Left column, categories. Then Veyra. Then Lumaderm Volume.
     조이: 표. 왼쪽 열에 항목. 그다음 베이라. 그다음 루마덤 볼륨.
@@ -252,8 +252,8 @@
 77. TYLER: So the score is… two wins, four losses, one tie, one "try it."
     타일러: 그럼 점수가… 2승 4패 1무, 그리고 "써 보세요" 하나.
 
-78. DEREK: And that's why doctors will believe the two wins.
-    데릭: 그래서 의사들이 그 2승을 믿는 거예요.
+78. DEREK: And that's exactly why doctors will believe the two wins. When you admit where you lose, your wins stop sounding like marketing. They start sounding like facts.
+    데릭: 그래서 의사들이 그 2승을 믿는 거예요. 어디서 지는지 인정하면, 이기는 부분이 마케팅처럼 들리지 않아요. 사실처럼 들리기 시작하죠.
 
 79. ZOE: Where we win is control and support. Where they win is everything else. Say it.
     조이: 우리가 이기는 곳은 통제와 지원. 그쪽이 이기는 곳은 나머지 전부. 말해 봐요.
@@ -278,8 +278,8 @@
 85. DIANE: Supported. Fine. But which product was the comparator?
     다이앤: 근거 있음. 괜찮아요. 그런데 비교 제품이 뭐였죠?
 
-86. ELENA: Lumaderm Volume. Only Volume. So we always write "Volume." Never just "Lumaderm."
-    엘레나: 루마덤 볼륨. 볼륨만요. 그러니 항상 "볼륨"이라고 써요. 그냥 "루마덤"은 안 되고요.
+86. ELENA: Lumaderm Volume, and only Volume. Our trial compared us to that one product. So we always write 'Volume,' never just 'Lumaderm,' because the other products weren't in the study.
+    엘레나: 루마덤 볼륨, 볼륨만요. 우리 임상은 그 제품 하나와만 비교했어요. 그러니 항상 '볼륨'이라고 쓰고, 그냥 '루마덤'이라고는 절대 안 써요. 다른 제품들은 연구에 없었으니까요.
 
 87. TYLER: What about Lumaderm Flex? Their new one. Kyle says it's better than ours.
     타일러: 루마덤 플렉스는요? 그쪽 신제품. 카일은 우리 것보다 낫다던데요.
@@ -305,8 +305,8 @@
 94. ROSA: Not even to show a doctor?
     로사: 의사한테 보여 주는 것도 안 돼요?
 
-95. DIANE: Never. Internal tools become external evidence. In court.
-    다이앤: 절대요. 내부 도구는 법정에서 외부 증거가 돼요.
+95. DIANE: Never. Internal tools become external evidence. If this card ends up in a clinic, a lawyer can read every row in court. Get it in writing, yes, but keep it inside.
+    다이앤: 절대요. 내부 도구는 외부 증거가 돼요. 이 카드가 병원에 남으면, 변호사가 법정에서 한 줄 한 줄 읽을 수 있어요. 글로 남기는 건 좋아요. 하지만 안에만 두세요.
 
 96. DEREK: At Kessler, someone left one at a clinic. It ended up in a lawsuit.
     데릭: 케슬러에서 누가 병원에 하나 두고 왔어요. 결국 소송에 등장했죠.
@@ -355,8 +355,8 @@
 110. DEREK: Then you'll meet Kyle's cousins. Be kind. Be boring. Be accurate.
      데릭: 그럼 카일의 사촌들을 만나겠네요. 친절하게. 지루하게. 정확하게.
 
-111. TYLER: I came in wanting to crush Halvern. Now I want to out-honest them.
-     타일러: 할번을 박살 내고 싶어서 왔는데. 이제 정직함으로 이기고 싶어요.
+111. TYLER: I came in this morning wanting to crush Halvern. Now I want to out-honest them. If doctors trust our answers more than Kyle's, we win without saying a bad word.
+     타일러: 오늘 아침엔 할번을 박살 내고 싶어서 왔는데. 이제 정직함으로 이기고 싶어요. 의사들이 카일 답보다 우리 답을 더 믿으면, 나쁜 말 한마디 없이 이기는 거죠.
 
 112. ELENA: "Out-honest." I like that. It's not a word. But I like it.
      엘레나: "정직함으로 이기기." 좋네요. 진짜 단어는 아니지만. 좋아요.
@@ -373,8 +373,8 @@
 116. ZOE: How does he know?
      조이: 어떻게 알아요?
 
-117. DEREK: Every company writes one. He's guessing. And he's right.
-     데릭: 모든 회사가 쓰거든요. 짐작한 거예요. 그리고 맞혔고요.
+117. DEREK: Every company writes one, including Halvern. He's guessing, and he's right. That's fine, because there's nothing on our card that we couldn't say to his face.
+     데릭: 할번을 포함해서 모든 회사가 쓰거든요. 짐작한 거고, 맞혔어요. 괜찮아요. 우리 카드엔 그 사람 앞에서 못 할 말이 하나도 없으니까요.
 
 118. NOAH: What's next?
      노아: 다음은요?
@@ -427,3 +427,17 @@
 | "Training is a sales trick." | *"Take module four. It's free, for any product. Then decide."* |
 | "Benefit not proven." | *"He's right — it's not established. We measured speed. Here's the study."* |
 | "Lumaderm Flex is better." | *"When they publish data, we'll read it carefully. Like you will."* |
+
+### ④ 긴 발화 분석
+
+> **42턴 NOAH:** "Exactly. Kyle is quoting our own label, and he's right. So we don't fight it. We agree, loudly, and then we explain what we did measure. That's where the trust comes from."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 인정(사실 확인) | Exactly. Kyle is quoting our own label, and he's right. | 경쟁사 주장 중 맞는 부분을 먼저 인정 |
+| ② 전략(하지 않을 것 → 할 것) | So we don't fight it. We agree, loudly, and then we explain what we did measure. | 반박 대신 동의 후 우리가 가진 사실로 전환 |
+| ③ 이유(결과) | That's where the trust comes from. | 이 전략이 왜 효과적인지 한 줄로 정리 |
+
+**활용 패턴:** 인정 → "So we don't A. We B, and then C." → "That's where… comes from."
+**연결 표현:** he's right(그 말이 맞다) · and then(그다음에) · That's where… comes from(~은 거기서 나온다)
+**연습:** 경쟁사가 "그 회사 제품은 비싸다"고 말하고 다닌다는 보고를 받고, 같은 구조로 팀에게 대응 방침을 30단어 안팎으로 말해 보기.

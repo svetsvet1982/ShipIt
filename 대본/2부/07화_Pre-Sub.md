@@ -44,8 +44,8 @@
 09. NOAH: Two weeks? We only asked for one.
     노아: 2주요? 1주만 요청했는데요.
 
-10. RICHARD: Tests always run late. I'd rather give you a margin.
-    리처드: 시험은 늘 늦어져요. 여유를 주는 게 나아요.
+10. RICHARD: Tests always run late, in my experience, and I'd rather give you a margin now than watch you rush the science later. One week is tight. Two weeks is realistic.
+    리처드: 내 경험상 시험은 늘 늦어져요. 나중에 과학을 서두르는 걸 지켜보느니 지금 여유를 주는 게 나아요. 1주는 빠듯해요. 2주가 현실적이죠.
 
 11. PRIYA: Thank you. Truly.
     프리야: 감사합니다. 진심으로요.
@@ -56,8 +56,8 @@
 13. NOAH: Elaine taught us that. Bad news first.
     노아: 일레인한테 배웠어요. 나쁜 소식 먼저.
 
-14. RICHARD: Elaine teaches everyone that. Few actually do it. The number stays: two point five.
-    리처드: 일레인은 모두한테 그렇게 가르쳐요. 실제로 하는 사람은 드물죠. 숫자는 그대로예요. 2.5.
+14. RICHARD: Elaine teaches everyone that. Few founders actually do it, especially when the money is on the line. But don't misunderstand me. The number stays: two point five. That part doesn't change.
+    리처드: 일레인은 모두한테 그렇게 가르쳐요. 실제로 하는 창업자는 드물죠. 특히 돈이 걸려 있을 때는요. 하지만 오해는 말아요. 숫자는 그대로예요. 2.5. 그 부분은 안 바뀌어요.
 
 15. PRIYA: Two point five. Then we'll go prove it.
     프리야: 2.5. 그럼 가서 증명할게요.
@@ -82,8 +82,8 @@
 21. NOAH: No marketing. Understood.
     노아: 마케팅 금지. 알겠습니다.
 
-22. ELENA: They already sent written feedback to our questions. Today, we only clarify.
-    엘레나: 우리 질문에 대한 서면 피드백은 이미 보내왔어요. 오늘은 명확히 하기만 하면 돼요.
+22. ELENA: They already sent written feedback to our questions, so today is not a negotiation. We only clarify what they meant, and we make sure we understand it correctly before we leave the call.
+    엘레나: 우리 질문에 대한 서면 피드백은 이미 보내왔어요. 그러니까 오늘은 협상이 아니에요. 그쪽이 무슨 뜻이었는지 명확히 하고, 통화를 끝내기 전에 우리가 제대로 이해했는지 확인하기만 하면 돼요.
 
 23. PRIYA: And we write the meeting minutes. Not them.
     프리야: 그리고 회의록은 우리가 써요. 그쪽이 아니라.
@@ -112,8 +112,8 @@
 31. PARK: Welcome. We have sixty minutes. You received our written feedback?
     파크: 환영합니다. 60분 있습니다. 서면 피드백은 받으셨죠?
 
-32. ELENA: We did. Thank you. We'd appreciate the Agency's feedback on three points today.
-    엘레나: 받았습니다. 감사합니다. 오늘은 세 가지 사항에 대해 기관의 의견을 듣고 싶습니다.
+32. ELENA: We did, thank you. We found it very clear. Today, we'd appreciate the Agency's feedback on three points: the primary endpoint, the reversibility claim, and additional preclinical testing.
+    엘레나: 받았습니다. 감사합니다. 아주 명확했습니다. 오늘은 세 가지 사항에 대해 기관의 의견을 듣고 싶습니다. 1차 평가변수, 되돌림 가능성 주장, 그리고 추가 비임상 시험입니다.
 
 33. PARK: Please go ahead.
     파크: 말씀하세요.
@@ -127,8 +127,8 @@
 36. ELENA: Could you clarify the reason? Our product is designed to last twelve months.
     엘레나: 그 이유를 명확히 설명해 주시겠습니까? 저희 제품은 12개월 지속되도록 설계됐습니다.
 
-37. TRAN: Six months is the established standard. Twelve months can be a secondary endpoint.
-    트란: 6개월이 확립된 기준입니다. 12개월은 2차 평가변수로 둘 수 있습니다.
+37. TRAN: Six months is the established standard for this type of filler, so it allows a clear comparison with approved products. Twelve months can be a secondary endpoint, if you want to show durability.
+    트란: 6개월이 이런 유형의 필러에 확립된 기준입니다. 그래서 승인된 제품들과 명확하게 비교할 수 있습니다. 지속력을 보여 주고 싶으시다면 12개월은 2차 평가변수로 둘 수 있습니다.
 
 38. ELENA: So twelve months would support a durability claim. Is that correct?
     엘레나: 그러니까 12개월은 지속력 주장을 뒷받침하는 거군요. 맞습니까?
@@ -177,8 +177,8 @@
 52. NOAH: Correct. It's our main difference from other fillers.
     노아: 맞습니다. 다른 필러와의 가장 큰 차이점입니다.
 
-53. PARK: Then you'll need clinical evidence. In humans. Animal data alone won't support it.
-    파크: 그렇다면 임상 근거가 필요합니다. 사람에게서요. 동물 데이터만으로는 뒷받침되지 않습니다.
+53. PARK: Then you'll need clinical evidence, in humans. Animal data alone won't support it, because the tissue and the conditions are different. This is the point we want to be very clear about.
+    파크: 그렇다면 임상 근거가 필요합니다. 사람에게서요. 조직도 조건도 다르기 때문에 동물 데이터만으로는 뒷받침되지 않습니다. 이 부분은 아주 분명히 해 두고 싶습니다.
 
 54. NOAH: Even if the animal data is strong?
     노아: 동물 데이터가 강력해도요?
@@ -189,8 +189,8 @@
 56. ELENA: Could you clarify what kind of human study you'd expect?
     엘레나: 어떤 종류의 인체 연구를 기대하시는지 명확히 해 주시겠습니까?
 
-57. TRAN: A controlled substudy. Small injections, then hyaluronidase. Measured over time.
-    트란: 대조 하위 연구요. 소량 주입 후 히알루로니다아제를 투여하고, 시간에 따라 측정합니다.
+57. TRAN: A controlled substudy. You inject small amounts of both products, then give hyaluronidase, and measure how quickly each one dissolves over time. That gives you a direct comparison in human tissue.
+    트란: 대조 하위 연구입니다. 두 제품을 소량씩 주입한 뒤 히알루로니다아제를 투여하고, 각각이 얼마나 빨리 녹는지 시간에 따라 측정합니다. 그러면 사람 조직에서 직접 비교할 수 있습니다.
 
 58. PRIYA: Within the same pivotal trial? Or a separate study?
     프리야: 같은 핵심 임상 안에서요? 아니면 별도 연구로요?
@@ -222,8 +222,8 @@
 67. ELENA: Noah.
     엘레나: 노아.
 
-68. PARK: A comparative safety claim would need a very different study. Much larger.
-    파크: 비교 안전성 주장에는 아주 다른 연구가 필요합니다. 훨씬 큰 규모로요.
+68. PARK: A comparative safety claim would need a very different study. Much larger. You would need to show fewer complications in patients, not just faster dissolution in tissue.
+    파크: 비교 안전성 주장에는 아주 다른 연구가 필요합니다. 훨씬 큰 규모로요. 조직에서 더 빨리 녹는다는 것만이 아니라, 환자에게서 합병증이 더 적다는 걸 보여 주셔야 합니다.
 
 69. TRAN: Faster dissolution is a measurable property. "Safer" is a clinical outcome.
     트란: 더 빠른 용해는 측정 가능한 특성입니다. "더 안전하다"는 임상 결과입니다.
@@ -287,8 +287,8 @@
 88. NOAH: I know. The marketing guy escaped for a second.
     노아: 알아요. 마케팅 담당이 잠깐 탈출했어요.
 
-89. PRIYA: But we learned something important. "Safer" is a promise. "Faster" is a measurement.
-    프리야: 하지만 중요한 걸 배웠어. "더 안전하다"는 약속이고, "더 빠르다"는 측정이야.
+89. PRIYA: But we learned something important today. "Safer" is a promise, and "faster" is a measurement. We can only put on the label what we can actually measure and prove.
+    프리야: 하지만 오늘 중요한 걸 배웠어. "더 안전하다"는 약속이고, "더 빠르다"는 측정이야. 라벨에는 실제로 측정하고 증명할 수 있는 것만 넣을 수 있어.
 
 90. MARCUS: I wrote that down. Word for word.
     마커스: 그거 적었어. 한 글자도 안 틀리고.
@@ -308,8 +308,8 @@
 95. NOAH: Four. Six months of animal durability data. Before the IDE.
     노아: 넷. 동물 지속력 데이터 6개월. IDE 전에.
 
-96. MARCUS: That pushes the IDE back. At least three months.
-    마커스: 그럼 IDE가 밀려. 최소 3개월.
+96. MARCUS: That pushes the IDE back by at least three months, because the biocompatibility tests and the six-month animal data both have to finish first. I'll rebuild the timeline tonight.
+    마커스: 그럼 IDE가 최소 3개월은 밀려. 생체적합성 시험이랑 6개월 동물 데이터가 둘 다 먼저 끝나야 하니까. 오늘 밤에 일정표를 다시 짤게.
 
 97. NOAH: And more money. Those tests aren't free.
     노아: 그리고 돈이 더 들고요. 그 시험들은 공짜가 아니니까.
@@ -317,8 +317,8 @@
 98. PRIYA: But now we know exactly what the FDA wants. That's worth a lot.
     프리야: 하지만 이제 FDA가 뭘 원하는지 정확히 알잖아. 그건 큰 가치야.
 
-99. ELENA: Most companies learn this after a rejection. We learned it before.
-    엘레나: 대부분의 회사는 거절당한 뒤에 이걸 배워요. 우린 미리 배웠고요.
+99. ELENA: Most companies learn this after a rejection, when they've already spent the money and lost a year. We learned it before, for the price of a sixty-minute call and good questions.
+    엘레나: 대부분의 회사는 이미 돈을 쓰고 1년을 날린 뒤, 거절당하고 나서야 이걸 배워요. 우린 60분짜리 통화 한 번과 좋은 질문 몇 개로 미리 배웠고요.
 
 100. MARCUS: Two is one. One Pre-Sub saves two rejections.
      마커스: 둘은 하나. 사전상담 한 번이 거절 두 번을 막는다.
@@ -361,8 +361,8 @@
 112. ELENA: All three groups. Not just the shallow one.
      엘레나: 세 그룹 전부. 얕은 그룹만이 아니라.
 
-113. HOLT: All three. Deep injections were two point five. Shallow ones, three point one.
-     홀트: 세 그룹 다요. 깊은 주입이 2.5, 얕은 주입이 3.1.
+113. HOLT: All three. Deep injections were two point five, and shallow ones were three point one. So even the most realistic group, the deep one, hit your target. That's the number I'd focus on.
+     홀트: 세 그룹 다요. 깊은 주입이 2.5, 얕은 주입이 3.1이었어요. 그러니까 가장 현실적인 깊은 주입 그룹조차 목표를 달성한 거죠. 제가 주목할 숫자는 그거예요.
 
 114. NOAH: Two point seven. Above Richard's number.
      노아: 2.7. 리처드의 숫자보다 높아.
@@ -379,8 +379,8 @@
 118. ELENA: Bad news first. Even when the good news is better.
      엘레나: 나쁜 소식 먼저요. 좋은 소식이 더 좋을 때도요.
 
-119. NOAH: Especially then. Otherwise it sounds like we're hiding the bad part.
-     노아: 그럴수록 더요. 아니면 나쁜 부분을 숨기는 것처럼 들리니까.
+119. NOAH: Especially then. If we open with two point seven, the delay sounds like a footnote, and it looks like we're hiding the bad part. Richard has seen that trick a hundred times.
+     노아: 그럴수록 더요. 2.7로 시작하면 지연은 각주처럼 들리고, 나쁜 부분을 숨기는 것처럼 보여요. 리처드는 그런 수법을 백 번은 봤을 거예요.
 
 120. PRIYA: Look at you. A marketing guy who leads with bad news.
      프리야: 대단하다. 나쁜 소식부터 꺼내는 마케팅 담당이라니.
@@ -417,3 +417,18 @@
 
 예시:
 > *Just to confirm our understanding: the primary endpoint should be at six months, and twelve months can be a secondary endpoint to support a durability claim. Is that correct?*
+
+### ④ 긴 발화 분석
+
+> **32턴 ELENA:** "We did, thank you. We found it very clear. Today, we'd appreciate the Agency's feedback on three points: the primary endpoint, the reversibility claim, and additional preclinical testing."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 확인·감사 | We did, thank you. | 상대의 질문에 짧게 답하고 예의를 갖춤 |
+| ② 긍정 피드백 | We found it very clear. | 상대가 보낸 자료를 인정해 협조적인 분위기를 만듦 |
+| ③ 요청(격식) | Today, we'd appreciate the Agency's feedback on three points: | 회의 목적과 안건 수를 먼저 알림 |
+| ④ 안건 목록 | the primary endpoint, the reversibility claim, and additional preclinical testing. | 순서를 미리 보여 줘 회의 진행을 쉽게 함 |
+
+**활용 패턴:** 확인·감사 → 긍정 피드백 → "We'd appreciate your feedback on [N] points:" → 안건 나열
+**연결 표현:** We'd appreciate…(~해 주시면 감사하겠습니다) · on three points(세 가지 사항에 대해) · additional(추가의)
+**연습:** 거래처와의 화상 회의를 시작하며 안건 세 가지를 같은 구조로 25~30단어로 소개해 보기.

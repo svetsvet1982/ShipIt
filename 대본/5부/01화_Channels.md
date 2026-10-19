@@ -20,8 +20,8 @@
 01. NOAH: Three weeks since Halvern launched Flex. Grace, what has it done to us so far?
     노아: 할번이 플렉스를 출시한 지 3주. 그레이스, 지금까지 우리한테 어떤 영향이 있었어요?
 
-02. GRACE: New clinics are down thirty percent. Existing clinics are steady. Reorders are still sixty-seven percent.
-    그레이스: 신규 병원은 30% 감소. 기존 병원은 안정적이에요. 재주문율은 여전히 67%.
+02. GRACE: New clinics are down thirty percent since the launch, which is the number that worries me most. Existing clinics are steady, though, and reorders are still sixty-seven percent, so the doctors who already know us aren't leaving.
+    그레이스: 출시 이후 신규 병원은 30% 감소했고, 그게 제일 걱정되는 숫자예요. 그래도 기존 병원은 안정적이고 재주문율은 여전히 67%라서, 이미 우리를 아는 의사들은 떠나지 않고 있어요.
 
 03. MARCUS: So Flex stops new doctors from trying us. But it doesn't steal our current ones.
     마커스: 그러니까 플렉스가 새 의사들이 우릴 써 보는 걸 막지만. 기존 의사를 뺏진 않는다는 거네.
@@ -59,8 +59,8 @@
 14. NOAH: Before the numbers. Elena, what matters most to you here?
     노아: 숫자 전에. 엘레나, 여기서 당신한테 제일 중요한 건 뭐예요?
 
-15. ELENA: That we never pay for a price war by cutting training. That's the line.
-    엘레나: 교육을 깎아서 가격 전쟁 비용을 대는 일은 절대 없어야 한다는 거요. 그게 선이에요.
+15. ELENA: That we never pay for a price war by cutting training. If the margin gets tight, cut marketing, cut travel, cut my budget if you have to, but the training before every first order stays exactly as it is. That's the line.
+    엘레나: 교육을 깎아서 가격 전쟁 비용을 대는 일은 절대 없어야 한다는 거요. 마진이 빠듯해지면 마케팅을 줄이고, 출장을 줄이고, 필요하면 제 예산도 줄여요. 하지만 모든 첫 주문 전 교육은 지금 그대로 유지돼야 해요. 그게 선이에요.
 
 ### 장면1 — 가격: 맞출 것인가, 버틸 것인가
 
@@ -70,8 +70,8 @@
 17. MARCUS: That's still a great margin.
     마커스: 그래도 훌륭한 마진이네.
 
-18. GRACE: Yes. But revenue drops twenty-three percent. Unless volume grows by more than thirty percent.
-    그레이스: 네. 하지만 매출이 23% 떨어져요. 물량이 30% 넘게 늘지 않는 한.
+18. GRACE: Yes. But revenue drops twenty-three percent, because we'd be selling the same syringe for ninety-six dollars less. Unless volume grows by more than thirty percent, and to be honest, I don't see anything in our data that says it would.
+    그레이스: 네. 하지만 매출이 23% 떨어져요. 같은 주사기를 96달러 싸게 파는 거니까요. 물량이 30% 넘게 늘지 않는 한요. 솔직히 말하면, 우리 데이터 어디에도 그렇게 될 거라는 근거는 안 보여요.
 
 19. ZOE: And we'd look like a follower. "Veyra cut its price after Halvern." That's the headline.
     조이: 그리고 우린 따라쟁이처럼 보일 거예요. "할번 이후 베이라 가격 인하." 그게 헤드라인이죠.
@@ -106,8 +106,8 @@
 29. ZOE: Then what's our value? In one sentence. Without "faster than Flex."
     조이: 그럼 우리 가치는 뭐예요? 한 문장으로. "플렉스보다 빠름" 없이.
 
-30. NOAH: Training before every order. Monthly quality charts. A company that recalls itself. And two suppliers.
-    노아: 모든 주문 전 교육. 월간 품질 차트. 스스로 회수하는 회사. 그리고 공급처 둘.
+30. NOAH: Here's the thing. Our value isn't speed, it's everything around the syringe. Training before every order. Monthly quality charts. A company that recalls itself when something's wrong. And two suppliers, so a doctor never runs out. That's what four twenty-five buys.
+    노아: 중요한 건 이거예요. 우리 가치는 속도가 아니라 주사기를 둘러싼 모든 것이에요. 모든 주문 전 교육. 월간 품질 차트. 문제가 있으면 스스로 회수하는 회사. 그리고 공급처 둘, 그래서 의사가 재고가 떨어질 일이 없죠. 425달러로 사는 게 바로 그거예요.
 
 31. DEREK: Doctors pay for that. Some of them. Not all.
     데릭: 의사들은 그걸 위해 돈을 내요. 일부는요. 전부는 아니고.
@@ -127,8 +127,8 @@
 36. ELENA: And the other sixty?
     엘레나: 그럼 나머지 60%는요?
 
-37. NOAH: They'll buy Flex. And Halvern will train them. Because we made them. That's not a loss.
-    노아: 플렉스를 사겠죠. 그리고 할번이 그 사람들을 교육할 거예요. 우리가 그렇게 만들었으니까. 그건 손실이 아니에요.
+37. NOAH: They'll buy Flex. And Halvern will train them, because we made training the standard and Halvern had to follow. So those patients still get a safer injection. That's not a loss, even if it looks like one on Grace's spreadsheet.
+    노아: 플렉스를 사겠죠. 그리고 할번이 그 사람들을 교육할 거예요. 우리가 교육을 표준으로 만들었고 할번은 따라올 수밖에 없었으니까요. 그러니 그 환자들도 더 안전한 시술을 받아요. 그레이스 스프레드시트에선 손실처럼 보여도, 그건 손실이 아니에요.
 
 38. PRIYA: You're happy about losing sixty percent?
     프리야: 60%를 잃는 게 기뻐?
@@ -160,8 +160,8 @@
 47. ELENA: Is that legal? Discounts for volume?
     엘레나: 그거 합법이에요? 물량 할인?
 
-48. ZOE: Volume tiers are normal. If they're written, transparent, and the same for everyone at that level.
-    조이: 볼륨 등급은 일반적이에요. 서면으로, 투명하게, 그 등급의 모두에게 똑같이 적용되면요.
+48. ZOE: Volume tiers are normal in this industry. They're legal if they're written down, transparent, and exactly the same for everyone at that level. What gets companies in trouble is the secret side deal for one favorite customer, and we won't do that.
+    조이: 볼륨 등급은 이 업계에서 일반적이에요. 서면으로, 투명하게, 그 등급의 모두에게 정확히 똑같이 적용되면 합법이에요. 회사가 곤란해지는 건 특정 단골 한 곳만을 위한 비밀 이면 거래인데, 우린 그런 건 안 해요.
 
 49. NOAH: Then we explore it. With Diane. For key accounts only. Which brings us to channels.
     노아: 그럼 검토해요. 다이앤이랑. 키 어카운트만. 그럼 채널 얘기로 넘어가죠.
@@ -216,8 +216,8 @@
 65. NOAH: Thank you for joining, Dan. Walk us through your offer.
     노아: 참여해 주셔서 감사해요, 댄. 제안을 차근차근 설명해 주세요.
 
-66. DAN: Simple. We buy from you. We sell everywhere. Our margin is thirty percent. You get scale tomorrow.
-    댄: 간단해요. 우리가 사고. 우리가 어디서든 팔아요. 우리 마진은 30%. 내일 당장 규모를 얻는 거죠.
+66. DAN: Simple. We buy from you, and we sell everywhere, through twelve thousand clinic accounts that already trust us. Our margin is thirty percent. In return, you don't need to hire a single new rep, and you get scale tomorrow.
+    댄: 간단해요. 우리가 사고, 이미 우리를 신뢰하는 병원 거래처 1만 2천 곳을 통해 어디서든 팔아요. 우리 마진은 30%. 그 대가로 영업 사원을 한 명도 새로 뽑을 필요가 없고, 내일 당장 규모를 얻는 거죠.
 
 67. MARCUS: Thirty percent. That's a big slice.
     마커스: 30%. 큰 몫이네요.
@@ -258,8 +258,8 @@
 79. MARCUS: Tasha, your view on distributors?
     마커스: 타샤, 유통사에 대한 생각은?
 
-80. TASHA: If they can't promise training before the first order, they break our rule one. Day one.
-    타샤: 첫 주문 전 교육을 약속하지 못하면 우리 규칙 1을 깨는 거예요. 첫날부터.
+80. TASHA: If they can't promise training before the first order, they break our rule one on day one. And they can't promise it, because their reps check licenses, not hands. A distributor ships boxes. We need someone who checks the person holding the needle.
+    타샤: 첫 주문 전 교육을 약속하지 못하면 첫날부터 우리 규칙 1을 깨는 거예요. 그리고 약속 못 해요. 그쪽 영업 사원들은 손이 아니라 면허를 확인하니까요. 유통사는 상자를 보내요. 우리한텐 바늘을 든 사람을 확인하는 누군가가 필요해요.
 
 ### 절정·전환 — 기준과 결정
 
@@ -293,8 +293,8 @@
 90. NOAH: So the distributor fails criterion one. That's not a trade-off. That's a no.
     노아: 그럼 유통사는 기준 1에서 탈락이네요. 그건 트레이드오프가 아니라. 거절이에요.
 
-91. MARCUS: Agreed. Fifty states with untrained hands isn't scale. It's risk at scale.
-    마커스: 동의해. 교육 안 된 손으로 50개 주는 규모가 아니야. 규모화된 리스크지.
+91. MARCUS: Agreed. In the military we never sent a unit somewhere we couldn't support, however fast it could get there. Fifty states with untrained hands isn't scale. It's risk at scale, and one bad case in one state lands on all of us.
+    마커스: 동의해. 군에서는 아무리 빨리 갈 수 있어도 지원할 수 없는 곳에 부대를 보내지 않았어. 교육 안 된 손으로 50개 주는 규모가 아니야. 규모화된 리스크지. 한 주에서 한 건만 사고가 나도 우리 모두에게 떨어져.
 
 92. ZOE: And chains? Glow is three hundred locations. That changes our year.
     조이: 그럼 체인은요? 글로우는 300곳이에요. 그게 우리 한 해를 바꿔요.
@@ -305,8 +305,8 @@
 94. DEREK: Greg will hate that. Chains want speed. Not homework.
     데릭: 그레그는 그걸 싫어할 거예요. 체인은 속도를 원해요. 숙제 말고.
 
-95. NOAH: Then that's our pitch. Certification as a benefit for Glow. Not a burden.
-    노아: 그럼 그게 우리 피치예요. 글로우에 대한 혜택으로서의 인증. 부담 말고.
+95. NOAH: Then that's our pitch. We sell certification as a benefit for Glow, not a burden. If forty percent of their injectors are new every year, they need a training system anyway. We just hand them one that comes with the product.
+    노아: 그럼 그게 우리 피치예요. 인증을 글로우에 부담이 아니라 혜택으로 파는 거죠. 시술자의 40%가 매년 새로 온다면, 그쪽은 어차피 교육 시스템이 필요해요. 우린 제품과 함께 오는 시스템을 건네주기만 하면 돼요.
 
 96. ZOE: Lower insurance risk. Fewer complications. Patients who ask "Are you trained?" get a yes.
     조이: 보험 리스크 감소. 합병증 감소. "교육받으셨어요?"라고 묻는 환자에게 "네"라고 답할 수 있음.
@@ -314,8 +314,8 @@
 97. NOAH: Decision. Direct stays our core. Chains, only with training in the contract. No general distributor.
     노아: 결정. 직판이 핵심으로 유지. 체인은 계약에 교육이 있을 때만. 일반 유통사는 없음.
 
-98. DEREK: Then we need more reps. A lot more. And someone to lead them. That's not me.
-    데릭: 그럼 영업 사원이 더 필요해요. 훨씬 더. 그리고 그들을 이끌 사람도. 그건 제가 아니에요.
+98. DEREK: Then we need more reps, a lot more, because each one only adds about six clinics a month. And we need someone to lead them, hire them, and build the process. To be honest, that's not me. I'm good with doctors, not with org charts.
+    데릭: 그럼 영업 사원이 더 필요해요. 훨씬 더요. 한 명이 한 달에 여섯 곳 정도밖에 추가 못 하니까요. 그리고 그들을 이끌고, 채용하고, 프로세스를 만들 사람도 필요해요. 솔직히 그건 제가 아니에요. 전 의사들과는 잘 맞지만 조직도와는 안 맞아요.
 
 99. MARCUS: It's not Noah either.
     마커스: 노아도 아니고.
@@ -352,8 +352,8 @@
 109. NOAH: Orthopedics? Not aesthetics?
      노아: 정형외과요? 미용이 아니라?
 
-110. ELAINE: Even better. She's never sold a promise. Only measurements. Like you.
-     일레인: 그래서 더 좋아요. 약속을 팔아 본 적이 없어요. 측정만 팔았죠. 당신처럼.
+110. ELAINE: Even better. Orthopedics is a field where surgeons want data, not stories. She's never sold a promise, only measurements, and she knows how to build a team that sells the same way. That's exactly what you've been doing, Noah.
+     일레인: 그래서 더 좋아요. 정형외과는 외과의들이 이야기가 아니라 데이터를 원하는 분야예요. 그 사람은 약속을 팔아 본 적이 없어요. 측정만 팔았죠. 그리고 같은 방식으로 파는 팀을 만들 줄 알아요. 그게 바로 당신이 해 온 일이에요, 노아.
 
 111. NOAH: Will she talk to us?
      노아: 우리랑 얘기해 줄까요?
@@ -370,8 +370,8 @@
 115. NOAH: Any advice?
      노아: 조언 있어요?
 
-116. ELAINE: Don't negotiate like a CEO. Negotiate like someone who needs her. Because you do.
-     일레인: CEO처럼 협상하지 마요. 그 사람이 필요한 사람처럼 협상해요. 실제로 필요하니까.
+116. ELAINE: Don't negotiate like a CEO who's doing her a favor. Negotiate like someone who needs her, because you do. People like Sofia can tell in five minutes whether a founder really wants help or just wants a title on the org chart.
+     일레인: 그 사람한테 호의를 베푸는 CEO처럼 협상하지 마요. 그 사람이 필요한 사람처럼 협상해요. 실제로 필요하니까. 소피아 같은 사람은 창업자가 정말 도움을 원하는지, 아니면 조직도에 직함 하나 채우려는 건지 5분이면 알아봐요.
 
 117. NOAH: And if she asks for too much?
      노아: 너무 많이 요구하면요?
@@ -419,3 +419,18 @@
 
 > **Price decision:** Hold $425 · "We don't match. Here's what's included." · Volume tiers for key accounts only (written, transparent, same for all at that level)
 > **Next year goal:** 60,000 syringes · 900 active clinics · Hire VP of Sales
+
+### ④ 긴 발화 분석
+
+> **95턴 NOAH:** "Then that's our pitch. We sell certification as a benefit for Glow, not a burden. If forty percent of their injectors are new every year, they need a training system anyway. We just hand them one that comes with the product."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 결론(방향 선언) | Then that's our pitch. | 논의를 한 줄의 실행 방향으로 정리 |
+| ② 재구성(A가 아니라 B) | We sell certification as a benefit for Glow, not a burden. | 상대가 '부담'으로 볼 조건을 '혜택'으로 다시 프레임 |
+| ③ 근거(상대의 문제) | If forty percent of their injectors are new every year, they need a training system anyway. | 상대 쪽 숫자로 그들의 필요를 증명 |
+| ④ 해결(우리 제안) | We just hand them one that comes with the product. | 우리 조건이 곧 그 문제의 해결책임을 제시 |
+
+**활용 패턴:** 방향 선언 → "A as a benefit, not a burden" → 상대의 숫자로 필요 증명 → "We just…"로 해결책 제시
+**연결 표현:** not a burden(부담이 아니라) · If…, they need… anyway(~라면 어차피 ~가 필요하다) · We just hand them…(우린 그냥 ~를 건네면 된다)
+**연습:** 고객이 귀찮아할 계약 조건(예: 정기 점검)을 혜택으로 바꿔 설명하는 피치를 40단어 안팎으로 말해 보기.

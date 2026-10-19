@@ -50,8 +50,8 @@
 11. PRIYA: Her son has a soccer game. She'll come after.
     프리야: 아들 축구 경기가 있어서요. 끝나고 온대요.
 
-12. ELAINE: Good. A woman with priorities. Sit, everyone. Eat first. Business second.
-    일레인: 좋아요. 우선순위가 분명한 사람이네요. 다들 앉아요. 먼저 먹고, 일은 그다음.
+12. ELAINE: Good. A woman with priorities. Sit, everyone. Eat first, business second. Nobody negotiates well on an empty stomach, and I'd like you all thinking clearly when we talk numbers.
+    일레인: 좋아요. 우선순위가 분명한 사람이네요. 다들 앉아요. 먼저 먹고, 일은 그다음. 배고프면 아무도 협상을 잘 못 해요. 숫자 얘기할 때는 다들 맑은 정신이었으면 좋겠어요.
 
 13. MARCUS: That's the best rule I've heard all week.
     마커스: 이번 주에 들은 규칙 중 최고네요.
@@ -70,8 +70,8 @@
 17. NOAH: The update? I thought it would scare you away.
     노아: 업데이트요? 오히려 겁먹고 도망가실 줄 알았어요.
 
-18. ELAINE: Most founders only send good news. You sent bad news first.
-    일레인: 대부분의 창업자는 좋은 소식만 보내요. 당신은 나쁜 소식을 먼저 보냈죠.
+18. ELAINE: Most founders only send good news, so when something goes wrong, I hear it from someone else. You sent the bad news first, and that told me more than your whole deck.
+    일레인: 대부분의 창업자는 좋은 소식만 보내요. 그래서 뭔가 잘못되면 다른 사람한테서 듣게 되죠. 당신은 나쁜 소식을 먼저 보냈고, 그게 덱 전체보다 더 많은 걸 말해 줬어요.
 
 19. PRIYA: The visa. And the twenty-eight percent.
     프리야: 비자. 그리고 28퍼센트.
@@ -82,8 +82,8 @@
 21. PRIYA: It was the right thing to do.
     프리야: 그게 옳은 일이었어요.
 
-22. ELAINE: Exactly. Honest people under pressure. That's rarer than good chemistry.
-    일레인: 바로 그거예요. 압박 속에서도 정직한 사람들. 그건 좋은 화학보다 드물어요.
+22. ELAINE: Exactly. Honest people under pressure. That's rarer than good chemistry. Chemistry can be fixed in a lab with time and money, but I've never seen anyone fix character that way.
+    일레인: 바로 그거예요. 압박 속에서도 정직한 사람들. 그건 좋은 화학보다 드물어요. 화학은 시간과 돈만 있으면 실험실에서 고칠 수 있지만, 인성을 그렇게 고치는 사람은 한 번도 못 봤어요.
 
 23. KAPLAN: Elaine called me Thursday night. She said, "I found a team."
     캐플런: 일레인이 목요일 밤에 전화했어요. "팀을 찾았다"고.
@@ -127,8 +127,8 @@
 36. MARCUS: Another acronym. My list is getting long.
     마커스: 또 약자네요. 제 목록이 길어지고 있어요.
 
-37. ELAINE: In plain English: I give you money now. I get shares later.
-    일레인: 쉬운 말로 하면: 지금 돈을 주고, 지분은 나중에 받는 거예요.
+37. ELAINE: In plain English: I give you money now, and I get shares later. We don't have to agree on what the company is worth today, which is hard when you have no product.
+    일레인: 쉬운 말로 하면: 지금 돈을 주고, 지분은 나중에 받는 거예요. 오늘 회사 가치가 얼마인지 합의하지 않아도 돼요. 제품이 없을 땐 그게 어렵거든요.
 
 38. NOAH: When is "later"?
     노아: "나중"이 언제예요?
@@ -148,11 +148,11 @@
 43. ELAINE: The cap is the maximum company value for my conversion. A ceiling.
     일레인: 캡은 내 돈이 전환될 때 적용되는 회사 가치의 상한선이에요. 천장이죠.
 
-44. KAPLAN: If the next investors value you higher, we still convert at the cap.
-    캐플런: 다음 투자자들이 더 높게 평가해도, 우린 캡 가격으로 전환해요.
+44. KAPLAN: If the next investors value you higher, we still convert at the cap. That protects us, because we took the risk when nobody else would, and the later investors pay more.
+    캐플런: 다음 투자자들이 더 높게 평가해도, 우린 캡 가격으로 전환해요. 그게 우리를 보호해 주죠. 아무도 안 할 때 우리가 리스크를 졌으니까요. 나중 투자자들은 더 많이 내고요.
 
-45. MARCUS: So you get a better price for taking the early risk.
-    마커스: 그러니까 초기 리스크를 진 대가로 더 좋은 가격을 받는 거군요.
+45. MARCUS: So early risk buys a better price. Makes sense.
+    마커스: 그러니까 초기 리스크가 더 좋은 가격을 사는 거군요. 말이 되네요.
 
 46. ELAINE: Exactly. And the discount is another reward. Usually twenty percent off.
     일레인: 맞아요. 그리고 할인율은 또 다른 보상이에요. 보통 20퍼센트 할인.
@@ -183,8 +183,8 @@
 54. NOAH: Six feels low for what we're building.
     노아: 우리가 만드는 것에 비하면 6은 낮게 느껴져요.
 
-55. ELAINE: You have no product, no data, and one test result. Why ten?
-    일레인: 제품도 없고, 데이터도 없고, 시험 결과 하나뿐인데. 왜 10이에요?
+55. ELAINE: You have no product, no data, and one test result, and that result lost twenty-eight percent of its strength. Ten is a price for proof. Why should I pay it now?
+    일레인: 제품도 없고, 데이터도 없고, 시험 결과 하나뿐인데, 그 결과도 강도가 28퍼센트 떨어졌어요. 10은 증명된 회사의 가격이에요. 왜 내가 지금 그걸 내야 하죠?
 
 56. NOAH: Because the market is huge. And our team is complete now.
     노아: 시장이 엄청나니까요. 그리고 이제 팀이 완성됐으니까요.
@@ -192,8 +192,8 @@
 57. ELAINE: Almost complete. Marcus still has a day job.
     일레인: 거의 완성이죠. 마커스는 아직 본업이 있어요.
 
-58. MARCUS: Not for long. If this money is real, I'm all in.
-    마커스: 오래가진 않아요. 이 돈이 진짜라면 전 올인합니다.
+58. MARCUS: Not for long, ma'am. If this money is real, I'm all in. I've been waiting for a payroll, not for a reason. I already have plenty of reasons.
+    마커스: 오래가진 않습니다. 이 돈이 진짜라면 전 올인합니다. 제가 기다린 건 월급이지, 이유가 아니었어요. 이유는 이미 충분히 있거든요.
 
 59. ELAINE: Good. Then I'll go to seven.
     일레인: 좋아요. 그럼 7까지 올리죠.
@@ -234,8 +234,8 @@
 71. ELAINE: Roughly. So you four keep about eighty-one percent. For now.
     일레인: 대략요. 그러니까 네 분은 약 81퍼센트를 갖게 돼요. 당분간은.
 
-72. PRIYA: Eighty-one percent of something is better than one hundred percent of nothing.
-    프리야: 무언가의 81퍼센트가 아무것도 아닌 것의 100퍼센트보다 낫지.
+72. PRIYA: Eighty-one percent of something is better than one hundred percent of nothing. Right now we own all of a company with seven thousand dollars in the bank. That's not much.
+    프리야: 무언가의 81퍼센트가 아무것도 아닌 것의 100퍼센트보다 낫지. 지금 우린 통장에 7천 달러 있는 회사를 100퍼센트 갖고 있어. 그건 별거 아니잖아.
 
 73. NOAH: Okay. Eight million, twenty percent. I can live with that.
     노아: 좋아요. 800만, 20퍼센트. 받아들일 수 있어요.
@@ -252,8 +252,8 @@
 77. PRIYA: That's a good sign, right? You want to invest more later.
     프리야: 그거 좋은 신호죠? 나중에 더 투자하고 싶으시다는 거니까.
 
-78. ELAINE: Only if you prove the one thing. I'm optimistic, not stupid.
-    일레인: 핵심을 증명한다면요. 낙관적인 거지, 바보는 아니에요.
+78. ELAINE: Only if you prove the one thing. I'm optimistic, not stupid. If the data is good, I'll want more of this company. If it isn't, I'll keep my money.
+    일레인: 핵심을 증명한다면요. 낙관적인 거지, 바보는 아니에요. 데이터가 좋으면 이 회사를 더 갖고 싶어지겠죠. 아니면 내 돈은 내가 갖고 있을 거고요.
 
 79. NOAH: Fair. Let me write it down. Napkin time.
     노아: 맞아요. 적어 둘게요. 냅킨 시간이에요.
@@ -281,8 +281,8 @@
 86. PRIYA: Two weeks. Diane can do that. I'll make sure.
     프리야: 2주. 다이앤이라면 할 수 있어요. 제가 꼭 챙길게요.
 
-87. ELAINE: Three. A monthly update. Like the one you sent. Good news and bad.
-    일레인: 셋. 매달 업데이트. 당신이 보낸 것처럼. 좋은 소식도 나쁜 소식도.
+87. ELAINE: Three. A monthly update, like the one you sent, with good news and bad. I don't want surprises. If something breaks, I want to hear it from you, not from someone else.
+    일레인: 셋. 매달 업데이트. 당신이 보낸 것처럼 좋은 소식도 나쁜 소식도. 깜짝 놀랄 일은 싫어요. 뭔가 잘못되면, 다른 사람이 아니라 당신한테서 듣고 싶어요.
 
 88. NOAH: Every month. I promise.
     노아: 매달요. 약속해요.
@@ -302,8 +302,8 @@
 93. DENISE: Does the salary cover the mortgage? Show your work.
     데니스: 그 월급으로 대출금 갚을 수 있어? 풀이 과정 보여 줘.
 
-94. MARCUS: It covers it. Less than Corwin, but it covers it.
-    마커스: 갚을 수 있어. 코윈보다 적지만, 갚을 수 있어.
+94. MARCUS: It covers it. Less than Corwin, but it covers it. I ran the numbers twice in my head while they were talking. It's tight, but it works.
+    마커스: 갚을 수 있어. 코윈보다 적지만, 갚을 수 있어. 다들 얘기하는 동안 머릿속으로 두 번 계산해 봤어. 빠듯하지만 돼.
 
 95. DENISE: Then go. I'm proud of you. Tell Kayla tonight.
     데니스: 그럼 가. 자랑스러워. 오늘 밤 케일라한테 말해 줘.
@@ -329,8 +329,8 @@
 102. NOAH: Oh. That's… good to know.
      노아: 아. 그건… 알아 둬서 다행이네요.
 
-103. KAPLAN: It's a conflict of interest. You should know before you take my money.
-     캐플런: 이해충돌이에요. 제 돈을 받기 전에 알아야 해요.
+103. KAPLAN: It's a conflict of interest. You should know before you take my money, not after. If I were in your seat, I'd want to hear it now, at the table.
+     캐플런: 이해충돌이에요. 제 돈을 받은 뒤가 아니라 받기 전에 알아야 해요. 제가 당신 자리에 있었다면, 지금 이 테이블에서 듣고 싶었을 거예요.
 
 104. ELENA: Thank you for telling us. Put it in writing for Diane.
      엘레나: 말해 줘서 고마워요. 다이앤을 위해 서면으로 남겨 줘요.
@@ -376,8 +376,8 @@
 117. NOAH: How did you hear that? It was eight hours ago.
      노아: 그걸 어떻게 들으셨어요? 여덟 시간 전 일인데요.
 
-118. TOM: I told you. This industry is small. Everyone talks.
-     톰: 말했잖아. 이 업계는 좁다고. 다들 말이 많아.
+118. TOM: I told you. This industry is small, and everyone talks. Doctors talk to reps, reps talk to managers, and managers talk to me. Nothing personal. It's just business.
+     톰: 말했잖아. 이 업계는 좁고, 다들 말이 많다고. 의사는 영업 담당한테, 영업 담당은 매니저한테, 매니저는 나한테 말하지. 개인적인 감정은 없어. 그냥 비즈니스야.
 
 119. NOAH: Is there something you need, Tom?
      노아: 필요한 거라도 있으세요, 톰?
@@ -419,3 +419,18 @@
 
 예시:
 > *Investors: Elaine Choi ($1M), three dermatologist angels ($500K). Instrument: post-money SAFE. Cap: $8M. Discount: 20%. Other rights: pro rata. Conditions: Marcus full-time on funding; Priya's H-1B transfer filed within two weeks; monthly investor updates. Next step: formal documents by Diane Foster, Monday 9 a.m.*
+
+### ④ 긴 발화 분석
+
+> **37턴 ELAINE:** "In plain English: I give you money now, and I get shares later. We don't have to agree on what the company is worth today, which is hard when you have no product."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 신호(쉽게 말하기) | In plain English: | 어려운 용어를 풀어 설명하겠다고 예고 |
+| ② 핵심 정의(대비) | I give you money now, and I get shares later. | now ↔ later 대비로 개념을 한 문장에 정리 |
+| ③ 장점 | We don't have to agree on what the company is worth today, | 이 방식이 왜 유용한지 설명 |
+| ④ 이유 보충 | which is hard when you have no product. | which로 앞 내용에 이유를 덧붙임 |
+
+**활용 패턴:** In plain English → 지금 A, 나중에 B → 장점 → which로 이유 보충
+**연결 표현:** In plain English(쉬운 말로 하면) · now…later(지금…나중에) · don't have to(~할 필요 없다) · which is…(그건 ~이다)
+**연습:** 회사의 전문 용어 하나를 신입 동료에게 같은 구조로 30단어 안팎으로 쉽게 설명해 보기.

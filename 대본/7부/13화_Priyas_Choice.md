@@ -35,8 +35,8 @@
 06. NOAH: …This is the conversation from the lab.
     노아: …실험실에서 했던 그 얘기네요.
 
-07. PRIYA: It is. I said "after." Then I heard Claire's voice in my head. "There's always an after."
-    프리야: 맞아요. "나중에"라고 했죠. 그러다 머릿속에서 클레어 목소리를 들었어요. "항상 나중이 있다."
+07. PRIYA: It is. I said "after," and I meant it at the time. Then I heard Claire's voice in my head: "There's always an after." She was right. After the summit there's Tokyo, after Tokyo there's Line C, and after that there's something else.
+    프리야: 맞아요. "나중에"라고 했고, 그땐 진심이었어요. 그러다 머릿속에서 클레어 목소리를 들었어요. "항상 나중이 있다." 그 말이 맞았어요. 서밋 다음엔 도쿄, 도쿄 다음엔 라인 C, 그다음엔 또 다른 게 있죠.
 
 08. NOAH: She's in everyone's head now. It's slightly worrying.
     노아: 이제 다들 머릿속에 클레어가 있네요. 좀 걱정돼요.
@@ -70,8 +70,8 @@
 17. NOAH: Of course you did.
     노아: 당연히 그랬겠죠.
 
-18. PRIYA: Eleven percent of my time on science. Eleven. The rest is budgets, hiring, board slides, and airports.
-    프리야: 과학에 쓴 시간이 11%. 11이요. 나머지는 예산, 채용, 이사회 슬라이드, 그리고 공항.
+18. PRIYA: Eleven percent of my time went to science. Eleven. The rest is budgets, hiring, board slides, and airports. I'm not complaining about the work, because it needed doing, but someone who loves it would do it better, and I'd finally have time for the lab.
+    프리야: 과학에 쓴 시간이 11%였어요. 11이요. 나머지는 예산, 채용, 이사회 슬라이드, 그리고 공항. 그 일이 필요했으니 불평하는 건 아니에요. 하지만 그 일을 좋아하는 사람이 하면 더 잘할 거고, 나는 드디어 실험실에 쓸 시간이 생기겠죠.
 
 19. NOAH: Eleven percent. That's… less than I spend on email.
     노아: 11%. 그건… 내가 이메일에 쓰는 시간보다 적네요.
@@ -103,8 +103,8 @@
 28. PRIYA: Principle two. Inside, argue.
     프리야: 원칙 2번. 안에선 논쟁.
 
-29. NOAH: I'm scared. You're the chemistry. When investors ask why we're different, I say "Priya."
-    노아: 무서워요. 당신이 화학이에요. 투자자들이 왜 우리가 다르냐고 물으면, 난 "프리야"라고 해요.
+29. NOAH: I'm scared. Here's the thing. You're the chemistry. When investors ask why we're different, I don't talk about the market or the margins. I say "Priya." If you step away from CTO, I'm afraid they'll hear that the chemistry is leaving.
+    노아: 무서워요. 문제는 이거예요. 당신이 화학이에요. 투자자들이 왜 우리가 다르냐고 물으면, 난 시장이나 마진 얘기를 안 해요. "프리야"라고 하죠. 당신이 CTO에서 물러나면, 그 사람들이 화학이 떠난다고 받아들일까 봐 두려워요.
 
 30. PRIYA: I'm not leaving the chemistry. I'm leaving the budget spreadsheets. The chemistry is coming with me.
     프리야: 화학을 떠나는 게 아니에요. 예산 스프레드시트를 떠나는 거죠. 화학은 나랑 같이 가요.
@@ -136,8 +136,8 @@
 39. NOAH: Who would you report to?
     노아: 누구에게 보고해요?
 
-40. PRIYA: You. Directly. Not to the new CTO. Two scientists reporting to each other is a recipe for a slow war.
-    프리야: 당신. 직속으로. 새 CTO 말고. 과학자 둘이 서로에게 보고하면 느린 전쟁의 레시피예요.
+40. PRIYA: You. Directly. Not to the new CTO. If two senior scientists report to each other, every disagreement becomes a question of rank instead of evidence. That's a recipe for a slow war, and the people who suffer are the forty scientists caught in the middle.
+    프리야: 당신. 직속으로. 새 CTO 말고요. 시니어 과학자 둘이 서로에게 보고하면, 모든 의견 차이가 증거가 아니라 서열 문제가 돼요. 그건 느린 전쟁의 레시피고, 고통받는 건 가운데 낀 과학자 40명이에요.
 
 41. NOAH: What does success look like? In a year?
     노아: 성공은 어떤 모습이에요? 1년 뒤에?
@@ -157,8 +157,8 @@
 46. PRIYA: Of course there's a condition. You've been spending too much time with Dutch lawyers.
     프리야: 당연히 조건이 있겠죠. 네덜란드 변호사들이랑 너무 오래 있었어요.
 
-47. NOAH: You help choose your successor. And then you let them lead. Even when they do it differently.
-    노아: 후임자 선택을 도와요. 그리고 그 사람이 이끌게 둬요. 다르게 하더라도.
+47. NOAH: You help choose your successor, because nobody knows the job better than you. And then you let them lead, even when they do it differently, even when you're sure your way is better. Especially then. Otherwise we'll have two CTOs, and nobody will know which one to ask.
+    노아: 후임자 선택을 도와요. 그 일을 당신보다 잘 아는 사람은 없으니까. 그리고 그 사람이 이끌게 둬요. 다르게 하더라도, 당신 방식이 더 낫다고 확신할 때도요. 특히 그럴 때요. 안 그러면 CTO가 둘이 되고, 아무도 누구에게 물어야 할지 모를 거예요.
 
 48. PRIYA: …That's the hard part. You know that.
     프리야: …그게 어려운 부분이에요. 알잖아요.
@@ -216,8 +216,8 @@
 65. PAUL: Dental implants? Not aesthetics?
     폴: 치과 임플란트요? 미용이 아니라?
 
-66. PRIYA: Implants are permanent. Ours are reversible. She'll learn the chemistry in a month. Scale takes ten years to learn.
-    프리야: 임플란트는 영구적이죠. 우리 건 되돌릴 수 있고. 화학은 한 달이면 배울 거예요. 규모는 배우는 데 10년이 걸려요.
+66. PRIYA: Implants are permanent, and ours are reversible, so yes, the products are different. But she'll learn our chemistry in a month. Scale is the opposite. It takes ten years to learn how to lead three hundred scientists, and she already has those ten years.
+    프리야: 임플란트는 영구적이고 우리 건 되돌릴 수 있으니, 맞아요, 제품은 달라요. 하지만 우리 화학은 한 달이면 배울 거예요. 규모는 정반대예요. 과학자 300명을 이끄는 법을 배우는 데 10년이 걸리는데, 그녀는 이미 그 10년을 갖고 있어요.
 
 67. ELAINE: Timeline?
     일레인: 일정은요?
@@ -231,8 +231,8 @@
 70. NOAH: The board. Then the founders. We're doing that now.
     노아: 이사회. 그다음 공동창업자. 지금 하고 있죠.
 
-71. ELENA: Then the science team. Before anyone else. They need to hear it from Priya. In person.
-    엘레나: 그다음 과학팀. 다른 누구보다 먼저. 프리야에게 직접 들어야 해요.
+71. ELENA: Then the science team, before anyone else. They need to hear it from Priya, in person, not from an email or a rumour in the cafeteria. If they hear "CTO steps down" from someone else, they'll assume something went wrong, and that story is very hard to undo.
+    엘레나: 그다음 과학팀. 다른 누구보다 먼저. 이메일이나 구내식당 소문이 아니라, 프리야에게 직접 들어야 해요. 다른 사람한테서 "CTO 사임"을 들으면 뭔가 잘못됐다고 생각할 거고, 그런 이야기는 되돌리기가 아주 어려워요.
 
 72. PRIYA: Then all seven hundred employees. Then investors and partners. Ms. Han. Kenji. Then the outside world.
     프리야: 그다음 직원 700명 전부. 그다음 투자자와 파트너. 한 상무님. 겐지. 그다음 바깥세상.
@@ -240,8 +240,8 @@
 73. PAUL: Victor will want to hear before the employees. He's a board member and an investor.
     폴: 빅터는 직원들보다 먼저 듣고 싶어 할 거예요. 이사이자 투자자니까.
 
-74. ELAINE: He'll hear as a board member. Today. As an investor, he waits. That's how a board works.
-    일레인: 이사로서 들어요. 오늘. 투자자로서는 기다리고요. 이사회는 그렇게 돌아가요.
+74. ELAINE: He'll hear as a board member, today, like everyone else on the board. As an investor, he waits, because investors and employees should hear the news in the right order. That's how a board works, and Victor knows it better than anyone.
+    일레인: 이사로서 들어요. 오늘, 다른 이사들과 똑같이. 투자자로서는 기다리고요. 투자자와 직원은 올바른 순서로 소식을 들어야 하니까요. 이사회는 그렇게 돌아가고, 빅터는 그걸 누구보다 잘 알아요.
 
 75. MARCUS: And the headline? Paul's worried about "CTO steps down."
     마커스: 그럼 헤드라인은요? 폴이 "CTO 사임"을 걱정해요.
@@ -275,8 +275,8 @@
 84. NOAH: What did you do?
     노아: 어떻게 했어요?
 
-85. MARISOL: I told the CEO the same day. In writing. We delayed six months. My bonus disappeared. So did two customers.
-    마리솔: 그날 CEO에게 말했어요. 서면으로. 6개월 연기했죠. 내 보너스가 사라졌어요. 고객 둘도.
+85. MARISOL: I told the CEO the same day, in writing, because a problem that's only spoken can be forgotten. We delayed six months. My bonus disappeared, and so did two customers. But no patient ever received an implant we weren't sure about.
+    마리솔: 그날 CEO에게 말했어요. 서면으로요. 말로만 한 문제는 잊힐 수 있으니까. 6개월 연기했죠. 내 보너스가 사라졌고, 고객 둘도 떠났어요. 하지만 우리가 확신하지 못한 임플란트를 받은 환자는 한 명도 없었어요.
 
 86. PRIYA: Show me the data. What was the failure rate?
     프리야: 데이터를 보여 줘요. 실패율이 얼마였어요?
@@ -296,8 +296,8 @@
 91. PRIYA: Please. Uncomfortable questions are the only useful ones.
     프리야: 부탁해요. 불편한 질문만 쓸모 있어요.
 
-92. MARISOL: Will you let me be CTO? Or will you be CTO with a different title? I've seen founders do that.
-    마리솔: 제가 CTO가 되게 두실 건가요? 아니면 다른 직함으로 CTO를 하실 건가요? 그러는 창업자들을 봤어요.
+92. MARISOL: Will you let me be CTO? Or will you be CTO with a different title? I ask because I've seen founders do that. They hire someone with experience, then keep making the real decisions in the corridor, and the new person leaves within a year.
+    마리솔: 제가 CTO가 되게 두실 건가요? 아니면 다른 직함으로 CTO를 하실 건가요? 그러는 창업자들을 봤기 때문에 묻는 거예요. 경험 있는 사람을 뽑아 놓고는 진짜 결정은 계속 복도에서 하고, 새로 온 사람은 1년 안에 떠나죠.
 
 93. NOAH: …
     노아: …
@@ -308,8 +308,8 @@
 95. MARISOL: And the answer?
     마리솔: 그래서 답은요?
 
-96. PRIYA: Honestly? I'll try not to. I'll fail sometimes. When I interfere, tell me. In front of Noah.
-    프리야: 솔직히요? 안 그러려고 노력할 거예요. 가끔 실패하겠죠. 내가 간섭하면 말해요. 노아 앞에서.
+96. PRIYA: Honestly? I'll try not to, and I'll fail sometimes, because I've been doing this job for seven years and habits don't disappear with a new title. So when I interfere, tell me. Not in an email. In front of Noah.
+    프리야: 솔직히요? 안 그러려고 노력할 거고, 가끔은 실패할 거예요. 7년 동안 이 일을 해 왔고, 습관은 새 직함으로 사라지지 않으니까요. 그러니 내가 간섭하면 말해요. 이메일 말고. 노아 앞에서.
 
 97. MARISOL: In front of Noah. Not privately?
     마리솔: 노아 앞에서요. 따로가 아니라?
@@ -376,8 +376,8 @@
 117. NOAH: What did you write?
      노아: 뭐라고 썼어요?
 
-118. PRIYA: "Being needed in every room." I learned it from you. The hard way.
-     프리야: "모든 방에서 필요한 사람이 되는 것." 당신한테 배웠어요. 힘들게.
+118. PRIYA: I wrote, "Being needed in every room." For seven years, I thought being in every meeting meant I was important. It actually meant nobody else had room to grow. I learned it from watching you. The hard way.
+     프리야: "모든 방에서 필요한 사람이 되는 것"이라고 썼어요. 7년 동안 모든 회의에 있는 게 내가 중요하다는 뜻이라고 생각했어요. 사실은 아무도 자랄 공간이 없다는 뜻이었죠. 당신을 보면서 배웠어요. 힘들게.
 
 119. ELENA: Sorry to interrupt. Noah, Lily called. The laser. November eighteenth. She confirmed. She says, "No more 'after.'"
      엘레나: 방해해서 미안해요. 노아, 릴리가 전화했어요. 레이저. 11월 18일. 확정했대요. "더 이상 '나중에'는 없어"래요.
@@ -420,3 +420,18 @@
 | Communication order | Board → founders → science team (from Priya, in person) → all 700 → investors & partners (Han, Kenji) → outside |
 | Headline | *"Co-founder returns to the lab. Veyra appoints a CTO for its next stage."* |
 | Working rules | 30 min/week Priya–Marisol · no vetoes · **disagree in the room** · "If I interfere, tell me. In front of Noah." |
+
+### ④ 긴 발화 분석
+
+> **66턴 PRIYA:** "Implants are permanent, and ours are reversible, so yes, the products are different. But she'll learn our chemistry in a month. Scale is the opposite. It takes ten years to learn how to lead three hundred scientists, and she already has those ten years."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 양보(반론 인정) | Implants are permanent, and ours are reversible, so yes, the products are different. | 상대(폴)의 우려를 먼저 사실로 인정해 방어심을 낮춤 |
+| ② 반전(배우기 쉬운 것) | But she'll learn our chemistry in a month. | But으로 그 차이가 작은 문제임을 시간으로 보여 줌 |
+| ③ 대비(배우기 어려운 것) | Scale is the opposite. It takes ten years to learn how to lead three hundred scientists… | "The opposite"로 진짜 중요한 기준을 부각 |
+| ④ 결론(후보의 강점) | …and she already has those ten years. | 대비의 결과를 후보의 경력으로 연결해 마무리 |
+
+**활용 패턴:** 반론 인정(so yes) → But + 빨리 배울 수 있는 것 → "X is the opposite" + 오래 걸리는 것 → 후보가 이미 가진 것
+**연결 표현:** so yes(그러니 맞아요) · in a month(한 달이면) · X is the opposite(X는 정반대다) · already has(이미 갖고 있다)
+**연습:** 업계 경험이 없는 지원자를 추천하며 "배울 수 있는 것 vs 오래 걸리는 것"을 대비하는 발언을 40단어 안팎으로 해 보기.

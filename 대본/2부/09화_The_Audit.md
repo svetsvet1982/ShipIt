@@ -44,8 +44,8 @@
 09. SANDRA: And at five, the closing meeting. You tell us what you found.
     산드라: 그리고 5시에 마감 회의. 찾으신 걸 말씀해 주시는 거죠.
 
-10. MARCUS: Correct. No surprises at five. If I find something, I'll tell you immediately.
-    마커스: 맞아요. 5시에 놀랄 일은 없어요. 뭔가 찾으면 바로 말씀드릴게요.
+10. MARCUS: Correct. No surprises at five. If I find something during the day, I'll tell you immediately, so you have time to show me evidence or explain. That's fair to both of us.
+    마커스: 맞아요. 5시에 놀랄 일은 없어요. 낮에 뭔가 찾으면 바로 말씀드릴게요. 그래야 증거를 보여 주거나 설명할 시간이 있으니까요. 그게 양쪽 모두에게 공정해요.
 
 11. KEVIN: I appreciate that. Some auditors save everything for the end.
     케빈: 고마워요. 어떤 감사관들은 전부 마지막까지 아껴 두거든요.
@@ -56,8 +56,8 @@
 13. PRIYA: What's my job today?
     프리야: 오늘 제 역할은요?
 
-14. MARCUS: Technical questions. Especially sterilization. Ask anything that sounds strange.
-    마커스: 기술 질문. 특히 멸균. 이상하게 들리는 건 뭐든 물어봐.
+14. MARCUS: Technical questions, especially sterilization, because that's your field, not mine. If anything sounds strange, ask. Even if it feels like a stupid question, ask it anyway.
+    마커스: 기술 질문. 특히 멸균. 그건 내 분야가 아니라 네 분야니까. 이상하게 들리는 건 뭐든 물어봐. 바보 같은 질문처럼 느껴져도 그냥 물어봐.
 
 15. SANDRA: Let's start. The records room is this way.
     산드라: 시작하죠. 기록 보관실은 이쪽이에요.
@@ -97,8 +97,8 @@
 26. SANDRA: Together? Each was investigated separately.
     산드라: 같이요? 각각 따로 조사했어요.
 
-27. MARCUS: Three alerts in one month, same room. That could be a pattern.
-    마커스: 한 달에 경고 세 건, 같은 방. 그건 패턴일 수 있어요.
+27. MARCUS: Three alerts in one month, in the same room. Separately, each one looks small. Together, they could be a pattern, and a pattern usually means something in the room is changing.
+    마커스: 한 달에 경고 세 건, 같은 방에서요. 따로 보면 하나하나는 작아 보여요. 하지만 같이 보면 패턴일 수 있고, 패턴은 보통 그 방에서 뭔가가 변하고 있다는 뜻이에요.
 
 28. SANDRA: That's… a fair point. We didn't trend them.
     산드라: 그건… 일리가 있네요. 추세 분석을 안 했어요.
@@ -136,14 +136,14 @@
 39. MARCUS: What's the reason?
     마커스: 이유가 뭐예요?
 
-40. SANDRA: A new filter supplier. Their parts arrived late. Twice.
-    산드라: 새 필터 공급업체요. 부품이 늦게 도착했어요. 두 번이나.
+40. SANDRA: A new filter supplier. Their parts arrived late, twice, and we can't close the action until the new filters are installed and tested. So we've been stuck, waiting on them.
+    산드라: 새 필터 공급업체요. 부품이 두 번이나 늦게 도착했는데, 새 필터를 설치하고 시험하기 전에는 조치를 종결할 수 없어요. 그래서 그쪽만 기다리며 묶여 있었어요.
 
 41. MARCUS: Is there a new deadline? In writing?
     마커스: 새 마감일이 있어요? 서면으로요?
 
-42. SANDRA: Not yet. I've been waiting for the supplier.
-    산드라: 아직이요. 공급업체를 기다리고 있었어요.
+42. SANDRA: Not yet. I didn't want to promise a date they'd miss.
+    산드라: 아직이요. 그쪽이 못 지킬 날짜를 약속하고 싶지 않았어요.
 
 43. MARCUS: Then that's observation number two. An overdue CAPA without a new plan.
     마커스: 그럼 그게 지적 사항 2번이에요. 새 계획 없이 기한이 지난 CAPA.
@@ -151,8 +151,8 @@
 44. KEVIN: Marcus, that's the supplier's fault. Not ours.
     케빈: 마커스, 그건 공급업체 잘못이에요. 저희가 아니라.
 
-45. MARCUS: The supplier is late. The missing plan is yours. Different things.
-    마커스: 공급업체가 늦은 건 맞아요. 계획이 없는 건 그쪽 책임이고요. 다른 문제예요.
+45. MARCUS: The supplier is late, that's true. But the missing plan is yours. Suppliers will always be late sometimes. What the FDA wants to see is how you manage it.
+    마커스: 공급업체가 늦은 건 맞아요. 하지만 계획이 없는 건 그쪽 책임이에요. 공급업체는 언제든 가끔 늦어요. FDA가 보고 싶어 하는 건 그걸 어떻게 관리하느냐예요.
 
 46. SANDRA: He's right, Kevin. I'll write a new deadline today.
     산드라: 이분 말이 맞아요, 케빈. 오늘 새 마감일을 쓸게요.
@@ -207,8 +207,8 @@
 62. KEVIN: It is?
     케빈: 그래요?
 
-63. MARCUS: Zero observations means the auditor didn't look. Or the site is hiding things.
-    마커스: 지적 사항 0건은 감사관이 안 봤거나, 현장이 뭔가를 숨긴다는 뜻이에요.
+63. MARCUS: Zero observations means one of two things. Either the auditor didn't really look, or the site is hiding something. Real factories always have small problems somewhere.
+    마커스: 지적 사항 0건은 둘 중 하나예요. 감사관이 제대로 안 봤거나, 현장이 뭔가를 숨기고 있거나. 진짜 공장엔 어딘가에 늘 작은 문제가 있어요.
 
 64. SANDRA: That's what I always tell him.
     산드라: 제가 늘 그렇게 말하거든요.
@@ -234,8 +234,8 @@
 71. SANDRA: Today. And I'll check the other eleven too.
     산드라: 오늘 할게요. 나머지 열한 명도 확인할게요.
 
-72. MARCUS: That's the right instinct. Fix the system, not just the one record.
-    마커스: 그게 맞는 감각이에요. 기록 하나만이 아니라 시스템을 고치는 것.
+72. MARCUS: That's the right instinct. Fix the system, not just the one record. If Danny's file was in the old system, others probably are too, and an FDA inspector will find them.
+    마커스: 그게 맞는 감각이에요. 기록 하나만이 아니라 시스템을 고치는 것. 대니 기록이 예전 시스템에 있었다면 다른 것들도 아마 그럴 거고, FDA 조사관은 그걸 찾아낼 거예요.
 
 73. PRIYA: After lunch, the autoclave?
     프리야: 점심 후엔 고압 멸균기요?
@@ -272,8 +272,8 @@
 83. RAJ: Trays of joint gel syringes. Forty trays. Packed tightly.
     라지: 관절 젤 주사기 트레이요. 40개. 촘촘하게 넣어요.
 
-84. PRIYA: Our gel is heat-sensitive. Too much heat weakens it. Too little, it's not sterile.
-    프리야: 저희 젤은 열에 민감해요. 너무 뜨거우면 약해지고, 덜 뜨거우면 무균이 안 돼요.
+84. PRIYA: Our gel is heat-sensitive. Too much heat breaks down the structure and weakens it. Too little heat, and it's not sterile. So the window is narrow, and the load pattern matters.
+    프리야: 저희 젤은 열에 민감해요. 너무 뜨거우면 구조가 무너져 약해지고, 열이 부족하면 무균이 안 돼요. 그래서 허용 범위가 좁고, 적재 패턴이 중요해요.
 
 85. MARCUS: So we need to know the coldest spot and the hottest spot. In our load.
     마커스: 그러니까 우리 적재 상태에서 가장 차가운 곳과 가장 뜨거운 곳을 알아야 해.
@@ -290,8 +290,8 @@
 89. KEVIN: Marcus, be reasonable. The machine is the same.
     케빈: 마커스, 합리적으로 생각해요. 기계는 똑같잖아요.
 
-90. MARCUS: The machine is the same. The product is different. The risk is different.
-    마커스: 기계는 같죠. 제품이 달라요. 위험도 다르고요.
+90. MARCUS: The machine is the same, Kevin. But the product is different, and the syringes are different. So the risk is different, and an old validation can't tell us anything about a new risk.
+    마커스: 기계는 같죠, 케빈. 하지만 제품이 다르고, 주사기도 달라요. 그러니까 위험도 다르고, 예전 밸리데이션은 새로운 위험에 대해 아무것도 말해 주지 못해요.
 
 91. PRIYA: If the heat is wrong, two things can happen. Both are bad.
     프리야: 열이 잘못되면 두 가지 일이 생길 수 있어요. 둘 다 나쁘죠.
@@ -305,8 +305,8 @@
 94. KEVIN: Okay. Then who pays for it?
     케빈: 알겠어요. 그럼 비용은 누가 내요?
 
-95. MARCUS: Normally, it's part of tech transfer. That's what the two seventy is for.
-    마커스: 보통은 기술 이전에 포함돼요. 27만 달러가 바로 그걸 위한 거고요.
+95. MARCUS: Normally, it's part of tech transfer. That's what the two seventy is for. Moving our product into your process, including validation for our syringes, is exactly what we're paying for.
+    마커스: 보통은 기술 이전에 포함돼요. 27만 달러가 바로 그걸 위한 거고요. 우리 주사기에 대한 밸리데이션을 포함해서, 우리 제품을 그쪽 공정으로 옮기는 게 정확히 우리가 돈을 내는 이유예요.
 
 96. KEVIN: The two seventy assumed our standard validation.
     케빈: 27만 달러는 저희 표준 밸리데이션을 전제로 한 거예요.
@@ -340,8 +340,8 @@
 
 ### 마무리 — 오후 5시 마감 회의, 그리고 주차장
 
-106. MARCUS: Final summary. Three observations. All minor. No critical findings.
-     마커스: 최종 요약. 지적 사항 세 건. 전부 경미. 중대한 발견 없음.
+106. MARCUS: Final summary. Three observations, all minor, and no critical findings. Every observation came with evidence, and we already discussed each one during the day. So nothing here should be a surprise.
+     마커스: 최종 요약. 지적 사항 세 건, 전부 경미하고 중대한 발견은 없음. 모든 지적에는 증거가 있었고, 낮에 하나하나 이미 이야기했어요. 그러니까 여기서 놀랄 건 없을 거예요.
 
 107. PRIYA: One, trend environmental alerts. Two, a new CAPA deadline. Three, autoclave heat mapping.
      프리야: 하나, 환경 경고 추세 분석. 둘, 새 CAPA 마감일. 셋, 고압 멸균기 열 분포 시험.
@@ -370,8 +370,8 @@
 115. MARCUS: Corwin? Why would Corwin call a competitor?
      마커스: 코윈이요? 코윈이 왜 경쟁사에 전화를 해요?
 
-116. SANDRA: They need extra capacity. For a new project. They called it "reversible HA."
-     산드라: 추가 생산 능력이 필요하대요. 새 프로젝트용으로. "되돌릴 수 있는 HA"라고 하더군요.
+116. SANDRA: They need extra capacity, for a new project. They asked about our fill rooms and timelines. And they called it "reversible HA." I don't think that's a coincidence.
+     산드라: 추가 생산 능력이 필요하대요. 새 프로젝트용으로요. 저희 충전실이랑 일정에 대해 물었어요. 그리고 그걸 "되돌릴 수 있는 HA"라고 하더군요. 우연은 아닌 것 같아요.
 
 117. PRIYA: Reversible HA. At Corwin. Corwin makes everything for Halvern.
      프리야: 되돌릴 수 있는 HA. 코윈에서. 코윈은 할번 제품을 전부 만드는 곳이잖아요.
@@ -418,3 +418,18 @@
 
 예시:
 > *Overall result: three minor observations, no critical findings. One: environmental alerts in Fill Room B were investigated separately but not trended. Two: one CAPA is overdue without a new deadline. Three: the autoclave validation does not cover our 1 mL syringe load; a heat mapping study is required. Corrective action plan due within 30 days.*
+
+### ④ 긴 발화 분석
+
+> **45턴 MARCUS:** "The supplier is late, that's true. But the missing plan is yours. Suppliers will always be late sometimes. What the FDA wants to see is how you manage it."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 인정(상대 말의 사실 부분) | The supplier is late, that's true. | 상대의 변명 중 맞는 부분을 먼저 인정해 방어심을 낮춤 |
+| ② 책임 구분(반박) | But the missing plan is yours. | 원인과 책임을 분리해 지적 사항의 핵심을 짚음 |
+| ③ 일반 원칙 | Suppliers will always be late sometimes. | 개인 비난이 아니라 누구에게나 생기는 일로 일반화 |
+| ④ 기준 제시 | What the FDA wants to see is how you manage it. | 판단 기준을 제3자(규제기관)에 두어 객관성을 확보 |
+
+**활용 패턴:** "A, that's true." → "But B is yours." → 일반 원칙 → "What ___ wants to see is…"
+**연결 표현:** that's true(그건 맞다) · But(하지만) · What … wants to see is…(~가 보고 싶어 하는 것은 …이다)
+**연습:** 납기 지연을 외부 탓으로 돌리는 협력업체 담당자에게 같은 구조로 25~30단어로 지적해 보기.

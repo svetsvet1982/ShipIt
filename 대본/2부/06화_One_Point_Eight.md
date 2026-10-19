@@ -23,8 +23,8 @@
 02. MARCUS: We see it. Go ahead, Dr. Holt.
     마커스: 보여요. 시작하세요, 홀트 박사님.
 
-03. HOLT: First, safety. No serious reactions in any animal. Clean results.
-    홀트: 먼저 안전성. 어떤 동물에서도 심각한 반응 없음. 깨끗한 결과예요.
+03. HOLT: First, safety. There were no serious reactions in any animal, at any injection depth, and nothing unusual in the tissue samples either. These are clean results, and I don't say that lightly.
+    홀트: 먼저 안전성입니다. 어떤 주입 깊이에서도, 어떤 동물에서도 심각한 반응은 없었고, 조직 샘플에서도 특이 사항이 없었어요. 깨끗한 결과예요. 쉽게 하는 말이 아닙니다.
 
 04. ELENA: That's very good news.
     엘레나: 아주 좋은 소식이네요.
@@ -59,8 +59,8 @@
 14. LEO: Thanks. I drove them down myself.
     레오: 감사합니다. 제가 직접 운전해서 가져갔어요.
 
-15. HOLT: I'll send the full report by noon. I'm sorry it's not what you hoped.
-    홀트: 정오까지 전체 보고서를 보낼게요. 기대하신 결과가 아니라서 유감이에요.
+15. HOLT: I'll send the full report by noon, with the individual results for each group, so your team can check everything. I'm sorry it's not what you hoped, but the study itself was solid.
+    홀트: 정오까지 그룹별 개별 결과를 포함한 전체 보고서를 보낼게요. 팀에서 전부 확인하실 수 있게요. 기대하신 결과가 아니라서 유감이지만, 시험 자체는 탄탄했어요.
 
 ### 장면1 — 침묵, 그리고 첫 반응
 
@@ -103,8 +103,8 @@
 28. LEO: Shallow injections. Close to the skin surface.
     레오: 얕은 주입이요. 피부 표면에 가까운.
 
-29. ELENA: In real patients, we inject deeper for smile lines. Group three is unrealistic.
-    엘레나: 실제 환자는 팔자주름에 더 깊게 주사해요. 3그룹은 비현실적이에요.
+29. ELENA: In real patients, we inject deeper for smile lines, because that's where the filler sits. Nobody injects that close to the surface in a real clinic, so group three is unrealistic, I'm afraid.
+    엘레나: 실제 환자는 팔자주름에 더 깊게 주사해요. 필러가 거기 자리 잡으니까요. 실제 클리닉에서 그렇게 피부 표면 가까이 주사하는 사람은 없어요. 그래서 안타깝지만 3그룹은 비현실적이에요.
 
 30. NOAH: But we could lead with group three. In the update to Richard.
     노아: 그래도 리처드에게 보내는 업데이트에서 3그룹을 앞세울 수 있잖아.
@@ -115,8 +115,8 @@
 32. NOAH: Not only. First. We'd show the average too. Later in the email.
     노아: 그것만이 아니라, 먼저. 평균도 보여 줄 거야. 이메일 뒷부분에.
 
-33. PRIYA: That's cherry-picking. Choosing the best data to tell a better story.
-    프리야: 그건 체리피킹이야. 더 좋은 이야기를 하려고 최고의 데이터만 고르는 거.
+33. PRIYA: That's cherry-picking, Noah. It means choosing the best data to tell a better story. Investors see the good number first, they remember it, and the average at the bottom never really counts.
+    프리야: 그건 체리피킹이야, 노아. 더 좋은 이야기를 하려고 최고의 데이터만 고르는 거. 투자자는 좋은 숫자를 먼저 보고 그걸 기억해. 맨 아래 있는 평균은 사실상 아무 의미가 없어.
 
 34. NOAH: It's framing. Every company frames its data.
     노아: 그건 프레이밍이야. 모든 회사가 데이터를 프레이밍해.
@@ -157,8 +157,8 @@
 46. LEO: One fixed dose. Thirty units. It's in the protocol.
     레오: 고정 용량 하나요. 30단위. 프로토콜에 있어요.
 
-47. ELENA: In an emergency, I'd never use thirty units. I'd use much more. Repeatedly.
-    엘레나: 응급 상황에서 난 절대 30단위를 안 써요. 훨씬 많이 써요. 반복해서요.
+47. ELENA: In an emergency, I'd never use thirty units. I'd use much more, and I'd repeat it until the blood flow came back. Thirty units is a small, careful dose.
+    엘레나: 응급 상황에서 난 절대 30단위를 안 써요. 훨씬 많이 쓰고, 혈류가 돌아올 때까지 반복해서 써요. 30단위는 작고 조심스러운 용량이에요.
 
 48. PRIYA: So the test dose was lower than real-world practice.
     프리야: 그러니까 시험 용량이 실제 현장보다 낮았네요.
@@ -189,8 +189,8 @@
 56. MARCUS: And in a body?
     마커스: 몸에선?
 
-57. PRIYA: The enzyme has to travel through tissue. It spreads slowly. Like ink in sand.
-    프리야: 효소가 조직을 통과해 이동해야 해요. 천천히 퍼지죠. 모래 속 잉크처럼.
+57. PRIYA: The enzyme has to travel through tissue to reach the filler, and it spreads slowly, like ink in sand. In a test tube there's nothing in the way, so the numbers look better.
+    프리야: 효소가 필러에 닿으려면 조직을 통과해 이동해야 하는데, 모래 속 잉크처럼 천천히 퍼져요. 시험관에선 가로막는 게 없으니까 숫자가 더 좋아 보이는 거예요.
 
 58. LEO: Is that why shallow injections worked better? Less tissue to travel through?
     레오: 그래서 얕은 주입이 더 잘된 건가요? 이동할 조직이 적어서?
@@ -207,8 +207,8 @@
 62. ELENA: Can the formula help the enzyme spread faster?
     엘레나: 배합으로 효소가 더 빨리 퍼지게 할 수 있어요?
 
-63. PRIYA: Maybe. Smaller particles have more surface. I'd need months to test that.
-    프리야: 어쩌면요. 입자가 작을수록 표면적이 넓어요. 그걸 시험하려면 몇 달이 필요해요.
+63. PRIYA: Maybe. Smaller particles have more surface, so the enzyme would have more places to work. But changing the formula means new stability tests, and I'd need months to test that properly.
+    프리야: 어쩌면요. 입자가 작을수록 표면적이 넓어서 효소가 작용할 곳이 많아지죠. 하지만 배합을 바꾸면 안정성 시험을 새로 해야 하고, 제대로 시험하려면 몇 달이 필요해요.
 
 64. MARCUS: We don't have months. We have twenty-seven days.
     마커스: 우리한텐 몇 달이 없어. 27일 있지.
@@ -249,8 +249,8 @@
 76. NOAH: Of course, Leo.
     노아: 물론이죠, 레오.
 
-77. LEO: I joined because Priya said, "Data decides." If that changes, I'd want to know.
-    레오: 저는 프리야가 "데이터가 결정한다"고 해서 들어왔어요. 그게 바뀐다면 알고 싶어요.
+77. LEO: I joined because Priya said, "Data decides." That sentence is the reason I'm here. If that changes after one bad result, I'd want to know today, not in six months.
+    레오: 저는 프리야가 "데이터가 결정한다"고 해서 들어왔어요. 그 한 문장이 제가 여기 있는 이유예요. 나쁜 결과 하나 때문에 그게 바뀐다면, 6개월 뒤가 아니라 오늘 알고 싶어요.
 
 78. NOAH: That's… a fair thing to say.
     노아: 그건… 할 만한 말이네요.
@@ -275,8 +275,8 @@
 84. PRIYA: Thank you.
     프리야: 고마워.
 
-85. NOAH: I panicked. I saw five million dollars walking away.
-    노아: 당황했어. 500만 달러가 걸어 나가는 게 보였거든.
+85. NOAH: I panicked. I saw five million dollars walking away, and I grabbed the first good number I could find. That's the same thing I hated at Halvern.
+    노아: 당황했어. 500만 달러가 걸어 나가는 게 보였고, 눈에 띈 첫 번째 좋은 숫자를 붙잡았어. 그게 바로 내가 할번에서 싫어했던 거야.
 
 86. MARCUS: We all saw it. You're the one who has to talk to him.
     마커스: 우리 다 봤어. 그 사람이랑 얘기해야 하는 게 자네일 뿐이지.
@@ -308,8 +308,8 @@
 95. LEO: Three. The test dose was lower than real emergencies. Both products got it.
     레오: 셋. 시험 용량이 실제 응급 상황보다 낮았다. 두 제품 모두.
 
-96. MARCUS: Four. We propose a four-week test at an emergency dose. Same for both.
-    마커스: 넷. 응급 용량으로 4주 시험을 제안한다. 두 제품 동일하게.
+96. MARCUS: Four. We propose a four-week test at an emergency dose, the same for both products. Dr. Holt says four weeks is realistic, so we're not asking for something we can't deliver.
+    마커스: 넷. 응급 용량으로 4주 시험을 제안한다. 두 제품 동일하게. 홀트 박사가 4주면 현실적이라고 했으니, 지킬 수 없는 걸 요청하는 게 아니야.
 
 97. NOAH: Five. We ask for a one-week extension. And we accept his decision.
     노아: 다섯. 일주일 연장을 요청한다. 그리고 그의 결정을 받아들인다.
@@ -326,8 +326,8 @@
 101. ELENA: Bad news first. Then the plan. Like the email Elaine loved.
      엘레나: 나쁜 소식 먼저. 그다음 계획. 일레인이 좋아했던 이메일처럼요.
 
-102. MARCUS: Call him. Don't email. Bad news deserves a voice.
-     마커스: 전화해. 이메일 말고. 나쁜 소식은 목소리로 전해야 해.
+102. MARCUS: Call him. Don't email. Bad news deserves a voice, because an email can be read in the worst possible tone. On the phone, he hears that you're not hiding, and he can ask questions.
+     마커스: 전화해. 이메일 말고. 나쁜 소식은 목소리로 전해야 해. 이메일은 최악의 말투로 읽힐 수 있거든. 전화로 하면 자네가 숨기지 않는다는 게 들리고, 그 사람도 질문할 수 있어.
 
 103. NOAH: Now?
      노아: 지금요?
@@ -355,8 +355,8 @@
 110. RICHARD: I see.
      리처드: 그렇군요.
 
-111. NOAH: Safety was clean. Durability matched the comparator. But we missed the number.
-     노아: 안전성은 깨끗했고, 지속력은 비교 제품과 같았어요. 하지만 숫자를 못 맞췄어요.
+111. NOAH: Safety was clean, with no serious reactions at all. Durability matched the comparator at eight weeks. Those parts went well. But we missed the number, and I'm not going to pretend otherwise.
+     노아: 안전성은 깨끗했어요. 심각한 반응이 전혀 없었고요. 지속력은 8주 시점에 비교 제품과 같았어요. 그 부분은 잘됐어요. 하지만 숫자는 못 맞췄고, 아닌 척하지 않을게요.
 
 112. RICHARD: Why do you think you missed it?
      리처드: 왜 못 맞췄다고 생각해요?
@@ -367,8 +367,8 @@
 114. RICHARD: That sounds like an excuse.
      리처드: 변명처럼 들리는데요.
 
-115. NOAH: It could be. So we want to test it. Four weeks, same dose for both.
-     노아: 그럴 수 있어요. 그래서 시험해 보고 싶어요. 4주, 두 제품 같은 용량으로.
+115. NOAH: It could be. That's exactly why we want to test it. Four weeks, at an emergency dose, the same dose for both products. If the number doesn't move, you'll know it was an excuse.
+     노아: 그럴 수 있어요. 그래서 바로 시험해 보고 싶은 거예요. 4주, 응급 용량으로, 두 제품 같은 용량으로요. 숫자가 안 움직이면, 그게 변명이었다는 걸 아시게 될 거예요.
 
 116. RICHARD: And you need more time than I gave you.
      리처드: 그리고 내가 준 것보다 시간이 더 필요하겠군요.
@@ -417,3 +417,18 @@
 
 예시:
 > *The bad news: our average was 1.8x, not the 2.5x target. What went well: safety was clean and durability matched the comparator. Why we think it happened: the enzyme dose was much lower than in real emergencies, for both products. What we propose: a four-week test at an emergency dose. What we're asking: a one-week extension. If the answer is no, we understand.*
+
+### ④ 긴 발화 분석
+
+> **115턴 NOAH:** "It could be. That's exactly why we want to test it. Four weeks, at an emergency dose, the same dose for both products. If the number doesn't move, you'll know it was an excuse."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 인정(방어하지 않기) | It could be. | 상대의 의심을 먼저 받아들여 대립을 낮춤 |
+| ② 전환(의심 → 이유) | That's exactly why we want to test it. | 상대의 반론을 내 제안의 근거로 바꿈 |
+| ③ 계획(구체 조건) | Four weeks, at an emergency dose, the same dose for both products. | 기간·조건·공정성을 짧게 명시 |
+| ④ 검증 기준(반증 가능성) | If the number doesn't move, you'll know it was an excuse. | 실패 시 판단 기준까지 상대에게 넘겨 신뢰를 얻음 |
+
+**활용 패턴:** It could be. → That's exactly why… → 구체 계획 → If…, you'll know…
+**연결 표현:** It could be(그럴 수도 있다) · That's exactly why(바로 그래서) · If…, you'll know…(~하면 ~라는 걸 알게 될 것이다)
+**연습:** "그건 핑계 아닌가요?"라는 상사의 지적에 같은 구조로 30단어 안팎으로 답해 보기.

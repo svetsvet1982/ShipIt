@@ -50,8 +50,8 @@
 11. NOAH: Why did you leave cosmetics?
     노아: 왜 화장품 업계를 떠났어요?
 
-12. ZOE: I was tired of selling hope in a jar. I wanted to sell something real.
-    조이: 병에 담긴 희망을 파는 데 지쳤어요. 진짜인 걸 팔고 싶었어요.
+12. ZOE: I was tired of selling hope in a jar. Every season, a new promise and the same cream. I wanted to sell something real, something with numbers that actually mean something.
+    조이: 병에 담긴 희망을 파는 데 지쳤어요. 시즌마다 새로운 약속에 똑같은 크림. 진짜인 걸 팔고 싶었어요. 숫자가 정말로 의미를 가지는 걸요.
 
 13. MARCUS: This is real. Twelve thousand pages of real.
     마커스: 이건 진짜야. 1만 2천 쪽짜리 진짜.
@@ -85,8 +85,8 @@
 22. NOAH: One hundred dollars? Lumaderm sells for three-fifty.
     노아: 100달러요? 루마덤은 350달러에 팔려요.
 
-23. ZOE: Exactly. That's why cost-plus is usually wrong. It ignores the market.
-    조이: 바로 그거예요. 그래서 원가 가산은 대개 틀려요. 시장을 무시하니까요.
+23. ZOE: Exactly. That's why cost-plus is usually wrong. It only looks at what the product costs us, and it ignores the market, what customers already pay, and what they'd happily pay.
+    조이: 바로 그거예요. 그래서 원가 가산은 대개 틀려요. 제품이 우리에게 얼마 드는지만 보고, 시장도, 고객이 이미 내고 있는 돈도, 기꺼이 낼 돈도 무시하니까요.
 
 24. ELENA: And it ignores our trial. We spent forty million to get here.
     엘레나: 그리고 우리 임상도 무시하죠. 여기까지 오는 데 4천만 달러를 썼어요.
@@ -106,8 +106,8 @@
 29. ZOE: We can't say it in words. Price says things words can't.
     조이: 말로는 못 하죠. 가격은 말이 못 하는 걸 말해요.
 
-30. ELENA: Careful. Price can't make a claim the label doesn't make.
-    엘레나: 조심해요. 가격으로 라벨에 없는 주장을 할 순 없어요.
+30. ELENA: Careful. Price can't make a claim the label doesn't make. If our price quietly tells doctors we're better, regulators can treat that as a claim, just like words in a brochure.
+    엘레나: 조심해요. 가격으로 라벨에 없는 주장을 할 순 없어요. 우리 가격이 의사들에게 은근히 더 좋다고 말하면, 규제 당국은 그걸 브로슈어 문구처럼 하나의 주장으로 볼 수 있어요.
 
 31. ZOE: Agreed. Price signals value. It doesn't promise outcomes.
     조이: 동의해요. 가격은 가치를 신호하지, 결과를 약속하진 않아요.
@@ -139,8 +139,8 @@
 40. ZOE: Who's Tiffany?
     조이: 티파니가 누구예요?
 
-41. NOAH: A med spa owner we interviewed. Four years ago. One complication. One lawsuit threat.
-    노아: 4년 전에 인터뷰한 메디스파 원장이요. 부작용 한 건. 소송 위협 한 번.
+41. NOAH: A med spa owner we interviewed four years ago, back when this was just an idea. She had one complication, one lawsuit threat, and her insurance went up forty percent.
+    노아: 4년 전, 이게 아이디어에 불과했을 때 인터뷰한 메디스파 원장이요. 부작용 한 건, 소송 위협 한 번에 보험료가 40퍼센트 올랐어요.
 
 42. ZOE: That's gold. What that means for you is… our value isn't just a syringe.
     조이: 그거 금 같은 정보예요. 그 말은 곧… 우리 가치가 주사기만이 아니라는 거예요.
@@ -163,8 +163,8 @@
 48. NOAH: I'd go four-fifty. Premium. It makes a statement.
     노아: 전 450달러로 가겠어요. 프리미엄. 존재감을 보여 주죠.
 
-49. MARCUS: I'd go three-fifty. Same as Lumaderm. Remove the price objection.
-    마커스: 난 350달러. 루마덤이랑 같게. 가격 반대 이유를 없애는 거지.
+49. MARCUS: I'd go three-fifty. Same as Lumaderm. That removes the price objection completely, so the doctor's only question is whether to switch. In the army we'd call that clearing the path.
+    마커스: 난 350달러. 루마덤이랑 같게. 가격 반대 이유를 완전히 없애는 거지. 그러면 의사가 고민할 건 바꿀지 말지 하나뿐이야. 군대에선 그걸 길을 치운다고 하지.
 
 50. ZOE: Two very different stories. Let's test them.
     조이: 아주 다른 두 이야기네요. 시험해 보죠.
@@ -183,8 +183,8 @@
 54. NOAH: I didn't say safer.
     노아: 더 안전하다고 안 했어요.
 
-55. ELENA: The price said it for you. A hundred dollars more for "safety."
-    엘레나: 가격이 대신 말했죠. "안전"을 위해 100달러 더.
+55. ELENA: The price said it for you. A hundred dollars more for 'safety.' Doctors will do that math in two seconds, and then they'll ask us to prove it. We can't.
+    엘레나: 가격이 대신 말했죠. '안전'을 위해 100달러 더. 의사들은 그 계산을 2초 만에 하고, 그다음엔 증명해 보라고 할 거예요. 우린 못 해요.
 
 56. ZOE: She's right. At four-fifty, the price makes a claim the label can't.
     조이: 엘레나 말이 맞아요. 450달러면 가격이 라벨이 못 하는 주장을 하게 돼요.
@@ -210,8 +210,8 @@
 63. ZOE: And once you start at three-fifty, you can never go up.
     조이: 그리고 350달러로 시작하면 절대 올릴 수 없어요.
 
-64. GRACE: Prices only go down after launch. Never up.
-    그레이스: 출시 후엔 가격이 내려가기만 하죠. 올라가진 않고요.
+64. GRACE: Prices only go down after launch. Never up. Clinics remember the first price you gave them, and every increase feels like a broken promise, even when your costs have changed.
+    그레이스: 출시 후엔 가격이 내려가기만 하죠. 올라가진 않고요. 병원은 처음 받은 가격을 기억해요. 그래서 원가가 바뀌었더라도 가격을 올리면 약속을 깬 것처럼 느껴져요.
 
 65. ZOE: Exactly. So we need room. Room to discount. Room to fight.
     조이: 맞아요. 그래서 여유가 필요해요. 할인할 여유. 싸울 여유.
@@ -246,8 +246,8 @@
 75. PRIYA: You keep saying "What that means for you is." Is that a habit?
     프리야: 계속 "그 말은 곧"이라고 하네요. 습관이에요?
 
-76. ZOE: It's my favorite sentence. Features mean nothing until you say what they mean for someone.
-    조이: 제가 제일 좋아하는 문장이에요. 특징은 누군가에게 무슨 의미인지 말하기 전까진 아무 의미 없거든요.
+76. ZOE: It's my favorite sentence. Features mean nothing until you say what they mean for someone. A doctor doesn't buy 'two point eight.' She buys what that number means in her clinic.
+    조이: 제가 제일 좋아하는 문장이에요. 특징은 누군가에게 무슨 의미인지 말하기 전까진 아무 의미 없거든요. 의사는 '2.8'을 사는 게 아니에요. 그 숫자가 자기 병원에서 갖는 의미를 사는 거죠.
 
 77. GRACE: What about the price patients pay?
     그레이스: 환자가 내는 가격은요?
@@ -272,8 +272,8 @@
 83. ZOE: Why can't we suggest a patient price?
     조이: 왜 환자 가격을 제안하면 안 돼요?
 
-84. DIANE: Clinics set their own prices. Telling them what to charge is a legal risk.
-    다이앤: 병원은 자기 가격을 스스로 정해요. 얼마 받으라고 하는 건 법적 리스크예요.
+84. DIANE: Clinics set their own prices. If a supplier tells them what to charge, it can look like price fixing, and that's a legal risk for us and for them. So we stay out.
+    다이앤: 병원은 자기 가격을 스스로 정해요. 공급자가 얼마 받으라고 하면 가격 담합처럼 보일 수 있고, 그건 우리와 병원 모두에게 법적 리스크예요. 그러니까 우린 빠지는 거예요.
 
 85. MARCUS: Even a suggestion?
     마커스: 제안만 해도요?
@@ -299,8 +299,8 @@
 92. ZOE: Document it why?
     조이: 왜 문서화해요?
 
-93. DIANE: Anything of value given to doctors may need to be reported. Open Payments.
-    다이앤: 의사에게 주는 가치 있는 건 보고해야 할 수 있어요. 오픈 페이먼츠.
+93. DIANE: Anything of value given to doctors may need to be reported to Open Payments. That can include free kits. It's public, so anyone can search it, including competitors and journalists.
+    다이앤: 의사에게 주는 가치 있는 건 오픈 페이먼츠에 보고해야 할 수 있어요. 무료 키트도 포함될 수 있고요. 공개 자료라서 경쟁사든 기자든 누구나 검색할 수 있어요.
 
 94. ELENA: The same database where Rachel's Halvern money showed up.
     엘레나: 레이첼의 할번 자문료가 나왔던 그 데이터베이스요.
@@ -311,8 +311,8 @@
 96. MARCUS: Rules are fine. Surprises are the problem.
     마커스: 규칙은 괜찮아. 문제는 뜻밖의 일이지.
 
-97. NOAH: So, decision. List price four twenty-five. Launch program three ninety-five. Six months.
-    노아: 그럼 결정. 정가 425달러. 출시 프로그램 395달러. 6개월.
+97. NOAH: So, decision. List price four twenty-five. Launch program three ninety-five for six months. That gives clinics a reason to start now, and it leaves us room if Halvern cuts prices.
+    노아: 그럼 결정. 정가 425달러. 출시 프로그램 395달러, 6개월간. 병원엔 지금 시작할 이유가 되고, 할번이 가격을 내려도 우리에게 여유가 남아요.
 
 98. ZOE: First order includes training and two emergency kits. Documented.
     조이: 첫 주문엔 교육과 응급 키트 두 개 포함. 문서화해서.
@@ -358,8 +358,8 @@
 111. NOAH: Is that bad?
      노아: 그게 나쁜 거예요?
 
-112. ZOE: No. In my old job, nobody argued. And we made a lot of bad products.
-     조이: 아니요. 예전 직장에선 아무도 안 다퉜어요. 그리고 나쁜 제품을 엄청 만들었죠.
+112. ZOE: No. In my old job, nobody argued, because nobody wanted to upset the boss. So bad ideas went straight to the shelf, and we made a lot of bad products.
+     조이: 아니요. 예전 직장에선 아무도 안 다퉜어요. 다들 상사 기분 상하게 하기 싫었거든요. 그래서 나쁜 아이디어가 그대로 매대에 올라갔고, 나쁜 제품을 엄청 만들었죠.
 
 113. NOAH: Inside, argue. Outside, one voice. Rule two.
      노아: 안에선 논쟁, 밖에선 한목소리. 원칙 2번.
@@ -418,3 +418,17 @@
 
 예시:
 > *Recommendation: list price $425; launch program $395 for six months. At $395, we're only $45 above Lumaderm, and the clinic gets training, two emergency kits, and a measured dissolution advantage. Margin stays above 80%. We won't suggest patient prices, and we'll document all free items.*
+
+### ④ 긴 발화 분석
+
+> **23턴 ZOE:** "Exactly. That's why cost-plus is usually wrong. It only looks at what the product costs us, and it ignores the market, what customers already pay, and what they'd happily pay."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 동의(연결) | Exactly. | 상대가 방금 한 말을 자기 논점의 출발점으로 삼음 |
+| ② 결론(평가) | That's why cost-plus is usually wrong. | That's why로 앞의 사례를 결론과 연결 |
+| ③ 근거(대비·목록) | It only looks at what the product costs us, and it ignores the market, what customers already pay, and what they'd happily pay. | "only A, ignores B" 대비 후, 무시하는 것 세 가지를 나열 |
+
+**활용 패턴:** 짧은 동의 → "That's why X is wrong." → "It only looks at A and ignores B, C, D."
+**연결 표현:** That's why(그래서) · usually(대개) · It only looks at…(~만 본다) · what they'd happily pay(기꺼이 낼 금액)
+**연습:** "작년 대비 5% 인상"으로 예산을 정하자는 제안에 같은 구조로 30단어 안팎으로 반론해 보기.

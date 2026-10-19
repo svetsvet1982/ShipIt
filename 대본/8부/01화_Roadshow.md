@@ -23,11 +23,11 @@
 02. NOAH: Every time? Even if I think of a better answer on day five?
     노아: 매번요? 5일 차에 더 좋은 답이 생각나도요?
 
-03. RUTH: Especially then. Investors compare notes. If Boston hears a different answer than New York, they wonder which one is true.
-    루스: 특히 그때요. 투자자들은 서로 메모를 비교해요. 보스턴이 뉴욕과 다른 답을 들으면, 어느 게 사실인지 의심하죠.
+03. RUTH: Especially then. Investors compare notes, and they compare them more than you'd think. If Boston hears a different answer than New York, they don't assume you've improved it; they wonder which one is true, and then they start wondering what else might not be.
+    루스: 특히 그때요. 투자자들은 서로 메모를 비교하는데, 생각보다 훨씬 많이 해요. 보스턴이 뉴욕과 다른 답을 들으면, 답이 나아졌다고 생각하지 않아요. 어느 쪽이 사실인지 의심하고, 그다음엔 또 뭐가 사실이 아닐지 의심하기 시작하죠.
 
-04. PAUL: Ruth ran investor relations at a large device company for twelve years. She's seen three IPOs. From the inside.
-    폴: 루스는 대형 의료기기 회사에서 12년간 IR을 했어요. IPO를 세 번 봤죠. 안에서.
+04. PAUL: Ruth ran investor relations at a large device company for twelve years, so she's not guessing about any of this. She's seen three IPOs, and not from the audience. From the inside, where the decisions actually get made.
+    폴: 루스는 대형 의료기기 회사에서 12년간 IR을 했어요. 그러니 이 중 어느 것도 짐작으로 하는 말이 아니에요. IPO를 세 번 봤는데, 객석에서가 아니에요. 안에서요. 실제로 결정이 내려지는 곳에서.
 
 05. RUTH: And two that failed. From the inside. Those taught me more.
     루스: 그리고 실패한 두 번도요. 안에서. 그게 더 많이 가르쳐 줬어요.
@@ -70,8 +70,8 @@
 17. SANDRA: Sandra Liu. Healthcare analyst. Why not sell to aestheticians in Asia? It's most of the market.
     샌드라: 샌드라 리우. 헬스케어 애널리스트. 아시아에서 미용 시술자에게 왜 안 팔아요? 시장 대부분인데.
 
-18. NOAH: Because medical-only is the brand. In Korea and Japan, only doctors may inject anyway. It's the law there.
-    노아: 의료인 전용이 브랜드니까요. 한국과 일본에선 어차피 의사만 주사할 수 있어요. 그게 그곳 법이고요.
+18. NOAH: Because medical-only is the brand, and the brand is what doctors are paying for. In Korea and Japan, only doctors may inject anyway, since it's the law there. Selling to aestheticians would cost us the trust that makes the product worth buying.
+    노아: 의료인 전용이 브랜드이고, 의사들이 돈을 내는 이유가 바로 그 브랜드니까요. 한국과 일본에선 어차피 의사만 주사할 수 있어요. 그곳 법이니까요. 미용 시술자에게 팔면 이 제품을 살 만한 가치가 있게 만드는 신뢰를 잃게 됩니다.
 
 19. SANDRA: And in Southeast Asia? Where it isn't the law?
     샌드라: 그럼 동남아는요? 법이 아닌 곳은요?
@@ -115,8 +115,8 @@
 32. MARCY: Thirteen hundred vascular events. Every one recorded. Public. Why would a company publish its own complications?
     마시: 혈관 사건 1,300건. 하나하나 기록. 공개. 회사가 왜 자기 합병증을 공개하죠?
 
-33. NOAH: Because hiding them is how the last generation of filler companies lost doctors' trust. Ours includes the recall.
-    노아: 숨기는 게 이전 세대 필러 회사들이 의사의 신뢰를 잃은 방식이니까요. 우리 건 회수까지 포함해요.
+33. NOAH: Because hiding them is exactly how the last generation of filler companies lost doctors' trust, and once a doctor stops trusting your data, they stop trusting your product. So we publish everything. Ours even includes the recall, which wasn't comfortable to put in.
+    노아: 숨기는 게 바로 이전 세대 필러 회사들이 의사의 신뢰를 잃은 방식이니까요. 의사가 데이터를 믿지 않게 되면, 제품도 믿지 않게 돼요. 그래서 전부 공개합니다. 우리 건 회수까지 포함해요. 넣기 편한 내용은 아니었지만요.
 
 34. MARCY: That's the first question I haven't heard on this roadshow. And the first answer I believed.
     마시: 이번 로드쇼에서 처음 듣는 질문이에요. 그리고 처음 믿게 된 답이고요.
@@ -157,8 +157,8 @@
 46. NOAH: And what should they have done?
     노아: 그럼 어떻게 했어야 했어요?
 
-47. RUTH: Changed the story without changing the facts. Most people can't tell the difference.
-    루스: 사실은 바꾸지 않고 이야기를 바꾸는 것. 대부분 그 차이를 구분 못 해요.
+47. RUTH: Changed the story without changing the facts. The numbers stay exactly the same, and so do the three messages, but the way in, the first minute, can be new. Most people can't tell the difference, and that's why they either bore investors or start improvising.
+    루스: 사실은 바꾸지 않고 이야기를 바꾸는 것. 숫자는 그대로, 메시지 세 개도 그대로지만, 들어가는 방식, 그러니까 첫 1분은 새로울 수 있어요. 대부분 그 차이를 구분 못 해요. 그래서 투자자를 지루하게 하거나, 즉흥으로 말하기 시작하죠.
 
 48. NOAH: Can I open with Seoul? The thirteen minutes? It's public. In the registry. A fact.
     노아: 서울로 시작해도 돼요? 13분? 공개된 거예요. 레지스트리에. 사실이고요.
@@ -177,8 +177,8 @@
 52. SANDRA: …Then?
     샌드라: …그다음엔요?
 
-53. NOAH: Thirteen minutes. A trained doctor. A traced syringe. A hotline in two languages. That's what you'd be investing in.
-    노아: 13분. 교육받은 의사. 추적되는 주사기. 두 언어의 핫라인. 그게 여러분이 투자하시는 겁니다.
+53. NOAH: Thirteen minutes. A trained doctor who recognised the signs. A traced syringe, so we knew exactly where it came from. A hotline that answered in two languages. That's the system, and that's what you'd really be investing in, more than the filler itself.
+    노아: 13분. 징후를 알아본 교육받은 의사. 추적되는 주사기, 그래서 어디서 온 건지 정확히 알았죠. 두 언어로 응답한 핫라인. 그게 시스템이고, 필러 자체보다 그게 여러분이 실제로 투자하시는 겁니다.
 
 54. RUTH: Sandra Liu again. Second meeting. She asked for it. That never happens.
     루스: 또 샌드라 리우예요. 두 번째 미팅. 본인이 요청했어요. 그런 일은 없는데.
@@ -246,8 +246,8 @@
 75. NOAH: Victor, a year ago you said one point two was a refund.
     노아: 빅터, 1년 전엔 12억이 환불이라고 했잖아요.
 
-76. VICTOR: And now you're worth more than that. I like being right slowly.
-    빅터: 그리고 지금은 그보다 가치가 높죠. 난 천천히 맞는 게 좋아요.
+76. VICTOR: And now you're worth more than that. I don't mind admitting it, because that's the whole point of a ten-year order: you let the company prove you wrong, or right, slowly. I like being right slowly.
+    빅터: 그리고 지금은 그보다 가치가 높죠. 인정하는 거 아무렇지 않아요. 그게 10년짜리 주문의 핵심이니까요. 회사가 내가 틀렸는지, 맞았는지 천천히 증명하게 두는 거죠. 난 천천히 맞는 게 좋아요.
 
 77. PAUL: Day eight. Final number. Nine times oversubscribed.
     폴: 8일 차. 최종 숫자. 9배 초과 청약.
@@ -258,8 +258,8 @@
 79. NOAH: Is that good?
     노아: 그게 좋은 거예요?
 
-80. RUTH: It's good. It's also dangerous. Tonight, the bankers will want to raise the price. Be ready.
-    루스: 좋아요. 위험하기도 하고요. 오늘 밤 주관사가 가격을 올리자고 할 거예요. 준비해요.
+80. RUTH: It's good. It's also dangerous, because nine times covered gives the bankers a reason to push. Tonight, they'll want to raise the price, and they'll have numbers to back it up. Be ready with your reason before they finish their slide.
+    루스: 좋아요. 위험하기도 하고요. 9배 청약이면 주관사가 밀어붙일 이유가 생기거든요. 오늘 밤 그들은 가격을 올리자고 할 거고, 뒷받침할 숫자도 갖고 올 거예요. 그들이 슬라이드를 다 넘기기 전에 당신 이유를 준비해 둬요.
 
 ### 절정·전환 — 3월 10일 오후 9시, 공모가 결정
 
@@ -284,8 +284,8 @@
 87. NOAH: Jonathan, who's in the book at twenty-nine? Who drops out?
     노아: 조너선, 29에서 장부에 누가 남아요? 누가 빠져요?
 
-88. JONATHAN: Mostly the long-only funds drop their size. The fast money stays. They expect a pop either way.
-    조너선: 주로 장기 펀드들이 규모를 줄여요. 빠른 돈은 남고요. 어쨌든 상승을 기대하니까.
+88. JONATHAN: Mostly the long-only funds drop their size, because they're disciplined about valuation and twenty-nine is above where they modelled it. The fast money stays, since they expect a pop either way and they're planning to sell into it.
+    조너선: 주로 장기 펀드들이 규모를 줄여요. 밸류에이션에 엄격한데, 29는 그들이 모델링한 가격보다 높거든요. 빠른 돈은 남고요. 어쨌든 상승을 기대하고, 그때 팔 계획이니까요.
 
 89. NOAH: So at twenty-nine, we get more money. And worse shareholders.
     노아: 그러니까 29에선 돈은 더 받고. 주주는 더 나빠지는 거네요.
@@ -296,8 +296,8 @@
 91. RUTH: Ethan Cole asked two questions. Lock-up and pop. Marcy asked about the registry. That's the difference.
     루스: 이선 콜은 질문 두 개를 했어요. 보호예수와 상승. 마시는 레지스트리를 물었고요. 그게 차이예요.
 
-92. NOAH: Here's the thing. We're not selling shares tonight. We're choosing shareholders. For ten years.
-    노아: 요점은 이거예요. 오늘 밤 우린 주식을 파는 게 아니에요. 주주를 고르는 거예요. 10년 동안.
+92. NOAH: Here's the thing. We're not selling shares tonight. We're choosing shareholders, for ten years. The people who asked about the registry will still be here when something goes wrong, and something will. The people who asked about the pop won't.
+    노아: 요점은 이거예요. 오늘 밤 우린 주식을 파는 게 아니에요. 주주를 고르는 거예요. 10년 동안. 레지스트리를 물은 사람들은 뭔가 잘못될 때도 여기 있을 거예요. 그리고 뭔가는 반드시 잘못돼요. 상승을 물은 사람들은 없을 거고요.
 
 93. PAUL: Then twenty-seven. With allocation priority to long-only holders. Commonwealth. Bluewater. Fjord.
     폴: 그럼 27. 장기 보유자에게 배정 우선권. 커먼웰스. 블루워터. 피오르드.
@@ -314,8 +314,8 @@
 97. ELAINE: I'm here. On speaker. In my pyjamas. Paul, your view?
     일레인: 여기 있어요. 스피커로. 잠옷 차림으로. 폴, 의견은?
 
-98. PAUL: My head says twenty-nine. My experience says twenty-seven. A first day that's too flat scares long-term holders too.
-    폴: 머리는 29라고 해요. 경험은 27이라고 하고요. 첫날이 너무 밋밋하면 장기 보유자도 겁먹어요.
+98. PAUL: My head says twenty-nine, because twenty-three million is real money for Line C. My experience says twenty-seven. A first day that's too flat scares long-term holders too, and a little room for them to win early buys a lot of loyalty later.
+    폴: 머리는 29라고 해요. 2,300만은 라인 C에 진짜 큰돈이니까요. 경험은 27이라고 하고요. 첫날이 너무 밋밋하면 장기 보유자도 겁먹어요. 초반에 그들이 이길 여지를 조금 남겨 두면, 나중에 큰 충성도로 돌아와요.
 
 99. ELAINE: Then the committee approves twenty-seven. With Noah's allocation. Recorded at nine forty-two p.m.
     일레인: 그럼 위원회는 27을 승인해요. 노아의 배정안으로. 밤 9시 42분 기록.
@@ -376,8 +376,8 @@
 117. PAUL: Even if it goes up fifty percent?
      폴: 50% 올라도요?
 
-118. RUTH: Especially then. A CEO who celebrates the stock price owns it on the way down too.
-     루스: 특히 그때요. 주가를 축하하는 CEO는 떨어질 때도 그걸 책임지게 돼요.
+118. RUTH: Especially then. A CEO who celebrates the stock price owns it on the way down too. And it will go down at some point, on a day that has nothing to do with patients. If you didn't cheer on the way up, nobody can quote you on the way down.
+     루스: 특히 그때요. 주가를 축하하는 CEO는 떨어질 때도 그걸 책임지게 돼요. 그리고 언젠가는 떨어져요. 환자와 아무 상관 없는 날에요. 오를 때 환호하지 않았다면, 떨어질 때 아무도 당신 말을 인용할 수 없어요.
 
 119. NOAH: …Then tomorrow I celebrate the people. Not the number.
      노아: …그럼 내일은 사람들을 축하할게요. 숫자 말고.
@@ -419,3 +419,18 @@ IPO 로드쇼에서 경영진은 며칠 동안 수십 번 같은 질문을 받�
 
 > **New opening (day 5+):** "At 10:14 p.m. in Seoul, a doctor saw a patient's skin turn white. By 10:27, it was pink again." — facts only, no names, no promises.
 > **Pricing (March 10):** range $22–25 → raised to $25–27 · book **9× oversubscribed** · bankers proposed $29 · **priced at $27** · 11.5M shares · ≈ **$310M** · allocation priority: Commonwealth, Bluewater, Fjord · hedge funds cut (Ethan: one-third of order) · approved by pricing committee 9:42 p.m.
+
+### ④ 긴 발화 분석
+
+> **3턴 RUTH:** "Especially then. Investors compare notes, and they compare them more than you'd think. If Boston hears a different answer than New York, they don't assume you've improved it; they wonder which one is true, and then they start wondering what else might not be."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 결론(짧게 반박) | Especially then. | 상대의 예외 제안을 두 단어로 뒤집기 |
+| ② 전제(사실) | Investors compare notes, and they compare them more than you'd think. | 판단의 근거가 되는 시장의 현실 제시 |
+| ③ 가정(if…) | If Boston hears a different answer than New York, they don't assume you've improved it; | 구체적 상황을 가정해 상대 관점을 바로잡기 |
+| ④ 파급(연쇄 결과) | they wonder which one is true, and then they start wondering what else might not be. | 작은 불일치가 전체 신뢰로 번지는 과정을 단계적으로 |
+
+**활용 패턴:** 짧은 결론 → 현실(전제) → If 가정 → "and then…" 연쇄 결과
+**연결 표현:** more than you'd think(생각보다 훨씬) · they don't assume…; they wonder…(~라고 여기지 않고 ~를 의심한다) · and then they start…(그러다 ~하기 시작한다)
+**연습:** 고객마다 다른 할인율을 주자는 동료에게 같은 구조로 40단어 안팎으로 반대해 보기.

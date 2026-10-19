@@ -44,11 +44,11 @@
 09. ELENA: Question five is very James.
     엘레나: 다섯 번째 질문이 아주 제임스답네요.
 
-10. SOFIA: Question two is the real test. Everything else is conversation.
-    소피아: 두 번째가 진짜 시험이에요. 나머지는 대화고요.
+10. SOFIA: Question two is the real test. Everything else is conversation. Anyone can describe success or talk about time zones, but question two shows us what they'll do when a big customer asks for something we won't allow. That's the job.
+    소피아: 두 번째가 진짜 시험이에요. 나머지는 대화고요. 성공을 묘사하거나 시차 얘기는 누구나 할 수 있지만, 두 번째 질문은 큰 고객이 우리가 허용하지 않는 걸 요구할 때 그 사람이 어떻게 할지를 보여 줘요. 그게 이 일의 핵심이에요.
 
-11. NOAH: And we listen for British signals. Elena, you're our decoder.
-    노아: 그리고 영국식 신호를 잘 들어요. 엘레나, 당신이 해독기예요.
+11. NOAH: And we listen for British signals. Last month I missed every single one, and it cost us three weeks and a distributor. This time, if someone says "interesting" or "I hear what you say," I want to know immediately. Elena, you're our decoder.
+    노아: 그리고 영국식 신호를 잘 들어요. 지난달엔 하나도 빠짐없이 다 놓쳐서 3주와 유통사 하나를 잃었어요. 이번엔 누가 "흥미롭네요"나 "말씀하시는 바는 들었습니다"라고 하면 바로 알고 싶어요. 엘레나, 당신이 해독기예요.
 
 12. ELENA: I passed James's course. One night. In a pub. With a certificate made of beer mats.
     엘레나: 제임스 과정을 수료했어요. 하룻밤. 펍에서. 맥주 받침으로 만든 수료증까지.
@@ -70,8 +70,8 @@
 17. NOAH: Thank you for joining, Charles. First question. What does success look like in year one?
     노아: 참석해 줘서 고마워요, 찰스. 첫 질문. 1년 차 성공은 어떤 모습인가요?
 
-18. CHARLES: Ten thousand syringes. Twelve reps. National coverage by Christmas. And a launch event at a proper hotel.
-    찰스: 주사기 1만 개. 영업 사원 12명. 크리스마스까지 전국 커버. 그리고 제대로 된 호텔에서 출시 행사.
+18. CHARLES: Ten thousand syringes. Twelve reps. National coverage by Christmas. And a launch event at a proper hotel, with the right people in the room, because in Britain, first impressions last for years. If you start small, the market will treat you as small.
+    찰스: 주사기 1만 개. 영업 사원 12명. 크리스마스까지 전국 커버. 그리고 제대로 된 호텔에서, 적절한 사람들을 모아 출시 행사를 해야죠. 영국에선 첫인상이 몇 년을 가거든요. 작게 시작하면 시장도 당신들을 작게 대해요.
 
 19. SOFIA: Twelve reps in year one? What budget do you imagine?
     소피아: 1년 차에 영업 사원 12명? 예산은 얼마로 생각해요?
@@ -106,8 +106,8 @@
 29. CHARLES: Splendid. I look forward to it. Most interesting conversation.
     찰스: 훌륭해요. 기대하겠습니다. 아주 흥미로운 대화였어요.
 
-30. ELENA: Did everyone hear that? "I hear what you say." He disagrees. And he's finished discussing it.
-    엘레나: 다들 들었어요? "말씀하시는 바는 들었습니다." 반대한다는 거예요. 그리고 더 논의할 생각이 없고요.
+30. ELENA: Did everyone hear that? "I hear what you say." He disagrees. And he's finished discussing it. That's exactly what Oliver said to me in London, word for word. Last month, I would have taken it as agreement.
+    엘레나: 다들 들었어요? "말씀하시는 바는 들었습니다." 반대한다는 거예요. 그리고 더 논의할 생각이 없고요. 런던에서 올리버가 나한테 한 말이랑 토씨 하나 안 틀리고 똑같아요. 지난달이었으면 동의로 받아들였을 거예요.
 
 31. NOAH: We decoded it. In real time. James would be proud.
     노아: 해독했어요. 실시간으로. 제임스가 자랑스러워할 거예요.
@@ -139,8 +139,8 @@
 40. ELENA: And if a top clinic asks you to sell to their beautician?
     엘레나: 그럼 최고 클리닉이 소속 미용사에게 팔라고 하면요?
 
-41. HANNAH: I'd offer to train the beautician. As a patient coordinator. Not an injector. Then say no to the syringes.
-    해나: 그 미용사를 교육해 주겠다고 할 거예요. 환자 코디네이터로. 시술자가 아니라. 그리고 주사기는 거절하고요.
+41. HANNAH: I'd offer to train the beautician. As a patient coordinator. Not an injector. She can book appointments, explain aftercare and calm nervous patients, so the clinic still feels supported. Then I'd say no to the syringes, politely but clearly.
+    해나: 그 미용사를 교육해 주겠다고 할 거예요. 환자 코디네이터로. 시술자가 아니라. 예약을 잡고, 시술 후 관리를 설명하고, 긴장한 환자를 안심시킬 수 있죠. 그러면 클리닉도 지원받는다고 느낄 거고요. 그다음 주사기는 정중하지만 분명하게 거절할 거예요.
 
 42. SOFIA: That's a great answer.
     소피아: 훌륭한 답이네요.
@@ -148,8 +148,8 @@
 43. NOAH: Question five. What would make you resign?
     노아: 다섯 번째 질문. 무엇 때문에 사직하겠어요?
 
-44. HANNAH: Being asked to lie to a nurse. I was a nurse. I know when they're being lied to.
-    해나: 간호사에게 거짓말하라는 요구를 받으면요. 저도 간호사였어요. 거짓말을 들을 때 알아요.
+44. HANNAH: Being asked to lie to a nurse. I was a nurse for eight years, and I know when they're being lied to. Once you lose a nurse's trust, you never get it back, and neither does the company that sent you.
+    해나: 간호사에게 거짓말하라는 요구를 받으면요. 저도 8년간 간호사였고, 거짓말을 들을 때 알아요. 간호사의 신뢰는 한번 잃으면 절대 되찾지 못해요. 당신을 보낸 회사도 마찬가지고요.
 
 45. ELENA: Hannah, I have no more questions. I have only good feelings.
     엘레나: 해나, 더 질문 없어요. 좋은 느낌만 있어요.
@@ -204,14 +204,14 @@
 61. ELENA: "First choice." And she went to Tom.
     엘레나: "1순위." 그런데 톰에게 갔네요.
 
-62. NOAH: Tom moved faster. That's on me. I scheduled a week of interviews. He made one call.
-    노아: 톰이 더 빨랐어요. 내 탓이에요. 난 일주일짜리 면접을 잡았고. 그는 전화 한 통을 했죠.
+62. NOAH: Tom moved faster. That's on me. I scheduled a week of interviews because I wanted the process to be fair and complete. He made one call. In hiring, the best candidates don't wait, and I acted like we had all the time in the world.
+    노아: 톰이 더 빨랐어요. 내 탓이에요. 공정하고 빈틈없는 절차를 원해서 일주일짜리 면접을 잡았어요. 그는 전화 한 통을 했죠. 채용에서 최고의 후보는 기다려 주지 않는데, 난 시간이 무한한 것처럼 굴었어요.
 
 63. SOFIA: So. Zero candidates. Start the search again? That's three months.
     소피아: 그러니까. 후보 0명. 다시 찾기 시작해요? 석 달이에요.
 
-64. DIANE: And CE arrives in seven weeks. Without a UK manager, you launch with nobody.
-    다이앤: 그리고 CE는 7주 후에 나와요. 영국 관리자 없으면 아무도 없이 출시하는 거예요.
+64. DIANE: And CE arrives in seven weeks. Without a UK manager, you launch with nobody. No one to visit clinics, no one to train nurses, and no one in the country who can sign for anything. You'd be launching a product into an empty room.
+    다이앤: 그리고 CE는 7주 후에 나와요. 영국 관리자 없으면 아무도 없이 출시하는 거예요. 클리닉을 방문할 사람도, 간호사를 교육할 사람도, 현지에서 뭔가에 서명할 사람도 없어요. 빈방에 제품을 출시하는 셈이죠.
 
 65. ELENA: Noah. You know who you should call.
     엘레나: 노아. 누구한테 전화해야 하는지 알잖아요.
@@ -258,8 +258,8 @@
 79. NOAH: What does success look like in year one?
     노아: 1년 차 성공은 어떤 모습이에요?
 
-80. JAMES: A hundred fifty certified injectors. Three thousand syringes. And zero syringes in the wrong hands. Zero. Not "low."
-    제임스: 인증 시술자 150명. 주사기 3,000개. 그리고 잘못된 손에 들어간 주사기 0개. 0. "적게"가 아니라.
+80. JAMES: A hundred fifty certified injectors. Three thousand syringes. And zero syringes in the wrong hands. Zero. Not "low." If we hit the first two numbers and miss the third, then year one was a failure, however good the sales look.
+    제임스: 인증 시술자 150명. 주사기 3,000개. 그리고 잘못된 손에 들어간 주사기 0개. 0. "적게"가 아니라. 앞의 두 숫자를 달성해도 세 번째를 놓치면, 매출이 아무리 좋아 보여도 1년 차는 실패예요.
 
 ### 절정·전환 — 오전 11시, 조건
 
@@ -284,8 +284,8 @@
 87. NOAH: Done. I'll take it to the board in May. Reese chairs the safety committee. She'll second it.
     노아: 됐어요. 5월 이사회에 올릴게요. 리스가 안전위원회 의장이에요. 재청할 거예요.
 
-88. JAMES: Two. I keep one day a week at Sarah's clinic. Clinical work. Or I forget what nurses need.
-    제임스: 둘. 주 1일은 사라 클리닉에서 일해요. 임상 업무. 안 그러면 간호사에게 뭐가 필요한지 잊어요.
+88. JAMES: Two. I keep one day a week at Sarah's clinic. Clinical work. Real patients, real nurses, real problems. If I stop injecting and only sit in meetings, I'll forget what nurses need within a year, and then I'm just another sales manager.
+    제임스: 둘. 주 1일은 사라 클리닉에서 일해요. 임상 업무. 진짜 환자, 진짜 간호사, 진짜 문제. 시술을 그만두고 회의실에만 앉아 있으면, 1년 안에 간호사에게 뭐가 필요한지 잊을 거고, 그럼 난 그저 그런 영업 관리자가 되는 거예요.
 
 89. SOFIA: One day a week. Which day?
     소피아: 주 1일. 무슨 요일이요?
@@ -296,8 +296,8 @@
 91. SOFIA: Fridays it is. But the parliament work? Isn't that a conflict?
     소피아: 금요일로 하죠. 그런데 의회 일은요? 이해충돌 아니에요?
 
-92. DIANE: Diane here. Legal. Not if it's declared in writing. That's the right way. I'll draft it.
-    다이앤: 다이앤이에요. 법무. 서면으로 신고하면 아니에요. 그게 올바른 방법이에요. 초안은 내가 쓸게요.
+92. DIANE: Diane here. Legal. Not if it's declared in writing. A conflict you hide is a scandal. A conflict you declare is just a fact, and everyone can judge it openly. That's the right way. I'll draft it.
+    다이앤: 다이앤이에요. 법무. 서면으로 신고하면 아니에요. 숨긴 이해충돌은 스캔들이에요. 신고한 이해충돌은 그냥 사실이고, 모두가 공개적으로 판단할 수 있죠. 그게 올바른 방법이에요. 초안은 내가 쓸게요.
 
 93. NOAH: And four?
     노아: 그럼 넷은요?
@@ -320,8 +320,8 @@
 99. SOFIA: Then compensation. Base salary one hundred thirty-five thousand pounds. Bonus twenty percent. Stock options, zero point one five percent.
     소피아: 그럼 보상. 기본급 13만 5천 파운드. 보너스 20%. 스톡옵션 0.15%.
 
-100. JAMES: Generous. One change. Turn half the bonus into a training budget. For nurses who can't afford courses.
-     제임스: 후하네요. 하나만 바꿔요. 보너스 절반을 교육 예산으로. 교육비를 감당 못 하는 간호사들을 위해.
+100. JAMES: Generous. One change. Turn half the bonus into a training budget. For nurses who can't afford courses. Good training is expensive, and the nurses who need it most are often the ones who can't pay for it themselves.
+     제임스: 후하네요. 하나만 바꿔요. 보너스 절반을 교육 예산으로. 교육비를 감당 못 하는 간호사들을 위해. 좋은 교육은 비싸고, 그게 가장 필요한 간호사들이 오히려 스스로 낼 형편이 안 되는 경우가 많아요.
 
 101. SOFIA: You're negotiating your salary down?
      소피아: 연봉을 깎는 협상을 하는 거예요?
@@ -340,8 +340,8 @@
 
 ### 마무리 — 오전 11시 30분
 
-106. JAMES: …Yes. That's a yes. Not a British one. A Nigerian one. My mother would approve.
-     제임스: …네. 예스예요. 영국식 말고. 나이지리아식. 어머니가 인정하실 거예요.
+106. JAMES: …Yes. That's a yes. Not a British one. A Nigerian one. No "reflecting," no "most interesting." I left my last job because of a three-day course. I'm joining this one because of a clause. My mother would approve.
+     제임스: …네. 예스예요. 영국식 말고. 나이지리아식. "생각해 보겠다"도, "아주 흥미롭다"도 없어요. 지난 직장은 3일 과정 때문에 떠났어요. 이번엔 조항 하나 때문에 합류해요. 어머니가 인정하실 거예요.
 
 107. ELENA: "Only advice." Twice. I said so.
      엘레나: "조언만." 두 번. 내가 말했잖아요.
@@ -379,8 +379,8 @@
 118. ELENA: British for "no."
      엘레나: 영국식 "노"네요.
 
-119. DIANE: I'll call the accountants. Today. We need an entity. VAT. Banking. Payroll. Everything.
-     다이앤: 회계사들한테 전화할게요. 오늘. 법인이 필요해요. 부가세. 은행. 급여. 전부.
+119. DIANE: I'll call the accountants. Today. We need an entity. VAT. Banking. Payroll. Everything. Without a company, James can't legally be employed, we can't open a bank account, and we can't invoice a single clinic.
+     다이앤: 회계사들한테 전화할게요. 오늘. 법인이 필요해요. 부가세. 은행. 급여. 전부. 회사가 없으면 제임스를 합법적으로 고용할 수도, 은행 계좌를 열 수도, 클리닉 한 곳에 청구서를 보낼 수도 없어요.
 
 120. NOAH: Seven weeks to CE. Then let's build a company. Again.
      노아: CE까지 7주. 그럼 회사를 세웁시다. 다시.
@@ -421,3 +421,18 @@
 > **Offer — James Okafor, Country Manager UK**
 > Base £135,000 · Bonus 20% (half converted to a nurse training budget) · Options 0.15% · Fridays at Sarah's clinic · Parliamentary working group + written COI declaration · **Board resolution: medical professionals only** · *Clause: any sale to a non-medic → right to resign (same clause in CEO contract).*
 > ⚠️ **Open issue:** no UK entity yet → accountants today (→ Entity).
+
+### ④ 긴 발화 분석
+
+> **88턴 JAMES:** "Two. I keep one day a week at Sarah's clinic. Clinical work. Real patients, real nurses, real problems. If I stop injecting and only sit in meetings, I'll forget what nurses need within a year, and then I'm just another sales manager."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 조건 제시(번호) | Two. I keep one day a week at Sarah's clinic. Clinical work. | 번호를 붙여 조건을 한 문장으로 분명히 제시 |
+| ② 구체화(삼중 반복) | Real patients, real nurses, real problems. | 같은 형용사를 세 번 반복해 조건의 의미를 강조 |
+| ③ 이유(if 가정) | If I stop injecting and only sit in meetings, I'll forget what nurses need within a year, | 조건이 없을 때 생길 결과를 if로 보여 줌 |
+| ④ 결론(회사에 주는 손해) | and then I'm just another sales manager. | 조건이 내 이익이 아니라 회사의 이익임을 강조 |
+
+**활용 패턴:** 번호 + 조건 → 짧은 반복으로 구체화 → If not, 결과 → "then I'm just another…"
+**연결 표현:** I keep…(~은 유지한다) · If I stop…(~을 그만두면) · within a year(1년 안에) · just another…(그저 그런 ~)
+**연습:** 이직 제안을 받고 "재택 주 2일"을 조건으로 내거는 상황에서, 같은 구조로 40단어 안팎으로 말해 보기.

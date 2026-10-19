@@ -56,8 +56,8 @@
 13. CARTWRIGHT: Mr. Okafor, in your view, who should be allowed to inject dermal filler in this country?
     카트라이트: 오카포 씨, 귀하의 견해로는 이 나라에서 누가 피부 필러를 주사할 수 있어야 합니까?
 
-14. JAMES: Regulated healthcare professionals. Who can prescribe the enzyme that reverses a complication. Nobody else.
-    제임스: 규제받는 의료 전문가입니다. 합병증을 되돌리는 효소를 처방할 수 있는 사람. 그 외에는 아무도 안 됩니다.
+14. JAMES: Regulated healthcare professionals, Chair. Specifically, those who can prescribe the enzyme that reverses a complication, because when a vessel is blocked, the person holding the needle must also be able to fix it, immediately and legally. Nobody else.
+    제임스: 규제받는 의료 전문가입니다, 위원장님. 구체적으로는 합병증을 되돌리는 효소를 처방할 수 있는 사람입니다. 혈관이 막혔을 때, 바늘을 쥔 사람이 즉시, 그리고 합법적으로 바로잡을 수 있어야 하기 때문입니다. 그 외에는 아무도 안 됩니다.
 
 15. SOFIA: He said "nobody else." On television. In British. That's practically shouting.
     소피아: "그 외에는 아무도"라고 했어요. 텔레비전에서. 영국식으로. 거의 소리 지른 거예요.
@@ -67,14 +67,14 @@
 16. CARTWRIGHT: Mr. Whitmore. Halvern sells to non-medical practitioners. Your view?
     카트라이트: 휘트모어 씨. 할번은 비의료인 시술자에게 판매합니다. 견해는?
 
-17. CHARLES: Level Seven practitioners are safe and well trained. Restricting them would hurt small businesses. And raise prices for patients.
-    찰스: 레벨 7 시술자들은 안전하고 잘 훈련돼 있습니다. 제한하면 소상공인이 피해를 보고. 환자 가격이 오릅니다.
+17. CHARLES: Level Seven practitioners are safe and well trained, Chair. Many have built successful businesses over many years. Restricting them would hurt small businesses across the country, reduce choice, and, I would suggest, raise prices for the very patients this committee wishes to protect.
+    찰스: 레벨 7 시술자들은 안전하고 잘 훈련돼 있습니다, 위원장님. 많은 이들이 오랜 세월 성공적인 사업을 일궈 왔습니다. 그들을 제한하면 전국의 소상공인이 피해를 보고, 선택지가 줄고, 감히 말씀드리자면 이 위원회가 보호하려는 바로 그 환자들의 가격이 오를 것입니다.
 
 18. TOBIN: Mr. Okafor. Isn't this simply a company lobbying for a rule that helps it sell?
     토빈: 오카포 씨. 이건 그저 판매에 도움이 되는 규칙을 위해 로비하는 회사 아닙니까?
 
-19. JAMES: Yes, it helps us. That's why I declared it. I'd ask the committee to judge the data. Not me.
-    제임스: 네, 우리에게 도움이 됩니다. 그래서 신고했습니다. 위원회께서 저 말고 데이터를 판단해 주시길 요청드립니다.
+19. JAMES: Yes, it helps us, and I won't pretend otherwise. That's precisely why I declared it at the start. A rule can be good for a company and still be right for patients, so I'd ask the committee to judge the data. Not me.
+    제임스: 네, 우리에게 도움이 됩니다. 아니라고 하지 않겠습니다. 바로 그래서 처음에 신고했습니다. 어떤 규칙은 회사에 이로우면서도 환자에게 옳을 수 있습니다. 그러니 위원회께서 저 말고 데이터를 판단해 주시길 요청드립니다.
 
 20. NOAH: That's perfect. He agreed with the attack. Then turned it around.
     노아: 완벽하네요. 공격에 동의했어요. 그러고 뒤집었어요.
@@ -100,8 +100,8 @@
 27. SOFIA: "It's a choice." That's going to be a headline.
     소피아: "선택이다." 그거 헤드라인 되겠네요.
 
-28. CHARLES: With respect, Chair, one company's six months is hardly a national evidence base.
-    찰스: 실례지만, 위원장님, 한 회사의 6개월은 전국적 근거라고 하기 어렵습니다.
+28. CHARLES: With respect, Chair, one company's six months is hardly a national evidence base. It's a small sample, from a firm with an obvious commercial interest, and I would be cautious about building national policy on it.
+    찰스: 실례지만, 위원장님, 한 회사의 6개월은 전국적 근거라고 하기 어렵습니다. 작은 표본이고, 상업적 이해관계가 뻔한 회사에서 나온 것입니다. 그것을 토대로 국가 정책을 세우는 것은 신중해야 한다고 봅니다.
 
 29. JAMES: Mr. Whitmore is right. It's small. So I'd add NHS emergency data. It's in my written submission.
     제임스: 휘트모어 씨 말이 맞습니다. 작죠. 그래서 NHS 응급실 자료를 덧붙이겠습니다. 서면 제출 자료에 있습니다.
@@ -109,8 +109,8 @@
 30. CARTWRIGHT: Summarise it for us, please.
     카트라이트: 요약해 주시죠.
 
-31. JAMES: Filler complications in A and E rose sharply in five years. Most involved non-medical injectors.
-    제임스: 응급실 필러 합병증이 5년 사이 급증했습니다. 대부분 비의료인 시술자가 관련됐습니다.
+31. JAMES: Filler complications seen in A and E rose sharply over the last five years. In most of the cases where the injector could be identified, it was a non-medical practitioner, often working alone, with no access to the enzyme.
+    제임스: 응급실에서 본 필러 합병증이 지난 5년 사이 급증했습니다. 시술자를 확인할 수 있었던 사례 대부분에서, 시술자는 비의료인이었고, 혼자 일하는 경우가 많았으며, 효소를 구할 수 없었습니다.
 
 32. NOAH: He did his homework. Ten years of it.
     노아: 숙제를 했네요. 10년 치를.
@@ -145,8 +145,8 @@
 42. TOBIN: Chair, I came in sceptical. I'm leaving… somewhat less sceptical.
     토빈: 위원장님, 회의적으로 들어왔습니다. 나갈 땐… 조금 덜 회의적이네요.
 
-43. CARTWRIGHT: The committee is grateful for your evidence. Mr. Okafor, we may ask you back. With your audit method.
-    카트라이트: 위원회는 두 분의 증언에 감사드립니다. 오카포 씨, 다시 모실 수도 있습니다. 감사 방법을 가지고.
+43. CARTWRIGHT: The committee is grateful to both witnesses for their evidence this morning. Mr. Okafor, we may well ask you back, with your audit method in more detail, as the committee considers its recommendations.
+    카트라이트: 위원회는 오늘 오전 두 증인의 증언에 감사드립니다. 오카포 씨, 위원회가 권고안을 검토하는 과정에서 감사 방법을 더 자세히 가지고 다시 모실 수도 있습니다.
 
 44. JAMES: I'd be glad to, Chair.
     제임스: 기꺼이 오겠습니다, 위원장님.
@@ -195,8 +195,8 @@
 58. ANNIKA: Good. Clear is efficient. One question. Why should we trust an American company with our patients?
     아니카: 좋아요. 분명한 건 효율적이죠. 질문 하나. 왜 우리가 우리 환자를 미국 회사에 맡겨야 하죠?
 
-59. NOAH: Because we lost a distributor rather than sell to beauticians. And we'd do it again.
-    노아: 미용사에게 파느니 유통사를 잃는 쪽을 택했으니까요. 그리고 또 그렇게 할 겁니다.
+59. NOAH: Because we lost a distributor rather than sell to beauticians. It was a big deal, it cost us our first route into Britain, and it hurt. But it told everyone what we stand for, and we'd do it again tomorrow.
+    노아: 미용사에게 파느니 유통사를 잃는 쪽을 택했으니까요. 큰 거래였고, 영국으로 가는 첫 통로를 잃었고, 아팠습니다. 하지만 그 덕에 모두가 우리가 무엇을 지키는지 알게 됐고, 내일이라도 또 그렇게 할 겁니다.
 
 60. ANNIKA: Klaus told me. The British one. With the nine teas.
     아니카: 클라우스가 말해 줬어요. 영국 회사. 차 아홉 종류.
@@ -246,8 +246,8 @@
 75. NOAH: Six hundred forty? That's four and a half times.
     노아: 640? 네 배 반이네요.
 
-76. SOFIA: Founding Nurse packs, a hundred forty nurses. Doctors ordering, twenty-three. Fraser's case series did that.
-    소피아: 창립 간호사 팩, 간호사 140명. 주문하는 의사, 23명. 프레이저의 사례 시리즈 덕분이에요.
+76. SOFIA: The Founding Nurse packs went to a hundred forty nurses, and twenty-three doctors are now ordering. That second number is the one I'm proudest of, because the doctors were waiting for British evidence, and Fraser's case series gave it to them.
+    소피아: 창립 간호사 팩은 간호사 140명에게 나갔고, 이제 의사 23명이 주문해요. 제가 가장 자랑스러운 건 두 번째 숫자예요. 의사들은 영국 증거를 기다리고 있었는데, 프레이저의 사례 시리즈가 그걸 줬거든요.
 
 77. KLAUS: And patients ask for it? By name?
     클라우스: 그럼 환자들이 찾아요? 이름으로?
@@ -269,8 +269,8 @@
 82. NOAH: Claire checks. You check. I don't have a choice.
     노아: 클레어가 확인하고. 당신이 확인하고. 난 선택권이 없어요.
 
-83. ELENA: And the cardiologist's results came back. Normal. Stress-related. Keep doing what you're doing.
-    엘레나: 그리고 심장내과 결과 나왔어요. 정상. 스트레스성. 지금처럼 계속해요.
+83. ELENA: And the cardiologist's results came back. Your heart is normal. The racing was stress-related, which is good news, but it's also a warning. The rules are working, so don't relax them. Keep doing what you're doing.
+    엘레나: 그리고 심장내과 결과 나왔어요. 심장은 정상이에요. 두근거림은 스트레스성이었고요. 좋은 소식이지만 경고이기도 해요. 규칙이 효과가 있으니 느슨하게 하지 마요. 지금처럼 계속해요.
 
 84. NOAH: Doctor's orders?
     노아: 의사 지시예요?
@@ -296,8 +296,8 @@
 91. NOAH: We were going to tell you tonight. Over dinner. Properly.
     노아: 오늘 밤에 말하려고 했어. 저녁 먹으면서. 제대로.
 
-92. LILY: Years ago, in the ER, I said, "Don't tell Mom." This time, tell Mom. Today.
-    릴리: 몇 년 전 응급실에서 "엄마한테 말하지 마"라고 했지. 이번엔 엄마한테 말해. 오늘.
+92. LILY: Years ago, in the ER, I made you promise. I said, 'Don't tell Mom,' because I was scared and embarrassed. This is the opposite. This is good news, the best news. So this time, tell Mom. Today.
+    릴리: 몇 년 전 응급실에서 오빠한테 약속하게 했지. 무섭고 창피해서 '엄마한테 말하지 마'라고 했어. 이건 정반대야. 좋은 소식이잖아, 최고의 소식. 그러니까 이번엔 엄마한테 말해. 오늘.
 
 93. NOAH: Today. I promise.
     노아: 오늘. 약속해.
@@ -326,8 +326,8 @@
 101. NOAH: Thank you. He'll be pleased. How can I help you, Ms. Han?
      노아: 감사합니다. 기뻐할 거예요. 무엇을 도와드릴까요, 한 상무님?
 
-102. HAN: I'll be direct. Asia needs a safety standard. You've built one. I'd like to discuss a partnership. In Seoul.
-     한서연: 단도직입적으로 말씀드리겠습니다. 아시아엔 안전 기준이 필요합니다. 당신들이 하나 만들었고요. 서울에서 협력을 논의하고 싶습니다.
+102. HAN: I'll be direct, Mr. Bennett. Asia needs a safety standard. The market is growing very fast, and the rules are not keeping up. You've built one, and you've proved it works in London. I'd like to discuss a partnership. In Seoul.
+     한서연: 단도직입적으로 말씀드리겠습니다, 베넷 씨. 아시아엔 안전 기준이 필요합니다. 시장은 아주 빠르게 크는데, 규칙이 따라가지 못하고 있습니다. 당신들이 그 기준을 만들었고, 런던에서 통한다는 것도 증명했습니다. 서울에서 협력을 논의하고 싶습니다.
 
 103. NOAH: A partnership. What kind?
      노아: 협력. 어떤 종류요?
@@ -358,8 +358,8 @@
 111. NOAH: A bid? For us?
      노아: 인수? 우리를?
 
-112. RICHARD: Nobody has called me. Yet. But the board will ask questions on the tenth. Be ready.
-     리처드: 아무도 나한테 연락 안 했어요. 아직은. 하지만 10일 이사회에서 질문이 나올 거예요. 준비해요.
+112. RICHARD: Nobody has called me. Yet. It may be nothing more than a rumour, but rumours like this move people. The board will ask questions on the tenth, so be ready with a clear position, not just a reaction.
+     리처드: 아무도 나한테 연락 안 했어요. 아직은. 그냥 소문일 수도 있지만, 이런 소문은 사람들을 움직여요. 10일 이사회에서 질문이 나올 거예요. 그러니 반응만 말고, 분명한 입장을 준비해 둬요.
 
 113. NOAH: Understood. Thanks, Richard.
      노아: 알겠어요. 고마워요, 리처드.
@@ -419,3 +419,18 @@
 | **People** | Noah: 7 weeks of operating rules · cardiology normal · **engaged to Claire** | 🟢 |
 
 > *"Tom doesn't do coincidence. He does timing."* → **7부 Global**
+
+### ④ 긴 발화 분석
+
+> **19턴 JAMES:** "Yes, it helps us, and I won't pretend otherwise. That's precisely why I declared it at the start. A rule can be good for a company and still be right for patients, so I'd ask the committee to judge the data. Not me."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 인정(양보) | Yes, it helps us, and I won't pretend otherwise. | 공격의 사실 부분을 먼저 인정해 방어적 인상을 없앰 |
+| ② 투명성 근거 | That's precisely why I declared it at the start. | 이미 공개했다는 사실로 신뢰 확보 |
+| ③ 논리 재구성 | A rule can be good for a company and still be right for patients, | "A이면서도 B일 수 있다"로 이해관계와 옳음을 분리 |
+| ④ 요청(초점 전환) | so I'd ask the committee to judge the data. Not me. | 판단 기준을 사람에서 데이터로 옮김 |
+
+**활용 패턴:** Yes, … (인정) → That's why I… (투명성) → A can be… and still be… → so I'd ask you to…
+**연결 표현:** I won't pretend otherwise(아니라고 하지 않겠다) · precisely why(바로 그래서) · and still be(그러면서도 여전히) · I'd ask… to(~해 주시길 요청드린다)
+**연습:** "당신 팀에 유리한 제안 아니냐"는 질문을 받은 상황에서, 같은 구조로 40단어 안팎의 격식 있는 답변을 해 보기.

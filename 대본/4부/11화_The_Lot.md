@@ -35,8 +35,8 @@
 06. PRIYA: What failed exactly, Leo?
     프리야: 정확히 뭐가 실패했어, 레오?
 
-07. LEO: Container closure integrity. One syringe out of thirty. The seal leaked. Dye got in.
-    레오: 용기 밀봉 완전성. 30개 중 주사기 하나. 밀봉이 샜어요. 염료가 들어갔어요.
+07. LEO: Container closure integrity. One syringe out of thirty failed. In the test, the syringes sit in dye, and a good seal keeps the dye out. This seal leaked. Dye got in.
+    레오: 용기 밀봉 완전성이요. 30개 중 주사기 하나가 실패했어요. 시험에서는 주사기를 염료에 담가 두는데, 밀봉이 정상이면 염료가 안 들어가요. 이 밀봉은 샜어요. 염료가 들어갔어요.
 
 08. ELENA: Dye got in. So bacteria could get in too.
     엘레나: 염료가 들어갔다. 그럼 세균도 들어갈 수 있다는 거네요.
@@ -56,8 +56,8 @@
 13. PRIYA: One out of thirty. Could it be a test error?
     프리야: 30개 중 하나. 시험 오류일 수도 있어?
 
-14. LEO: Maybe. That's what Meridian will say. I don't think it is.
-    레오: 어쩌면요. 메리디안은 그렇게 말할 거예요. 전 아니라고 생각해요.
+14. LEO: Maybe. That's what Meridian will say, and they'll want to retest. But I don't think it is, because this result matches something I've been seeing in my data.
+    레오: 어쩌면요. 메리디안은 그렇게 말할 거고, 재시험하자고 하겠죠. 하지만 전 아니라고 생각해요. 이 결과가 제 데이터에서 계속 보이던 것과 맞아떨어지거든요.
 
 15. NOAH: Okay. Facts first. Opinions later. Grace, can you take notes?
     노아: 좋아요. 사실 먼저. 의견은 나중에. 그레이스, 기록해 줄래요?
@@ -115,8 +115,8 @@
 32. NOAH: How many injected already? Into patients?
     노아: 이미 몇 개나 주입됐어요? 환자에게?
 
-33. GRACE: We don't know exactly. Based on reorders, maybe half of the field stock.
-    그레이스: 정확히는 몰라요. 재주문으로 보면 현장 재고의 절반쯤.
+33. GRACE: We don't know exactly, because clinics don't tell us when they use each syringe. But based on reorders, I'd guess about half of the field stock has already been used.
+    그레이스: 정확히는 몰라요. 병원들이 주사기를 언제 쓰는지 우리한테 알려 주지 않으니까요. 하지만 재주문으로 보면, 현장 재고의 절반쯤은 이미 쓰였을 거예요.
 
 34. ELENA: Any infection reports? Any adverse events? From those lots?
     엘레나: 감염 보고는요? 이상사례는? 그 로트들에서?
@@ -127,8 +127,8 @@
 36. PRIYA: Zero is good news.
     프리야: 0건은 좋은 소식이네.
 
-37. ELENA: Zero is good news today. Infections can take days to show.
-    엘레나: 0건은 오늘의 좋은 소식이에요. 감염은 나타나는 데 며칠 걸릴 수 있어요.
+37. ELENA: Zero is good news today. But infections can take days to show, sometimes longer, so zero tonight doesn't mean zero next week. I'd rather we didn't relax because of that number.
+    엘레나: 0건은 오늘의 좋은 소식이에요. 하지만 감염은 나타나는 데 며칠, 때로는 더 걸려요. 그러니까 오늘 밤 0건이 다음 주에도 0건이라는 뜻은 아니에요. 그 숫자 때문에 마음을 놓지 않았으면 해요.
 
 38. NOAH: What about lots one to twelve? Different stopper batch?
     노아: 1번에서 12번 로트는요? 다른 마개 배치예요?
@@ -160,8 +160,8 @@
 47. NOAH: Speaker. Everyone listens. Nobody argues. Yet.
     노아: 스피커로. 다들 들어요. 아무도 논쟁하지 말고. 아직은.
 
-48. KEVIN: Noah, Marcus. Sorry for the hour. Let's not overreact. We'll retest tomorrow. Thirty new samples.
-    케빈: 노아, 마커스. 이 시간에 미안해요. 과잉 반응하지 맙시다. 내일 재시험할게요. 새 샘플 30개.
+48. KEVIN: Noah, Marcus. Sorry for the hour. Let's not overreact, okay? It's one sample out of thirty, and test errors happen. We'll retest tomorrow with thirty new samples and get a clean answer.
+    케빈: 노아, 마커스. 이 시간에 미안해요. 과잉 반응하지 맙시다, 네? 30개 중 샘플 하나고, 시험 오류는 생기기 마련이에요. 내일 새 샘플 30개로 재시험해서 깔끔한 답을 얻을게요.
 
 49. MARCUS: And if they pass?
     마커스: 통과하면요?
@@ -177,8 +177,8 @@
 52. KEVIN: Leo, retests are normal. Investigations include retests.
     케빈: 레오, 재시험은 정상이에요. 조사에는 재시험이 포함돼요.
 
-53. LEO: After you find a lab error. Did you find one? And the stoppers are harder.
-    레오: 실험실 오류를 찾은 다음에요. 찾았어요? 그리고 마개는 더 단단해요.
+53. LEO: Retests come after you find a lab error, not before. We already know the stoppers are harder, so a new pass wouldn't explain this failure away. So, did you find an error?
+    레오: 재시험은 실험실 오류를 찾은 다음에 하는 거예요. 그 전이 아니라. 마개가 더 단단하다는 건 이미 알고 있으니, 새로 통과한다고 이 실패가 설명되지는 않아요. 그래서, 오류를 찾았어요?
 
 54. KEVIN: …Not yet.
     케빈: …아직은요.
@@ -222,8 +222,8 @@
 67. DEREK: Zero infections. Release tests passed. One sample out of thirty. Is this really a recall?
     데릭: 감염 0건. 출하 시험 통과. 30개 중 샘플 하나. 이게 정말 회수감이에요?
 
-68. ELENA: If one patient gets infected from a leaking seal, we knew. And waited.
-    엘레나: 새는 밀봉 때문에 환자 한 명이라도 감염되면, 우린 알고 있었고. 기다린 거예요.
+68. ELENA: Think about it the other way. If one patient gets infected from a leaking seal, the story isn't bad luck. The story is that we knew, and we waited. I can't defend that.
+    엘레나: 반대로 생각해 봐요. 새는 밀봉 때문에 환자 한 명이라도 감염되면, 그건 운이 나빴던 이야기가 아니에요. 우리가 알고 있었는데 기다렸다는 이야기예요. 난 그걸 변호할 수 없어요.
 
 69. PRIYA: The probability is low. Very low. But not zero.
     프리야: 확률은 낮아. 아주 낮아. 하지만 0은 아니야.
@@ -252,8 +252,8 @@
 77. DEREK: Zoe! You're supposed to protect the brand!
     데릭: 조이! 당신은 브랜드를 지켜야 하잖아요!
 
-78. ZOE: I am protecting it, Derek. The brand is trust. Not a clean news week.
-    조이: 지키고 있어요, 데릭. 브랜드는 신뢰예요. 깨끗한 뉴스 한 주가 아니라.
+78. ZOE: I am protecting it, Derek. Our brand is trust, not a clean news week. If people find out we waited, no campaign I write will ever fix that. A fast recall proves our message.
+    조이: 지키고 있어요, 데릭. 우리 브랜드는 신뢰예요. 깨끗한 뉴스 한 주가 아니라. 우리가 기다렸다는 걸 사람들이 알게 되면, 제가 어떤 캠페인을 써도 그건 절대 못 고쳐요. 빠른 회수가 우리 메시지를 증명하는 거예요.
 
 79. DIANE: I'm on. Sorry. My husband thinks I'm having an affair with this phone.
     다이앤: 연결됐어요. 미안해요. 남편은 내가 이 전화기랑 바람피우는 줄 알아요.
@@ -272,8 +272,8 @@
 83. DEREK: So waiting two weeks is…
     데릭: 그럼 2주 기다리는 건…
 
-84. DIANE: Risky. Legally and ethically. If something happens, "we were retesting" sounds terrible.
-    다이앤: 위험해요. 법적으로도 윤리적으로도. 무슨 일이 생기면 "재시험 중이었다"는 끔찍하게 들려요.
+84. DIANE: Risky, legally and ethically. If something happens to a patient while we wait, "we were retesting" will sound terrible, to FDA, to a jury, and to every reporter who calls.
+    다이앤: 위험해요. 법적으로도 윤리적으로도. 우리가 기다리는 동안 환자에게 무슨 일이 생기면, "재시험 중이었다"는 끔찍하게 들릴 거예요. FDA에게도, 배심원에게도, 전화하는 모든 기자에게도.
 
 85. ELENA: Noah. You know I have a safety veto. In writing. Since the beginning.
     엘레나: 노아. 내가 안전 거부권이 있는 거 알죠. 서면으로. 처음부터.
@@ -311,8 +311,8 @@
 96. ELAINE: Then I'll ask my question. What's the one thing, Noah?
     일레인: 그럼 내 질문을 할게요. 그 한 가지가 뭐예요, 노아?
 
-97. NOAH: Trust. If we lose it, nothing else matters. Not sales. Not the brand.
-    노아: 신뢰요. 그걸 잃으면 다른 건 아무 의미 없어요. 매출도. 브랜드도.
+97. NOAH: Here's the thing. It's trust. Patients trust the doctors, and the doctors trust us. If we lose that, nothing else matters. Not sales. Not the brand. Not even this company.
+    노아: 중요한 건 이거예요. 신뢰요. 환자는 의사를 믿고, 의사는 우리를 믿어요. 그걸 잃으면 다른 건 아무 의미 없어요. 매출도. 브랜드도. 이 회사조차도요.
 
 98. ELAINE: Then you already know your answer. Call me at seven. With the plan.
     일레인: 그럼 답은 이미 알고 있네요. 7시에 전화해요. 계획 가지고.
@@ -335,8 +335,8 @@
 104. LEO: Noah… thank you. I was afraid you'd say "retest."
      레오: 노아… 고마워요. "재시험"이라고 할까 봐 무서웠어요.
 
-105. NOAH: Leo, your chart started this. Rule four. You found the problem. You didn't hide it.
-     노아: 레오, 당신 차트가 이걸 시작했어요. 규칙 4. 문제를 찾았고. 숨기지 않았죠.
+105. NOAH: Leo, your chart started this. Rule four. You found the problem, and you didn't hide it, even when it was inconvenient for everyone in this room. That's exactly the kind of person we need.
+     노아: 레오, 당신 차트가 이걸 시작했어요. 규칙 4. 문제를 찾았고, 숨기지 않았어요. 이 방에 있는 모두에게 불편한 일이었는데도요. 우리에게 필요한 게 바로 그런 사람이에요.
 
 ### 마무리 — 새벽 4시, 실행 분담
 
@@ -355,8 +355,8 @@
 110. ELENA: I'll write the patient guidance. What to watch for. When to call.
      엘레나: 환자 안내문을 쓸게요. 무엇을 지켜봐야 하는지. 언제 전화해야 하는지.
 
-111. MARCUS: Logistics. Return kits. Replacement stock from the buffer. Shipped within forty-eight hours.
-     마커스: 물류. 반품 키트. 버퍼에서 교체 재고. 48시간 안에 발송.
+111. MARCUS: Logistics. Return kits go out to every clinic, and replacement stock comes from the buffer, older lots with good stoppers. Everything ships within forty-eight hours. No clinic is left without product.
+     마커스: 물류. 반품 키트는 모든 병원에 보내고, 교체 재고는 버퍼에서, 정상 마개를 쓴 이전 로트로 나가. 전부 48시간 안에 발송. 제품 없이 남는 병원은 한 곳도 없어.
 
 112. LEO: Root cause investigation. With Meridian. Every stopper batch. Every retain.
      레오: 근본 원인 조사. 메리디안과 함께. 모든 마개 배치. 모든 보관 샘플.
@@ -379,8 +379,8 @@
 118. PARK: He did. I remember. Tell me everything.
      박 대표: 그랬죠. 기억해요. 전부 말해 주세요.
 
-119. PRIYA: We're recalling three lots. We need Line B faster. Is that possible?
-     프리야: 세 로트를 회수해요. B 라인이 더 빨리 필요해요. 가능할까요?
+119. PRIYA: We're recalling three lots, so our buffer has to carry us for about four months. That's why we need Line B faster than we planned. Is that possible, CEO Park?
+     프리야: 세 로트를 회수해요. 그래서 약 4개월은 버퍼로 버텨야 해요. 그래서 B 라인이 계획보다 더 빨리 필요해요. 가능할까요, 박 대표님?
 
 120. PARK: We will help. Not "positively." Just yes. Su-jin is already listening.
      박 대표: 돕겠습니다. "긍정적으로" 말고. 그냥 예스. 수진 팀장이 이미 듣고 있어요.
@@ -421,3 +421,18 @@
 | Decision | **Voluntary recall, lots 13–15** — 1:41 a.m. (Derek: disagree & commit) |
 | Supply | Buffer from lots 4–12 (~4 months) · ask Seorin to accelerate Line B |
 | Owners | FDA notice: Diane · Physician letter: Diane/Elena · Clinic list: Grace · Public statement: Zoe · Patient guidance: Elena · Logistics: Marcus · Root cause: Leo · Korea: Priya |
+
+### ④ 긴 발화 분석
+
+> **68턴 ELENA:** "Think about it the other way. If one patient gets infected from a leaking seal, the story isn't bad luck. The story is that we knew, and we waited. I can't defend that."
+
+| 구조 | 영어 | 기능 |
+|---|---|---|
+| ① 관점 전환 | Think about it the other way. | 상대의 논리(확률이 낮다)를 반대편에서 보게 만듦 |
+| ② 최악의 시나리오(조건) | If one patient gets infected from a leaking seal, | "단 한 명"이라는 구체적 결과로 위험을 실감 나게 |
+| ③ 재정의(대비) | the story isn't bad luck. The story is that we knew, and we waited. | "A가 아니라 B"로 사건의 의미를 바꿔 말함 |
+| ④ 입장 표명 | I can't defend that. | 짧은 한 문장으로 반대 이유를 마무리 |
+
+**활용 패턴:** 관점 전환 → If + 최악의 결과 → "The story isn't A. The story is B." → 짧은 입장
+**연결 표현:** the other way(반대로) · If…(만약 ~라면) · The story is that…(결국 ~라는 이야기가 된다)
+**연습:** 문제를 덮고 기다리자는 동료에게 같은 구조로 30단어 안팎으로 반대 의견을 말해 보기.
