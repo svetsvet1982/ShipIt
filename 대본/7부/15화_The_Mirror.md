@@ -17,373 +17,253 @@
 
 ### 도입 — 11월 18일 오전 8시, Ruiz Dermatology
 
-01. LILY: You're early. You're never early. Who are you and what have you done with my brother?
-    릴리: 일찍 왔네. 오빠는 절대 일찍 안 오잖아. 누구야, 우리 오빠한테 무슨 짓 했어?
+LILY: You're early. You're never early. Who are you and what have you done with my brother?
 
-02. NOAH: I said I'd be here. The whole time. The whole time starts before it starts.
-    노아: 여기 있겠다고 했잖아. 처음부터 끝까지. 처음은 시작 전부터야.
+NOAH: I said I'd be here. The whole time. The whole time starts before it starts.
 
-03. LILY: That's very deep. Did Claire write it?
-    릴리: 아주 심오하네. 클레어가 써 줬어?
+LILY: That's very deep. Did Claire write it?
 
-04. NOAH: Claire wrote it on a sticky note. On the bathroom mirror. This morning.
-    노아: 클레어가 포스트잇에 썼어. 욕실 거울에. 오늘 아침.
+NOAH: Claire wrote it on a sticky note. On the bathroom mirror. This morning.
 
-05. ELENA: Good morning, Lily. Seven years. You finally came.
-    엘레나: 좋은 아침이에요, 릴리. 7년. 드디어 왔네요.
+ELENA: Good morning, Lily. Seven years. You finally came.
 
-06. LILY: Seven years, four postponements, and one billion-dollar decision. I'm not easy to schedule.
-    릴리: 7년, 연기 네 번, 그리고 10억 달러짜리 결정 하나. 나 일정 잡기 쉬운 사람 아니에요.
+LILY: Seven years, four postponements, and one billion-dollar decision. I'm not easy to schedule.
 
-07. TASHA: Hi, Lily. I'm assisting today. If that's okay.
-    타샤: 안녕, 릴리. 오늘 내가 보조해요. 괜찮다면.
+TASHA: Hi, Lily. I'm assisting today. If that's okay.
 
-08. LILY: Tasha. You were there that night. In the ER. You held my hand when Noah went to get coffee.
-    릴리: 타샤. 그날 밤 거기 있었죠. 응급실에. 노아가 커피 가지러 갔을 때 내 손 잡아 줬잖아요.
+LILY: Tasha. You were there that night. In the ER. You held my hand when Noah went to get coffee.
 
-09. TASHA: I remember. You asked me if you'd still be pretty. I said you'd be interesting. You laughed.
-    타샤: 기억나요. 아직 예쁠 거냐고 물었죠. 흥미로운 사람이 될 거라고 했어요. 웃었죠.
+TASHA: I remember. You asked me if you'd still be pretty. I said you'd be interesting. You laughed.
 
-10. LILY: I'm extremely interesting now. Seven years of interesting.
-    릴리: 지금 엄청 흥미로워요. 7년 치 흥미.
+LILY: I'm extremely interesting now. Seven years of interesting.
 
-11. ELENA: Today is session one of three. Fractional laser. It won't remove the scar, and I want to be honest about that from the start. It will soften it, a lot, but the skin needs weeks between sessions to heal and rebuild, so we'll finish in February.
-    엘레나: 오늘은 3회 중 1회차예요. 프랙셔널 레이저. 흉터를 없애진 않아요. 그건 처음부터 솔직하게 말하고 싶어요. 부드럽게 해요, 많이. 하지만 피부가 회복하고 재생하려면 회차 사이에 몇 주가 필요해서, 2월에 끝날 거예요.
+ELENA: Today is session one of three. Fractional laser. It won't remove the scar, and I want to be honest about that from the start. It will soften it, a lot, but the skin needs weeks between sessions to heal and rebuild, so we'll finish in February.
 
-12. LILY: Soft is fine. I don't want it gone. Not completely. It's part of the logo, in a way.
-    릴리: 부드러운 거면 돼요. 완전히 없애고 싶진 않아요. 어떤 의미에선 로고의 일부니까.
+LILY: Soft is fine. I don't want it gone. Not completely. It's part of the logo, in a way.
 
-13. ELENA: Numbing cream first. Thirty minutes. Then we start.
-    엘레나: 먼저 마취 크림. 30분. 그다음 시작해요.
+ELENA: Numbing cream first. Thirty minutes. Then we start.
 
-14. LILY: Thirty minutes. Noah, you'll have to talk to me. Without your phone.
-    릴리: 30분. 오빠, 나랑 얘기해야 해. 휴대폰 없이.
+LILY: Thirty minutes. Noah, you'll have to talk to me. Without your phone.
 
-15. NOAH: It's in Claire's bag. She took it. At the door.
-    노아: 클레어 가방에 있어. 문 앞에서 가져갔어.
+NOAH: It's in Claire's bag. She took it. At the door.
 
 ### 장면1 — 마취 크림 30분, 고백
 
-16. LILY: So. Thirty minutes. What do you want to talk about? Not the IPO. I'll scream.
-    릴리: 그래서. 30분. 무슨 얘기 하고 싶어? IPO는 빼고. 소리 지를 거야.
+LILY: So. Thirty minutes. What do you want to talk about? Not the IPO. I'll scream.
 
-17. NOAH: Not the IPO. Something older. Something I should've told you seven years ago.
-    노아: IPO 아니야. 더 오래된 거. 7년 전에 말했어야 하는 거.
+NOAH: Not the IPO. Something older. Something I should've told you seven years ago.
 
-18. LILY: …That sounds serious. Elena, Tasha, should you leave?
-    릴리: …심각하게 들리네. 엘레나, 타샤, 나가 있어야 할까요?
+LILY: …That sounds serious. Elena, Tasha, should you leave?
 
-19. ELENA: We'll be next door. Call if you need us.
-    엘레나: 옆방에 있을게요. 필요하면 불러요.
+ELENA: We'll be next door. Call if you need us.
 
-20. NOAH: That night. At the med spa. You texted me. Before the ER.
-    노아: 그날 밤. 메디스파에서. 나한테 문자했지. 응급실 가기 전에.
+NOAH: That night. At the med spa. You texted me. Before the ER.
 
-21. LILY: "Something feels wrong."
-    릴리: "뭔가 이상해."
+LILY: "Something feels wrong."
 
-22. NOAH: I was at a Halvern client dinner, selling Lumaderm, and my phone was on the table the whole time. I saw your message two hours later. I've told myself a hundred different stories about that night, but that's the true one.
-    노아: 할번 고객 저녁 자리에 있었어. 루마덤 팔면서. 휴대폰은 내내 테이블 위에 있었고. 네 문자를 두 시간 뒤에 봤어. 그날 밤에 대해 나 자신한테 백 가지 다른 이야기를 해 왔지만, 그게 진짜 이야기야.
+NOAH: I was at a Halvern client dinner, selling Lumaderm, and my phone was on the table the whole time. I saw your message two hours later. I've told myself a hundred different stories about that night, but that's the true one.
 
-23. LILY: …You told me your phone died.
-    릴리: …휴대폰이 꺼졌다고 했잖아.
+LILY: …You told me your phone died.
 
-24. NOAH: It didn't. I just didn't look. I've never told anyone. Except Claire.
-    노아: 안 꺼졌어. 그냥 안 봤어. 아무한테도 말 안 했어. 클레어 빼고.
+NOAH: It didn't. I just didn't look. I've never told anyone. Except Claire.
 
-25. LILY: …Noah.
-    릴리: …오빠.
+LILY: …Noah.
 
-26. NOAH: If I'd seen it, maybe you'd have seen a real doctor earlier. Maybe no scar.
-    노아: 내가 봤더라면, 더 일찍 진짜 의사를 만났을지도 몰라. 흉터가 없었을지도.
+NOAH: If I'd seen it, maybe you'd have seen a real doctor earlier. Maybe no scar.
 
-27. LILY: Noah. I know.
-    릴리: 오빠. 알아.
+LILY: Noah. I know.
 
-28. NOAH: …You know?
-    노아: …안다고?
+NOAH: …You know?
 
-29. LILY: I saw it. The time it said "Read." Nine fifty-two. Two hours after I sent it.
-    릴리: 봤어. "읽음" 표시 시간. 9시 52분. 보내고 두 시간 뒤.
+LILY: I saw it. The time it said "Read." Nine fifty-two. Two hours after I sent it.
 
-30. NOAH: You never said anything.
-    노아: 한 번도 말 안 했잖아.
+NOAH: You never said anything.
 
-31. LILY: Because you came. You ran into that ER in your dinner suit, and you didn't leave for three days. You slept in a plastic chair and argued with every nurse about my blanket. A brother who doesn't care doesn't do that.
-    릴리: 오빠가 왔으니까. 그 정장 차림으로 응급실에 뛰어 들어왔고, 사흘 동안 안 떠났잖아. 플라스틱 의자에서 자고, 내 담요 때문에 간호사마다 붙잡고 따졌지. 신경 안 쓰는 오빠는 그런 거 안 해.
+LILY: Because you came. You ran into that ER in your dinner suit, and you didn't leave for three days. You slept in a plastic chair and argued with every nurse about my blanket. A brother who doesn't care doesn't do that.
 
-32. NOAH: Two hours late.
-    노아: 두 시간 늦게.
+NOAH: Two hours late.
 
-33. LILY: The filler was already in. No enzyme. Your phone couldn't fix that. Nothing could.
-    릴리: 필러는 이미 들어가 있었어. 효소도 없었고. 오빠 휴대폰이 그걸 고칠 순 없었어. 아무것도.
+LILY: The filler was already in. No enzyme. Your phone couldn't fix that. Nothing could.
 
-34. NOAH: I've been carrying it. For seven years. Into every room.
-    노아: 7년 동안 그걸 안고 다녔어. 모든 방에.
+NOAH: I've been carrying it. For seven years. Into every room.
 
-35. LILY: I know. I watched. And I forgave you in the ambulance. You're the one who didn't.
-    릴리: 알아. 봤어. 그리고 난 구급차에서 이미 용서했어. 용서 안 한 건 오빠야.
+LILY: I know. I watched. And I forgave you in the ambulance. You're the one who didn't.
 
-36. NOAH: …
-    노아: …
+NOAH: …
 
-37. LILY: Hey. Look at me. Is that why you built all this? The hotline. The scans. The thirteen minutes in Seoul?
-    릴리: 이봐. 날 봐. 그래서 이걸 다 만든 거야? 핫라인. 스캔. 서울의 13분?
+LILY: Hey. Look at me. Is that why you built all this? The hotline. The scans. The thirteen minutes in Seoul?
 
-38. NOAH: Partly. I built it so that nobody's brother reads a message like that two hours late. And if somebody does, because people are human, it doesn't matter anymore, because the clinic has the enzyme, the doctor is trained, and the hotline answers in one minute.
-    노아: 부분적으로. 누구의 오빠도 그런 문자를 두 시간 늦게 읽지 않도록 만든 거야. 그리고 사람은 사람이니까 누가 그러더라도, 이제는 문제가 안 되도록. 클리닉엔 효소가 있고, 의사는 교육받았고, 핫라인은 1분 안에 받으니까.
+NOAH: Partly. I built it so that nobody's brother reads a message like that two hours late. And if somebody does, because people are human, it doesn't matter anymore, because the clinic has the enzyme, the doctor is trained, and the hotline answers in one minute.
 
-39. LILY: Then it was worth it. The two hours. Not for me. For Seo-hyun. For Min-ho.
-    릴리: 그럼 그럴 가치가 있었네. 그 두 시간. 나 말고. 서현을 위해. 민호를 위해.
+LILY: Then it was worth it. The two hours. Not for me. For Seo-hyun. For Min-ho.
 
-40. NOAH: You know their names?
-    노아: 그 사람들 이름 알아?
+NOAH: You know their names?
 
-41. LILY: Min-ho emailed me, in Korean and English. He'd heard about me from you on the phone that night. He attached a photo of his sister's nose, no scar, and said thank you for the logo. I cried for an hour. Happy crying, mostly.
-    릴리: 민호가 이메일 보냈어. 한국어랑 영어로. 그날 밤 전화로 오빠한테서 내 얘기를 들었대. 동생 코 사진을 첨부했는데, 흉터가 없었어. 그리고 로고 고맙다고 했어. 한 시간 울었어. 대체로 기뻐서.
+LILY: Min-ho emailed me, in Korean and English. He'd heard about me from you on the phone that night. He attached a photo of his sister's nose, no scar, and said thank you for the logo. I cried for an hour. Happy crying, mostly.
 
-42. NOAH: I didn't know.
-    노아: 몰랐어.
+NOAH: I didn't know.
 
-43. LILY: You don't know everything. That's the second thing I've wanted to tell you for seven years.
-    릴리: 오빠가 다 아는 건 아니야. 그게 7년 동안 말하고 싶었던 두 번째야.
+LILY: You don't know everything. That's the second thing I've wanted to tell you for seven years.
 
-44. NOAH: Lily, I'm sorry. I should've said it years ago.
-    노아: 릴리, 미안해. 몇 년 전에 말했어야 했는데.
+NOAH: Lily, I'm sorry. I should've said it years ago.
 
-45. LILY: You said it today. Today counts. Now put it down. Like Claire's bridges. Reduce the load.
-    릴리: 오늘 말했잖아. 오늘도 쳐줘. 이제 내려놔. 클레어의 다리처럼. 하중을 줄여.
+LILY: You said it today. Today counts. Now put it down. Like Claire's bridges. Reduce the load.
 
-46. NOAH: Reduce the load.
-    노아: 하중을 줄여.
+NOAH: Reduce the load.
 
-47. LILY: And one more thing. Don't tell Mom.
-    릴리: 그리고 하나 더. 엄마한텐 말하지 마.
+LILY: And one more thing. Don't tell Mom.
 
-48. NOAH: …She's in the waiting room. She flew in from Phoenix last night. She insisted.
-    노아: …대기실에 계셔. 어젯밤 피닉스에서 비행기 타고 오셨어. 고집하셨어.
+NOAH: …She's in the waiting room. She flew in from Phoenix last night. She insisted.
 
-49. LILY: Of course she is. Fine. Tell Mom. Everything except the two hours. That's ours.
-    릴리: 당연하지. 좋아. 엄마한테 말해. 두 시간 얘기만 빼고. 그건 우리 거야.
+LILY: Of course she is. Fine. Tell Mom. Everything except the two hours. That's ours.
 
-50. ELENA: Thirty minutes. Ready, Lily?
-    엘레나: 30분. 준비됐어요, 릴리?
+ELENA: Thirty minutes. Ready, Lily?
 
 ### 장면2 — 오전 9시, 시술실
 
-51. LILY: Ready. Noah stays. The whole time. He promised.
-    릴리: 준비됐어요. 오빠는 있어요. 처음부터 끝까지. 약속했어요.
+LILY: Ready. Noah stays. The whole time. He promised.
 
-52. ELENA: He can stay. Goggles on, both of you. Tasha, settings.
-    엘레나: 있어도 돼요. 둘 다 고글 써요. 타샤, 설정.
+ELENA: He can stay. Goggles on, both of you. Tasha, settings.
 
-53. TASHA: Settings confirmed. Cooling ready. Timer on.
-    타샤: 설정 확인. 냉각 준비. 타이머 켰어요.
+TASHA: Settings confirmed. Cooling ready. Timer on.
 
-54. LILY: A timer. Like the card.
-    릴리: 타이머. 카드처럼.
+LILY: A timer. Like the card.
 
-55. TASHA: Old habit. In an emergency, you lose all sense of time. Two minutes feels like twenty, and twenty feels like two. So I bring a timer everywhere, even to happy things, because the truth about time is the first thing fear takes away.
-    타샤: 오랜 습관이에요. 응급 상황에선 시간 감각을 다 잃거든요. 2분이 20분 같고, 20분이 2분 같아요. 그래서 어디든 타이머를 가져가요. 행복한 일에도요. 두려움이 가장 먼저 빼앗아 가는 게 시간에 대한 진실이니까요.
+TASHA: Old habit. In an emergency, you lose all sense of time. Two minutes feels like twenty, and twenty feels like two. So I bring a timer everywhere, even to happy things, because the truth about time is the first thing fear takes away.
 
-56. ELENA: You'll feel heat. Like small sparks. Tell me if it's too much.
-    엘레나: 열감이 느껴질 거예요. 작은 불꽃처럼. 너무 심하면 말해요.
+ELENA: You'll feel heat. Like small sparks. Tell me if it's too much.
 
-57. LILY: Elena. Seven years ago, you said, "Every minute counts." Do they count today?
-    릴리: 엘레나. 7년 전에 "1분 1분이 중요하다"고 했죠. 오늘도 중요해요?
+LILY: Elena. Seven years ago, you said, "Every minute counts." Do they count today?
 
-58. ELENA: Today, no minute is urgent. That's the luxury. We can be slow. And careful.
-    엘레나: 오늘은 급한 1분이 없어요. 그게 사치죠. 천천히 할 수 있어요. 그리고 신중하게.
+ELENA: Today, no minute is urgent. That's the luxury. We can be slow. And careful.
 
-59. NOAH: Lily, squeeze my hand if it hurts.
-    노아: 릴리, 아프면 손 꽉 잡아.
+NOAH: Lily, squeeze my hand if it hurts.
 
-60. LILY: It doesn't hurt. You're squeezing mine. Relax.
-    릴리: 안 아파. 오빠가 내 손을 꽉 잡고 있어. 긴장 풀어.
+LILY: It doesn't hurt. You're squeezing mine. Relax.
 
-61. TASHA: Two minutes. Halfway.
-    타샤: 2분. 절반.
+TASHA: Two minutes. Halfway.
 
-62. LILY: Tasha, can I ask you something? Why did you leave the ER? You were good at it.
-    릴리: 타샤, 하나 물어봐도 돼요? 왜 응급실을 떠났어요? 잘했잖아요.
+LILY: Tasha, can I ask you something? Why did you leave the ER? You were good at it.
 
-63. TASHA: Because I kept seeing you. Different faces, same nose, same kitchen fillers, same frightened families in the waiting room. In the ER, I could only treat the damage after it happened. I wanted to stop it before anyone needed the ER at all.
-    타샤: 계속 당신을 봤거든요. 다른 얼굴, 같은 코, 같은 부엌 필러, 대기실의 똑같이 겁먹은 가족들. 응급실에선 일이 벌어진 뒤에 상처를 치료하는 것밖에 못 했어요. 누구도 응급실에 올 필요가 없도록, 그 전에 막고 싶었어요.
+TASHA: Because I kept seeing you. Different faces, same nose, same kitchen fillers, same frightened families in the waiting room. In the ER, I could only treat the damage after it happened. I wanted to stop it before anyone needed the ER at all.
 
-64. LILY: And did you?
-    릴리: 그래서 막았어요?
+LILY: And did you?
 
-65. TASHA: Fourteen thousand certified injectors. And a nurse in Seoul who treated first. I think so.
-    타샤: 인증 시술자 1만 4천 명. 그리고 먼저 처치한 서울의 간호사. 그런 것 같아요.
+TASHA: Fourteen thousand certified injectors. And a nurse in Seoul who treated first. I think so.
 
-66. ELENA: Done. Four minutes. Cooling now.
-    엘레나: 끝. 4분. 이제 냉각.
+ELENA: Done. Four minutes. Cooling now.
 
-67. LILY: That's it? Seven years of postponing for four minutes?
-    릴리: 그게 다예요? 4분 때문에 7년을 미뤘다고요?
+LILY: That's it? Seven years of postponing for four minutes?
 
-68. ELENA: Most things we fear are four minutes long. The waiting is seven years.
-    엘레나: 우리가 두려워하는 대부분은 4분짜리예요. 기다림이 7년이고요.
+ELENA: Most things we fear are four minutes long. The waiting is seven years.
 
-69. NOAH: Can she see it? A mirror?
-    노아: 볼 수 있어요? 거울?
+NOAH: Can she see it? A mirror?
 
-70. LILY: No. Not today. It's red today. I'll look when it's finished. In February. After session three.
-    릴리: 아니. 오늘은 안 봐. 오늘은 빨갛잖아. 끝나면 볼게. 2월에. 3회차 끝나고.
+LILY: No. Not today. It's red today. I'll look when it's finished. In February. After session three.
 
-71. ELENA: That's wise. The skin needs time to tell the truth.
-    엘레나: 현명하네요. 피부가 진실을 말하려면 시간이 필요해요.
+ELENA: That's wise. The skin needs time to tell the truth.
 
-72. TASHA: Keep her warm, Mr. Bennett. Well, cool, actually. Ice pack. Ten minutes.
-    타샤: 따뜻하게 해 줘요, 베넷 씨. 음, 사실은 차갑게. 얼음팩. 10분.
+TASHA: Keep her warm, Mr. Bennett. Well, cool, actually. Ice pack. Ten minutes.
 
-73. NOAH: Keep her cool. Got it.
-    노아: 차갑게. 알았어요.
+NOAH: Keep her cool. Got it.
 
-74. LILY: February. Isn't that when you announce the big thing? Noah?
-    릴리: 2월. 그때 그 큰 거 발표하지 않아? 오빠?
+LILY: February. Isn't that when you announce the big thing? Noah?
 
-75. NOAH: February tenth, if the lawyers agree. I'm not allowed to say more, because right now, anything a CEO says in public can look like a sales pitch for the shares. Diane would kill me, and honestly, she'd be right to.
-    노아: 2월 10일. 변호사들이 동의하면. 더 말하면 안 돼. 지금은 CEO가 공개적으로 하는 말이 뭐든 주식 판매 홍보처럼 보일 수 있거든. 다이앤이 날 죽일 거고, 솔직히 그래도 할 말 없어.
+NOAH: February tenth, if the lawyers agree. I'm not allowed to say more, because right now, anything a CEO says in public can look like a sales pitch for the shares. Diane would kill me, and honestly, she'd be right to.
 
-76. LILY: Then I'll get my mirror that morning. Before your speech. Elena, can we do that?
-    릴리: 그럼 그날 아침에 거울을 볼게. 오빠 연설 전에. 엘레나, 그래도 돼요?
+LILY: Then I'll get my mirror that morning. Before your speech. Elena, can we do that?
 
-77. ELENA: Seven a.m. Session three. Then the mirror. Then the speech.
-    엘레나: 오전 7시. 3회차. 그다음 거울. 그다음 연설.
+ELENA: Seven a.m. Session three. Then the mirror. Then the speech.
 
-78. LILY: Perfect. You can't be late to your own IPO. And you can't be late to my mirror.
-    릴리: 완벽해. 자기 IPO에 늦을 순 없잖아. 그리고 내 거울에도 늦으면 안 돼.
+LILY: Perfect. You can't be late to your own IPO. And you can't be late to my mirror.
 
-79. CLAIRE: How did it go? Mom is pacing. She's reorganised the magazines. Twice.
-    클레어: 어땠어? 어머님이 서성이셔. 잡지를 두 번이나 다시 정리하셨어.
+CLAIRE: How did it go? Mom is pacing. She's reorganised the magazines. Twice.
 
-80. LILY: Four minutes. Painless. Noah cried. Don't tell anyone.
-    릴리: 4분. 하나도 안 아팠어. 오빠가 울었어. 아무한테도 말하지 마.
+LILY: Four minutes. Painless. Noah cried. Don't tell anyone.
 
 ### 절정·전환 — Year 8 2월 10일, 오전 7시 거울 → 오전 10시 강당
 
-81. ELENA: Session three is done. The redness has settled. Lily. Are you ready?
-    엘레나: 3회차 끝났어요. 붉은 기도 가라앉았고. 릴리. 준비됐어요?
+ELENA: Session three is done. The redness has settled. Lily. Are you ready?
 
-82. LILY: No. Give me the mirror anyway.
-    릴리: 아니요. 그래도 거울 주세요.
+LILY: No. Give me the mirror anyway.
 
-83. NOAH: …
-    노아: …
+NOAH: …
 
-84. LILY: …It's still there. A little. A thin line. You have to look for it.
-    릴리: …아직 있어. 조금. 가는 선. 찾아봐야 보여.
+LILY: …It's still there. A little. A thin line. You have to look for it.
 
-85. ELENA: That's the result I hoped for. Not erased. Softened.
-    엘레나: 그게 내가 바란 결과예요. 지워진 게 아니라. 부드러워진.
+ELENA: That's the result I hoped for. Not erased. Softened.
 
-86. LILY: I'm keeping that part. The line. It's mine. Scar side out.
-    릴리: 그 부분은 간직할래요. 그 선. 내 거예요. 흉터 쪽을 바깥으로.
+LILY: I'm keeping that part. The line. It's mine. Scar side out.
 
-87. NOAH: Lily. You look like you.
-    노아: 릴리. 너 같아 보여.
+NOAH: Lily. You look like you.
 
-88. LILY: That's what Seo-hyun said. "It looks like my nose." I get it now.
-    릴리: 서현이 그렇게 말했대. "내 코 같아요." 이제 알겠어.
+LILY: That's what Seo-hyun said. "It looks like my nose." I get it now.
 
-89. DIANE: Noah. Car. Now. The livestream starts at ten. And remember the rules. You're in the quiet period.
-    다이앤: 노아. 차. 지금. 생중계 10시 시작이에요. 그리고 규칙 기억해요. 조용한 기간이에요.
+DIANE: Noah. Car. Now. The livestream starts at ten. And remember the rules. You're in the quiet period.
 
-90. NOAH: No forecasts. No hype. No "amazing."
-    노아: 예측 금지. 과장 금지. "놀라운" 금지.
+NOAH: No forecasts. No hype. No "amazing."
 
-91. DIANE: Facts and thanks. The S-1 says everything else. The SEC reads every word you say today, and so do the lawyers. If you say "amazing," someone will ask you to prove it. Get it in writing, and if it isn't in writing, don't say it.
-    다이앤: 사실과 감사. 나머지는 S-1이 다 말해요. 증권거래위원회가 오늘 당신이 하는 모든 말을 읽고, 변호사들도 읽어요. "놀라운"이라고 하면 누군가 그걸 증명하라고 할 거예요. 문서로 남겨요. 그리고 문서에 없는 건 말하지 마요.
+DIANE: Facts and thanks. The S-1 says everything else. The SEC reads every word you say today, and so do the lawyers. If you say "amazing," someone will ask you to prove it. Get it in writing, and if it isn't in writing, don't say it.
 
-92. LILY: Go. I'll watch from the front row. With Mom. She's bringing a sign.
-    릴리: 가. 맨 앞줄에서 볼게. 엄마랑. 엄마가 피켓 가져오신대.
+LILY: Go. I'll watch from the front row. With Mom. She's bringing a sign.
 
-93. NOAH: A sign? Diane, is a sign allowed in a quiet period?
-    노아: 피켓? 다이앤, 조용한 기간에 피켓 돼요?
+NOAH: A sign? Diane, is a sign allowed in a quiet period?
 
-94. DIANE: If it says "Hi, honey," yes. If it says "Buy," absolutely not.
-    다이앤: "안녕, 아들"이라고 쓰여 있으면 돼요. "사라"라고 쓰여 있으면 절대 안 되고.
+DIANE: If it says "Hi, honey," yes. If it says "Buy," absolutely not.
 
-95. PRIYA: Noah. Seven hundred people. Five countries. Live. You have the napkin?
-    프리야: 노아. 700명. 5개국. 생중계. 냅킨 있어요?
+PRIYA: Noah. Seven hundred people. Five countries. Live. You have the napkin?
 
-96. DIANE: It's in his pocket. In a plastic sleeve. My orders. Go.
-    다이앤: 주머니에 있어요. 비닐 슬리브에. 내 지시예요. 가요.
+DIANE: It's in his pocket. In a plastic sleeve. My orders. Go.
 
-97. NOAH: "Good morning. Today, Veyra Aesthetics filed publicly for an initial public offering. On Nasdaq. Under the symbol V-E-Y-R."
-    노아: "좋은 아침입니다. 오늘 베이라 에스테틱스는 기업공개를 위한 공개 신청을 했습니다. 나스닥. 종목 코드 V-E-Y-R."
+NOAH: "Good morning. Today, Veyra Aesthetics filed publicly for an initial public offering. On Nasdaq. Under the symbol V-E-Y-R."
 
-98. LILY: Mom's crying. He's only said two sentences.
-    릴리: 엄마 울어. 오빠 겨우 두 문장 말했는데.
+LILY: Mom's crying. He's only said two sentences.
 
-99. NOAH: Seven years ago, we were four people and one lab bench. Today, we work in five countries with fourteen thousand certified injectors, and not one syringe has gone to a non-medic. Those aren't my numbers. They belong to everyone watching this morning.
-    노아: 7년 전 우리는 네 사람과 실험대 하나였습니다. 오늘 우리는 5개국에서 인증 시술자 1만 4천 명과 함께 일하고, 비의료인에게 간 주사기는 단 하나도 없습니다. 그건 제 숫자가 아닙니다. 오늘 아침 이걸 보고 계신 모든 분의 숫자입니다.
+NOAH: Seven years ago, we were four people and one lab bench. Today, we work in five countries with fourteen thousand certified injectors, and not one syringe has gone to a non-medic. Those aren't my numbers. They belong to everyone watching this morning.
 
-100. MARCUS: Look at the chat. It's moving faster than he's talking.
-     마커스: 채팅 봐요. 말하는 것보다 빨리 올라가요.
+MARCUS: Look at the chat. It's moving faster than he's talking.
 
-101. PRIYA: James: "Not bad at all." Ji-woo: "I treated first." Ms. Han and Mr. Park, together: "Same side."
-     프리야: 제임스: "전혀 나쁘지 않네." 지우: "먼저 처치했어요." 한 상무님과 박 대표님, 같이: "같은 편."
+PRIYA: James: "Not bad at all." Ji-woo: "I treated first." Ms. Han and Mr. Park, together: "Same side."
 
-102. MARCUS: Kenji: "Very meaningful." And… Destiny Ramos. "RN. Veyra Ready Certified. Last week. My lips are fine. Thank you."
-     마커스: 겐지: "매우 의미 있습니다." 그리고… 데스티니 라모스. "간호사. 베이라 레디 인증. 지난주. 제 입술은 괜찮아요. 감사합니다."
+MARCUS: Kenji: "Very meaningful." And… Destiny Ramos. "RN. Veyra Ready Certified. Last week. My lips are fine. Thank you."
 
-103. ELENA: Destiny. The girl from the kitchen filler party in Houston. She was a victim of exactly what we fight: a syringe, a kitchen, no training. Now she's a nurse, certified, and she might be the one who stops the next party.
-     엘레나: 데스티니. 휴스턴 부엌 필러 파티의 그 아가씨. 우리가 맞서 싸우는 바로 그것, 주사기, 부엌, 교육 없음의 피해자였죠. 이제 간호사예요, 인증받은. 그리고 다음 파티를 막는 사람이 될지도 몰라요.
+ELENA: Destiny. The girl from the kitchen filler party in Houston. She was a victim of exactly what we fight: a syringe, a kitchen, no training. Now she's a nurse, certified, and she might be the one who stops the next party.
 
-104. MARCUS: And one more. Kayla Webb. "I'm twenty-two. Can I be your first customer now?" …Not until you're thirty.
-     마커스: 그리고 하나 더. 케일라 웹. "저 스물두 살이에요. 이제 첫 고객 돼도 돼요?" …서른 전엔 안 돼.
+MARCUS: And one more. Kayla Webb. "I'm twenty-two. Can I be your first customer now?" …Not until you're thirty.
 
-105. NOAH: "We've come a long way. This is just the beginning. To everyone who held a syringe with care: thank you for believing in us."
-     노아: "우리는 먼 길을 왔습니다. 이건 시작일 뿐입니다. 주사기를 정성껏 쥐어 준 모든 분께: 우리를 믿어 주셔서 감사합니다."
+NOAH: "We've come a long way. This is just the beginning. To everyone who held a syringe with care: thank you for believing in us."
 
 ### 마무리 — 오전 11시, 옥상
 
-106. LILY: You didn't say "amazing" once. Diane is smiling. I've never seen that.
-     릴리: "놀라운"을 한 번도 안 했어. 다이앤이 웃고 있어. 처음 봐.
+LILY: You didn't say "amazing" once. Diane is smiling. I've never seen that.
 
-107. NOAH: Mom's sign said "That's my son." Diane approved it.
-     노아: 엄마 피켓에 "우리 아들이에요"라고 쓰여 있었어. 다이앤이 승인했어.
+NOAH: Mom's sign said "That's my son." Diane approved it.
 
-108. CLAIRE: And she cried. In the front row. Next to Elaine. Who also cried. Quietly.
-     클레어: 그리고 우셨어. 맨 앞줄에서. 일레인 옆에서. 일레인도 울었어. 조용히.
+CLAIRE: And she cried. In the front row. Next to Elaine. Who also cried. Quietly.
 
-109. ELENA: Noah. The napkin. Elaine wants it back by tonight. For the safe. Or a museum.
-     엘레나: 노아. 냅킨. 일레인이 오늘 밤까지 돌려 달래요. 금고에 넣게. 아니면 박물관에.
+ELENA: Noah. The napkin. Elaine wants it back by tonight. For the safe. Or a museum.
 
-110. NOAH: Then I need a new one. Claire, do you have a napkin?
-     노아: 그럼 새 거가 필요하네. 클레어, 냅킨 있어?
+NOAH: Then I need a new one. Claire, do you have a napkin?
 
-111. CLAIRE: An engineer always has a napkin. And a pen. Here.
-     클레어: 엔지니어는 늘 냅킨이 있어. 그리고 펜. 여기.
+CLAIRE: An engineer always has a napkin. And a pen. Here.
 
-112. PRIYA: What are you drawing?
-     프리야: 뭐 그려요?
+PRIYA: What are you drawing?
 
-113. NOAH: The same net, seven years later. Every knot can open, and that's still the chemistry, because a filler you can't take back is a promise you can't keep. But I've learned that the net alone was never the whole answer.
-     노아: 같은 그물. 7년 뒤. 모든 매듭이 풀릴 수 있어. 그게 여전히 화학이야. 되돌릴 수 없는 필러는 지킬 수 없는 약속이니까. 하지만 그물만으로는 결코 답의 전부가 아니었다는 걸 배웠어.
+NOAH: The same net, seven years later. Every knot can open, and that's still the chemistry, because a filler you can't take back is a promise you can't keep. But I've learned that the net alone was never the whole answer.
 
-114. LILY: Give it to me. It's missing something.
-     릴리: 나 줘. 뭔가 빠졌어.
+LILY: Give it to me. It's missing something.
 
-115. MARCUS: What's she adding?
-     마커스: 뭘 더 그려요?
+MARCUS: What's she adding?
 
-116. LILY: Hands. At every knot. Small ones. Doctors. Nurses. Ji-woo. Margaret. Seo-hyun's doctor. Whose hands hold it.
-     릴리: 손. 매듭마다. 작게. 의사. 간호사. 지우. 마거릿. 서현의 의사. 누구의 손이 그걸 쥐는지.
+LILY: Hands. At every knot. Small ones. Doctors. Nurses. Ji-woo. Margaret. Seo-hyun's doctor. Whose hands hold it.
 
-117. ELENA: That's the year-seven answer. On a new napkin. Priya, you were right.
-     엘레나: 그게 7년 차의 답이네요. 새 냅킨에. 프리야, 당신 말이 맞았어요.
+ELENA: That's the year-seven answer. On a new napkin. Priya, you were right.
 
-118. PRIYA: I usually am. Show me the data. Lily just did.
-     프리야: 난 대체로 맞아요. 데이터를 보여 줘. 릴리가 방금 보여 줬네요.
+PRIYA: I usually am. Show me the data. Lily just did.
 
-119. NOAH: So. New napkin. New logo, maybe. What do we do with it?
-     노아: 그래서. 새 냅킨. 어쩌면 새 로고. 이걸로 뭘 하지?
+NOAH: So. New napkin. New logo, maybe. What do we do with it?
 
-120. LILY: What you always do, Noah. Ship it.
-     릴리: 오빠가 늘 하는 거, 오빠. 출시해. Ship it.
+LILY: What you always do, Noah. Ship it.
 
 ---
 
@@ -393,16 +273,16 @@
 
 | # | 표현 | 뜻 | 대본 속 쓰임 / 비즈니스 활용 |
 |---|---|---|---|
-| 1 | Something I should've told you… | 진작 말했어야 하는 것 | 17턴. 오래 미룬 고백의 시작. |
-| 2 | I forgave you… You're the one who didn't. | 난 용서했어. 용서 안 한 건 너야. | 35턴. 자기 비난 내려놓기. |
-| 3 | Reduce the load. | 하중을 줄여라. | 45~46턴. 짐 내려놓기(6부 14화 대구). |
-| 4 | Most things we fear are four minutes long. The waiting is seven years. | 두려운 일 대부분은 4분이고, 기다림이 7년이다. | 68턴. 미루기의 비용. |
-| 5 | quiet period | (상장 전) 조용한 기간 | 89턴. 홍보성 발언 제한 기간. |
-| 6 | No forecasts. No hype. Facts and thanks. | 예측·과장 없이, 사실과 감사만. | 90~91턴. 상장 신청 발표 원칙. |
-| 7 | filed publicly for an initial public offering | 기업공개를 위한 공개 신청을 했다 | 97턴. IPO 발표 문장. |
-| 8 | We've come a long way. | 먼 길을 왔다. | 105턴. 회고. |
-| 9 | This is just the beginning. | 이건 시작일 뿐이다. | 105턴. 비전 연설의 마무리. |
-| 10 | Thank you for believing in us. | 우리를 믿어 줘서 고맙다. | 105턴. 감사 인사의 정석. |
+| 1 | Something I should've told you… | 진작 말했어야 하는 것 | 장면1. 오래 미룬 고백의 시작. |
+| 2 | I forgave you… You're the one who didn't. | 난 용서했어. 용서 안 한 건 너야. | 장면1. 자기 비난 내려놓기. |
+| 3 | Reduce the load. | 하중을 줄여라. | 장면1. 짐 내려놓기(6부 14화 대구). |
+| 4 | Most things we fear are four minutes long. The waiting is seven years. | 두려운 일 대부분은 4분이고, 기다림이 7년이다. | 장면2. 미루기의 비용. |
+| 5 | quiet period | (상장 전) 조용한 기간 | 절정·전환. 홍보성 발언 제한 기간. |
+| 6 | No forecasts. No hype. Facts and thanks. | 예측·과장 없이, 사실과 감사만. | 절정·전환. 상장 신청 발표 원칙. |
+| 7 | filed publicly for an initial public offering | 기업공개를 위한 공개 신청을 했다 | 절정·전환. IPO 발표 문장. |
+| 8 | We've come a long way. | 먼 길을 왔다. | 절정·전환. 회고. |
+| 9 | This is just the beginning. | 이건 시작일 뿐이다. | 절정·전환. 비전 연설의 마무리. |
+| 10 | Thank you for believing in us. | 우리를 믿어 줘서 고맙다. | 절정·전환. 감사 인사의 정석. |
 
 ### ② 비즈니스 컬처 노트 — 상장 신청 발표와 "조용한 기간"
 미국에서 기업이 IPO를 신청하면 상장 전까지 **조용한 기간(quiet period)**에 들어가며, 경영진은 **투자 설명서(S-1)에 없는 예측이나 과장된 홍보**를 해서는 안 된다. 그래서 상장 신청 발표 연설은 **사실(규모·원칙·성과)과 감사**로 구성되고, "amazing", "huge growth" 같은 표현이나 매출 전망은 빠진다. 이 제약은 오히려 좋은 연설의 조건이 된다. **짧은 이야기(7년 전 실험대 하나), 검증 가능한 숫자(5개국, 1만 4천 명, 0개), 그리고 감사**. 좋은 비전 연설은 **"We've come a long way. This is just the beginning. Thank you for believing in us."**처럼 과거·미래·사람을 한 호흡에 담는다.
@@ -432,7 +312,7 @@
 
 ### ④ 긴 발화 분석
 
-> **91턴 DIANE:** "Facts and thanks. The S-1 says everything else. The SEC reads every word you say today, and so do the lawyers. If you say "amazing," someone will ask you to prove it. Get it in writing, and if it isn't in writing, don't say it."
+> **DIANE (절정·전환):** "Facts and thanks. The S-1 says everything else. The SEC reads every word you say today, and so do the lawyers. If you say "amazing," someone will ask you to prove it. Get it in writing, and if it isn't in writing, don't say it."
 
 | 구조 | 영어 | 기능 |
 |---|---|---|
@@ -444,3 +324,257 @@
 **활용 패턴:** 원칙 → 청중(누가 듣나) → If + 구체적 위험 → 한 줄 행동 규칙
 **연결 표현:** says everything else(나머지는 ~가 다 말한다) · and so do…(…도 마찬가지다) · If you say X, someone will…(X라고 하면 누군가 ~할 것이다) · if it isn't in writing(문서에 없으면)
 **연습:** 실적 발표나 언론 인터뷰를 앞둔 상사에게 "말해도 되는 것과 안 되는 것"을 같은 구조로 40단어 안팎으로 브리핑해 보기.
+
+---
+
+## 한국어 번역
+
+### 도입 — 11월 18일 오전 8시, Ruiz Dermatology
+
+릴리: 일찍 왔네. 오빠는 절대 일찍 안 오잖아. 누구야, 우리 오빠한테 무슨 짓 했어?
+
+노아: 여기 있겠다고 했잖아. 처음부터 끝까지. 처음은 시작 전부터야.
+
+릴리: 아주 심오하네. 클레어가 써 줬어?
+
+노아: 클레어가 포스트잇에 썼어. 욕실 거울에. 오늘 아침.
+
+엘레나: 좋은 아침이에요, 릴리. 7년. 드디어 왔네요.
+
+릴리: 7년, 연기 네 번, 그리고 10억 달러짜리 결정 하나. 나 일정 잡기 쉬운 사람 아니에요.
+
+타샤: 안녕, 릴리. 오늘 내가 보조해요. 괜찮다면.
+
+릴리: 타샤. 그날 밤 거기 있었죠. 응급실에. 노아가 커피 가지러 갔을 때 내 손 잡아 줬잖아요.
+
+타샤: 기억나요. 아직 예쁠 거냐고 물었죠. 흥미로운 사람이 될 거라고 했어요. 웃었죠.
+
+릴리: 지금 엄청 흥미로워요. 7년 치 흥미.
+
+엘레나: 오늘은 3회 중 1회차예요. 프랙셔널 레이저. 흉터를 없애진 않아요. 그건 처음부터 솔직하게 말하고 싶어요. 부드럽게 해요, 많이. 하지만 피부가 회복하고 재생하려면 회차 사이에 몇 주가 필요해서, 2월에 끝날 거예요.
+
+릴리: 부드러운 거면 돼요. 완전히 없애고 싶진 않아요. 어떤 의미에선 로고의 일부니까.
+
+엘레나: 먼저 마취 크림. 30분. 그다음 시작해요.
+
+릴리: 30분. 오빠, 나랑 얘기해야 해. 휴대폰 없이.
+
+노아: 클레어 가방에 있어. 문 앞에서 가져갔어.
+
+### 장면1 — 마취 크림 30분, 고백
+
+릴리: 그래서. 30분. 무슨 얘기 하고 싶어? IPO는 빼고. 소리 지를 거야.
+
+노아: IPO 아니야. 더 오래된 거. 7년 전에 말했어야 하는 거.
+
+릴리: …심각하게 들리네. 엘레나, 타샤, 나가 있어야 할까요?
+
+엘레나: 옆방에 있을게요. 필요하면 불러요.
+
+노아: 그날 밤. 메디스파에서. 나한테 문자했지. 응급실 가기 전에.
+
+릴리: "뭔가 이상해."
+
+노아: 할번 고객 저녁 자리에 있었어. 루마덤 팔면서. 휴대폰은 내내 테이블 위에 있었고. 네 문자를 두 시간 뒤에 봤어. 그날 밤에 대해 나 자신한테 백 가지 다른 이야기를 해 왔지만, 그게 진짜 이야기야.
+
+릴리: …휴대폰이 꺼졌다고 했잖아.
+
+노아: 안 꺼졌어. 그냥 안 봤어. 아무한테도 말 안 했어. 클레어 빼고.
+
+릴리: …오빠.
+
+노아: 내가 봤더라면, 더 일찍 진짜 의사를 만났을지도 몰라. 흉터가 없었을지도.
+
+릴리: 오빠. 알아.
+
+노아: …안다고?
+
+릴리: 봤어. "읽음" 표시 시간. 9시 52분. 보내고 두 시간 뒤.
+
+노아: 한 번도 말 안 했잖아.
+
+릴리: 오빠가 왔으니까. 그 정장 차림으로 응급실에 뛰어 들어왔고, 사흘 동안 안 떠났잖아. 플라스틱 의자에서 자고, 내 담요 때문에 간호사마다 붙잡고 따졌지. 신경 안 쓰는 오빠는 그런 거 안 해.
+
+노아: 두 시간 늦게.
+
+릴리: 필러는 이미 들어가 있었어. 효소도 없었고. 오빠 휴대폰이 그걸 고칠 순 없었어. 아무것도.
+
+노아: 7년 동안 그걸 안고 다녔어. 모든 방에.
+
+릴리: 알아. 봤어. 그리고 난 구급차에서 이미 용서했어. 용서 안 한 건 오빠야.
+
+노아: …
+
+릴리: 이봐. 날 봐. 그래서 이걸 다 만든 거야? 핫라인. 스캔. 서울의 13분?
+
+노아: 부분적으로. 누구의 오빠도 그런 문자를 두 시간 늦게 읽지 않도록 만든 거야. 그리고 사람은 사람이니까 누가 그러더라도, 이제는 문제가 안 되도록. 클리닉엔 효소가 있고, 의사는 교육받았고, 핫라인은 1분 안에 받으니까.
+
+릴리: 그럼 그럴 가치가 있었네. 그 두 시간. 나 말고. 서현을 위해. 민호를 위해.
+
+노아: 그 사람들 이름 알아?
+
+릴리: 민호가 이메일 보냈어. 한국어랑 영어로. 그날 밤 전화로 오빠한테서 내 얘기를 들었대. 동생 코 사진을 첨부했는데, 흉터가 없었어. 그리고 로고 고맙다고 했어. 한 시간 울었어. 대체로 기뻐서.
+
+노아: 몰랐어.
+
+릴리: 오빠가 다 아는 건 아니야. 그게 7년 동안 말하고 싶었던 두 번째야.
+
+노아: 릴리, 미안해. 몇 년 전에 말했어야 했는데.
+
+릴리: 오늘 말했잖아. 오늘도 쳐줘. 이제 내려놔. 클레어의 다리처럼. 하중을 줄여.
+
+노아: 하중을 줄여.
+
+릴리: 그리고 하나 더. 엄마한텐 말하지 마.
+
+노아: …대기실에 계셔. 어젯밤 피닉스에서 비행기 타고 오셨어. 고집하셨어.
+
+릴리: 당연하지. 좋아. 엄마한테 말해. 두 시간 얘기만 빼고. 그건 우리 거야.
+
+엘레나: 30분. 준비됐어요, 릴리?
+
+### 장면2 — 오전 9시, 시술실
+
+릴리: 준비됐어요. 오빠는 있어요. 처음부터 끝까지. 약속했어요.
+
+엘레나: 있어도 돼요. 둘 다 고글 써요. 타샤, 설정.
+
+타샤: 설정 확인. 냉각 준비. 타이머 켰어요.
+
+릴리: 타이머. 카드처럼.
+
+타샤: 오랜 습관이에요. 응급 상황에선 시간 감각을 다 잃거든요. 2분이 20분 같고, 20분이 2분 같아요. 그래서 어디든 타이머를 가져가요. 행복한 일에도요. 두려움이 가장 먼저 빼앗아 가는 게 시간에 대한 진실이니까요.
+
+엘레나: 열감이 느껴질 거예요. 작은 불꽃처럼. 너무 심하면 말해요.
+
+릴리: 엘레나. 7년 전에 "1분 1분이 중요하다"고 했죠. 오늘도 중요해요?
+
+엘레나: 오늘은 급한 1분이 없어요. 그게 사치죠. 천천히 할 수 있어요. 그리고 신중하게.
+
+노아: 릴리, 아프면 손 꽉 잡아.
+
+릴리: 안 아파. 오빠가 내 손을 꽉 잡고 있어. 긴장 풀어.
+
+타샤: 2분. 절반.
+
+릴리: 타샤, 하나 물어봐도 돼요? 왜 응급실을 떠났어요? 잘했잖아요.
+
+타샤: 계속 당신을 봤거든요. 다른 얼굴, 같은 코, 같은 부엌 필러, 대기실의 똑같이 겁먹은 가족들. 응급실에선 일이 벌어진 뒤에 상처를 치료하는 것밖에 못 했어요. 누구도 응급실에 올 필요가 없도록, 그 전에 막고 싶었어요.
+
+릴리: 그래서 막았어요?
+
+타샤: 인증 시술자 1만 4천 명. 그리고 먼저 처치한 서울의 간호사. 그런 것 같아요.
+
+엘레나: 끝. 4분. 이제 냉각.
+
+릴리: 그게 다예요? 4분 때문에 7년을 미뤘다고요?
+
+엘레나: 우리가 두려워하는 대부분은 4분짜리예요. 기다림이 7년이고요.
+
+노아: 볼 수 있어요? 거울?
+
+릴리: 아니. 오늘은 안 봐. 오늘은 빨갛잖아. 끝나면 볼게. 2월에. 3회차 끝나고.
+
+엘레나: 현명하네요. 피부가 진실을 말하려면 시간이 필요해요.
+
+타샤: 따뜻하게 해 줘요, 베넷 씨. 음, 사실은 차갑게. 얼음팩. 10분.
+
+노아: 차갑게. 알았어요.
+
+릴리: 2월. 그때 그 큰 거 발표하지 않아? 오빠?
+
+노아: 2월 10일. 변호사들이 동의하면. 더 말하면 안 돼. 지금은 CEO가 공개적으로 하는 말이 뭐든 주식 판매 홍보처럼 보일 수 있거든. 다이앤이 날 죽일 거고, 솔직히 그래도 할 말 없어.
+
+릴리: 그럼 그날 아침에 거울을 볼게. 오빠 연설 전에. 엘레나, 그래도 돼요?
+
+엘레나: 오전 7시. 3회차. 그다음 거울. 그다음 연설.
+
+릴리: 완벽해. 자기 IPO에 늦을 순 없잖아. 그리고 내 거울에도 늦으면 안 돼.
+
+클레어: 어땠어? 어머님이 서성이셔. 잡지를 두 번이나 다시 정리하셨어.
+
+릴리: 4분. 하나도 안 아팠어. 오빠가 울었어. 아무한테도 말하지 마.
+
+### 절정·전환 — Year 8 2월 10일, 오전 7시 거울 → 오전 10시 강당
+
+엘레나: 3회차 끝났어요. 붉은 기도 가라앉았고. 릴리. 준비됐어요?
+
+릴리: 아니요. 그래도 거울 주세요.
+
+노아: …
+
+릴리: …아직 있어. 조금. 가는 선. 찾아봐야 보여.
+
+엘레나: 그게 내가 바란 결과예요. 지워진 게 아니라. 부드러워진.
+
+릴리: 그 부분은 간직할래요. 그 선. 내 거예요. 흉터 쪽을 바깥으로.
+
+노아: 릴리. 너 같아 보여.
+
+릴리: 서현이 그렇게 말했대. "내 코 같아요." 이제 알겠어.
+
+다이앤: 노아. 차. 지금. 생중계 10시 시작이에요. 그리고 규칙 기억해요. 조용한 기간이에요.
+
+노아: 예측 금지. 과장 금지. "놀라운" 금지.
+
+다이앤: 사실과 감사. 나머지는 S-1이 다 말해요. 증권거래위원회가 오늘 당신이 하는 모든 말을 읽고, 변호사들도 읽어요. "놀라운"이라고 하면 누군가 그걸 증명하라고 할 거예요. 문서로 남겨요. 그리고 문서에 없는 건 말하지 마요.
+
+릴리: 가. 맨 앞줄에서 볼게. 엄마랑. 엄마가 피켓 가져오신대.
+
+노아: 피켓? 다이앤, 조용한 기간에 피켓 돼요?
+
+다이앤: "안녕, 아들"이라고 쓰여 있으면 돼요. "사라"라고 쓰여 있으면 절대 안 되고.
+
+프리야: 노아. 700명. 5개국. 생중계. 냅킨 있어요?
+
+다이앤: 주머니에 있어요. 비닐 슬리브에. 내 지시예요. 가요.
+
+노아: "좋은 아침입니다. 오늘 베이라 에스테틱스는 기업공개를 위한 공개 신청을 했습니다. 나스닥. 종목 코드 V-E-Y-R."
+
+릴리: 엄마 울어. 오빠 겨우 두 문장 말했는데.
+
+노아: 7년 전 우리는 네 사람과 실험대 하나였습니다. 오늘 우리는 5개국에서 인증 시술자 1만 4천 명과 함께 일하고, 비의료인에게 간 주사기는 단 하나도 없습니다. 그건 제 숫자가 아닙니다. 오늘 아침 이걸 보고 계신 모든 분의 숫자입니다.
+
+마커스: 채팅 봐요. 말하는 것보다 빨리 올라가요.
+
+프리야: 제임스: "전혀 나쁘지 않네." 지우: "먼저 처치했어요." 한 상무님과 박 대표님, 같이: "같은 편."
+
+마커스: 겐지: "매우 의미 있습니다." 그리고… 데스티니 라모스. "간호사. 베이라 레디 인증. 지난주. 제 입술은 괜찮아요. 감사합니다."
+
+엘레나: 데스티니. 휴스턴 부엌 필러 파티의 그 아가씨. 우리가 맞서 싸우는 바로 그것, 주사기, 부엌, 교육 없음의 피해자였죠. 이제 간호사예요, 인증받은. 그리고 다음 파티를 막는 사람이 될지도 몰라요.
+
+마커스: 그리고 하나 더. 케일라 웹. "저 스물두 살이에요. 이제 첫 고객 돼도 돼요?" …서른 전엔 안 돼.
+
+노아: "우리는 먼 길을 왔습니다. 이건 시작일 뿐입니다. 주사기를 정성껏 쥐어 준 모든 분께: 우리를 믿어 주셔서 감사합니다."
+
+### 마무리 — 오전 11시, 옥상
+
+릴리: "놀라운"을 한 번도 안 했어. 다이앤이 웃고 있어. 처음 봐.
+
+노아: 엄마 피켓에 "우리 아들이에요"라고 쓰여 있었어. 다이앤이 승인했어.
+
+클레어: 그리고 우셨어. 맨 앞줄에서. 일레인 옆에서. 일레인도 울었어. 조용히.
+
+엘레나: 노아. 냅킨. 일레인이 오늘 밤까지 돌려 달래요. 금고에 넣게. 아니면 박물관에.
+
+노아: 그럼 새 거가 필요하네. 클레어, 냅킨 있어?
+
+클레어: 엔지니어는 늘 냅킨이 있어. 그리고 펜. 여기.
+
+프리야: 뭐 그려요?
+
+노아: 같은 그물. 7년 뒤. 모든 매듭이 풀릴 수 있어. 그게 여전히 화학이야. 되돌릴 수 없는 필러는 지킬 수 없는 약속이니까. 하지만 그물만으로는 결코 답의 전부가 아니었다는 걸 배웠어.
+
+릴리: 나 줘. 뭔가 빠졌어.
+
+마커스: 뭘 더 그려요?
+
+릴리: 손. 매듭마다. 작게. 의사. 간호사. 지우. 마거릿. 서현의 의사. 누구의 손이 그걸 쥐는지.
+
+엘레나: 그게 7년 차의 답이네요. 새 냅킨에. 프리야, 당신 말이 맞았어요.
+
+프리야: 난 대체로 맞아요. 데이터를 보여 줘. 릴리가 방금 보여 줬네요.
+
+노아: 그래서. 새 냅킨. 어쩌면 새 로고. 이걸로 뭘 하지?
+
+릴리: 오빠가 늘 하는 거, 오빠. 출시해. Ship it.

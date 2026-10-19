@@ -17,373 +17,253 @@
 
 ### 도입 — 오전 9시, 부스 모형
 
-01. ZOE: Here it is. Our first international booth. Ten square meters. About three by three.
-    조이: 여기 있어요. 우리 첫 해외 부스. 10제곱미터. 약 3×3.
+ZOE: Here it is. Our first international booth. Ten square meters. About three by three.
 
-02. MARCUS: That's smaller than my garage.
-    마커스: 우리 차고보다 작은데.
+MARCUS: That's smaller than my garage.
 
-03. ZOE: Your garage doesn't have a training station, or a meeting corner, or a translator. Every square meter here has a job. Doctors practice on one side, distributors sit down on the other, and nobody stands around waiting for a brochure.
-    조이: 당신 차고엔 교육 스테이션도, 미팅 코너도, 통역사도 없잖아요. 여기선 1제곱미터마다 할 일이 있어요. 한쪽에선 의사들이 연습하고, 다른 쪽에선 유통사들이 앉아서 얘기하고, 브로슈어를 기다리며 서 있는 사람은 아무도 없어요.
+ZOE: Your garage doesn't have a training station, or a meeting corner, or a translator. Every square meter here has a job. Doctors practice on one side, distributors sit down on the other, and nobody stands around waiting for a brochure.
 
-04. NOAH: Where are we in the hall?
-    노아: 홀 어디에 있어요?
+NOAH: Where are we in the hall?
 
-05. ZOE: Hall two. Stand two-F-fourteen. Near the entrance. Good traffic.
-    조이: 2홀. 스탠드 2.F14. 입구 근처. 유동 인구 좋아요.
+ZOE: Hall two. Stand two-F-fourteen. Near the entrance. Good traffic.
 
-06. GRACE: And our neighbor. Stand two-F-sixteen. Sixty square meters.
-    그레이스: 그리고 우리 이웃. 스탠드 2.F16. 60제곱미터.
+GRACE: And our neighbor. Stand two-F-sixteen. Sixty square meters.
 
-07. PRIYA: Let me guess.
-    프리야: 맞혀 볼게.
+PRIYA: Let me guess.
 
-08. GRACE: Halvern.
-    그레이스: 할번.
+GRACE: Halvern.
 
-09. MARCUS: Of course it's Halvern. Tom must have asked for it.
-    마커스: 당연히 할번이지. 톰이 요청했을 거야.
+MARCUS: Of course it's Halvern. Tom must have asked for it.
 
-10. ZOE: Actually, we were assigned first. Halvern moved next to us last week.
-    조이: 사실 우리가 먼저 배정받았어요. 할번이 지난주에 우리 옆으로 옮겼어요.
+ZOE: Actually, we were assigned first. Halvern moved next to us last week.
 
-11. ELENA: So Tom chose us. That's almost flattering.
-    엘레나: 그러니까 톰이 우릴 골랐네요. 거의 칭찬이에요.
+ELENA: So Tom chose us. That's almost flattering.
 
-12. NOAH: Or he wants doctors to compare. Big booth, small booth.
-    노아: 아니면 의사들이 비교하길 원하는 거죠. 큰 부스, 작은 부스.
+NOAH: Or he wants doctors to compare. Big booth, small booth.
 
-13. ZOE: Then we make small look smart, like San Diego. A big booth says 'we have money.' A small booth with a line of doctors waiting to try the demo says 'we have something worth waiting for.'
-    조이: 그럼 작은 게 똑똑해 보이게 만들죠, 샌디에이고처럼. 큰 부스는 '우린 돈이 있다'고 말해요. 시연해 보려고 의사들이 줄 서 있는 작은 부스는 '우린 기다릴 가치가 있는 걸 가졌다'고 말하고요.
+ZOE: Then we make small look smart, like San Diego. A big booth says 'we have money.' A small booth with a line of doctors waiting to try the demo says 'we have something worth waiting for.'
 
-14. MARCUS: Budget first. Two hundred thousand. Where does it go?
-    마커스: 예산 먼저. 20만. 어디에 써?
+MARCUS: Budget first. Two hundred thousand. Where does it go?
 
-15. ZOE: Grace has the breakdown. On the screen.
-    조이: 그레이스한테 내역이 있어요. 화면에.
+ZOE: Grace has the breakdown. On the screen.
 
 ### 장면1 — 예산, 물류, 규정
 
-16. GRACE: Space rental, thirty-eight thousand. Booth build and graphics, forty-five.
-    그레이스: 공간 임대 3만 8천. 부스 제작과 그래픽 4만 5천.
+GRACE: Space rental, thirty-eight thousand. Booth build and graphics, forty-five.
 
-17. ZOE: Shipping and customs, twenty-two. Travel and hotels, seventy. Translation, fifteen. Contingency, ten.
-    조이: 운송과 통관 2만 2천. 출장과 호텔 7만. 번역 1만 5천. 예비비 1만.
+ZOE: Shipping and customs, twenty-two. Travel and hotels, seventy. Translation, fifteen. Contingency, ten.
 
-18. MARCUS: Ten thousand contingency, for an international show? That's thin. In my experience, something always goes wrong overseas: a crate gets held at customs, a panel arrives cracked, a flight gets cancelled. Ten thousand covers one of those, not two.
-    마커스: 해외 전시에 예비비 1만? 얇네. 내 경험상 해외에선 늘 뭔가 잘못돼. 상자가 세관에 묶이거나, 패널이 깨져서 도착하거나, 비행기가 취소되거나. 1만이면 그중 하나는 막아도, 두 개는 못 막아.
+MARCUS: Ten thousand contingency, for an international show? That's thin. In my experience, something always goes wrong overseas: a crate gets held at customs, a panel arrives cracked, a flight gets cancelled. Ten thousand covers one of those, not two.
 
-19. ZOE: Then I'll cut the coffee machine. Paris has cafés.
-    조이: 그럼 커피 머신을 뺄게요. 파리엔 카페가 있잖아요.
+ZOE: Then I'll cut the coffee machine. Paris has cafés.
 
-20. MARCUS: Good. Two is one. Contingency is the second one.
-    마커스: 좋아. 둘은 하나. 예비비가 그 두 번째야.
+MARCUS: Good. Two is one. Contingency is the second one.
 
-21. ELENA: Now the important part. What can we show? We're not CE-marked.
-    엘레나: 이제 중요한 부분. 우리가 뭘 보여 줄 수 있어요? CE 마크가 없잖아요.
+ELENA: Now the important part. What can we show? We're not CE-marked.
 
-22. ZOE: We can exhibit. With a clear sign. "Not available for sale in the EU."
-    조이: 전시는 할 수 있어요. 명확한 표시와 함께. "EU 내 판매 불가."
+ZOE: We can exhibit. With a clear sign. "Not available for sale in the EU."
 
-23. TASHA: In English only? Half the doctors will be French. Or German. Or Arabic speakers.
-    타샤: 영어로만요? 의사 절반은 프랑스어나. 독일어나. 아랍어를 쓸 텐데.
+TASHA: In English only? Half the doctors will be French. Or German. Or Arabic speakers.
 
-24. ZOE: English, French, German. Three languages. On every surface.
-    조이: 영어, 프랑스어, 독일어. 3개 국어. 모든 표면에.
+ZOE: English, French, German. Three languages. On every surface.
 
-25. ELENA: And no claims about European approval. Not even "coming soon."
-    엘레나: 그리고 유럽 승인에 관한 주장은 금지. "출시 예정"조차도.
+ELENA: And no claims about European approval. Not even "coming soon."
 
-26. ZOE: Not even "coming soon"? That's my favorite phrase.
-    조이: "출시 예정"도 안 돼요? 제가 제일 좋아하는 문구인데.
+ZOE: Not even "coming soon"? That's my favorite phrase.
 
-27. ELENA: We don't know when. So we don't say soon.
-    엘레나: 언제인지 모르잖아요. 그러니 곧이라고 하지 않아요.
+ELENA: We don't know when. So we don't say soon.
 
-28. PRIYA: What about syringes? For the display?
-    프리야: 주사기는? 전시용으로?
+PRIYA: What about syringes? For the display?
 
-29. MARCUS: We can't bring real product. It's not approved there. Customs would stop it anyway.
-    마커스: 진짜 제품은 못 가져가. 거기선 승인이 안 났어. 어차피 세관에서 막을 거고.
+MARCUS: We can't bring real product. It's not approved there. Customs would stop it anyway.
 
-30. PRIYA: Then dummies. Water and a clear gel. Labeled "Display only. Not for human use."
-    프리야: 그럼 더미로. 물이랑 투명 젤. "전시용. 인체 사용 금지" 라벨.
+PRIYA: Then dummies. Water and a clear gel. Labeled "Display only. Not for human use."
 
-31. TASHA: Can doctors still feel the extrusion force? That's our best demo.
-    타샤: 의사들이 그래도 압출력을 느낄 수 있어요? 그게 우리 최고의 시연인데.
+TASHA: Can doctors still feel the extrusion force? That's our best demo.
 
-32. PRIYA: I'll match the viscosity, so the plunger feels almost the same in their hand. Close enough to feel, not close enough to inject. Ever. And every dummy gets that label printed right on the barrel, because at some point someone will try to pocket one.
-    프리야: 점도를 맞출게. 그래서 손에 쥐었을 때 플런저 느낌이 거의 같도록. 느낄 수 있을 만큼 가깝게, 주입할 수 있을 만큼은 아니게. 절대로. 그리고 더미마다 그 라벨을 주사기 몸통에 바로 인쇄할 거야. 언젠가 누군가 하나 슬쩍 챙기려 할 테니까.
+PRIYA: I'll match the viscosity, so the plunger feels almost the same in their hand. Close enough to feel, not close enough to inject. Ever. And every dummy gets that label printed right on the barrel, because at some point someone will try to pocket one.
 
-33. MARCUS: Shipping. Booth materials go by sea freight. Six weeks. Leaving December twentieth.
-    마커스: 운송. 부스 자재는 해상 운송. 6주. 12월 20일 출발.
+MARCUS: Shipping. Booth materials go by sea freight. Six weeks. Leaving December twentieth.
 
-34. ZOE: And the mannequins? For Tasha's drill?
-    조이: 그럼 마네킹은? 타샤 훈련용?
+ZOE: And the mannequins? For Tasha's drill?
 
-35. MARCUS: By air. With an ATA Carnet. A customs passport for temporary goods.
-    마커스: 항공으로. ATA 카르네와 함께. 임시 물품용 세관 여권이야.
+MARCUS: By air. With an ATA Carnet. A customs passport for temporary goods.
 
-36. NOAH: A passport for mannequins?
-    노아: 마네킹용 여권이요?
+NOAH: A passport for mannequins?
 
-37. MARCUS: It basically says, 'These come in, these go out, and nobody sells them.' So we pay no import tax. The catch is that every single item has to leave again, so if one mannequin goes missing, we pay for it.
-    마커스: 기본적으로 '이건 들어오고, 이건 나가고, 아무도 안 판다'는 문서야. 그래서 수입세가 없어. 문제는 모든 물품이 하나도 빠짐없이 다시 나가야 한다는 거지. 그러니까 마네킹 하나라도 없어지면 우리가 물어내야 해.
+MARCUS: It basically says, 'These come in, these go out, and nobody sells them.' So we pay no import tax. The catch is that every single item has to leave again, so if one mannequin goes missing, we pay for it.
 
-38. TASHA: And if customs loses them?
-    타샤: 세관이 잃어버리면요?
+TASHA: And if customs loses them?
 
-39. MARCUS: Two heads in my suitcase. As always. I'll explain them to French security this time.
-    마커스: 내 여행 가방에 머리 두 개. 늘 그렇듯. 이번엔 프랑스 보안 요원한테 설명할게.
+MARCUS: Two heads in my suitcase. As always. I'll explain them to French security this time.
 
-40. ELENA: Bring a letter. In French. Or you'll spend IMCAS in an airport office.
-    엘레나: 편지를 가져가요. 프랑스어로. 아니면 IMCAS를 공항 사무실에서 보낼 거예요.
+ELENA: Bring a letter. In French. Or you'll spend IMCAS in an airport office.
 
-41. ZOE: Translations. The First Ten Seconds card. French and German versions. Ready next week.
-    조이: 번역. 처음 10초 카드. 프랑스어판과 독일어판. 다음 주 준비 완료.
+ZOE: Translations. The First Ten Seconds card. French and German versions. Ready next week.
 
-42. TASHA: Who checked them? Medically?
-    타샤: 누가 확인했어요? 의학적으로?
+TASHA: Who checked them? Medically?
 
-43. ELENA: A French dermatologist and a German nurse. Both from Dr. Reese's network. Paid. Disclosed.
-    엘레나: 프랑스 피부과 의사와 독일 간호사. 둘 다 리스 박사 네트워크. 유급. 공개됨.
+ELENA: A French dermatologist and a German nurse. Both from Dr. Reese's network. Paid. Disclosed.
 
-44. TASHA: "Stop injecting" in French?
-    타샤: 프랑스어로 "주입 중단"은?
+TASHA: "Stop injecting" in French?
 
-45. ELENA: "Arrêtez l'injection." Short. Clear. I tested it on my French cousin.
-    엘레나: "아레테 랭젝시옹." 짧고. 명확해요. 프랑스 사촌한테 시험해 봤어요.
+ELENA: "Arrêtez l'injection." Short. Clear. I tested it on my French cousin.
 
-46. GRACE: Lead capture. We'll rent badge scanners. But we need different notes. Doctors and distributors.
-    그레이스: 리드 수집. 배지 스캐너를 빌릴 거예요. 하지만 다른 메모가 필요해요. 의사용과 유통사용.
+GRACE: Lead capture. We'll rent badge scanners. But we need different notes. Doctors and distributors.
 
-47. SOFIA: For distributors, one question decides everything: 'Do you sell to non-medical injectors?' I'll ask it early and casually, after the coffee and before the numbers, because if the answer is yes, the rest of the meeting doesn't matter.
-    소피아: 유통사에겐 질문 하나가 모든 걸 결정해요. '비의료인 시술자에게도 판매하십니까?' 커피 다음, 숫자 얘기 전에, 일찍 그리고 가볍게 물어볼 거예요. 답이 '네'라면 나머지 미팅은 의미가 없으니까요.
+SOFIA: For distributors, one question decides everything: 'Do you sell to non-medical injectors?' I'll ask it early and casually, after the coffee and before the numbers, because if the answer is yes, the rest of the meeting doesn't matter.
 
-48. ELENA: If yes, they're grade C. Automatically. No matter how big they are.
-    엘레나: 그렇다고 하면 C 등급. 자동으로. 아무리 커도.
+ELENA: If yes, they're grade C. Automatically. No matter how big they are.
 
-49. SOFIA: Even if they're the biggest distributor in Europe?
-    소피아: 유럽 최대 유통사라도요?
+SOFIA: Even if they're the biggest distributor in Europe?
 
-50. ELENA: Especially then. Big and wrong is worse than small and wrong, because a big distributor moves thousands of syringes. If even a few end up with untrained injectors, that's not one bad story. That's a pattern, with our name on every box.
-    엘레나: 특히 그럴수록요. 크고 틀린 게 작고 틀린 것보다 나빠요. 큰 유통사는 주사기를 수천 개씩 움직이거든요. 그중 몇 개라도 교육받지 않은 시술자 손에 들어가면, 그건 나쁜 사건 하나가 아니에요. 상자마다 우리 이름이 찍힌 하나의 패턴이에요.
+ELENA: Especially then. Big and wrong is worse than small and wrong, because a big distributor moves thousands of syringes. If even a few end up with untrained injectors, that's not one bad story. That's a pattern, with our name on every box.
 
 ### 장면2 — 오후 2시, 30초 피치 훈련
 
-51. ZOE: Thirty-second pitch. International version. Rule one. No idioms.
-    조이: 30초 피치. 국제 버전. 규칙 1. 관용어 금지.
+ZOE: Thirty-second pitch. International version. Rule one. No idioms.
 
-52. NOAH: Why not?
-    노아: 왜요?
+NOAH: Why not?
 
-53. ZOE: "Home run." "Crush it." "Game changer." A German doctor hears nonsense. Or baseball.
-    조이: "홈런." "박살 내자." "게임 체인저." 독일 의사한텐 헛소리로 들려요. 아니면 야구거나.
+ZOE: "Home run." "Crush it." "Game changer." A German doctor hears nonsense. Or baseball.
 
-54. TASHA: Rule two?
-    타샤: 규칙 2는요?
+TASHA: Rule two?
 
-55. ZOE: Slow down, and use shorter sentences. Most of the people you'll meet in Paris are speaking their second or third language, and they're tired. So give them only one number, the one they'll remember on the plane home.
-    조이: 천천히, 그리고 문장은 짧게. 파리에서 만날 사람들 대부분은 제2, 제3 언어로 말하고 있고, 피곤해요. 그러니 숫자는 하나만 줘요. 집으로 가는 비행기에서도 기억할 숫자로.
+ZOE: Slow down, and use shorter sentences. Most of the people you'll meet in Paris are speaking their second or third language, and they're tired. So give them only one number, the one they'll remember on the plane home.
 
-56. ELENA: Which number?
-    엘레나: 어떤 숫자요?
+ELENA: Which number?
 
-57. ZOE: You tell me. Start with "In a nutshell, we…" Priya, you first.
-    조이: 말해 봐요. "한마디로, 저희는…"으로 시작해요. 프리야, 먼저.
+ZOE: You tell me. Start with "In a nutshell, we…" Priya, you first.
 
-58. PRIYA: In a nutshell, we use enzyme-sensitive crosslinks with tuned cleavage kinetics to accelerate hyaluronidase-mediated dissolution.
-    프리야: 한마디로, 저희는 히알루로니다아제 매개 용해를 가속하기 위해 절단 동역학이 조정된 효소 감응성 가교를 사용합니다.
+PRIYA: In a nutshell, we use enzyme-sensitive crosslinks with tuned cleavage kinetics to accelerate hyaluronidase-mediated dissolution.
 
-59. ZOE: That was a nutshell full of chemistry. Again. For a tired doctor at four p.m.
-    조이: 그건 화학으로 가득 찬 한마디였어요. 다시. 오후 4시의 지친 의사를 위해서.
+ZOE: That was a nutshell full of chemistry. Again. For a tired doctor at four p.m.
 
-60. PRIYA: …In a nutshell, our filler dissolves faster when you need it to. Two point eight times faster.
-    프리야: …한마디로, 저희 필러는 필요할 때 더 빨리 녹아요. 2.8배 빨리.
+PRIYA: …In a nutshell, our filler dissolves faster when you need it to. Two point eight times faster.
 
-61. ZOE: Better. Much better. Elena?
-    조이: 낫네요. 훨씬 나아요. 엘레나?
+ZOE: Better. Much better. Elena?
 
-62. ELENA: In a nutshell, we train every injector before we sell a single syringe. Then we give them a way out.
-    엘레나: 한마디로, 저희는 주사기 하나 팔기 전에 모든 시술자를 교육합니다. 그다음 탈출구를 드리죠.
+ELENA: In a nutshell, we train every injector before we sell a single syringe. Then we give them a way out.
 
-63. ZOE: "A way out." Simple. Visual. Good. Sofia?
-    조이: "탈출구." 단순하고. 시각적이고. 좋아요. 소피아?
+ZOE: "A way out." Simple. Visual. Good. Sofia?
 
-64. SOFIA: In a nutshell, we sell one filler. Only to trained professionals. Our doctors reorder seventy percent of the time.
-    소피아: 한마디로, 저희는 필러 하나를 팝니다. 교육받은 전문가에게만. 의사들의 재주문율은 70%예요.
+SOFIA: In a nutshell, we sell one filler. Only to trained professionals. Our doctors reorder seventy percent of the time.
 
-65. ZOE: Good for distributors. They love reorder rates. Noah?
-    조이: 유통사한텐 좋네요. 재주문율을 좋아하거든요. 노아?
+ZOE: Good for distributors. They love reorder rates. Noah?
 
-66. NOAH: In a nutshell, we make a filler you can take back. And sell it only to ready hands.
-    노아: 한마디로, 저희는 되돌릴 수 있는 필러를 만듭니다. 그리고 준비된 손에만 팝니다.
+NOAH: In a nutshell, we make a filler you can take back. And sell it only to ready hands.
 
-67. ZOE: "Take back" might confuse non-native speakers. It sounds like a return policy.
-    조이: "Take back"은 비원어민을 헷갈리게 할 수도 있어요. 반품 정책처럼 들려요.
+ZOE: "Take back" might confuse non-native speakers. It sounds like a return policy.
 
-68. NOAH: Really? Lily's line?
-    노아: 정말요? 릴리의 문장인데?
+NOAH: Really? Lily's line?
 
-69. TASHA: A French nurse asked me once, "You give money back?" I laughed for a week.
-    타샤: 프랑스 간호사가 한번 물었어요. "돈을 돌려준다고요?" 일주일 동안 웃었어요.
+TASHA: A French nurse asked me once, "You give money back?" I laughed for a week.
 
-70. ZOE: For international audiences, "a filler you can dissolve quickly." Less poetry. More clarity.
-    조이: 국제 청중에겐 "빨리 녹일 수 있는 필러." 시는 덜고. 명확함은 더하고.
+ZOE: For international audiences, "a filler you can dissolve quickly." Less poetry. More clarity.
 
-71. NOAH: It's less beautiful.
-    노아: 덜 아름답네요.
+NOAH: It's less beautiful.
 
-72. ZOE: Beauty is for natives. Clarity is for everyone.
-    조이: 아름다움은 원어민을 위한 거예요. 명확함은 모두를 위한 거고.
+ZOE: Beauty is for natives. Clarity is for everyone.
 
-73. NOAH: Again. In a nutshell, we make a filler you can dissolve quickly. And we sell it only to trained hands.
-    노아: 다시. 한마디로, 저희는 빨리 녹일 수 있는 필러를 만듭니다. 그리고 교육받은 손에만 팝니다.
+NOAH: Again. In a nutshell, we make a filler you can dissolve quickly. And we sell it only to trained hands.
 
-74. ZOE: Perfect. Eighteen seconds. Now the question that opens every conversation. In Paris.
-    조이: 완벽해요. 18초. 이제 파리에서 모든 대화를 여는 질문.
+ZOE: Perfect. Eighteen seconds. Now the question that opens every conversation. In Paris.
 
-75. TASHA: "How long did your last dissolve take?" Like San Diego?
-    타샤: "마지막 용해는 얼마나 걸렸어요?" 샌디에이고처럼?
+TASHA: "How long did your last dissolve take?" Like San Diego?
 
-76. ZOE: Close. But some won't understand "dissolve." Try "What brings you to the show?" Then listen.
-    조이: 비슷해요. 하지만 "dissolve"를 모르는 사람도 있어요. "어떻게 학회에 오셨어요?"로 해 봐요. 그다음 들어요.
+ZOE: Close. But some won't understand "dissolve." Try "What brings you to the show?" Then listen.
 
-77. ELENA: And if they don't understand us?
-    엘레나: 그럼 그 사람들이 우리 말을 못 알아들으면요?
+ELENA: And if they don't understand us?
 
-78. ZOE: Then we don't speak louder. We speak simpler: shorter words, one idea per sentence, and maybe a quick drawing on paper. Louder is rude in every language, and it makes people feel stupid, which is the fastest way to lose a meeting.
-    조이: 그럼 더 크게 말하는 게 아니라 더 쉽게 말해요. 짧은 단어, 한 문장에 한 가지 생각, 필요하면 종이에 간단한 그림. 크게 말하는 건 모든 언어에서 무례하고, 상대를 바보처럼 느끼게 해요. 그게 미팅을 망치는 가장 빠른 길이에요.
+ZOE: Then we don't speak louder. We speak simpler: shorter words, one idea per sentence, and maybe a quick drawing on paper. Louder is rude in every language, and it makes people feel stupid, which is the fastest way to lose a meeting.
 
-79. PRIYA: And if we don't understand them?
-    프리야: 그럼 우리가 그 사람들 말을 못 알아들으면?
+PRIYA: And if we don't understand them?
 
-80. ZOE: "Could you say that again? Slowly?" And smile. Never pretend you understood.
-    조이: "다시 한번 말씀해 주시겠어요? 천천히?" 그리고 웃어요. 이해한 척은 절대 하지 말고요.
+ZOE: "Could you say that again? Slowly?" And smile. Never pretend you understood.
 
 ### 절정·전환 — 근무 순번과 박 대표의 전화
 
-81. ZOE: Rota. Three show days. Seven people. Two shifts a day.
-    조이: 순번. 전시 사흘. 일곱 명. 하루 두 교대.
+ZOE: Rota. Three show days. Seven people. Two shifts a day.
 
-82. GRACE: Morning shift. Noah, Elena, Tasha. Afternoon shift. Zoe, Sofia, Priya. Marcus floats.
-    그레이스: 오전 교대. 노아, 엘레나, 타샤. 오후 교대. 조이, 소피아, 프리야. 마커스는 유동.
+GRACE: Morning shift. Noah, Elena, Tasha. Afternoon shift. Zoe, Sofia, Priya. Marcus floats.
 
-83. MARCUS: "Floats" means I carry boxes.
-    마커스: "유동"은 내가 상자를 나른다는 뜻이지.
+MARCUS: "Floats" means I carry boxes.
 
-84. GRACE: It means you fix whatever breaks: a light, a screen, a scanner, a missing box. You're the contingency in human form. And when one of us needs a break, you step in, so the booth is never empty.
-    그레이스: 망가진 걸 다 고친다는 뜻이에요. 조명, 화면, 스캐너, 없어진 상자. 당신은 사람 형태의 예비비예요. 그리고 우리 중 누가 쉬어야 할 땐 당신이 들어가는 거죠. 그래야 부스가 절대 비지 않으니까요.
+GRACE: It means you fix whatever breaks: a light, a screen, a scanner, a missing box. You're the contingency in human form. And when one of us needs a break, you step in, so the booth is never empty.
 
-85. SOFIA: Distributor meetings? We'll get requests.
-    소피아: 유통사 미팅은요? 요청이 들어올 거예요.
+SOFIA: Distributor meetings? We'll get requests.
 
-86. ZOE: Day two. In the meeting corner. Thirty minutes each. Back to back. Noah and Sofia.
-    조이: 둘째 날. 미팅 코너에서. 각 30분. 연달아. 노아와 소피아.
+ZOE: Day two. In the meeting corner. Thirty minutes each. Back to back. Noah and Sofia.
 
-87. NOAH: How many?
-    노아: 몇 개요?
+NOAH: How many?
 
-88. ZOE: Six requests already. From the UK, Germany, France, Spain, the Netherlands, and Dubai.
-    조이: 벌써 요청 여섯 건. 영국, 독일, 프랑스, 스페인, 네덜란드, 그리고 두바이.
+ZOE: Six requests already. From the UK, Germany, France, Spain, the Netherlands, and Dubai.
 
-89. SOFIA: Six in one day. That's speed dating.
-    소피아: 하루에 여섯. 스피드 데이팅이네요.
+SOFIA: Six in one day. That's speed dating.
 
-90. ELENA: With one question that ends the date. "Do you sell to non-medical injectors?"
-    엘레나: 데이트를 끝내는 질문 하나와 함께. "비의료인 시술자에게도 판매하십니까?"
+ELENA: With one question that ends the date. "Do you sell to non-medical injectors?"
 
-91. NOAH: My phone. It's Korea. CEO Park. I promised to call him first. He called me first.
-    노아: 전화. 한국이에요. 박 대표님. 내가 먼저 전화하기로 했는데. 그분이 먼저 했네요.
+NOAH: My phone. It's Korea. CEO Park. I promised to call him first. He called me first.
 
-92. PARK: Mr. Noah. Good evening in Texas? Good morning in Ochang. I heard about Paris.
-    박 대표: 노아 씨. 텍사스는 저녁이죠? 오창은 아침이에요. 파리 소식 들었어요.
+PARK: Mr. Noah. Good evening in Texas? Good morning in Ochang. I heard about Paris.
 
-93. NOAH: CEO Park. I wanted to tell you myself. I'm sorry you heard first.
-    노아: 박 대표님. 직접 말씀드리고 싶었어요. 먼저 들으셔서 죄송해요.
+NOAH: CEO Park. I wanted to tell you myself. I'm sorry you heard first.
 
-94. PARK: Su-jin reads everything. She is faster than your emails.
-    박 대표: 수진 팀장이 다 읽어요. 당신네 이메일보다 빨라요.
+PARK: Su-jin reads everything. She is faster than your emails.
 
-95. NOAH: We chose Europe first, and I want to explain why. Korea is the hardest market in the world for fillers, and we're not ready for it yet. We want to make our mistakes somewhere else first, and come to Korea when we're truly prepared.
-    노아: 유럽을 먼저 택했어요. 이유를 설명드리고 싶어요. 한국은 필러에 있어 세계에서 가장 어려운 시장이고, 저희는 아직 준비가 안 됐어요. 실수는 다른 곳에서 먼저 하고, 정말 준비가 됐을 때 한국에 가고 싶어요.
+NOAH: We chose Europe first, and I want to explain why. Korea is the hardest market in the world for fillers, and we're not ready for it yet. We want to make our mistakes somewhere else first, and come to Korea when we're truly prepared.
 
-96. PARK: Good. That is wise. Korean doctors will ask very hard questions, about every ingredient, every study, every price. If your answers are weak, they will remember it for years. So it is better to practice in Europe first.
-    박 대표: 좋아요. 현명하네요. 한국 의사들은 아주 어려운 질문을 할 거예요. 모든 성분, 모든 연구, 모든 가격에 대해서. 답이 약하면 몇 년 동안 기억해요. 그러니 유럽에서 먼저 연습하는 게 나아요.
+PARK: Good. That is wise. Korean doctors will ask very hard questions, about every ingredient, every study, every price. If your answers are weak, they will remember it for years. So it is better to practice in Europe first.
 
-97. NOAH: And our agreement? The first conversation about Asia?
-    노아: 그리고 우리 합의는요? 아시아에 대한 첫 대화?
+NOAH: And our agreement? The first conversation about Asia?
 
-98. PARK: Still in writing. Still first. Learn in Europe. Then come to us.
-    박 대표: 여전히 서면으로. 여전히 첫 번째. 유럽에서 배우세요. 그다음 우리에게 오세요.
+PARK: Still in writing. Still first. Learn in Europe. Then come to us.
 
-99. NOAH: Thank you. Truly.
-    노아: 감사합니다. 진심으로.
+NOAH: Thank you. Truly.
 
-100. PARK: And Mr. Noah. Daeyang Bio is also going to Paris. Han Seo-yeon. Remember the name.
-     박 대표: 그리고 노아 씨. 대양바이오도 파리에 가요. 한서연. 이름 기억해 두세요.
+PARK: And Mr. Noah. Daeyang Bio is also going to Paris. Han Seo-yeon. Remember the name.
 
-101. NOAH: Daeyang? The company Halvern chose over you?
-     노아: 대양이요? 할번이 대표님 대신 고른 그 회사?
+NOAH: Daeyang? The company Halvern chose over you?
 
-102. PARK: The same. She is very smart. Very fast. Be polite. And be careful.
-     박 대표: 그 회사요. 아주 똑똑하고. 아주 빨라요. 예의 바르게. 그리고 조심하세요.
+PARK: The same. She is very smart. Very fast. Be polite. And be careful.
 
-103. MARCUS: What did he say?
-     마커스: 뭐래?
+MARCUS: What did he say?
 
-104. NOAH: "Learn in Europe. Then come to us." And watch for a woman named Han Seo-yeon.
-     노아: "유럽에서 배우고. 그다음 우리에게 오라." 그리고 한서연이라는 사람을 조심하래.
+NOAH: "Learn in Europe. Then come to us." And watch for a woman named Han Seo-yeon.
 
-105. PRIYA: Daeyang. The giant. In Paris. Next to Halvern, probably.
-     프리야: 대양. 거인. 파리에. 아마 할번 옆에.
+PRIYA: Daeyang. The giant. In Paris. Next to Halvern, probably.
 
 ### 마무리 — 저녁 6시, 로비
 
-106. CLAIRE: I brought tacos. Lily said you've been eating cupcakes for lunch. For a week.
-     클레어: 타코 가져왔어. 릴리 말로는 일주일째 점심으로 컵케이크 먹었다며.
+CLAIRE: I brought tacos. Lily said you've been eating cupcakes for lunch. For a week.
 
-107. NOAH: Denise made too many. It's a resource management issue.
-     노아: 데니스가 너무 많이 만들었어. 자원 관리 문제야.
+NOAH: Denise made too many. It's a resource management issue.
 
-108. CLAIRE: Noah, I have news. The Riverside Bridge is finished, and it's my first bridge as lead engineer. All those late nights of drawings, inspections, and arguments with the city, and now it's actually real. I wanted you to be the first to know.
-     클레어: 노아, 소식 있어. 리버사이드 다리가 완공됐어. 책임 엔지니어로서 내 첫 다리야. 도면, 점검, 시청과의 실랑이로 보낸 그 많은 밤들 끝에, 이제 진짜가 됐어. 네가 제일 먼저 알았으면 했어.
+CLAIRE: Noah, I have news. The Riverside Bridge is finished, and it's my first bridge as lead engineer. All those late nights of drawings, inspections, and arguments with the city, and now it's actually real. I wanted you to be the first to know.
 
-109. NOAH: Claire! That's huge. When does it open?
-     노아: 클레어! 대단하다. 언제 개통해?
+NOAH: Claire! That's huge. When does it open?
 
-110. CLAIRE: February third. The ribbon-cutting. Ten a.m. The mayor will be there.
-     클레어: 2월 3일. 준공식. 오전 10시. 시장도 와.
+CLAIRE: February third. The ribbon-cutting. Ten a.m. The mayor will be there.
 
-111. NOAH: February third. IMCAS ends January thirtieth. I'll be back.
-     노아: 2월 3일. IMCAS는 1월 30일에 끝나. 돌아와 있을 거야.
+NOAH: February third. IMCAS ends January thirtieth. I'll be back.
 
-112. CLAIRE: Will you? You always say that.
-     클레어: 그럴까? 넌 늘 그렇게 말하잖아.
+CLAIRE: Will you? You always say that.
 
-113. NOAH: I'll put it in my calendar. Twice. Marcus style.
-     노아: 달력에 넣을게. 두 번. 마커스 방식으로.
+NOAH: I'll put it in my calendar. Twice. Marcus style.
 
-114. CLAIRE: Don't promise. Just be there.
-     클레어: 약속하지 마. 그냥 와.
+CLAIRE: Don't promise. Just be there.
 
-115. ZOE: Noah! Sorry. One thing. The booth graphics proof. I need your approval tonight.
-     조이: 노아! 미안해요. 하나만. 부스 그래픽 시안. 오늘 밤 승인이 필요해요.
+ZOE: Noah! Sorry. One thing. The booth graphics proof. I need your approval tonight.
 
-116. CLAIRE: Go. I'll eat your taco.
-     클레어: 가. 네 타코는 내가 먹을게.
+CLAIRE: Go. I'll eat your taco.
 
-117. NOAH: Five minutes. I promise.
-     노아: 5분. 약속해.
+NOAH: Five minutes. I promise.
 
-118. CLAIRE: There it is again.
-     클레어: 또 나왔다.
+CLAIRE: There it is again.
 
-119. NOAH: …I mean, I'll try for five minutes.
-     노아: …그러니까, 5분이 되도록 노력할게.
+NOAH: …I mean, I'll try for five minutes.
 
-120. CLAIRE: Better. Explore, don't promise. I'm learning your language.
-     클레어: 낫네. 알아보되 약속하지 않기. 너희 언어를 배우는 중이야.
+CLAIRE: Better. Explore, don't promise. I'm learning your language.
 
 ---
 
@@ -393,16 +273,16 @@
 
 | # | 표현 | 뜻 | 대본 속 쓰임 / 비즈니스 활용 |
 |---|---|---|---|
-| 1 | booth layout | 부스 배치 | 1~13턴. 공간 구성(교육 스테이션·미팅 코너 등). |
-| 2 | contingency | 예비비 | 17~20턴. 예상치 못한 비용을 위한 여유 예산. |
-| 3 | Not available for sale in the EU. | EU 내 판매 불가. | 22턴. 미인증 의료기기 전시 시 필수 표시. |
-| 4 | We don't know when. So we don't say soon. | 언제인지 모르니 곧이라고 하지 않는다. | 27턴. 일정 약속을 피하는 원칙. |
-| 5 | ATA Carnet | ATA 카르네(임시 통관 서류) | 35턴. 전시용 물품의 무관세 임시 반입·반출. |
-| 6 | lead capture | 리드 수집 | 46턴. 방문객 정보를 수집·분류하는 활동. |
-| 7 | In a nutshell, we… | 한마디로, 저희는… | 57~73턴. 30초 피치의 시작 표현. |
-| 8 | Beauty is for natives. Clarity is for everyone. | 아름다움은 원어민용, 명확함은 모두용. | 72턴. 국제 영어 커뮤니케이션 원칙. |
-| 9 | We don't speak louder. We speak simpler. | 더 크게가 아니라 더 쉽게 말한다. | 78턴. 비원어민과 대화하는 요령. |
-| 10 | Could you say that again? Slowly? | 다시 한번, 천천히 말씀해 주시겠어요? | 80턴. 이해한 척하지 않고 되묻는 표현. |
+| 1 | booth layout | 부스 배치 | 도입. 공간 구성(교육 스테이션·미팅 코너 등). |
+| 2 | contingency | 예비비 | 장면1. 예상치 못한 비용을 위한 여유 예산. |
+| 3 | Not available for sale in the EU. | EU 내 판매 불가. | 장면1. 미인증 의료기기 전시 시 필수 표시. |
+| 4 | We don't know when. So we don't say soon. | 언제인지 모르니 곧이라고 하지 않는다. | 장면1. 일정 약속을 피하는 원칙. |
+| 5 | ATA Carnet | ATA 카르네(임시 통관 서류) | 장면1. 전시용 물품의 무관세 임시 반입·반출. |
+| 6 | lead capture | 리드 수집 | 장면1. 방문객 정보를 수집·분류하는 활동. |
+| 7 | In a nutshell, we… | 한마디로, 저희는… | 장면2. 30초 피치의 시작 표현. |
+| 8 | Beauty is for natives. Clarity is for everyone. | 아름다움은 원어민용, 명확함은 모두용. | 장면2. 국제 영어 커뮤니케이션 원칙. |
+| 9 | We don't speak louder. We speak simpler. | 더 크게가 아니라 더 쉽게 말한다. | 장면2. 비원어민과 대화하는 요령. |
+| 10 | Could you say that again? Slowly? | 다시 한번, 천천히 말씀해 주시겠어요? | 장면2. 이해한 척하지 않고 되묻는 표현. |
 
 ### ② 비즈니스 컬처 노트 — 국제 전시회 준비
 해외 전시회는 국내보다 **물류(해상·항공 운송, 통관)**와 **언어**가 큰 변수다. 전시용 물품은 **ATA 카르네**로 임시 반입하면 관세 없이 들여왔다 가져갈 수 있다. 현지에서 승인받지 않은 의료기기는 전시만 가능하며, 여러 언어로 **판매 불가 표시**를 하고 "곧 출시" 같은 승인 관련 주장도 피해야 한다. 국제 청중에게는 관용어("home run", "game changer")를 빼고, **짧은 문장·천천히·숫자 하나**로 말하는 것이 효과적이다. 비원어민이 알아듣지 못할 때는 더 크게가 아니라 **더 쉽게** 말하고, 내가 못 알아들었을 때는 **이해한 척하지 말고 다시 묻는 것**이 프로다운 태도다.
@@ -423,7 +303,7 @@
 
 ### ④ 긴 발화 분석
 
-> **50턴 ELENA:** "Especially then. Big and wrong is worse than small and wrong, because a big distributor moves thousands of syringes. If even a few end up with untrained injectors, that's not one bad story. That's a pattern, with our name on every box."
+> **ELENA (장면1):** "Especially then. Big and wrong is worse than small and wrong, because a big distributor moves thousands of syringes. If even a few end up with untrained injectors, that's not one bad story. That's a pattern, with our name on every box."
 
 | 구조 | 영어 | 기능 |
 |---|---|---|
@@ -435,3 +315,257 @@
 **활용 패턴:** 짧은 입장 → because + 근거 → If even a few… → "That's not A. That's B."
 **연결 표현:** Especially then(특히 그럴수록) · If even a few…(몇 개라도 ~하면) · end up with(결국 ~에게 가다)
 **연습:** 규모는 크지만 품질 기준이 낮은 거래처를 거절해야 하는 이유를 같은 구조로 40단어 안팎으로 말해 보기.
+
+---
+
+## 한국어 번역
+
+### 도입 — 오전 9시, 부스 모형
+
+조이: 여기 있어요. 우리 첫 해외 부스. 10제곱미터. 약 3×3.
+
+마커스: 우리 차고보다 작은데.
+
+조이: 당신 차고엔 교육 스테이션도, 미팅 코너도, 통역사도 없잖아요. 여기선 1제곱미터마다 할 일이 있어요. 한쪽에선 의사들이 연습하고, 다른 쪽에선 유통사들이 앉아서 얘기하고, 브로슈어를 기다리며 서 있는 사람은 아무도 없어요.
+
+노아: 홀 어디에 있어요?
+
+조이: 2홀. 스탠드 2.F14. 입구 근처. 유동 인구 좋아요.
+
+그레이스: 그리고 우리 이웃. 스탠드 2.F16. 60제곱미터.
+
+프리야: 맞혀 볼게.
+
+그레이스: 할번.
+
+마커스: 당연히 할번이지. 톰이 요청했을 거야.
+
+조이: 사실 우리가 먼저 배정받았어요. 할번이 지난주에 우리 옆으로 옮겼어요.
+
+엘레나: 그러니까 톰이 우릴 골랐네요. 거의 칭찬이에요.
+
+노아: 아니면 의사들이 비교하길 원하는 거죠. 큰 부스, 작은 부스.
+
+조이: 그럼 작은 게 똑똑해 보이게 만들죠, 샌디에이고처럼. 큰 부스는 '우린 돈이 있다'고 말해요. 시연해 보려고 의사들이 줄 서 있는 작은 부스는 '우린 기다릴 가치가 있는 걸 가졌다'고 말하고요.
+
+마커스: 예산 먼저. 20만. 어디에 써?
+
+조이: 그레이스한테 내역이 있어요. 화면에.
+
+### 장면1 — 예산, 물류, 규정
+
+그레이스: 공간 임대 3만 8천. 부스 제작과 그래픽 4만 5천.
+
+조이: 운송과 통관 2만 2천. 출장과 호텔 7만. 번역 1만 5천. 예비비 1만.
+
+마커스: 해외 전시에 예비비 1만? 얇네. 내 경험상 해외에선 늘 뭔가 잘못돼. 상자가 세관에 묶이거나, 패널이 깨져서 도착하거나, 비행기가 취소되거나. 1만이면 그중 하나는 막아도, 두 개는 못 막아.
+
+조이: 그럼 커피 머신을 뺄게요. 파리엔 카페가 있잖아요.
+
+마커스: 좋아. 둘은 하나. 예비비가 그 두 번째야.
+
+엘레나: 이제 중요한 부분. 우리가 뭘 보여 줄 수 있어요? CE 마크가 없잖아요.
+
+조이: 전시는 할 수 있어요. 명확한 표시와 함께. "EU 내 판매 불가."
+
+타샤: 영어로만요? 의사 절반은 프랑스어나. 독일어나. 아랍어를 쓸 텐데.
+
+조이: 영어, 프랑스어, 독일어. 3개 국어. 모든 표면에.
+
+엘레나: 그리고 유럽 승인에 관한 주장은 금지. "출시 예정"조차도.
+
+조이: "출시 예정"도 안 돼요? 제가 제일 좋아하는 문구인데.
+
+엘레나: 언제인지 모르잖아요. 그러니 곧이라고 하지 않아요.
+
+프리야: 주사기는? 전시용으로?
+
+마커스: 진짜 제품은 못 가져가. 거기선 승인이 안 났어. 어차피 세관에서 막을 거고.
+
+프리야: 그럼 더미로. 물이랑 투명 젤. "전시용. 인체 사용 금지" 라벨.
+
+타샤: 의사들이 그래도 압출력을 느낄 수 있어요? 그게 우리 최고의 시연인데.
+
+프리야: 점도를 맞출게. 그래서 손에 쥐었을 때 플런저 느낌이 거의 같도록. 느낄 수 있을 만큼 가깝게, 주입할 수 있을 만큼은 아니게. 절대로. 그리고 더미마다 그 라벨을 주사기 몸통에 바로 인쇄할 거야. 언젠가 누군가 하나 슬쩍 챙기려 할 테니까.
+
+마커스: 운송. 부스 자재는 해상 운송. 6주. 12월 20일 출발.
+
+조이: 그럼 마네킹은? 타샤 훈련용?
+
+마커스: 항공으로. ATA 카르네와 함께. 임시 물품용 세관 여권이야.
+
+노아: 마네킹용 여권이요?
+
+마커스: 기본적으로 '이건 들어오고, 이건 나가고, 아무도 안 판다'는 문서야. 그래서 수입세가 없어. 문제는 모든 물품이 하나도 빠짐없이 다시 나가야 한다는 거지. 그러니까 마네킹 하나라도 없어지면 우리가 물어내야 해.
+
+타샤: 세관이 잃어버리면요?
+
+마커스: 내 여행 가방에 머리 두 개. 늘 그렇듯. 이번엔 프랑스 보안 요원한테 설명할게.
+
+엘레나: 편지를 가져가요. 프랑스어로. 아니면 IMCAS를 공항 사무실에서 보낼 거예요.
+
+조이: 번역. 처음 10초 카드. 프랑스어판과 독일어판. 다음 주 준비 완료.
+
+타샤: 누가 확인했어요? 의학적으로?
+
+엘레나: 프랑스 피부과 의사와 독일 간호사. 둘 다 리스 박사 네트워크. 유급. 공개됨.
+
+타샤: 프랑스어로 "주입 중단"은?
+
+엘레나: "아레테 랭젝시옹." 짧고. 명확해요. 프랑스 사촌한테 시험해 봤어요.
+
+그레이스: 리드 수집. 배지 스캐너를 빌릴 거예요. 하지만 다른 메모가 필요해요. 의사용과 유통사용.
+
+소피아: 유통사에겐 질문 하나가 모든 걸 결정해요. '비의료인 시술자에게도 판매하십니까?' 커피 다음, 숫자 얘기 전에, 일찍 그리고 가볍게 물어볼 거예요. 답이 '네'라면 나머지 미팅은 의미가 없으니까요.
+
+엘레나: 그렇다고 하면 C 등급. 자동으로. 아무리 커도.
+
+소피아: 유럽 최대 유통사라도요?
+
+엘레나: 특히 그럴수록요. 크고 틀린 게 작고 틀린 것보다 나빠요. 큰 유통사는 주사기를 수천 개씩 움직이거든요. 그중 몇 개라도 교육받지 않은 시술자 손에 들어가면, 그건 나쁜 사건 하나가 아니에요. 상자마다 우리 이름이 찍힌 하나의 패턴이에요.
+
+### 장면2 — 오후 2시, 30초 피치 훈련
+
+조이: 30초 피치. 국제 버전. 규칙 1. 관용어 금지.
+
+노아: 왜요?
+
+조이: "홈런." "박살 내자." "게임 체인저." 독일 의사한텐 헛소리로 들려요. 아니면 야구거나.
+
+타샤: 규칙 2는요?
+
+조이: 천천히, 그리고 문장은 짧게. 파리에서 만날 사람들 대부분은 제2, 제3 언어로 말하고 있고, 피곤해요. 그러니 숫자는 하나만 줘요. 집으로 가는 비행기에서도 기억할 숫자로.
+
+엘레나: 어떤 숫자요?
+
+조이: 말해 봐요. "한마디로, 저희는…"으로 시작해요. 프리야, 먼저.
+
+프리야: 한마디로, 저희는 히알루로니다아제 매개 용해를 가속하기 위해 절단 동역학이 조정된 효소 감응성 가교를 사용합니다.
+
+조이: 그건 화학으로 가득 찬 한마디였어요. 다시. 오후 4시의 지친 의사를 위해서.
+
+프리야: …한마디로, 저희 필러는 필요할 때 더 빨리 녹아요. 2.8배 빨리.
+
+조이: 낫네요. 훨씬 나아요. 엘레나?
+
+엘레나: 한마디로, 저희는 주사기 하나 팔기 전에 모든 시술자를 교육합니다. 그다음 탈출구를 드리죠.
+
+조이: "탈출구." 단순하고. 시각적이고. 좋아요. 소피아?
+
+소피아: 한마디로, 저희는 필러 하나를 팝니다. 교육받은 전문가에게만. 의사들의 재주문율은 70%예요.
+
+조이: 유통사한텐 좋네요. 재주문율을 좋아하거든요. 노아?
+
+노아: 한마디로, 저희는 되돌릴 수 있는 필러를 만듭니다. 그리고 준비된 손에만 팝니다.
+
+조이: "Take back"은 비원어민을 헷갈리게 할 수도 있어요. 반품 정책처럼 들려요.
+
+노아: 정말요? 릴리의 문장인데?
+
+타샤: 프랑스 간호사가 한번 물었어요. "돈을 돌려준다고요?" 일주일 동안 웃었어요.
+
+조이: 국제 청중에겐 "빨리 녹일 수 있는 필러." 시는 덜고. 명확함은 더하고.
+
+노아: 덜 아름답네요.
+
+조이: 아름다움은 원어민을 위한 거예요. 명확함은 모두를 위한 거고.
+
+노아: 다시. 한마디로, 저희는 빨리 녹일 수 있는 필러를 만듭니다. 그리고 교육받은 손에만 팝니다.
+
+조이: 완벽해요. 18초. 이제 파리에서 모든 대화를 여는 질문.
+
+타샤: "마지막 용해는 얼마나 걸렸어요?" 샌디에이고처럼?
+
+조이: 비슷해요. 하지만 "dissolve"를 모르는 사람도 있어요. "어떻게 학회에 오셨어요?"로 해 봐요. 그다음 들어요.
+
+엘레나: 그럼 그 사람들이 우리 말을 못 알아들으면요?
+
+조이: 그럼 더 크게 말하는 게 아니라 더 쉽게 말해요. 짧은 단어, 한 문장에 한 가지 생각, 필요하면 종이에 간단한 그림. 크게 말하는 건 모든 언어에서 무례하고, 상대를 바보처럼 느끼게 해요. 그게 미팅을 망치는 가장 빠른 길이에요.
+
+프리야: 그럼 우리가 그 사람들 말을 못 알아들으면?
+
+조이: "다시 한번 말씀해 주시겠어요? 천천히?" 그리고 웃어요. 이해한 척은 절대 하지 말고요.
+
+### 절정·전환 — 근무 순번과 박 대표의 전화
+
+조이: 순번. 전시 사흘. 일곱 명. 하루 두 교대.
+
+그레이스: 오전 교대. 노아, 엘레나, 타샤. 오후 교대. 조이, 소피아, 프리야. 마커스는 유동.
+
+마커스: "유동"은 내가 상자를 나른다는 뜻이지.
+
+그레이스: 망가진 걸 다 고친다는 뜻이에요. 조명, 화면, 스캐너, 없어진 상자. 당신은 사람 형태의 예비비예요. 그리고 우리 중 누가 쉬어야 할 땐 당신이 들어가는 거죠. 그래야 부스가 절대 비지 않으니까요.
+
+소피아: 유통사 미팅은요? 요청이 들어올 거예요.
+
+조이: 둘째 날. 미팅 코너에서. 각 30분. 연달아. 노아와 소피아.
+
+노아: 몇 개요?
+
+조이: 벌써 요청 여섯 건. 영국, 독일, 프랑스, 스페인, 네덜란드, 그리고 두바이.
+
+소피아: 하루에 여섯. 스피드 데이팅이네요.
+
+엘레나: 데이트를 끝내는 질문 하나와 함께. "비의료인 시술자에게도 판매하십니까?"
+
+노아: 전화. 한국이에요. 박 대표님. 내가 먼저 전화하기로 했는데. 그분이 먼저 했네요.
+
+박 대표: 노아 씨. 텍사스는 저녁이죠? 오창은 아침이에요. 파리 소식 들었어요.
+
+노아: 박 대표님. 직접 말씀드리고 싶었어요. 먼저 들으셔서 죄송해요.
+
+박 대표: 수진 팀장이 다 읽어요. 당신네 이메일보다 빨라요.
+
+노아: 유럽을 먼저 택했어요. 이유를 설명드리고 싶어요. 한국은 필러에 있어 세계에서 가장 어려운 시장이고, 저희는 아직 준비가 안 됐어요. 실수는 다른 곳에서 먼저 하고, 정말 준비가 됐을 때 한국에 가고 싶어요.
+
+박 대표: 좋아요. 현명하네요. 한국 의사들은 아주 어려운 질문을 할 거예요. 모든 성분, 모든 연구, 모든 가격에 대해서. 답이 약하면 몇 년 동안 기억해요. 그러니 유럽에서 먼저 연습하는 게 나아요.
+
+노아: 그리고 우리 합의는요? 아시아에 대한 첫 대화?
+
+박 대표: 여전히 서면으로. 여전히 첫 번째. 유럽에서 배우세요. 그다음 우리에게 오세요.
+
+노아: 감사합니다. 진심으로.
+
+박 대표: 그리고 노아 씨. 대양바이오도 파리에 가요. 한서연. 이름 기억해 두세요.
+
+노아: 대양이요? 할번이 대표님 대신 고른 그 회사?
+
+박 대표: 그 회사요. 아주 똑똑하고. 아주 빨라요. 예의 바르게. 그리고 조심하세요.
+
+마커스: 뭐래?
+
+노아: "유럽에서 배우고. 그다음 우리에게 오라." 그리고 한서연이라는 사람을 조심하래.
+
+프리야: 대양. 거인. 파리에. 아마 할번 옆에.
+
+### 마무리 — 저녁 6시, 로비
+
+클레어: 타코 가져왔어. 릴리 말로는 일주일째 점심으로 컵케이크 먹었다며.
+
+노아: 데니스가 너무 많이 만들었어. 자원 관리 문제야.
+
+클레어: 노아, 소식 있어. 리버사이드 다리가 완공됐어. 책임 엔지니어로서 내 첫 다리야. 도면, 점검, 시청과의 실랑이로 보낸 그 많은 밤들 끝에, 이제 진짜가 됐어. 네가 제일 먼저 알았으면 했어.
+
+노아: 클레어! 대단하다. 언제 개통해?
+
+클레어: 2월 3일. 준공식. 오전 10시. 시장도 와.
+
+노아: 2월 3일. IMCAS는 1월 30일에 끝나. 돌아와 있을 거야.
+
+클레어: 그럴까? 넌 늘 그렇게 말하잖아.
+
+노아: 달력에 넣을게. 두 번. 마커스 방식으로.
+
+클레어: 약속하지 마. 그냥 와.
+
+조이: 노아! 미안해요. 하나만. 부스 그래픽 시안. 오늘 밤 승인이 필요해요.
+
+클레어: 가. 네 타코는 내가 먹을게.
+
+노아: 5분. 약속해.
+
+클레어: 또 나왔다.
+
+노아: …그러니까, 5분이 되도록 노력할게.
+
+클레어: 낫네. 알아보되 약속하지 않기. 너희 언어를 배우는 중이야.

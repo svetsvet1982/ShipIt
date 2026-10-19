@@ -17,373 +17,253 @@
 
 ### 도입 — 저녁 7시, 텅 빈 전시장
 
-01. ZOE: Booth 1214. Twenty by twenty. Empty carpet. Fourteen hours until doors open.
-    조이: 1214번 부스. 20x20. 빈 카펫. 개막까지 14시간.
+ZOE: Booth 1214. Twenty by twenty. Empty carpet. Fourteen hours until doors open.
 
-02. MARCUS: Crates are here. I'm counting. Nine, ten, eleven…
-    마커스: 상자 도착했어. 세는 중이야. 아홉, 열, 열하나…
+MARCUS: Crates are here. I'm counting. Nine, ten, eleven…
 
-03. NOAH: How many should there be?
-    노아: 몇 개여야 하는데?
+NOAH: How many should there be?
 
-04. MARCUS: Twelve. We have eleven.
-    마커스: 열둘. 우리한테 열하나 있어.
+MARCUS: Twelve. We have eleven.
 
-05. ZOE: Which one is missing? Please don't say the mannequins.
-    조이: 어느 게 없어요? 제발 마네킹이라고 하지 마요.
+ZOE: Which one is missing? Please don't say the mannequins.
 
-06. MARCUS: Crate twelve. Mannequins and the kit display.
-    마커스: 12번 상자. 마네킹과 키트 진열대.
+MARCUS: Crate twelve. Mannequins and the kit display.
 
-07. TASHA: That's my whole training station.
-    타샤: 그게 제 교육 스테이션 전부예요.
+TASHA: That's my whole training station.
 
-08. ZOE: I'm calling the shipping company. Again.
-    조이: 운송 회사에 전화할게요. 또.
+ZOE: I'm calling the shipping company. Again.
 
-09. AVA: Is it always like this? The night before a show?
-    에이바: 원래 이래요? 전시회 전날 밤엔?
+AVA: Is it always like this? The night before a show?
 
-10. DEREK: Always. Fifteen years. Something always breaks. A crate goes missing, a banner arrives wrong, a booth has no power. The trick is to fix it before the doors open.
-    데릭: 항상. 15년 동안. 꼭 뭔가 망가져요. 상자가 없어지거나, 배너가 잘못 오거나, 부스에 전기가 안 들어오거나. 요령은 문이 열리기 전에 고치는 거예요.
+DEREK: Always. Fifteen years. Something always breaks. A crate goes missing, a banner arrives wrong, a booth has no power. The trick is to fix it before the doors open.
 
-11. AVA: Congratulations on the retake, by the way.
-    에이바: 그나저나 재시험 합격 축하해요.
+AVA: Congratulations on the retake, by the way.
 
-12. DEREK: Thanks. Elena made me say "not on our label" forty times. In her clinic.
-    데릭: 고마워요. 엘레나가 "라벨에 없습니다"를 마흔 번 말하게 했어요. 병원에서.
+DEREK: Thanks. Elena made me say "not on our label" forty times. In her clinic.
 
-13. NOAH: I said it fifty. We both passed.
-    노아: 난 쉰 번. 우리 둘 다 합격했죠.
+NOAH: I said it fifty. We both passed.
 
-14. ZOE: The shipping company says "tomorrow afternoon." The show opens at nine.
-    조이: 운송 회사가 "내일 오후"래요. 전시는 9시에 열려요.
+ZOE: The shipping company says "tomorrow afternoon." The show opens at nine.
 
-15. MARCUS: Then it's a good thing I can count to two.
-    마커스: 그럼 내가 둘까지 셀 줄 알아서 다행이네.
+MARCUS: Then it's a good thing I can count to two.
 
 ### 장면1 — 두 가지 위기
 
-16. TASHA: What does that mean?
-    타샤: 그게 무슨 뜻이에요?
+TASHA: What does that mean?
 
-17. MARCUS: My checked bags. Two mannequin heads. Three kits. One spare timer.
-    마커스: 내 위탁 수하물. 마네킹 머리 두 개. 키트 세 개. 여분 타이머 하나.
+MARCUS: My checked bags. Two mannequin heads. Three kits. One spare timer.
 
-18. TASHA: You flew with mannequin heads? Through airport security?
-    타샤: 마네킹 머리를 들고 비행기를 탔어요? 공항 보안 검색을 통과해서?
+TASHA: You flew with mannequin heads? Through airport security?
 
-19. MARCUS: The officer asked many questions. I explained it was for medical training, and he still opened every bag. Took a while. Worth it. Two is one. One is none.
-    마커스: 보안 요원이 질문을 많이 하더군. 의료 교육용이라고 설명했는데도 가방을 전부 열어 봤어. 한참 걸렸지. 그럴 가치가 있었어. 둘은 하나. 하나는 없음.
+MARCUS: The officer asked many questions. I explained it was for medical training, and he still opened every bag. Took a while. Worth it. Two is one. One is none.
 
-20. TASHA: Marcus, I could kiss you.
-    타샤: 마커스, 뽀뽀해 주고 싶네요.
+TASHA: Marcus, I could kiss you.
 
-21. MARCUS: Please don't. Denise is the jealous type.
-    마커스: 제발 하지 마. 데니스가 질투가 많아.
+MARCUS: Please don't. Denise is the jealous type.
 
-22. ZOE: Okay. Training station saved. Let's hang the main banner.
-    조이: 좋아요. 교육 스테이션 살았다. 메인 배너 걸어요.
+ZOE: Okay. Training station saved. Let's hang the main banner.
 
-23. LEO: Unrolling now. It's huge. "Ready."
-    레오: 지금 펼치는 중이에요. 엄청 커요. "Ready."
+LEO: Unrolling now. It's huge. "Ready."
 
-24. AVA: It's beautiful. The nurse's hands. The morning light.
-    에이바: 아름다워요. 간호사의 손. 아침 햇살.
+AVA: It's beautiful. The nurse's hands. The morning light.
 
-25. ELENA: Wait. Bring the bottom corner closer. I need to read it.
-    엘레나: 잠깐만요. 아래 모서리를 가까이 가져와요. 읽어 봐야겠어요.
+ELENA: Wait. Bring the bottom corner closer. I need to read it.
 
-26. LEO: The limitation statement?
-    레오: 한계 문구요?
+LEO: The limitation statement?
 
-27. ELENA: Yes. It's tiny. I can barely read it. From one meter.
-    엘레나: 네. 너무 작아요. 1미터 거리에서도 겨우 읽혀요.
+ELENA: Yes. It's tiny. I can barely read it. From one meter.
 
-28. ZOE: That's impossible. I approved twenty-four-point type.
-    조이: 말도 안 돼요. 24포인트 글씨로 승인했는데.
+ZOE: That's impossible. I approved twenty-four-point type.
 
-29. LEO: The printer scaled the whole file down to fit the frame. The picture still looks perfect, so nobody checked the small text. Every line shrank, including the limitation statement.
-    레오: 인쇄소가 프레임에 맞추려고 파일 전체를 줄였네요. 사진은 여전히 완벽해 보여서, 아무도 작은 글씨는 확인 안 했어요. 한계 문구를 포함해서 모든 줄이 줄어든 거예요.
+LEO: The printer scaled the whole file down to fit the frame. The picture still looks perfect, so nobody checked the small text. Every line shrank, including the limitation statement.
 
-30. ELENA: Then this banner can't go up. Readable size. Diane's rule.
-    엘레나: 그럼 이 배너는 못 걸어요. 읽을 수 있는 크기. 다이앤의 규칙.
+ELENA: Then this banner can't go up. Readable size. Diane's rule.
 
-31. ZOE: It's our main banner! We have nothing else that big.
-    조이: 메인 배너예요! 그만큼 큰 건 다른 게 없어요.
+ZOE: It's our main banner! We have nothing else that big.
 
-32. NOAH: Elena's right. If the limitation is invisible, the claim is misleading. Tomorrow thousands of dermatologists walk past this booth, and the FDA reads banners too. We can't hide our honesty in the corner.
-    노아: 엘레나 말이 맞아요. 한계 문구가 안 보이면 주장이 오해를 불러요. 내일 수천 명의 피부과 의사가 이 부스 앞을 지나가고, FDA도 배너를 읽어요. 우리의 정직함을 구석에 숨길 순 없어요.
+NOAH: Elena's right. If the limitation is invisible, the claim is misleading. Tomorrow thousands of dermatologists walk past this booth, and the FDA reads banners too. We can't hide our honesty in the corner.
 
-33. ZOE: I know. I know. I'm the one who said "no tiny letters."
-    조이: 알아요. 알아요. "깨알 글씨 금지"라고 한 게 저예요.
+ZOE: I know. I know. I'm the one who said "no tiny letters."
 
-34. AVA: Could we print a correction strip? And attach it?
-    에이바: 수정 띠를 인쇄해서 붙일 수 있을까요?
+AVA: Could we print a correction strip? And attach it?
 
-35. ZOE: A patch on our main banner? It'll look cheap. Everyone will see the strip, and right across from a fifty-by-fifty Halvern booth, we'll look like amateurs.
-    조이: 메인 배너에 덧대기요? 싸구려처럼 보일 거예요. 다들 그 띠를 볼 거고, 할번의 50x50 부스 바로 맞은편에서 우린 아마추어처럼 보일 거예요.
+ZOE: A patch on our main banner? It'll look cheap. Everyone will see the strip, and right across from a fifty-by-fifty Halvern booth, we'll look like amateurs.
 
-36. ELENA: Cheap is better than illegal.
-    엘레나: 싸구려가 불법보다 나아요.
+ELENA: Cheap is better than illegal.
 
-37. DEREK: Or we reprint the whole thing. Tonight.
-    데릭: 아니면 전체를 다시 인쇄해요. 오늘 밤.
+DEREK: Or we reprint the whole thing. Tonight.
 
-38. ZOE: At eight p.m.? Every print shop in San Diego is closed.
-    조이: 저녁 8시에요? 샌디에이고 인쇄소는 전부 닫았어요.
+ZOE: At eight p.m.? Every print shop in San Diego is closed.
 
-39. DEREK: Not Manny's. Fifteen years of AAD shows. I know a guy. Manny has saved me before, always after midnight, always for cash. He owes me nothing, but he likes a challenge.
-    데릭: 매니네는 아니에요. AAD 15년. 아는 사람이 있어요. 매니는 전에도 절 구해 줬어요. 늘 자정 넘어서, 늘 현금으로. 저한테 빚진 건 없지만, 도전을 좋아하거든요.
+DEREK: Not Manny's. Fifteen years of AAD shows. I know a guy. Manny has saved me before, always after midnight, always for cash. He owes me nothing, but he likes a challenge.
 
-40. NOAH: Can he do it by morning?
-    노아: 아침까지 될까요?
+NOAH: Can he do it by morning?
 
-41. DEREK: Let me call. Manny, it's Derek. I need a miracle. Again.
-    데릭: 전화해 볼게요. 매니, 나 데릭이야. 기적이 필요해. 또.
+DEREK: Let me call. Manny, it's Derek. I need a miracle. Again.
 
-42. ZOE: Leo, send the original file. Full size. No scaling.
-    조이: 레오, 원본 파일 보내요. 원래 크기. 축소 없이.
+ZOE: Leo, send the original file. Full size. No scaling.
 
-43. LEO: Sending. And I'm locking the type size. In red.
-    레오: 보내는 중. 그리고 글씨 크기를 고정할게요. 빨간색으로 표시해서.
+LEO: Sending. And I'm locking the type size. In red.
 
-44. DEREK: Manny says yes. Ready by one a.m. Cash price, not cheap.
-    데릭: 매니가 된대요. 새벽 1시까지. 현금가, 안 싸요.
+DEREK: Manny says yes. Ready by one a.m. Cash price, not cheap.
 
-45. MARCUS: How much?
-    마커스: 얼마?
+MARCUS: How much?
 
-46. DEREK: Eighteen hundred dollars.
-    데릭: 1,800달러.
+DEREK: Eighteen hundred dollars.
 
-47. MARCUS: Approved. Cheaper than a warning letter.
-    마커스: 승인. 경고장보다 싸네.
+MARCUS: Approved. Cheaper than a warning letter.
 
-48. ZOE: Derek, you just saved launch day.
-    조이: 데릭, 방금 출시일을 살렸어요.
+ZOE: Derek, you just saved launch day.
 
-49. DEREK: Keep the Tuesdays. Keep the contacts. Lose the smile. I'm learning.
-    데릭: 화요일은 지키고. 인맥도 지키고. 미소는 버리고. 배우는 중이에요.
+DEREK: Keep the Tuesdays. Keep the contacts. Lose the smile. I'm learning.
 
-50. ELENA: And you didn't smile once tonight. I noticed.
-    엘레나: 그리고 오늘 밤 한 번도 안 웃었어요. 봤어요.
+ELENA: And you didn't smile once tonight. I noticed.
 
 ### 장면2 — 통로 건너편
 
-51. AVA: Look across the aisle. Is that… a wall made of screens?
-    에이바: 통로 건너편 좀 봐요. 저거… 화면으로 만든 벽이에요?
+AVA: Look across the aisle. Is that… a wall made of screens?
 
-52. PRIYA: An LED wall. Fifty by fifty. Two stories tall.
-    프리야: LED 벽이에요. 50x50. 2층 높이.
+PRIYA: An LED wall. Fifty by fifty. Two stories tall.
 
-53. LEO: What's on the screen?
-    레오: 화면에 뭐가 나와요?
+LEO: What's on the screen?
 
-54. PRIYA: "Lumaderm Flex. Coming soon." With a dissolving animation.
-    프리야: "루마덤 플렉스. 곧 출시." 녹는 애니메이션이랑 같이.
+PRIYA: "Lumaderm Flex. Coming soon." With a dissolving animation.
 
-55. ZOE: They're using our story. On a two-story wall.
-    조이: 우리 이야기를 쓰고 있네요. 2층짜리 벽에.
+ZOE: They're using our story. On a two-story wall.
 
-56. TOM: Not your story, Zoe. Science belongs to everyone.
-    톰: 당신네 이야기가 아니에요, 조이. 과학은 모두의 것이죠.
+TOM: Not your story, Zoe. Science belongs to everyone.
 
-57. NOAH: Tom. Working late?
-    노아: 톰. 늦게까지 일하네요?
+NOAH: Tom. Working late?
 
-58. TOM: Checking on the neighbors. Welcome to the big leagues, Noah.
-    톰: 이웃 살피러 왔지. 빅리그에 온 걸 환영해, 노아.
+TOM: Checking on the neighbors. Welcome to the big leagues, Noah.
 
-59. NOAH: Thank you. It's a nice booth.
-    노아: 고마워요. 멋진 부스네요.
+NOAH: Thank you. It's a nice booth.
 
-60. TOM: Yours is… cozy. Twenty by twenty?
-    톰: 당신 건… 아늑하네. 20x20?
+TOM: Yours is… cozy. Twenty by twenty?
 
-61. ZOE: Small booth. Big ideas.
-    조이: 작은 부스. 큰 아이디어.
+ZOE: Small booth. Big ideas.
 
-62. TOM: Derek Shaw. You poached my golf partner, Noah.
-    톰: 데릭 쇼. 내 골프 친구를 빼 갔군, 노아.
+TOM: Derek Shaw. You poached my golf partner, Noah.
 
-63. DEREK: Nobody poached me, Tom. I passed a test. You'd fail it.
-    데릭: 아무도 날 빼 가지 않았어요, 톰. 난 시험을 통과했어요. 당신은 떨어질 거고.
+DEREK: Nobody poached me, Tom. I passed a test. You'd fail it.
 
-64. TOM: What test?
-    톰: 무슨 시험?
+TOM: What test?
 
-65. DEREK: Don't say "safer." Don't smile about lips.
-    데릭: "더 안전하다"고 말하지 않기. 입술 얘기에 웃지 않기.
+DEREK: Don't say "safer." Don't smile about lips.
 
-66. TOM: Cute. Very cute.
-    톰: 귀엽네. 아주 귀여워.
+TOM: Cute. Very cute.
 
-67. NOAH: When does Flex launch, Tom?
-    노아: 플렉스는 언제 출시해요, 톰?
+NOAH: When does Flex launch, Tom?
 
-68. TOM: Next year. Same exit. Bigger company. Bigger sales force. You built a good idea, Noah, but ideas don't win markets. Distribution does, and we have reps in every state.
-    톰: 내년. 같은 비상구. 더 큰 회사. 더 큰 영업 조직. 좋은 아이디어를 만들었지, 노아. 하지만 아이디어가 시장을 이기진 않아. 유통이 이기지. 그리고 우린 모든 주에 영업 사원이 있어.
+TOM: Next year. Same exit. Bigger company. Bigger sales force. You built a good idea, Noah, but ideas don't win markets. Distribution does, and we have reps in every state.
 
-69. NOAH: Then patients win. That was always the point.
-    노아: 그럼 환자들이 이기는 거네요. 그게 처음부터 핵심이었어요.
+NOAH: Then patients win. That was always the point.
 
-70. TOM: You really believe that. That's what makes you dangerous.
-    톰: 정말 그렇게 믿는군. 그래서 당신이 위험한 거야.
+TOM: You really believe that. That's what makes you dangerous.
 
-71. NOAH: Dangerous? We're twenty by twenty.
-    노아: 위험하다고요? 우린 20x20인데요.
+NOAH: Dangerous? We're twenty by twenty.
 
-72. TOM: So was I once. Twenty-two years ago, I had a small booth and a big idea, right at the back of the hall. Nothing personal, Noah. It's just business. Good luck tomorrow.
-    톰: 나도 한때 그랬지. 22년 전, 전시장 맨 뒤쪽에 작은 부스 하나와 큰 아이디어가 있었어. 개인적인 감정은 없어, 노아. 그냥 비즈니스야. 내일 행운을 빌어.
+TOM: So was I once. Twenty-two years ago, I had a small booth and a big idea, right at the back of the hall. Nothing personal, Noah. It's just business. Good luck tomorrow.
 
-73. ELENA: Did Tom Brennan just say "good luck"?
-    엘레나: 톰 브레넌이 방금 "행운을 빈다"고 했어요?
+ELENA: Did Tom Brennan just say "good luck"?
 
-74. PRIYA: I think so. I'm checking for hidden meaning.
-    프리야: 그런 것 같아요. 숨은 뜻이 있나 확인 중이에요.
+PRIYA: I think so. I'm checking for hidden meaning.
 
-75. NOAH: Probably both. Good luck. And watch out.
-    노아: 아마 둘 다. 행운을 빈다. 그리고 조심하라.
+NOAH: Probably both. Good luck. And watch out.
 
-76. LEO: Noah, quick thing. Lot seven data came in tonight. From Raj.
-    레오: 노아, 잠깐요. 오늘 밤 라지한테서 7번 로트 데이터가 왔어요.
+LEO: Noah, quick thing. Lot seven data came in tonight. From Raj.
 
-77. NOAH: And?
-    노아: 그래서?
+NOAH: And?
 
-78. LEO: Up again. A little. Still in spec. Raj says it's the raw material supplier, but that's his explanation, not data. So for now, it's a theory, not an answer.
-    레오: 또 올랐어요. 조금. 아직 규격 안. 라지는 원료 공급사 탓이래요. 하지만 그건 그쪽 설명이지 데이터가 아니에요. 그러니 지금으로선 답이 아니라 가설이에요.
+LEO: Up again. A little. Still in spec. Raj says it's the raw material supplier, but that's his explanation, not data. So for now, it's a theory, not an answer.
 
-79. NOAH: Keep charting. After the show, we visit Meridian. You and Grace.
-    노아: 계속 차트 그려요. 전시 끝나면 메리디안에 가요. 레오랑 그레이스.
+NOAH: Keep charting. After the show, we visit Meridian. You and Grace.
 
-80. LEO: Every lot. Every week. I promised.
-    레오: 모든 로트. 매주. 약속했잖아요.
+LEO: Every lot. Every week. I promised.
 
 ### 절정·전환 — 새벽 1시
 
-81. DEREK: The banner's here! Manny drove it himself.
-    데릭: 배너 왔어요! 매니가 직접 운전해서 가져왔어요.
+DEREK: The banner's here! Manny drove it himself.
 
-82. ZOE: Unroll it. Bottom corner first. Elena, please.
-    조이: 펼쳐요. 아래 모서리부터. 엘레나, 부탁해요.
+ZOE: Unroll it. Bottom corner first. Elena, please.
 
-83. ELENA: Twenty-four-point. Readable from three meters. Approved.
-    엘레나: 24포인트. 3미터에서도 읽혀요. 승인.
+ELENA: Twenty-four-point. Readable from three meters. Approved.
 
-84. ZOE: Thank you, Manny! You're a hero!
-    조이: 고마워요, 매니! 영웅이에요!
+ZOE: Thank you, Manny! You're a hero!
 
-85. AVA: Noah, there's someone at the hall entrance. She says she's your sister.
-    에이바: 노아, 전시장 입구에 누가 왔어요. 동생이라는데요.
+AVA: Noah, there's someone at the hall entrance. She says she's your sister.
 
-86. NOAH: Lily? Here? At one a.m.?
-    노아: 릴리? 여기? 새벽 1시에?
+NOAH: Lily? Here? At one a.m.?
 
-87. LILY: Surprise. I took the last flight. Mom says hi.
-    릴리: 서프라이즈. 막차 비행기 탔어. 엄마가 안부 전하래.
+LILY: Surprise. I took the last flight. Mom says hi.
 
-88. NOAH: You flew to San Diego? For a booth?
-    노아: 샌디에이고까지 날아왔어? 부스 하나 때문에?
+NOAH: You flew to San Diego? For a booth?
 
-89. LILY: For the logo. I wanted to see my napkin. Big.
-    릴리: 로고 때문에. 내 냅킨을 보고 싶었어. 크게.
+LILY: For the logo. I wanted to see my napkin. Big.
 
-90. NOAH: Lily, before that. There's someone you should meet.
-    노아: 릴리, 그 전에. 만나야 할 사람이 있어.
+NOAH: Lily, before that. There's someone you should meet.
 
-91. TASHA: Hi, Lily. You probably don't remember me.
-    타샤: 안녕하세요, 릴리. 저를 기억 못 하실 거예요.
+TASHA: Hi, Lily. You probably don't remember me.
 
-92. LILY: …Your voice. The ER. You held my hand.
-    릴리: …목소리. 응급실. 제 손을 잡아 줬잖아요.
+LILY: …Your voice. The ER. You held my hand.
 
-93. TASHA: You remember?
-    타샤: 기억해요?
+TASHA: You remember?
 
-94. LILY: I remember everything about that night. Except your name.
-    릴리: 그날 밤은 전부 기억해요. 이름만 빼고.
+LILY: I remember everything about that night. Except your name.
 
-95. TASHA: Tasha. I'm the training lead here now.
-    타샤: 타샤예요. 지금 여기 교육 총괄이에요.
+TASHA: Tasha. I'm the training lead here now.
 
-96. LILY: I asked you something that night. Do you remember?
-    릴리: 그날 밤 제가 뭘 물었는데. 기억나요?
+LILY: I asked you something that night. Do you remember?
 
-97. TASHA: "Was it my fault?" I didn't answer. I was too busy.
-    타샤: "제 잘못인가요?" 대답 못 했어요. 너무 바빴어요.
+TASHA: "Was it my fault?" I didn't answer. I was too busy.
 
-98. LILY: Can you answer now?
-    릴리: 지금 대답해 줄 수 있어요?
+LILY: Can you answer now?
 
-99. TASHA: It wasn't your fault. Not for one second. You chose a clinic, you trusted a professional, and nobody had trained her for that night. That failure belonged to us, not you.
-    타샤: 당신 잘못이 아니었어요. 단 1초도. 당신은 병원을 골랐고, 전문가를 믿었고, 아무도 그 사람에게 그날 밤을 대비한 교육을 해 주지 않았어요. 그 실패는 당신이 아니라 우리 몫이었어요.
+TASHA: It wasn't your fault. Not for one second. You chose a clinic, you trusted a professional, and nobody had trained her for that night. That failure belonged to us, not you.
 
-100. LILY: …Thank you. I've waited a long time to hear that, from someone who was there. My family said it, Noah said it, but you saw everything that night.
-     릴리: …고마워요. 그 말 오래 기다렸어요. 그 자리에 있었던 사람한테서요. 가족도 말해 줬고 노아도 말해 줬지만, 그날 밤 모든 걸 본 건 당신이었잖아요.
+LILY: …Thank you. I've waited a long time to hear that, from someone who was there. My family said it, Noah said it, but you saw everything that night.
 
-101. TASHA: Come. Let me show you what we built. So it happens less.
-     타샤: 와요. 우리가 만든 걸 보여 줄게요. 그런 일이 덜 일어나도록.
+TASHA: Come. Let me show you what we built. So it happens less.
 
-102. LILY: The First Ten Seconds. Noah told me about the card.
-     릴리: 처음 10초. 노아가 카드 얘기 해 줬어요.
+LILY: The First Ten Seconds. Noah told me about the card.
 
-103. TASHA: Step one. Stop injecting. If Brittany had this card…
-     타샤: 1단계. 주입 중단. 브리트니에게 이 카드가 있었다면…
+TASHA: Step one. Stop injecting. If Brittany had this card…
 
-104. LILY: You know her name too?
-     릴리: 그 사람 이름도 알아요?
+LILY: You know her name too?
 
-105. TASHA: I wrote it on your chart. I never forgot that either.
-     타샤: 제가 당신 차트에 적었어요. 그것도 잊은 적 없어요.
+TASHA: I wrote it on your chart. I never forgot that either.
 
 ### 마무리 — 새벽 3시, 완성된 부스
 
-106. ZOE: Last step. Leo, the logo light.
-     조이: 마지막 단계. 레오, 로고 조명.
+ZOE: Last step. Leo, the logo light.
 
-107. LEO: Three, two, one…
-     레오: 셋, 둘, 하나…
+LEO: Three, two, one…
 
-108. AVA: Oh. It's glowing.
-     에이바: 오. 빛나요.
+AVA: Oh. It's glowing.
 
-109. LILY: That's my napkin. Bigger than me.
-     릴리: 내 냅킨이다. 나보다 커.
+LILY: That's my napkin. Bigger than me.
 
-110. PRIYA: Less than five years ago, it was a drawing on a napkin.
-     프리야: 5년도 안 됐어요. 냅킨 위 그림 하나였는데.
+PRIYA: Less than five years ago, it was a drawing on a napkin.
 
-111. MARCUS: Now it's a booth. Across from Halvern. Facing them.
-     마커스: 이제는 부스지. 할번 건너편. 정면으로.
+MARCUS: Now it's a booth. Across from Halvern. Facing them.
 
-112. ELENA: First, do no harm. I'm proud of every word on that banner. Tomorrow a lot of companies will promise a lot of things. We'll promise only what we can prove.
-     엘레나: 첫째, 해를 끼치지 말 것. 저 배너의 모든 단어가 자랑스러워요. 내일 많은 회사가 많은 것을 약속하겠죠. 우린 증명할 수 있는 것만 약속할 거예요.
+ELENA: First, do no harm. I'm proud of every word on that banner. Tomorrow a lot of companies will promise a lot of things. We'll promise only what we can prove.
 
-113. TASHA: Even the limitation statement?
-     타샤: 한계 문구까지요?
+TASHA: Even the limitation statement?
 
-114. ELENA: Especially that one. It's honest. And now you can read it.
-     엘레나: 특히 그거요. 정직하잖아요. 그리고 이제 읽을 수 있고요.
+ELENA: Especially that one. It's honest. And now you can read it.
 
-115. DEREK: Team photo? Manny's still here. He'll take it.
-     데릭: 단체 사진? 매니가 아직 여기 있어요. 찍어 줄 거예요.
+DEREK: Team photo? Manny's still here. He'll take it.
 
-116. ZOE: Everyone in. Lily, you too. Not for marketing.
-     조이: 다 들어와요. 릴리, 당신도. 마케팅 아니에요.
+ZOE: Everyone in. Lily, you too. Not for marketing.
 
-117. LILY: Just this once. Front row. Scar side out.
-     릴리: 이번 한 번만. 앞줄. 흉터 쪽을 앞으로.
+LILY: Just this once. Front row. Scar side out.
 
-118. NOAH: Lily…
-     노아: 릴리…
+NOAH: Lily…
 
-119. LILY: I'm not hiding anymore, Noah. Tomorrow, neither are you.
-     릴리: 난 더 이상 숨지 않아, 오빠. 내일은 오빠도 그래.
+LILY: I'm not hiding anymore, Noah. Tomorrow, neither are you.
 
-120. NOAH: Get some sleep, everyone. Doors open at nine. We ship it.
-     노아: 다들 좀 자요. 9시에 문 열어요. 출시합니다.
+NOAH: Get some sleep, everyone. Doors open at nine. We ship it.
 
 ---
 
@@ -393,16 +273,16 @@
 
 | # | 표현 | 뜻 | 대본 속 쓰임 / 비즈니스 활용 |
 |---|---|---|---|
-| 1 | Fourteen hours until doors open. | 개막까지 14시간. | 1턴. 전시회 일정 압박을 표현할 때. |
-| 2 | Something always breaks. | 꼭 뭔가 망가진다. | 10턴. 현장 행사의 현실. 대비책의 필요성. |
-| 3 | The printer scaled the whole file down. | 인쇄소가 파일 전체를 축소했다. | 29턴. 인쇄·제작 사고를 설명하는 표현. |
-| 4 | Cheap is better than illegal. | 싸 보이는 게 불법보다 낫다. | 36턴. 규정 준수가 미관보다 우선이라는 원칙. |
-| 5 | I know a guy. | 아는 사람이 있다. | 39턴. 인맥으로 문제를 해결할 때 쓰는 구어 표현. |
-| 6 | I need a miracle. Again. | 기적이 필요해. 또. | 41턴. 협력업체에 긴급 부탁을 할 때(친한 사이). |
-| 7 | Cheaper than a warning letter. | 경고장보다 싸다. | 47턴. 비용을 리스크와 비교해 즉시 승인하는 판단. |
-| 8 | Welcome to the big leagues. | 빅리그에 온 걸 환영한다. | 58턴. 더 큰 무대·경쟁에 들어섰음을 알리는 말(종종 경고 섞임). |
-| 9 | Then patients win. That was always the point. | 그럼 환자가 이긴다. 그게 처음부터 핵심이었다. | 69턴. 경쟁을 미션으로 재정의하는 응답. |
-| 10 | Doors open at nine. | 9시에 문이 열린다. | 120턴. 행사 시작 시각을 알리는 표현. |
+| 1 | Fourteen hours until doors open. | 개막까지 14시간. | 도입. 전시회 일정 압박을 표현할 때. |
+| 2 | Something always breaks. | 꼭 뭔가 망가진다. | 도입. 현장 행사의 현실. 대비책의 필요성. |
+| 3 | The printer scaled the whole file down. | 인쇄소가 파일 전체를 축소했다. | 장면1. 인쇄·제작 사고를 설명하는 표현. |
+| 4 | Cheap is better than illegal. | 싸 보이는 게 불법보다 낫다. | 장면1. 규정 준수가 미관보다 우선이라는 원칙. |
+| 5 | I know a guy. | 아는 사람이 있다. | 장면1. 인맥으로 문제를 해결할 때 쓰는 구어 표현. |
+| 6 | I need a miracle. Again. | 기적이 필요해. 또. | 장면1. 협력업체에 긴급 부탁을 할 때(친한 사이). |
+| 7 | Cheaper than a warning letter. | 경고장보다 싸다. | 장면1. 비용을 리스크와 비교해 즉시 승인하는 판단. |
+| 8 | Welcome to the big leagues. | 빅리그에 온 걸 환영한다. | 장면2. 더 큰 무대·경쟁에 들어섰음을 알리는 말(종종 경고 섞임). |
+| 9 | Then patients win. That was always the point. | 그럼 환자가 이긴다. 그게 처음부터 핵심이었다. | 장면2. 경쟁을 미션으로 재정의하는 응답. |
+| 10 | Doors open at nine. | 9시에 문이 열린다. | 마무리. 행사 시작 시각을 알리는 표현. |
 
 ### ② 비즈니스 컬처 노트 — 전시회 부스 설치(Move-in)
 미국 대형 학회 전시회는 보통 개막 1~2일 전부터 **설치(move-in)** 기간이 있다. 상자 누락, 인쇄 오류, 전기·조명 문제는 흔하며, 경험 많은 팀은 핵심 물품을 **백업으로 직접 운반**한다. 의료 분야 부스는 모든 홍보물이 승인 라벨과 일치해야 하며, 한계 문구의 **가독성**도 규제 검토 대상이다. 설치 기간에는 경쟁사 직원들이 서로의 부스를 둘러보는 일이 흔하다. 이때는 감정적 대응보다 짧고 프로페셔널한 대화가 원칙이다.
@@ -421,7 +301,7 @@
 
 ### ④ 긴 발화 분석
 
-> **29턴 LEO:** "The printer scaled the whole file down to fit the frame. The picture still looks perfect, so nobody checked the small text. Every line shrank, including the limitation statement."
+> **LEO (장면1):** "The printer scaled the whole file down to fit the frame. The picture still looks perfect, so nobody checked the small text. Every line shrank, including the limitation statement."
 
 | 구조 | 영어 | 기능 |
 |---|---|---|
@@ -432,3 +312,257 @@
 **활용 패턴:** 원인 → 놓친 이유(so) → 영향 범위(including…)
 **연결 표현:** scaled…down to fit(~에 맞추려고 축소했다) · so nobody checked(그래서 아무도 확인하지 않았다) · including…(~를 포함해서)
 **연습:** 행사 전날 인쇄물·자료에서 발견한 오류를 상사에게 같은 구조로 25~30단어로 보고해 보기.
+
+---
+
+## 한국어 번역
+
+### 도입 — 저녁 7시, 텅 빈 전시장
+
+조이: 1214번 부스. 20x20. 빈 카펫. 개막까지 14시간.
+
+마커스: 상자 도착했어. 세는 중이야. 아홉, 열, 열하나…
+
+노아: 몇 개여야 하는데?
+
+마커스: 열둘. 우리한테 열하나 있어.
+
+조이: 어느 게 없어요? 제발 마네킹이라고 하지 마요.
+
+마커스: 12번 상자. 마네킹과 키트 진열대.
+
+타샤: 그게 제 교육 스테이션 전부예요.
+
+조이: 운송 회사에 전화할게요. 또.
+
+에이바: 원래 이래요? 전시회 전날 밤엔?
+
+데릭: 항상. 15년 동안. 꼭 뭔가 망가져요. 상자가 없어지거나, 배너가 잘못 오거나, 부스에 전기가 안 들어오거나. 요령은 문이 열리기 전에 고치는 거예요.
+
+에이바: 그나저나 재시험 합격 축하해요.
+
+데릭: 고마워요. 엘레나가 "라벨에 없습니다"를 마흔 번 말하게 했어요. 병원에서.
+
+노아: 난 쉰 번. 우리 둘 다 합격했죠.
+
+조이: 운송 회사가 "내일 오후"래요. 전시는 9시에 열려요.
+
+마커스: 그럼 내가 둘까지 셀 줄 알아서 다행이네.
+
+### 장면1 — 두 가지 위기
+
+타샤: 그게 무슨 뜻이에요?
+
+마커스: 내 위탁 수하물. 마네킹 머리 두 개. 키트 세 개. 여분 타이머 하나.
+
+타샤: 마네킹 머리를 들고 비행기를 탔어요? 공항 보안 검색을 통과해서?
+
+마커스: 보안 요원이 질문을 많이 하더군. 의료 교육용이라고 설명했는데도 가방을 전부 열어 봤어. 한참 걸렸지. 그럴 가치가 있었어. 둘은 하나. 하나는 없음.
+
+타샤: 마커스, 뽀뽀해 주고 싶네요.
+
+마커스: 제발 하지 마. 데니스가 질투가 많아.
+
+조이: 좋아요. 교육 스테이션 살았다. 메인 배너 걸어요.
+
+레오: 지금 펼치는 중이에요. 엄청 커요. "Ready."
+
+에이바: 아름다워요. 간호사의 손. 아침 햇살.
+
+엘레나: 잠깐만요. 아래 모서리를 가까이 가져와요. 읽어 봐야겠어요.
+
+레오: 한계 문구요?
+
+엘레나: 네. 너무 작아요. 1미터 거리에서도 겨우 읽혀요.
+
+조이: 말도 안 돼요. 24포인트 글씨로 승인했는데.
+
+레오: 인쇄소가 프레임에 맞추려고 파일 전체를 줄였네요. 사진은 여전히 완벽해 보여서, 아무도 작은 글씨는 확인 안 했어요. 한계 문구를 포함해서 모든 줄이 줄어든 거예요.
+
+엘레나: 그럼 이 배너는 못 걸어요. 읽을 수 있는 크기. 다이앤의 규칙.
+
+조이: 메인 배너예요! 그만큼 큰 건 다른 게 없어요.
+
+노아: 엘레나 말이 맞아요. 한계 문구가 안 보이면 주장이 오해를 불러요. 내일 수천 명의 피부과 의사가 이 부스 앞을 지나가고, FDA도 배너를 읽어요. 우리의 정직함을 구석에 숨길 순 없어요.
+
+조이: 알아요. 알아요. "깨알 글씨 금지"라고 한 게 저예요.
+
+에이바: 수정 띠를 인쇄해서 붙일 수 있을까요?
+
+조이: 메인 배너에 덧대기요? 싸구려처럼 보일 거예요. 다들 그 띠를 볼 거고, 할번의 50x50 부스 바로 맞은편에서 우린 아마추어처럼 보일 거예요.
+
+엘레나: 싸구려가 불법보다 나아요.
+
+데릭: 아니면 전체를 다시 인쇄해요. 오늘 밤.
+
+조이: 저녁 8시에요? 샌디에이고 인쇄소는 전부 닫았어요.
+
+데릭: 매니네는 아니에요. AAD 15년. 아는 사람이 있어요. 매니는 전에도 절 구해 줬어요. 늘 자정 넘어서, 늘 현금으로. 저한테 빚진 건 없지만, 도전을 좋아하거든요.
+
+노아: 아침까지 될까요?
+
+데릭: 전화해 볼게요. 매니, 나 데릭이야. 기적이 필요해. 또.
+
+조이: 레오, 원본 파일 보내요. 원래 크기. 축소 없이.
+
+레오: 보내는 중. 그리고 글씨 크기를 고정할게요. 빨간색으로 표시해서.
+
+데릭: 매니가 된대요. 새벽 1시까지. 현금가, 안 싸요.
+
+마커스: 얼마?
+
+데릭: 1,800달러.
+
+마커스: 승인. 경고장보다 싸네.
+
+조이: 데릭, 방금 출시일을 살렸어요.
+
+데릭: 화요일은 지키고. 인맥도 지키고. 미소는 버리고. 배우는 중이에요.
+
+엘레나: 그리고 오늘 밤 한 번도 안 웃었어요. 봤어요.
+
+### 장면2 — 통로 건너편
+
+에이바: 통로 건너편 좀 봐요. 저거… 화면으로 만든 벽이에요?
+
+프리야: LED 벽이에요. 50x50. 2층 높이.
+
+레오: 화면에 뭐가 나와요?
+
+프리야: "루마덤 플렉스. 곧 출시." 녹는 애니메이션이랑 같이.
+
+조이: 우리 이야기를 쓰고 있네요. 2층짜리 벽에.
+
+톰: 당신네 이야기가 아니에요, 조이. 과학은 모두의 것이죠.
+
+노아: 톰. 늦게까지 일하네요?
+
+톰: 이웃 살피러 왔지. 빅리그에 온 걸 환영해, 노아.
+
+노아: 고마워요. 멋진 부스네요.
+
+톰: 당신 건… 아늑하네. 20x20?
+
+조이: 작은 부스. 큰 아이디어.
+
+톰: 데릭 쇼. 내 골프 친구를 빼 갔군, 노아.
+
+데릭: 아무도 날 빼 가지 않았어요, 톰. 난 시험을 통과했어요. 당신은 떨어질 거고.
+
+톰: 무슨 시험?
+
+데릭: "더 안전하다"고 말하지 않기. 입술 얘기에 웃지 않기.
+
+톰: 귀엽네. 아주 귀여워.
+
+노아: 플렉스는 언제 출시해요, 톰?
+
+톰: 내년. 같은 비상구. 더 큰 회사. 더 큰 영업 조직. 좋은 아이디어를 만들었지, 노아. 하지만 아이디어가 시장을 이기진 않아. 유통이 이기지. 그리고 우린 모든 주에 영업 사원이 있어.
+
+노아: 그럼 환자들이 이기는 거네요. 그게 처음부터 핵심이었어요.
+
+톰: 정말 그렇게 믿는군. 그래서 당신이 위험한 거야.
+
+노아: 위험하다고요? 우린 20x20인데요.
+
+톰: 나도 한때 그랬지. 22년 전, 전시장 맨 뒤쪽에 작은 부스 하나와 큰 아이디어가 있었어. 개인적인 감정은 없어, 노아. 그냥 비즈니스야. 내일 행운을 빌어.
+
+엘레나: 톰 브레넌이 방금 "행운을 빈다"고 했어요?
+
+프리야: 그런 것 같아요. 숨은 뜻이 있나 확인 중이에요.
+
+노아: 아마 둘 다. 행운을 빈다. 그리고 조심하라.
+
+레오: 노아, 잠깐요. 오늘 밤 라지한테서 7번 로트 데이터가 왔어요.
+
+노아: 그래서?
+
+레오: 또 올랐어요. 조금. 아직 규격 안. 라지는 원료 공급사 탓이래요. 하지만 그건 그쪽 설명이지 데이터가 아니에요. 그러니 지금으로선 답이 아니라 가설이에요.
+
+노아: 계속 차트 그려요. 전시 끝나면 메리디안에 가요. 레오랑 그레이스.
+
+레오: 모든 로트. 매주. 약속했잖아요.
+
+### 절정·전환 — 새벽 1시
+
+데릭: 배너 왔어요! 매니가 직접 운전해서 가져왔어요.
+
+조이: 펼쳐요. 아래 모서리부터. 엘레나, 부탁해요.
+
+엘레나: 24포인트. 3미터에서도 읽혀요. 승인.
+
+조이: 고마워요, 매니! 영웅이에요!
+
+에이바: 노아, 전시장 입구에 누가 왔어요. 동생이라는데요.
+
+노아: 릴리? 여기? 새벽 1시에?
+
+릴리: 서프라이즈. 막차 비행기 탔어. 엄마가 안부 전하래.
+
+노아: 샌디에이고까지 날아왔어? 부스 하나 때문에?
+
+릴리: 로고 때문에. 내 냅킨을 보고 싶었어. 크게.
+
+노아: 릴리, 그 전에. 만나야 할 사람이 있어.
+
+타샤: 안녕하세요, 릴리. 저를 기억 못 하실 거예요.
+
+릴리: …목소리. 응급실. 제 손을 잡아 줬잖아요.
+
+타샤: 기억해요?
+
+릴리: 그날 밤은 전부 기억해요. 이름만 빼고.
+
+타샤: 타샤예요. 지금 여기 교육 총괄이에요.
+
+릴리: 그날 밤 제가 뭘 물었는데. 기억나요?
+
+타샤: "제 잘못인가요?" 대답 못 했어요. 너무 바빴어요.
+
+릴리: 지금 대답해 줄 수 있어요?
+
+타샤: 당신 잘못이 아니었어요. 단 1초도. 당신은 병원을 골랐고, 전문가를 믿었고, 아무도 그 사람에게 그날 밤을 대비한 교육을 해 주지 않았어요. 그 실패는 당신이 아니라 우리 몫이었어요.
+
+릴리: …고마워요. 그 말 오래 기다렸어요. 그 자리에 있었던 사람한테서요. 가족도 말해 줬고 노아도 말해 줬지만, 그날 밤 모든 걸 본 건 당신이었잖아요.
+
+타샤: 와요. 우리가 만든 걸 보여 줄게요. 그런 일이 덜 일어나도록.
+
+릴리: 처음 10초. 노아가 카드 얘기 해 줬어요.
+
+타샤: 1단계. 주입 중단. 브리트니에게 이 카드가 있었다면…
+
+릴리: 그 사람 이름도 알아요?
+
+타샤: 제가 당신 차트에 적었어요. 그것도 잊은 적 없어요.
+
+### 마무리 — 새벽 3시, 완성된 부스
+
+조이: 마지막 단계. 레오, 로고 조명.
+
+레오: 셋, 둘, 하나…
+
+에이바: 오. 빛나요.
+
+릴리: 내 냅킨이다. 나보다 커.
+
+프리야: 5년도 안 됐어요. 냅킨 위 그림 하나였는데.
+
+마커스: 이제는 부스지. 할번 건너편. 정면으로.
+
+엘레나: 첫째, 해를 끼치지 말 것. 저 배너의 모든 단어가 자랑스러워요. 내일 많은 회사가 많은 것을 약속하겠죠. 우린 증명할 수 있는 것만 약속할 거예요.
+
+타샤: 한계 문구까지요?
+
+엘레나: 특히 그거요. 정직하잖아요. 그리고 이제 읽을 수 있고요.
+
+데릭: 단체 사진? 매니가 아직 여기 있어요. 찍어 줄 거예요.
+
+조이: 다 들어와요. 릴리, 당신도. 마케팅 아니에요.
+
+릴리: 이번 한 번만. 앞줄. 흉터 쪽을 앞으로.
+
+노아: 릴리…
+
+릴리: 난 더 이상 숨지 않아, 오빠. 내일은 오빠도 그래.
+
+노아: 다들 좀 자요. 9시에 문 열어요. 출시합니다.

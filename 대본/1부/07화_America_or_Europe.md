@@ -17,373 +17,253 @@
 
 ### 도입 — 휴게실, 저녁 7시
 
-01. ELENA: Welcome to my break room. Excuse the mess. And the smell of microwave popcorn.
-    엘레나: 내 휴게실에 온 걸 환영해요. 지저분한 건 양해해요. 전자레인지 팝콘 냄새도요.
+ELENA: Welcome to my break room. Excuse the mess. And the smell of microwave popcorn.
 
-02. MARCUS: I've worked in tents that smelled worse. This is luxury.
-    마커스: 이보다 냄새 고약한 텐트에서도 일해 봤어. 여긴 호텔이야.
+MARCUS: I've worked in tents that smelled worse. This is luxury.
 
-03. PRIYA: Is that a whiteboard? A real whiteboard?
-    프리야: 저거 화이트보드예요? 진짜 화이트보드?
+PRIYA: Is that a whiteboard? A real whiteboard?
 
-04. ELENA: I use it for staff schedules. Tonight it's for strategy.
-    엘레나: 직원 근무표 짤 때 써요. 오늘 밤엔 전략용이고요.
+ELENA: I use it for staff schedules. Tonight it's for strategy.
 
-05. NOAH: Two columns. America and Europe. You've already started.
-    노아: 칸이 두 개네요. 미국과 유럽. 벌써 시작하셨네요.
+NOAH: Two columns. America and Europe. You've already started.
 
-06. ELENA: I was here early. Mateo had a math test to study for.
-    엘레나: 일찍 왔어요. 마테오가 수학 시험공부를 해야 해서요.
+ELENA: I was here early. Mateo had a math test to study for.
 
-07. PRIYA: By the way, Noah. Did Lily call your mom?
-    프리야: 그나저나, 노아. 릴리가 어머니께 전화했어?
+PRIYA: By the way, Noah. Did Lily call your mom?
 
-08. NOAH: She did. Let me put her on speaker. She wanted to say hi.
-    노아: 했어. 스피커로 바꿀게. 인사하고 싶대.
+NOAH: She did. Let me put her on speaker. She wanted to say hi.
 
-09. LILY: Hi, everyone! I survived the call with Mom.
-    릴리: 다들 안녕! 엄마랑 통화 살아남았어.
+LILY: Hi, everyone! I survived the call with Mom.
 
-10. MARCUS: How bad was it?
-    마커스: 얼마나 심했어?
+MARCUS: How bad was it?
 
-11. LILY: Forty minutes of yelling, mostly about you, Noah, and why nobody told her sooner. Then crying, because she was scared for me. Then she booked Thanksgiving flights to come see us.
-    릴리: 40분 동안 소리 질렀어. 주로 오빠 얘기, 그리고 왜 아무도 더 일찍 말 안 했냐는 얘기. 그다음엔 울었어, 나 때문에 무서웠대. 그다음엔 우리 보러 오려고 추수감사절 비행기를 예약했어.
+LILY: Forty minutes of yelling, mostly about you, Noah, and why nobody told her sooner. Then crying, because she was scared for me. Then she booked Thanksgiving flights to come see us.
 
-12. ELENA: That sounds like a mother. Mine would do the same.
-    엘레나: 엄마들이 다 그렇죠. 우리 엄마도 똑같았을 거예요.
+ELENA: That sounds like a mother. Mine would do the same.
 
-13. LILY: She also said, "Tell that doctor thank you." So, thank you.
-    릴리: 그리고 "그 의사 선생님께 감사하다고 전해라" 그러셨어요. 그러니까, 감사해요.
+LILY: She also said, "Tell that doctor thank you." So, thank you.
 
-14. ELENA: Tell her she's welcome. Now go rest, Lily.
-    엘레나: 별말씀을요, 라고 전해 줘요. 이제 가서 쉬어요, 릴리.
+ELENA: Tell her she's welcome. Now go rest, Lily.
 
-15. LILY: Going. Good luck with the boring stuff!
-    릴리: 갈게요. 지루한 거 잘해 봐!
+LILY: Going. Good luck with the boring stuff!
 
 ### 장면1 — 유럽 먼저 (Priya·Marcus)
 
-16. NOAH: Okay. Tonight's question. Where do we launch first?
-    노아: 좋아요. 오늘의 질문. 어디서 먼저 출시할까요?
+NOAH: Okay. Tonight's question. Where do we launch first?
 
-17. ELENA: And that decides everything else. Trials, money, timeline.
-    엘레나: 그리고 그게 나머지를 다 결정해요. 임상, 돈, 일정.
+ELENA: And that decides everything else. Trials, money, timeline.
 
-18. NOAH: Let's go around the table. Who wants to start?
-    노아: 한 명씩 돌아가며 얘기해 봐요. 누가 먼저 할래요?
+NOAH: Let's go around the table. Who wants to start?
 
-19. PRIYA: Me. I think Europe first.
-    프리야: 나. 난 유럽 먼저라고 생각해.
+PRIYA: Me. I think Europe first.
 
-20. NOAH: Why Europe?
-    노아: 왜 유럽이야?
+NOAH: Why Europe?
 
-21. PRIYA: In Europe, fillers need a CE mark. In the US, they need FDA approval.
-    프리야: 유럽에선 필러에 CE 마크가 필요하고, 미국에선 FDA 승인이 필요해.
+PRIYA: In Europe, fillers need a CE mark. In the US, they need FDA approval.
 
-22. MARCUS: What's a CE mark, in plain English?
-    마커스: CE 마크가 뭔지 쉬운 말로 해 줄래?
+MARCUS: What's a CE mark, in plain English?
 
-23. PRIYA: It's the European safety stamp. It shows a product meets EU rules for safety and performance. Without it, you can't sell there, and with it, you can sell in every EU country.
-    프리야: 유럽의 안전 인증 마크예요. 제품이 안전성과 성능에 관한 EU 규정을 충족한다는 걸 보여 주죠. 그게 없으면 거기서 못 팔고, 있으면 EU 모든 나라에서 팔 수 있어요.
+PRIYA: It's the European safety stamp. It shows a product meets EU rules for safety and performance. Without it, you can't sell there, and with it, you can sell in every EU country.
 
-24. NOAH: And the upside of Europe is speed?
-    노아: 그러니까 유럽의 장점은 속도야?
+NOAH: And the upside of Europe is speed?
 
-25. PRIYA: Speed and cost. Historically, fillers got approved there years earlier.
-    프리야: 속도랑 비용. 예전부터 필러는 거기서 몇 년 먼저 승인됐어.
+PRIYA: Speed and cost. Historically, fillers got approved there years earlier.
 
-26. MARCUS: I'm with Priya. Europe first. Here's why.
-    마커스: 난 프리야 편이야. 유럽 먼저. 이유는 이래.
+MARCUS: I'm with Priya. Europe first. Here's why.
 
-27. NOAH: Go ahead.
-    노아: 말씀하세요.
+NOAH: Go ahead.
 
-28. MARCUS: Revenue. The sooner we sell something, the sooner we survive. A startup with no sales is burning cash every month, and when the cash runs out, it doesn't matter how good the product was.
-    마커스: 매출. 뭐라도 빨리 팔수록 빨리 살아남는 거야. 매출 없는 스타트업은 매달 현금을 태우고 있는 거고, 현금이 바닥나면 제품이 얼마나 좋았는지는 아무 상관이 없어.
+MARCUS: Revenue. The sooner we sell something, the sooner we survive. A startup with no sales is burning cash every month, and when the cash runs out, it doesn't matter how good the product was.
 
-29. ELENA: That's a fair point.
-    엘레나: 일리 있는 말이에요.
+ELENA: That's a fair point.
 
-30. MARCUS: Investors like revenue. Revenue says, "This is real."
-    마커스: 투자자들은 매출을 좋아해. 매출이 "이거 진짜야"라고 말해 주거든.
+MARCUS: Investors like revenue. Revenue says, "This is real."
 
-31. PRIYA: And European sales would give us real-world data.
-    프리야: 그리고 유럽 판매로 실제 사용 데이터도 얻을 수 있어.
+PRIYA: And European sales would give us real-world data.
 
-32. NOAH: Real-world data. Then we use that for the FDA?
-    노아: 실사용 데이터. 그럼 그걸 FDA에 쓰는 거야?
+NOAH: Real-world data. Then we use that for the FDA?
 
-33. PRIYA: It could help. It wouldn't replace a US trial, though.
-    프리야: 도움은 될 수 있어. 그렇다고 미국 임상을 대신하진 못하지만.
+PRIYA: It could help. It wouldn't replace a US trial, though.
 
-34. NOAH: So the catch is, we'd still need the US trial later.
-    노아: 그러니까 단점은, 나중에 미국 임상을 또 해야 한다는 거네.
+NOAH: So the catch is, we'd still need the US trial later.
 
-35. PRIYA: Probably. But with money coming in from Europe.
-    프리야: 아마도. 하지만 유럽에서 돈이 들어오는 상태에서.
+PRIYA: Probably. But with money coming in from Europe.
 
-36. ELENA: Can I ask a question about Europe?
-    엘레나: 유럽에 대해 질문 하나 해도 돼요?
+ELENA: Can I ask a question about Europe?
 
-37. PRIYA: Of course.
-    프리야: 그럼요.
+PRIYA: Of course.
 
-38. ELENA: How many filler brands are already sold in Europe?
-    엘레나: 유럽에 이미 팔리는 필러 브랜드가 몇 개나 돼요?
+ELENA: How many filler brands are already sold in Europe?
 
-39. PRIYA: A lot. Dozens. Maybe more than a hundred.
-    프리야: 많아요. 수십 개. 백 개가 넘을 수도 있고요.
+PRIYA: A lot. Dozens. Maybe more than a hundred.
 
-40. ELENA: So it's crowded. And prices are lower than in the US. What worries me is that we'd be one new name among a hundred, fighting on price instead of on safety.
-    엘레나: 그러니까 붐비는 시장이네요. 가격도 미국보다 낮고요. 내가 걱정되는 건, 우리가 백 개 중 하나의 새 이름이 돼서 안전이 아니라 가격으로 싸우게 될 거라는 점이에요.
+ELENA: So it's crowded. And prices are lower than in the US. What worries me is that we'd be one new name among a hundred, fighting on price instead of on safety.
 
-41. MARCUS: Crowded, but open. A small player can get in.
-    마커스: 붐비지만 열려 있지. 작은 회사도 들어갈 수 있어.
+MARCUS: Crowded, but open. A small player can get in.
 
-42. ELENA: Get in, yes. Stand out? That's harder.
-    엘레나: 들어가는 건 그렇죠. 눈에 띄는 건요? 그건 더 어려워요.
+ELENA: Get in, yes. Stand out? That's harder.
 
-43. NOAH: What about the rules in Europe? Are they still easy?
-    노아: 유럽 규정은요? 아직도 쉬워요?
+NOAH: What about the rules in Europe? Are they still easy?
 
-44. PRIYA: Not anymore. The EU made new rules. They call it MDR.
-    프리야: 이제는 아니야. EU가 새 규정을 만들었어. MDR이라고 해.
+PRIYA: Not anymore. The EU made new rules. They call it MDR.
 
-45. MARCUS: MDR. Another acronym. Translate, please.
-    마커스: MDR. 또 약자네. 번역 좀.
+MARCUS: MDR. Another acronym. Translate, please.
 
-46. PRIYA: Medical Device Regulation. It's stricter and slower than the old system, and it asks for more clinical data. So a lot of companies that planned on Europe as the easy route are rethinking it.
-    프리야: 의료기기 규정이요. 예전 제도보다 더 엄격하고 더 느리고, 임상 데이터도 더 많이 요구해요. 그래서 유럽을 쉬운 길로 계획했던 많은 회사들이 다시 생각하고 있어요.
+PRIYA: Medical Device Regulation. It's stricter and slower than the old system, and it asks for more clinical data. So a lot of companies that planned on Europe as the easy route are rethinking it.
 
-47. NOAH: So Europe isn't the shortcut it used to be.
-    노아: 그러니까 유럽이 예전 같은 지름길은 아니네.
+NOAH: So Europe isn't the shortcut it used to be.
 
-48. PRIYA: It's still usually faster. Just not as fast.
-    프리야: 그래도 대개는 더 빨라. 예전만큼은 아니지만.
+PRIYA: It's still usually faster. Just not as fast.
 
-49. NOAH: Okay. Let me write that down. Europe: faster, cheaper, crowded, getting stricter.
-    노아: 좋아. 적을게. 유럽: 더 빠름, 더 쌈, 붐빔, 점점 엄격해짐.
+NOAH: Okay. Let me write that down. Europe: faster, cheaper, crowded, getting stricter.
 
-50. MARCUS: Good summary. Your turn, Doctor.
-    마커스: 정리 잘했네. 선생님 차례예요.
+MARCUS: Good summary. Your turn, Doctor.
 
 ### 장면2 — 미국 먼저 (Elena)
 
-51. ELENA: I think America first. Even though it's harder.
-    엘레나: 난 미국 먼저라고 생각해요. 더 어렵더라도요.
+ELENA: I think America first. Even though it's harder.
 
-52. PRIYA: Because it's harder?
-    프리야: 더 어려워서요?
+PRIYA: Because it's harder?
 
-53. ELENA: Partly, yes. In the US, a filler needs a PMA.
-    엘레나: 어느 정도는 그래요. 미국에서 필러는 PMA가 필요해요.
+ELENA: Partly, yes. In the US, a filler needs a PMA.
 
-54. MARCUS: Another acronym. I'm keeping a list.
-    마커스: 또 약자야. 나 목록 만들고 있어.
+MARCUS: Another acronym. I'm keeping a list.
 
-55. ELENA: Premarket approval. The hardest path the FDA has.
-    엘레나: 시판 전 승인이요. FDA에서 가장 어려운 경로죠.
+ELENA: Premarket approval. The hardest path the FDA has.
 
-56. NOAH: Why is that a good thing?
-    노아: 그게 왜 좋은 거예요?
+NOAH: Why is that a good thing?
 
-57. ELENA: Because if we pass it, every doctor will trust our data. When a doctor sees FDA approval, she doesn't have to wonder whether the study was good enough. The hardest test answers that question.
-    엘레나: 그걸 통과하면 모든 의사가 우리 데이터를 믿을 테니까요. 의사가 FDA 승인을 보면, 연구가 충분히 좋았는지 따져 볼 필요가 없어요. 가장 어려운 시험이 그 질문에 답해 주니까요.
+ELENA: Because if we pass it, every doctor will trust our data. When a doctor sees FDA approval, she doesn't have to wonder whether the study was good enough. The hardest test answers that question.
 
-58. NOAH: So FDA approval is like a gold medal.
-    노아: 그러니까 FDA 승인은 금메달 같은 거네요.
+NOAH: So FDA approval is like a gold medal.
 
-59. ELENA: Exactly. Europe gives you a ticket. America gives you a medal.
-    엘레나: 바로 그거예요. 유럽은 입장권을 주고, 미국은 메달을 줘요.
+ELENA: Exactly. Europe gives you a ticket. America gives you a medal.
 
-60. PRIYA: A very expensive medal.
-    프리야: 아주 비싼 메달이네요.
+PRIYA: A very expensive medal.
 
-61. ELENA: Yes. A randomized controlled trial. Hundreds of patients.
-    엘레나: 맞아요. 무작위 대조 임상시험. 환자 수백 명이요.
+ELENA: Yes. A randomized controlled trial. Hundreds of patients.
 
-62. MARCUS: What's the upside, besides the medal?
-    마커스: 메달 말고 장점은 뭔데요?
+MARCUS: What's the upside, besides the medal?
 
-63. ELENA: Market size. The US is the biggest aesthetics market in the world.
-    엘레나: 시장 규모요. 미국은 세계에서 제일 큰 미용 시장이에요.
+ELENA: Market size. The US is the biggest aesthetics market in the world.
 
-64. NOAH: And higher prices. I know that from Halvern.
-    노아: 가격도 더 높고요. 할번에서 일해 봐서 알아요.
+NOAH: And higher prices. I know that from Halvern.
 
-65. ELENA: And here's my biggest reason. Our story is about safety.
-    엘레나: 그리고 이게 내 가장 큰 이유예요. 우리 이야기는 안전에 관한 거잖아요.
+ELENA: And here's my biggest reason. Our story is about safety.
 
-66. PRIYA: Okay. Go on.
-    프리야: 네. 계속하세요.
+PRIYA: Okay. Go on.
 
-67. ELENA: A safety product needs the strongest proof. Not the fastest proof.
-    엘레나: 안전을 파는 제품은 가장 빠른 증거가 아니라 가장 강한 증거가 필요해요.
+ELENA: A safety product needs the strongest proof. Not the fastest proof.
 
-68. NOAH: That's... a really good line.
-    노아: 그거… 정말 좋은 말이네요.
+NOAH: That's... a really good line.
 
-69. ELENA: Don't put it in a brochure. I mean it seriously.
-    엘레나: 브로슈어에 넣지 마요. 진지하게 하는 말이니까.
+ELENA: Don't put it in a brochure. I mean it seriously.
 
-70. NOAH: Noted. Not a slogan. A principle.
-    노아: 알겠어요. 슬로건이 아니라 원칙으로요.
+NOAH: Noted. Not a slogan. A principle.
 
-71. MARCUS: What about manufacturing? Does it matter which market?
-    마커스: 생산은? 시장에 따라 달라지나?
+MARCUS: What about manufacturing? Does it matter which market?
 
-72. ELENA: You tell me. You're the expert.
-    엘레나: 당신이 말해 줘요. 전문가잖아요.
+ELENA: You tell me. You're the expert.
 
-73. MARCUS: The FDA inspects factories hard. They look at every record, every clean room, every batch. If we pass that, we're ready anywhere, because nobody else will ask for more than they do.
-    마커스: FDA는 공장을 빡빡하게 검사해. 기록 하나하나, 클린룸 하나하나, 배치 하나하나 다 봐. 그걸 통과하면 어디서든 준비된 거야. 그보다 더 많이 요구하는 데는 없으니까.
+MARCUS: The FDA inspects factories hard. They look at every record, every clean room, every batch. If we pass that, we're ready anywhere, because nobody else will ask for more than they do.
 
-74. ELENA: So US first makes everything stronger. Including the factory.
-    엘레나: 그러니까 미국 먼저 하면 모든 게 더 탄탄해지네요. 공장까지 포함해서.
+ELENA: So US first makes everything stronger. Including the factory.
 
-75. PRIYA: But slower. Much slower. Five, maybe seven years before we sell a single syringe. And every one of those years needs salaries, trials and rent, with no revenue coming in at all.
-    프리야: 하지만 느려요. 훨씬 느리죠. 주사기 하나 팔기까지 5년, 어쩌면 7년. 그리고 그 하루하루에 급여, 임상, 임대료가 다 들어가는데, 들어오는 매출은 전혀 없어요.
+PRIYA: But slower. Much slower. Five, maybe seven years before we sell a single syringe. And every one of those years needs salaries, trials and rent, with no revenue coming in at all.
 
-76. ELENA: Yes. I won't pretend otherwise.
-    엘레나: 맞아요. 아닌 척하진 않을게요.
+ELENA: Yes. I won't pretend otherwise.
 
-77. NOAH: Let me write the other column. America: slower, expensive, biggest, strongest proof.
-    노아: 다른 칸도 적을게요. 미국: 느림, 비쌈, 가장 큰 시장, 가장 강한 증거.
+NOAH: Let me write the other column. America: slower, expensive, biggest, strongest proof.
 
-78. PRIYA: Looking at the board, both sides have real points.
-    프리야: 보드를 보니까 양쪽 다 진짜 일리가 있네.
+PRIYA: Looking at the board, both sides have real points.
 
-79. MARCUS: That's usually how hard decisions look.
-    마커스: 어려운 결정은 원래 그렇게 생겼어.
+MARCUS: That's usually how hard decisions look.
 
-80. ELENA: So, Noah. You haven't told us what you think.
-    엘레나: 그래서, 노아. 당신 생각은 아직 안 말했어요.
+ELENA: So, Noah. You haven't told us what you think.
 
 ### 절정·전환 — 결정
 
-81. NOAH: I wanted to hear everyone first.
-    노아: 다들 먼저 듣고 싶었어요.
+NOAH: I wanted to hear everyone first.
 
-82. PRIYA: Well, you've heard us. Now decide.
-    프리야: 이제 다 들었잖아. 이제 결정해.
+PRIYA: Well, you've heard us. Now decide.
 
-83. NOAH: On balance, I'd go with America first.
-    노아: 종합적으로 보면, 전 미국 먼저로 가겠어요.
+NOAH: On balance, I'd go with America first.
 
-84. MARCUS: Talk me through it.
-    마커스: 이유를 설명해 줘.
+MARCUS: Talk me through it.
 
-85. NOAH: Three reasons. First, Elena's right. Safety needs the strongest proof.
-    노아: 세 가지 이유예요. 첫째, 엘레나 말이 맞아요. 안전은 가장 강한 증거가 필요해요.
+NOAH: Three reasons. First, Elena's right. Safety needs the strongest proof.
 
-86. PRIYA: And second?
-    프리야: 그리고 둘째는?
+PRIYA: And second?
 
-87. NOAH: Second, I know the US market. I know the doctors and the price points.
-    노아: 둘째, 전 미국 시장을 알아요. 의사들도, 가격대도요.
+NOAH: Second, I know the US market. I know the doctors and the price points.
 
-88. MARCUS: And third?
-    마커스: 그리고 셋째는?
+MARCUS: And third?
 
-89. NOAH: Third, Halvern is American. Their reputation was built here, with American doctors. If we want those doctors to switch, we have to beat Halvern at home, not somewhere else.
-    노아: 셋째, 할번은 미국 회사예요. 그들의 명성은 여기서, 미국 의사들과 함께 쌓였어요. 그 의사들이 갈아타길 원한다면, 다른 데가 아니라 할번의 홈그라운드에서 이겨야 해요.
+NOAH: Third, Halvern is American. Their reputation was built here, with American doctors. If we want those doctors to switch, we have to beat Halvern at home, not somewhere else.
 
-90. MARCUS: That's a fighter's reason. I respect it.
-    마커스: 싸움꾼다운 이유네. 존중해.
+MARCUS: That's a fighter's reason. I respect it.
 
-91. PRIYA: But the timeline, Noah. Seven years is a long time.
-    프리야: 근데 일정 말이야, 노아. 7년은 긴 시간이야.
+PRIYA: But the timeline, Noah. Seven years is a long time.
 
-92. NOAH: I know. And it makes your visa problem more urgent.
-    노아: 알아. 그리고 그만큼 네 비자 문제가 더 급해지지.
+NOAH: I know. And it makes your visa problem more urgent.
 
-93. PRIYA: Much more urgent. My visa won't wait seven years for a clinical trial, Noah. If I can't stay in the country, I can't help build this company. I need a plan for that. Soon.
-    프리야: 훨씬 더 급해져. 내 비자는 임상시험 때문에 7년을 기다려 주지 않아, 노아. 내가 이 나라에 못 있으면 이 회사를 같이 만들 수도 없어. 그거에 대한 계획이 필요해. 빨리.
+PRIYA: Much more urgent. My visa won't wait seven years for a clinical trial, Noah. If I can't stay in the country, I can't help build this company. I need a plan for that. Soon.
 
-94. NOAH: It's the first thing I'll ask the lawyer on Thursday.
-    노아: 목요일에 변호사한테 제일 먼저 물어볼게.
+NOAH: It's the first thing I'll ask the lawyer on Thursday.
 
-95. PRIYA: Okay. Then I can live with America first.
-    프리야: 알았어. 그럼 미국 먼저, 받아들일 수 있어.
+PRIYA: Okay. Then I can live with America first.
 
-96. MARCUS: I still think Europe is smarter for cash.
-    마커스: 난 여전히 현금 면에선 유럽이 더 현명하다고 생각해.
+MARCUS: I still think Europe is smarter for cash.
 
-97. NOAH: That's fair. Is that a no?
-    노아: 그럴 수 있죠. 그럼 반대예요?
+NOAH: That's fair. Is that a no?
 
-98. MARCUS: No. I disagree, but I'll commit.
-    마커스: 아니. 동의는 안 하지만, 따를게.
+MARCUS: No. I disagree, but I'll commit.
 
-99. ELENA: "Disagree and commit." That's very mature, Marcus.
-    엘레나: "반대하되 따른다." 아주 성숙하네요, 마커스.
+ELENA: "Disagree and commit." That's very mature, Marcus.
 
-100. MARCUS: Army again. You argue in the tent, as loudly as you need to. But once the order is given and you walk outside, there is only one voice. Otherwise people get hurt.
-     마커스: 이것도 군대식이야. 텐트 안에선 필요한 만큼 큰 소리로 싸워. 하지만 일단 명령이 내려지고 밖으로 나가면, 목소리는 하나뿐이야. 안 그러면 사람이 다치거든.
+MARCUS: Army again. You argue in the tent, as loudly as you need to. But once the order is given and you walk outside, there is only one voice. Otherwise people get hurt.
 
-101. NOAH: I like that. Inside, argue. Outside, one voice.
-     노아: 그거 좋네요. 안에선 논쟁, 밖에선 한목소리.
+NOAH: I like that. Inside, argue. Outside, one voice.
 
-102. PRIYA: Can we add that to the company rules?
-     프리야: 그거 회사 원칙에 넣어도 돼?
+PRIYA: Can we add that to the company rules?
 
-103. ELENA: Next to "First, do no harm." Yes.
-     엘레나: "무엇보다 해를 끼치지 말 것" 옆에요. 좋아요.
+ELENA: Next to "First, do no harm." Yes.
 
-104. NOAH: So that's two company rules. Not bad for one week.
-     노아: 그럼 회사 원칙이 두 개네요. 일주일 치고 나쁘지 않네요.
+NOAH: So that's two company rules. Not bad for one week.
 
-105. MARCUS: Rules are easy. Following them is the hard part.
-     마커스: 원칙은 쉬워. 지키는 게 어렵지.
+MARCUS: Rules are easy. Following them is the hard part.
 
 ### 마무리 — 다음 단계
 
-106. ELENA: So what's next? We need a plan for the FDA.
-     엘레나: 그럼 다음은 뭐죠? FDA 계획이 필요해요.
+ELENA: So what's next? We need a plan for the FDA.
 
-107. PRIYA: And a plan for my visa. And Noah's non-compete.
-     프리야: 그리고 내 비자 계획. 그리고 노아의 경업금지 조항.
+PRIYA: And a plan for my visa. And Noah's non-compete.
 
-108. MARCUS: And a plan for money. Forty million doesn't fall from the sky. If we choose the long road, we need investors who can wait seven years, and that's a very short list.
-     마커스: 그리고 돈 계획. 4천만 달러가 하늘에서 떨어지진 않아. 먼 길을 택한다면 7년을 기다려 줄 수 있는 투자자가 필요한데, 그런 사람은 정말 몇 안 돼.
+MARCUS: And a plan for money. Forty million doesn't fall from the sky. If we choose the long road, we need investors who can wait seven years, and that's a very short list.
 
-109. NOAH: One thing at a time. Thursday, the lawyer.
-     노아: 하나씩요. 목요일엔 변호사.
+NOAH: One thing at a time. Thursday, the lawyer.
 
-110. ELENA: What about Europe? Do we forget it completely?
-     엘레나: 유럽은요? 완전히 잊는 거예요?
+ELENA: What about Europe? Do we forget it completely?
 
-111. NOAH: Not completely. Just later. After the medal.
-     노아: 완전히는 아니에요. 그냥 나중에요. 메달 받은 다음에.
+NOAH: Not completely. Just later. After the medal.
 
-112. PRIYA: Paris someday?
-     프리야: 언젠가 파리?
+PRIYA: Paris someday?
 
-113. NOAH: Someday. With a booth at a big conference in Paris.
-     노아: 언젠가. 파리의 큰 학회에 부스를 차리고.
+NOAH: Someday. With a booth at a big conference in Paris.
 
-114. MARCUS: A booth. You're dreaming already.
-     마커스: 부스라. 벌써 꿈꾸고 있네.
+MARCUS: A booth. You're dreaming already.
 
-115. NOAH: Somebody has to. You three handle reality.
-     노아: 누군가는 꿈을 꿔야죠. 현실은 세 분이 맡아 주세요.
+NOAH: Somebody has to. You three handle reality.
 
-116. ELENA: Fine. But dream with a budget.
-     엘레나: 좋아요. 하지만 꿈도 예산 안에서 꿔요.
+ELENA: Fine. But dream with a budget.
 
-117. PRIYA: For Thursday, bring your Halvern contract. The whole thing.
-     프리야: 목요일엔 할번 계약서 가져와. 전부 다.
+PRIYA: For Thursday, bring your Halvern contract. The whole thing.
 
-118. NOAH: Page six, section four. I've read it forty times.
-     노아: 6페이지 4항. 마흔 번은 읽었어.
+NOAH: Page six, section four. I've read it forty times.
 
-119. MARCUS: Read it forty-one. The lawyer will ask.
-     마커스: 마흔한 번 읽어. 변호사가 물어볼 거야.
+MARCUS: Read it forty-one. The lawyer will ask.
 
-120. NOAH: Copy that.
-     노아: 알겠습니다.
+NOAH: Copy that.
 
 ---
 
@@ -393,16 +273,16 @@
 
 | # | 표현 | 뜻 | 대본 속 쓰임 / 비즈니스 활용 |
 |---|---|---|---|
-| 1 | Let's go around the table. | 한 명씩 돌아가며 말해 봅시다. | 18턴. 회의에서 모든 참석자의 의견을 듣는 방식. |
-| 2 | The upside is… / The catch is… | 장점은… / 함정(단점)은… | 24·34턴. 선택지를 비교할 때 짝으로 쓰는 표현. |
-| 3 | I'm with Priya. | 프리야 의견에 동의해요. | 26턴. "I'm with ___." = ___의 편이다. |
-| 4 | That's a fair point. | 일리 있는 말이에요. | 29턴. 상대 의견의 타당성을 인정할 때. |
-| 5 | Get in, yes. Stand out? That's harder. | 들어가는 건 되지만, 눈에 띄는 건 어렵다. | 42턴. 시장 진입과 차별화의 차이. |
-| 6 | It's not the shortcut it used to be. | 예전 같은 지름길이 아니다. | 47턴. 상황 변화를 설명할 때. |
-| 7 | I won't pretend otherwise. | 아닌 척하지 않겠다. | 76턴. 불리한 사실을 솔직히 인정할 때. |
-| 8 | On balance, I'd go with… | 종합적으로 보면 …로 가겠다. | 83턴. 장단점을 다 따진 뒤 결론을 낼 때. |
-| 9 | Talk me through it. | 차근차근 설명해 줘요. | 84턴. 결론의 근거를 단계별로 듣고 싶을 때. |
-| 10 | I disagree, but I'll commit. | 동의하진 않지만 따르겠다. | 98턴. "Disagree and commit." 미국 기업(특히 테크) 의사결정 문화의 핵심 표현. |
+| 1 | Let's go around the table. | 한 명씩 돌아가며 말해 봅시다. | 장면1. 회의에서 모든 참석자의 의견을 듣는 방식. |
+| 2 | The upside is… / The catch is… | 장점은… / 함정(단점)은… | 장면1. 선택지를 비교할 때 짝으로 쓰는 표현. |
+| 3 | I'm with Priya. | 프리야 의견에 동의해요. | 장면1. "I'm with ___." = ___의 편이다. |
+| 4 | That's a fair point. | 일리 있는 말이에요. | 장면1. 상대 의견의 타당성을 인정할 때. |
+| 5 | Get in, yes. Stand out? That's harder. | 들어가는 건 되지만, 눈에 띄는 건 어렵다. | 장면1. 시장 진입과 차별화의 차이. |
+| 6 | It's not the shortcut it used to be. | 예전 같은 지름길이 아니다. | 장면1. 상황 변화를 설명할 때. |
+| 7 | I won't pretend otherwise. | 아닌 척하지 않겠다. | 장면2. 불리한 사실을 솔직히 인정할 때. |
+| 8 | On balance, I'd go with… | 종합적으로 보면 …로 가겠다. | 절정·전환. 장단점을 다 따진 뒤 결론을 낼 때. |
+| 9 | Talk me through it. | 차근차근 설명해 줘요. | 절정·전환. 결론의 근거를 단계별로 듣고 싶을 때. |
+| 10 | I disagree, but I'll commit. | 동의하진 않지만 따르겠다. | 절정·전환. "Disagree and commit." 미국 기업(특히 테크) 의사결정 문화의 핵심 표현. |
 
 ### ② 비즈니스 컬처 노트 — "Disagree and commit"
 미국 기업, 특히 테크 업계에서 널리 쓰이는 원칙이다. 회의에서는 반대 의견을 솔직하게 말하되, 결정이 내려지면 반대했던 사람도 그 결정을 전력으로 실행한다는 뜻이다. 반대 의견을 숨기는 것도, 결정 뒤에 뒤에서 딴소리를 하는 것도 모두 나쁜 행동으로 본다. Marcus의 "Inside, argue. Outside, one voice."는 같은 원칙을 군대식으로 표현한 것이다.
@@ -419,7 +299,7 @@
 
 ### ④ 긴 발화 분석
 
-> **28턴 MARCUS:** "Revenue. The sooner we sell something, the sooner we survive. A startup with no sales is burning cash every month, and when the cash runs out, it doesn't matter how good the product was."
+> **MARCUS (장면1):** "Revenue. The sooner we sell something, the sooner we survive. A startup with no sales is burning cash every month, and when the cash runs out, it doesn't matter how good the product was."
 
 | 구조 | 영어 | 기능 |
 |---|---|---|
@@ -431,3 +311,257 @@
 **활용 패턴:** 한 단어 결론 → The 비교급, the 비교급 → 위험 → 최악의 결과
 **연결 표현:** The sooner…, the sooner…(~할수록 더 ~하다) · and when…(그리고 ~하면) · it doesn't matter how…(얼마나 ~한지는 상관없다)
 **연습:** 두 가지 안 중 빠른 안을 지지하는 입장에서, 같은 구조로 30단어 안팎으로 이유를 말해 보기.
+
+---
+
+## 한국어 번역
+
+### 도입 — 휴게실, 저녁 7시
+
+엘레나: 내 휴게실에 온 걸 환영해요. 지저분한 건 양해해요. 전자레인지 팝콘 냄새도요.
+
+마커스: 이보다 냄새 고약한 텐트에서도 일해 봤어. 여긴 호텔이야.
+
+프리야: 저거 화이트보드예요? 진짜 화이트보드?
+
+엘레나: 직원 근무표 짤 때 써요. 오늘 밤엔 전략용이고요.
+
+노아: 칸이 두 개네요. 미국과 유럽. 벌써 시작하셨네요.
+
+엘레나: 일찍 왔어요. 마테오가 수학 시험공부를 해야 해서요.
+
+프리야: 그나저나, 노아. 릴리가 어머니께 전화했어?
+
+노아: 했어. 스피커로 바꿀게. 인사하고 싶대.
+
+릴리: 다들 안녕! 엄마랑 통화 살아남았어.
+
+마커스: 얼마나 심했어?
+
+릴리: 40분 동안 소리 질렀어. 주로 오빠 얘기, 그리고 왜 아무도 더 일찍 말 안 했냐는 얘기. 그다음엔 울었어, 나 때문에 무서웠대. 그다음엔 우리 보러 오려고 추수감사절 비행기를 예약했어.
+
+엘레나: 엄마들이 다 그렇죠. 우리 엄마도 똑같았을 거예요.
+
+릴리: 그리고 "그 의사 선생님께 감사하다고 전해라" 그러셨어요. 그러니까, 감사해요.
+
+엘레나: 별말씀을요, 라고 전해 줘요. 이제 가서 쉬어요, 릴리.
+
+릴리: 갈게요. 지루한 거 잘해 봐!
+
+### 장면1 — 유럽 먼저 (Priya·Marcus)
+
+노아: 좋아요. 오늘의 질문. 어디서 먼저 출시할까요?
+
+엘레나: 그리고 그게 나머지를 다 결정해요. 임상, 돈, 일정.
+
+노아: 한 명씩 돌아가며 얘기해 봐요. 누가 먼저 할래요?
+
+프리야: 나. 난 유럽 먼저라고 생각해.
+
+노아: 왜 유럽이야?
+
+프리야: 유럽에선 필러에 CE 마크가 필요하고, 미국에선 FDA 승인이 필요해.
+
+마커스: CE 마크가 뭔지 쉬운 말로 해 줄래?
+
+프리야: 유럽의 안전 인증 마크예요. 제품이 안전성과 성능에 관한 EU 규정을 충족한다는 걸 보여 주죠. 그게 없으면 거기서 못 팔고, 있으면 EU 모든 나라에서 팔 수 있어요.
+
+노아: 그러니까 유럽의 장점은 속도야?
+
+프리야: 속도랑 비용. 예전부터 필러는 거기서 몇 년 먼저 승인됐어.
+
+마커스: 난 프리야 편이야. 유럽 먼저. 이유는 이래.
+
+노아: 말씀하세요.
+
+마커스: 매출. 뭐라도 빨리 팔수록 빨리 살아남는 거야. 매출 없는 스타트업은 매달 현금을 태우고 있는 거고, 현금이 바닥나면 제품이 얼마나 좋았는지는 아무 상관이 없어.
+
+엘레나: 일리 있는 말이에요.
+
+마커스: 투자자들은 매출을 좋아해. 매출이 "이거 진짜야"라고 말해 주거든.
+
+프리야: 그리고 유럽 판매로 실제 사용 데이터도 얻을 수 있어.
+
+노아: 실사용 데이터. 그럼 그걸 FDA에 쓰는 거야?
+
+프리야: 도움은 될 수 있어. 그렇다고 미국 임상을 대신하진 못하지만.
+
+노아: 그러니까 단점은, 나중에 미국 임상을 또 해야 한다는 거네.
+
+프리야: 아마도. 하지만 유럽에서 돈이 들어오는 상태에서.
+
+엘레나: 유럽에 대해 질문 하나 해도 돼요?
+
+프리야: 그럼요.
+
+엘레나: 유럽에 이미 팔리는 필러 브랜드가 몇 개나 돼요?
+
+프리야: 많아요. 수십 개. 백 개가 넘을 수도 있고요.
+
+엘레나: 그러니까 붐비는 시장이네요. 가격도 미국보다 낮고요. 내가 걱정되는 건, 우리가 백 개 중 하나의 새 이름이 돼서 안전이 아니라 가격으로 싸우게 될 거라는 점이에요.
+
+마커스: 붐비지만 열려 있지. 작은 회사도 들어갈 수 있어.
+
+엘레나: 들어가는 건 그렇죠. 눈에 띄는 건요? 그건 더 어려워요.
+
+노아: 유럽 규정은요? 아직도 쉬워요?
+
+프리야: 이제는 아니야. EU가 새 규정을 만들었어. MDR이라고 해.
+
+마커스: MDR. 또 약자네. 번역 좀.
+
+프리야: 의료기기 규정이요. 예전 제도보다 더 엄격하고 더 느리고, 임상 데이터도 더 많이 요구해요. 그래서 유럽을 쉬운 길로 계획했던 많은 회사들이 다시 생각하고 있어요.
+
+노아: 그러니까 유럽이 예전 같은 지름길은 아니네.
+
+프리야: 그래도 대개는 더 빨라. 예전만큼은 아니지만.
+
+노아: 좋아. 적을게. 유럽: 더 빠름, 더 쌈, 붐빔, 점점 엄격해짐.
+
+마커스: 정리 잘했네. 선생님 차례예요.
+
+### 장면2 — 미국 먼저 (Elena)
+
+엘레나: 난 미국 먼저라고 생각해요. 더 어렵더라도요.
+
+프리야: 더 어려워서요?
+
+엘레나: 어느 정도는 그래요. 미국에서 필러는 PMA가 필요해요.
+
+마커스: 또 약자야. 나 목록 만들고 있어.
+
+엘레나: 시판 전 승인이요. FDA에서 가장 어려운 경로죠.
+
+노아: 그게 왜 좋은 거예요?
+
+엘레나: 그걸 통과하면 모든 의사가 우리 데이터를 믿을 테니까요. 의사가 FDA 승인을 보면, 연구가 충분히 좋았는지 따져 볼 필요가 없어요. 가장 어려운 시험이 그 질문에 답해 주니까요.
+
+노아: 그러니까 FDA 승인은 금메달 같은 거네요.
+
+엘레나: 바로 그거예요. 유럽은 입장권을 주고, 미국은 메달을 줘요.
+
+프리야: 아주 비싼 메달이네요.
+
+엘레나: 맞아요. 무작위 대조 임상시험. 환자 수백 명이요.
+
+마커스: 메달 말고 장점은 뭔데요?
+
+엘레나: 시장 규모요. 미국은 세계에서 제일 큰 미용 시장이에요.
+
+노아: 가격도 더 높고요. 할번에서 일해 봐서 알아요.
+
+엘레나: 그리고 이게 내 가장 큰 이유예요. 우리 이야기는 안전에 관한 거잖아요.
+
+프리야: 네. 계속하세요.
+
+엘레나: 안전을 파는 제품은 가장 빠른 증거가 아니라 가장 강한 증거가 필요해요.
+
+노아: 그거… 정말 좋은 말이네요.
+
+엘레나: 브로슈어에 넣지 마요. 진지하게 하는 말이니까.
+
+노아: 알겠어요. 슬로건이 아니라 원칙으로요.
+
+마커스: 생산은? 시장에 따라 달라지나?
+
+엘레나: 당신이 말해 줘요. 전문가잖아요.
+
+마커스: FDA는 공장을 빡빡하게 검사해. 기록 하나하나, 클린룸 하나하나, 배치 하나하나 다 봐. 그걸 통과하면 어디서든 준비된 거야. 그보다 더 많이 요구하는 데는 없으니까.
+
+엘레나: 그러니까 미국 먼저 하면 모든 게 더 탄탄해지네요. 공장까지 포함해서.
+
+프리야: 하지만 느려요. 훨씬 느리죠. 주사기 하나 팔기까지 5년, 어쩌면 7년. 그리고 그 하루하루에 급여, 임상, 임대료가 다 들어가는데, 들어오는 매출은 전혀 없어요.
+
+엘레나: 맞아요. 아닌 척하진 않을게요.
+
+노아: 다른 칸도 적을게요. 미국: 느림, 비쌈, 가장 큰 시장, 가장 강한 증거.
+
+프리야: 보드를 보니까 양쪽 다 진짜 일리가 있네.
+
+마커스: 어려운 결정은 원래 그렇게 생겼어.
+
+엘레나: 그래서, 노아. 당신 생각은 아직 안 말했어요.
+
+### 절정·전환 — 결정
+
+노아: 다들 먼저 듣고 싶었어요.
+
+프리야: 이제 다 들었잖아. 이제 결정해.
+
+노아: 종합적으로 보면, 전 미국 먼저로 가겠어요.
+
+마커스: 이유를 설명해 줘.
+
+노아: 세 가지 이유예요. 첫째, 엘레나 말이 맞아요. 안전은 가장 강한 증거가 필요해요.
+
+프리야: 그리고 둘째는?
+
+노아: 둘째, 전 미국 시장을 알아요. 의사들도, 가격대도요.
+
+마커스: 그리고 셋째는?
+
+노아: 셋째, 할번은 미국 회사예요. 그들의 명성은 여기서, 미국 의사들과 함께 쌓였어요. 그 의사들이 갈아타길 원한다면, 다른 데가 아니라 할번의 홈그라운드에서 이겨야 해요.
+
+마커스: 싸움꾼다운 이유네. 존중해.
+
+프리야: 근데 일정 말이야, 노아. 7년은 긴 시간이야.
+
+노아: 알아. 그리고 그만큼 네 비자 문제가 더 급해지지.
+
+프리야: 훨씬 더 급해져. 내 비자는 임상시험 때문에 7년을 기다려 주지 않아, 노아. 내가 이 나라에 못 있으면 이 회사를 같이 만들 수도 없어. 그거에 대한 계획이 필요해. 빨리.
+
+노아: 목요일에 변호사한테 제일 먼저 물어볼게.
+
+프리야: 알았어. 그럼 미국 먼저, 받아들일 수 있어.
+
+마커스: 난 여전히 현금 면에선 유럽이 더 현명하다고 생각해.
+
+노아: 그럴 수 있죠. 그럼 반대예요?
+
+마커스: 아니. 동의는 안 하지만, 따를게.
+
+엘레나: "반대하되 따른다." 아주 성숙하네요, 마커스.
+
+마커스: 이것도 군대식이야. 텐트 안에선 필요한 만큼 큰 소리로 싸워. 하지만 일단 명령이 내려지고 밖으로 나가면, 목소리는 하나뿐이야. 안 그러면 사람이 다치거든.
+
+노아: 그거 좋네요. 안에선 논쟁, 밖에선 한목소리.
+
+프리야: 그거 회사 원칙에 넣어도 돼?
+
+엘레나: "무엇보다 해를 끼치지 말 것" 옆에요. 좋아요.
+
+노아: 그럼 회사 원칙이 두 개네요. 일주일 치고 나쁘지 않네요.
+
+마커스: 원칙은 쉬워. 지키는 게 어렵지.
+
+### 마무리 — 다음 단계
+
+엘레나: 그럼 다음은 뭐죠? FDA 계획이 필요해요.
+
+프리야: 그리고 내 비자 계획. 그리고 노아의 경업금지 조항.
+
+마커스: 그리고 돈 계획. 4천만 달러가 하늘에서 떨어지진 않아. 먼 길을 택한다면 7년을 기다려 줄 수 있는 투자자가 필요한데, 그런 사람은 정말 몇 안 돼.
+
+노아: 하나씩요. 목요일엔 변호사.
+
+엘레나: 유럽은요? 완전히 잊는 거예요?
+
+노아: 완전히는 아니에요. 그냥 나중에요. 메달 받은 다음에.
+
+프리야: 언젠가 파리?
+
+노아: 언젠가. 파리의 큰 학회에 부스를 차리고.
+
+마커스: 부스라. 벌써 꿈꾸고 있네.
+
+노아: 누군가는 꿈을 꿔야죠. 현실은 세 분이 맡아 주세요.
+
+엘레나: 좋아요. 하지만 꿈도 예산 안에서 꿔요.
+
+프리야: 목요일엔 할번 계약서 가져와. 전부 다.
+
+노아: 6페이지 4항. 마흔 번은 읽었어.
+
+마커스: 마흔한 번 읽어. 변호사가 물어볼 거야.
+
+노아: 알겠습니다.

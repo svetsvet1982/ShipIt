@@ -17,373 +17,253 @@
 
 ### 도입 — 오전 10시, 페르소나
 
-01. ZOE: Meet Jess. Thirty-eight. Teacher. First-time filler patient. Very nervous.
-    조이: 제스를 소개할게요. 38세. 교사. 첫 필러 환자. 아주 긴장한 상태.
+ZOE: Meet Jess. Thirty-eight. Teacher. First-time filler patient. Very nervous.
 
-02. AVA: Jess is real?
-    에이바: 제스가 실존 인물이에요?
+AVA: Jess is real?
 
-03. ZOE: Jess is a persona, not a real person. We built her from two hundred patient surveys, so everything she thinks and fears comes from real answers. She's our target.
-    조이: 제스는 실존 인물이 아니라 페르소나예요. 환자 설문 200건으로 만들었으니까, 그녀가 생각하고 두려워하는 건 전부 실제 답변에서 나온 거예요. 우리 타깃이죠.
+ZOE: Jess is a persona, not a real person. We built her from two hundred patient surveys, so everything she thinks and fears comes from real answers. She's our target.
 
-04. ELENA: What does Jess want?
-    엘레나: 제스는 뭘 원해요?
+ELENA: What does Jess want?
 
-05. ZOE: To look rested. Not different. And to not end up on a "filler fail" video.
-    조이: 쉰 것처럼 보이기. 달라 보이지 않게. 그리고 "필러 실패" 영상에 나오지 않기.
+ZOE: To look rested. Not different. And to not end up on a "filler fail" video.
 
-06. AVA: What does she search before booking?
-    에이바: 예약 전에 뭘 검색해요?
+AVA: What does she search before booking?
 
-07. ZOE: "Is filler safe?" "Best injector near me." Never "Veyra." Not yet.
-    조이: "필러 안전해?" "근처 최고의 시술자." "베이라"는 절대 안 쳐요. 아직은.
+ZOE: "Is filler safe?" "Best injector near me." Never "Veyra." Not yet.
 
-08. ELENA: And we can't tell her "Veyra is safer." Ever.
-    엘레나: 그리고 우린 제스에게 "베이라가 더 안전하다"고 말할 수 없어요. 절대.
+ELENA: And we can't tell her "Veyra is safer." Ever.
 
-09. ZOE: I know. So we don't sell the product to Jess. We sell a question.
-    조이: 알아요. 그래서 제스에겐 제품을 팔지 않아요. 질문을 팔죠.
+ZOE: I know. So we don't sell the product to Jess. We sell a question.
 
-10. AVA: A question?
-    에이바: 질문이요?
+AVA: A question?
 
-11. ZOE: "Ask if they're Ready." Is your injector Veyra Ready Certified?
-    조이: "준비됐는지 물어보세요." 당신의 시술자는 베이라 레디 인증을 받았나요?
+ZOE: "Ask if they're Ready." Is your injector Veyra Ready Certified?
 
-12. ELENA: …That's clever. It sells training. Not a claim.
-    엘레나: …영리하네요. 교육을 팔아요. 주장이 아니라.
+ELENA: …That's clever. It sells training. Not a claim.
 
-13. ZOE: Funnel. Jess sees the question. Visits our site. Finds a certified injector. Books.
-    조이: 퍼널. 제스가 질문을 본다. 사이트에 온다. 인증 시술자를 찾는다. 예약한다.
+ZOE: Funnel. Jess sees the question. Visits our site. Finds a certified injector. Books.
 
-14. AVA: And the clinic orders more Veyra. That fixes Dr. Haddad's problem.
-    에이바: 그리고 병원은 베이라를 더 주문하고. 하다드 선생님 문제가 해결되네요.
+AVA: And the clinic orders more Veyra. That fixes Dr. Haddad's problem.
 
-15. ZOE: Patients asking for Ready. Instead of Lumaderm. That's the plan.
-    조이: 환자들이 루마덤 대신 레디를 찾게. 그게 계획이에요.
+ZOE: Patients asking for Ready. Instead of Lumaderm. That's the plan.
 
 ### 장면1 — 인플루언서 미팅
 
-16. BROOKE: Hi! Brooke. This is Tara, my manager. I love your brand. The napkin logo!
-    브룩: 안녕하세요! 브룩이에요. 이쪽은 제 매니저 타라. 브랜드 너무 좋아요. 냅킨 로고!
+BROOKE: Hi! Brooke. This is Tara, my manager. I love your brand. The napkin logo!
 
-17. TARA: Let's be efficient. Brooke has a concept. And a rate.
-    타라: 효율적으로 하죠. 브룩한테 컨셉이 있어요. 그리고 단가도.
+TARA: Let's be efficient. Brooke has a concept. And a rate.
 
-18. BROOKE: I get filler on camera. Live. My followers watch. Real and raw.
-    브룩: 카메라 앞에서 필러를 맞을게요. 생방송으로. 팔로워들이 봐요. 진짜, 날것 그대로.
+BROOKE: I get filler on camera. Live. My followers watch. Real and raw.
 
-19. ZOE: Where on your face?
-    조이: 얼굴 어디에요?
+ZOE: Where on your face?
 
-20. BROOKE: Lips, obviously. Everyone wants lips.
-    브룩: 입술이죠, 당연히. 다들 입술을 원해요.
+BROOKE: Lips, obviously. Everyone wants lips.
 
-21. ELENA: I'm sorry, but we can't do that. Our product isn't approved for lips, so if we show it there, even once, we're promoting off-label use. That's a line we don't cross.
-    엘레나: 죄송하지만 그건 안 돼요. 우리 제품은 입술 승인을 받지 않았어요. 그래서 한 번이라도 거기에 쓰는 걸 보여 주면 오프라벨 사용을 홍보하는 게 돼요. 그건 우리가 넘지 않는 선이에요.
+ELENA: I'm sorry, but we can't do that. Our product isn't approved for lips, so if we show it there, even once, we're promoting off-label use. That's a line we don't cross.
 
-22. BROOKE: Oh. Okay. Smile lines, then?
-    브룩: 아. 그렇구나. 그럼 팔자주름?
+BROOKE: Oh. Okay. Smile lines, then?
 
-23. ELENA: Brooke, how old are you?
-    엘레나: 브룩, 몇 살이에요?
+ELENA: Brooke, how old are you?
 
-24. BROOKE: Twenty-nine.
-    브룩: 스물아홉이요.
+BROOKE: Twenty-nine.
 
-25. ELENA: You don't have moderate smile lines. You wouldn't qualify for treatment.
-    엘레나: 중등도 팔자주름이 없어요. 시술 대상에 해당하지 않아요.
+ELENA: You don't have moderate smile lines. You wouldn't qualify for treatment.
 
-26. BROOKE: Is that a compliment or a rejection?
-    브룩: 그거 칭찬이에요, 거절이에요?
+BROOKE: Is that a compliment or a rejection?
 
-27. ELENA: Both. Mostly a compliment.
-    엘레나: 둘 다요. 주로 칭찬이고요.
+ELENA: Both. Mostly a compliment.
 
-28. TARA: Then what does Brooke do? She's not a billboard.
-    타라: 그럼 브룩은 뭘 해요? 광고판이 아니잖아요.
+TARA: Then what does Brooke do? She's not a billboard.
 
-29. ZOE: She asks questions, for Jess and for her followers. Brooke doesn't need a needle to be useful. She becomes the patient's voice, asking what every nervous first-timer wants to know.
-    조이: 질문을 해요. 제스를 위해, 팔로워를 위해. 브룩은 바늘 없이도 쓸모가 있어요. 긴장한 첫 시술자 모두가 알고 싶어 하는 걸 묻는, 환자의 목소리가 되는 거예요.
+ZOE: She asks questions, for Jess and for her followers. Brooke doesn't need a needle to be useful. She becomes the patient's voice, asking what every nervous first-timer wants to know.
 
-30. BROOKE: Questions? Like what?
-    브룩: 질문이요? 어떤 거요?
+BROOKE: Questions? Like what?
 
-31. AVA: "Are you certified?" "Do you have an emergency kit?" "What's your plan if something goes wrong?"
-    에이바: "인증받으셨어요?" "응급 키트 있어요?" "문제가 생기면 계획이 뭐예요?"
+AVA: "Are you certified?" "Do you have an emergency kit?" "What's your plan if something goes wrong?"
 
-32. BROOKE: Oh my god. My followers ask me this every day. In my DMs.
-    브룩: 세상에. 팔로워들이 매일 저한테 이걸 물어요. DM으로.
+BROOKE: Oh my god. My followers ask me this every day. In my DMs.
 
-33. TARA: And what do you answer?
-    타라: 그럼 넌 뭐라고 답해?
+TARA: And what do you answer?
 
-34. BROOKE: To be honest, I say, "Find someone good." That's all I know. I don't know what good looks like, so I just hope they pick the right person. It scares me a little.
-    브룩: 솔직히 "잘하는 사람 찾아"라고 해요. 그게 제가 아는 전부예요. 잘한다는 게 어떤 건지 모르니까, 그냥 제대로 된 사람을 고르길 바랄 뿐이죠. 좀 무섭기도 해요.
+BROOKE: To be honest, I say, "Find someone good." That's all I know. I don't know what good looks like, so I just hope they pick the right person. It scares me a little.
 
-35. ZOE: Now you'll know more. You'll interview real injectors. A nurse and a trainer.
-    조이: 이제 더 많이 알게 될 거예요. 진짜 시술자를 인터뷰해요. 간호사 하나, 트레이너 하나.
+ZOE: Now you'll know more. You'll interview real injectors. A nurse and a trainer.
 
-36. TARA: Rate. Forty thousand. Three posts and one story series.
-    타라: 단가. 4만 달러. 게시물 셋, 스토리 시리즈 하나.
+TARA: Rate. Forty thousand. Three posts and one story series.
 
-37. ZOE: Forty works. Usage rights? We want to reuse the videos.
-    조이: 4만 괜찮아요. 사용권은요? 영상을 재사용하고 싶어요.
+ZOE: Forty works. Usage rights? We want to reuse the videos.
 
-38. TARA: Six months. Extra for paid ads.
-    타라: 6개월. 유료 광고는 추가 비용.
+TARA: Six months. Extra for paid ads.
 
-39. ZOE: Six months, organic only. We'll talk about paid later.
-    조이: 6개월, 오가닉만. 유료는 나중에 얘기해요.
+ZOE: Six months, organic only. We'll talk about paid later.
 
-40. DIANE: Before anyone signs. Disclosure. How will Brooke label the posts?
-    다이앤: 누가 서명하기 전에. 표시 의무. 브룩이 게시물에 어떻게 표시해요?
+DIANE: Before anyone signs. Disclosure. How will Brooke label the posts?
 
-41. BROOKE: Usually "#gifted." At the end. With my other hashtags.
-    브룩: 보통 "#gifted"요. 끝에. 다른 해시태그들이랑.
+BROOKE: Usually "#gifted." At the end. With my other hashtags.
 
-42. DIANE: Not this time. This is paid. "#ad" or "Paid partnership." First line.
-    다이앤: 이번엔 아니에요. 돈 받는 거예요. "#ad"나 "유료 광고." 첫 줄에.
+DIANE: Not this time. This is paid. "#ad" or "Paid partnership." First line.
 
-43. TARA: First line hurts engagement.
-    타라: 첫 줄에 쓰면 반응이 떨어져요.
+TARA: First line hurts engagement.
 
-44. DIANE: The FTC doesn't care about engagement. Sponsored content must be disclosed clearly, where people actually see it. If the label is hidden at the end, it doesn't count, and we're both liable.
-    다이앤: FTC는 반응에 관심 없어요. 협찬 콘텐츠는 사람들이 실제로 보는 곳에 명확하게 표시해야 해요. 표시가 끝에 숨어 있으면 인정되지 않고, 우리 둘 다 책임을 져요.
+DIANE: The FTC doesn't care about engagement. Sponsored content must be disclosed clearly, where people actually see it. If the label is hidden at the end, it doesn't count, and we're both liable.
 
-45. BROOKE: Honestly? My followers trust me more when I'm upfront.
-    브룩: 솔직히요? 팔로워들은 제가 솔직할 때 더 믿어요.
+BROOKE: Honestly? My followers trust me more when I'm upfront.
 
-46. ELENA: Then we agree already.
-    엘레나: 그럼 이미 의견이 같네요.
+ELENA: Then we agree already.
 
-47. DIANE: Also. Brooke can't say "safer." Or "best." Or "no risks."
-    다이앤: 또. 브룩은 "더 안전하다"고 할 수 없어요. "최고"도. "위험 없음"도.
+DIANE: Also. Brooke can't say "safer." Or "best." Or "no risks."
 
-48. BROOKE: What can I say?
-    브룩: 그럼 뭐라고 해요?
+BROOKE: What can I say?
 
-49. ELENA: Whatever you learn, in your own words. That's what makes it real. We'll review every post before it goes live, but only to check the facts, not your style.
-    엘레나: 배운 거면 뭐든, 당신 말로요. 그래야 진짜가 돼요. 올라가기 전에 모든 게시물을 검토하겠지만, 사실 확인만 하지 당신 스타일은 건드리지 않아요.
+ELENA: Whatever you learn, in your own words. That's what makes it real. We'll review every post before it goes live, but only to check the facts, not your style.
 
-50. TARA: Review rights. Fine. Facts only, not her voice. Put that in the contract.
-    타라: 검토권. 좋아요. 사실만, 브룩 말투는 말고요. 그걸 계약서에 넣어 줘요.
+TARA: Review rights. Fine. Facts only, not her voice. Put that in the contract.
 
 ### 장면2 — "Ask if they're Ready" 촬영
 
-51. ZOE: Afternoon. Studio. Brooke, meet Keisha. Nurse practitioner. Veyra faculty.
-    조이: 오후. 스튜디오. 브룩, 키샤를 소개할게요. 전문 간호사. 베이라 교수진.
+ZOE: Afternoon. Studio. Brooke, meet Keisha. Nurse practitioner. Veyra faculty.
 
-52. KEISHA: Hi, Brooke. My nieces follow you. They think I'm cool now.
-    키샤: 안녕, 브룩. 우리 조카들이 당신을 팔로우해요. 이제 내가 멋진 줄 알아요.
+KEISHA: Hi, Brooke. My nieces follow you. They think I'm cool now.
 
-53. BROOKE: You are cool. Okay, rolling. Question one. "Are you certified?"
-    브룩: 멋지세요. 좋아요, 촬영 시작. 질문 하나. "인증받으셨어요?"
+BROOKE: You are cool. Okay, rolling. Question one. "Are you certified?"
 
-54. KEISHA: Yes. And ask for proof. A real certificate. With a date.
-    키샤: 네. 그리고 증명을 요구하세요. 진짜 인증서. 날짜 있는 거.
+KEISHA: Yes. And ask for proof. A real certificate. With a date.
 
-55. BROOKE: Question two. "Do you have an emergency kit? Can I see it?"
-    브룩: 질문 둘. "응급 키트 있어요? 보여 줄 수 있어요?"
+BROOKE: Question two. "Do you have an emergency kit? Can I see it?"
 
-56. KEISHA: Here it is. Right in this drawer. Every room. Every day.
-    키샤: 여기 있어요. 바로 이 서랍에. 모든 방에. 매일.
+KEISHA: Here it is. Right in this drawer. Every room. Every day.
 
-57. BROOKE: Wait. You'd actually show a patient?
-    브룩: 잠깐. 진짜 환자한테 보여 줘요?
+BROOKE: Wait. You'd actually show a patient?
 
-58. KEISHA: Any good injector will show you, happily. They're proud of being prepared. If they get defensive or change the subject, that's your answer, and you should walk out.
-    키샤: 좋은 시술자라면 누구든 기꺼이 보여 줘요. 준비돼 있다는 걸 자랑스러워하니까요. 방어적으로 나오거나 말을 돌리면, 그게 답이에요. 그냥 나오세요.
+KEISHA: Any good injector will show you, happily. They're proud of being prepared. If they get defensive or change the subject, that's your answer, and you should walk out.
 
-59. ELENA: Careful. That last line. Is it a claim?
-    엘레나: 조심해요. 그 마지막 문장. 주장인가요?
+ELENA: Careful. That last line. Is it a claim?
 
-60. DIANE: It's advice. Not about our product. It's fine.
-    다이앤: 조언이에요. 우리 제품에 관한 게 아니라. 괜찮아요.
+DIANE: It's advice. Not about our product. It's fine.
 
-61. BROOKE: Question three. "What's your plan if something goes wrong?"
-    브룩: 질문 셋. "문제가 생기면 계획이 뭐예요?"
+BROOKE: Question three. "What's your plan if something goes wrong?"
 
-62. KEISHA: Stop. Call for help. Start the timer. Then a protocol. I have it memorized.
-    키샤: 멈추고. 도움 요청. 타이머 시작. 그다음 프로토콜. 외우고 있어요.
+KEISHA: Stop. Call for help. Start the timer. Then a protocol. I have it memorized.
 
-63. BROOKE: That's… so reassuring. Why doesn't everyone say this?
-    브룩: 그거… 정말 안심되네요. 왜 다들 이 말을 안 해요?
+BROOKE: That's… so reassuring. Why doesn't everyone say this?
 
-64. AVA: Because nobody asks. That's the whole campaign.
-    에이바: 아무도 안 물어보니까요. 그게 캠페인의 전부예요.
+AVA: Because nobody asks. That's the whole campaign.
 
-65. BROOKE: Question four. "What product will you use? And why?"
-    브룩: 질문 넷. "어떤 제품을 쓸 거예요? 그리고 왜요?"
+BROOKE: Question four. "What product will you use? And why?"
 
-66. ZOE: That one's tricky. Keisha uses ours. Will that sound like an ad?
-    조이: 그건 까다로워요. 키샤는 우리 걸 써요. 광고처럼 들릴까요?
+ZOE: That one's tricky. Keisha uses ours. Will that sound like an ad?
 
-67. DIANE: It's already an ad. Hashtag ad, first line, so nobody is fooled. That actually frees her. Because everyone knows we paid, she can simply be honest about what she uses.
-    다이앤: 이미 광고예요. 해시태그 ad, 첫 줄. 그러니 아무도 속지 않아요. 그게 오히려 그녀를 자유롭게 해요. 우리가 돈을 냈다는 걸 다 아니까, 자기가 뭘 쓰는지 그냥 솔직하게 말하면 돼요.
+DIANE: It's already an ad. Hashtag ad, first line, so nobody is fooled. That actually frees her. Because everyone knows we paid, she can simply be honest about what she uses.
 
-68. KEISHA: I use several. For smile lines, often Veyra. It dissolves faster if needed.
-    키샤: 여러 개 써요. 팔자주름엔 자주 베이라. 필요하면 더 빨리 녹아요.
+KEISHA: I use several. For smile lines, often Veyra. It dissolves faster if needed.
 
-69. ELENA: Add "with hyaluronidase." Every time.
-    엘레나: "히알루로니다아제로"를 붙여요. 매번.
+ELENA: Add "with hyaluronidase." Every time.
 
-70. KEISHA: Faster with hyaluronidase. If needed. Okay?
-    키샤: 히알루로니다아제로 더 빨리. 필요하면. 됐죠?
+KEISHA: Faster with hyaluronidase. If needed. Okay?
 
-71. ELENA: Perfect. Thank you.
-    엘레나: 완벽해요. 고마워요.
+ELENA: Perfect. Thank you.
 
-72. BROOKE: Last one. Question five. "Can I see your real before-and-after photos?"
-    브룩: 마지막. 질문 다섯. "실제 비포·애프터 사진 볼 수 있어요?"
+BROOKE: Last one. Question five. "Can I see your real before-and-after photos?"
 
-73. KEISHA: Real ones. Same light. Same angle. No filters. Ask for that.
-    키샤: 진짜로요. 같은 조명. 같은 각도. 필터 없이. 그걸 요구하세요.
+KEISHA: Real ones. Same light. Same angle. No filters. Ask for that.
 
-74. BROOKE: Oh no. Half the photos on my feed have filters.
-    브룩: 아 이런. 제 피드 사진 절반에 필터가 있어요.
+BROOKE: Oh no. Half the photos on my feed have filters.
 
-75. ZOE: Speaking of photos. I have ours. From the agency.
-    조이: 사진 얘기가 나왔으니. 우리 거 있어요. 에이전시에서 온 거.
+ZOE: Speaking of photos. I have ours. From the agency.
 
-76. ELENA: Show me.
-    엘레나: 보여 줘요.
+ELENA: Show me.
 
-77. ZOE: Before and after. Smile lines. Beautiful, right?
-    조이: 비포·애프터. 팔자주름. 예쁘죠?
+ZOE: Before and after. Smile lines. Beautiful, right?
 
-78. ELENA: Zoe, look closely. The after has better lighting, and her skin is smoother everywhere, not just the smile lines. Filler doesn't do that. Somebody touched this photo.
-    엘레나: 조이, 자세히 봐요. 애프터가 조명이 더 좋고, 팔자주름만이 아니라 피부 전체가 더 매끈해요. 필러는 그런 걸 못 해요. 누군가 이 사진에 손을 댔어요.
+ELENA: Zoe, look closely. The after has better lighting, and her skin is smoother everywhere, not just the smile lines. Filler doesn't do that. Somebody touched this photo.
 
-79. ZOE: The agency may have… adjusted it. Slightly.
-    조이: 에이전시가… 조금 손봤을 수도 있어요. 살짝.
+ZOE: The agency may have… adjusted it. Slightly.
 
-80. ELENA: Retouched. We can't use it. Not one pixel.
-    엘레나: 보정이네요. 못 써요. 픽셀 하나도.
+ELENA: Retouched. We can't use it. Not one pixel.
 
 ### 절정·전환 — 사진 전쟁
 
-81. ZOE: Elena, every brand retouches. Lumaderm's photos are glowing.
-    조이: 엘레나, 모든 브랜드가 보정해요. 루마덤 사진은 빛이 나요.
+ZOE: Elena, every brand retouches. Lumaderm's photos are glowing.
 
-82. ELENA: Then let them glow. We show real results. Or nothing.
-    엘레나: 그럼 빛나라고 해요. 우린 진짜 결과를 보여 줘요. 아니면 아무것도.
+ELENA: Then let them glow. We show real results. Or nothing.
 
-83. ZOE: Real results look… boring. Shadows. Pores.
-    조이: 진짜 결과는… 지루해 보여요. 그림자. 모공.
+ZOE: Real results look… boring. Shadows. Pores.
 
-84. ELENA: Jess has pores, Zoe. She sees them in the mirror every morning. When she sees pores in our photos, she'll trust them, because they look like her.
-    엘레나: 제스도 모공이 있어요, 조이. 매일 아침 거울에서 보죠. 우리 사진에서 모공을 보면 믿을 거예요. 자기 모습 같으니까요.
+ELENA: Jess has pores, Zoe. She sees them in the mirror every morning. When she sees pores in our photos, she'll trust them, because they look like her.
 
-85. DIANE: And legally, retouched before-and-after photos are deceptive. Full stop.
-    다이앤: 그리고 법적으로 보정된 비포·애프터는 기만이에요. 끝.
+DIANE: And legally, retouched before-and-after photos are deceptive. Full stop.
 
-86. ZOE: Fine. Then where do I get real photos? Fast?
-    조이: 좋아요. 그럼 진짜 사진은 어디서 구해요? 빨리?
+ZOE: Fine. Then where do I get real photos? Fast?
 
-87. ELENA: The trial. We have three hundred patients. Standardized photos. Same light, same angle.
-    엘레나: 임상이요. 환자 300명이 있어요. 표준화된 사진. 같은 조명, 같은 각도.
+ELENA: The trial. We have three hundred patients. Standardized photos. Same light, same angle.
 
-88. DIANE: Careful. Those photos were consented for research, not marketing. Using them in an ad without asking would break that promise. You need new consent, signed, from every single patient.
-    다이앤: 조심해요. 그 사진들은 마케팅이 아니라 연구용으로 동의받은 거예요. 묻지 않고 광고에 쓰면 그 약속을 깨는 거예요. 환자 한 명 한 명에게서 새로 서명된 동의를 받아야 해요.
+DIANE: Careful. Those photos were consented for research, not marketing. Using them in an ad without asking would break that promise. You need new consent, signed, from every single patient.
 
-89. ELENA: Then we ask. Starting with patient number one.
-    엘레나: 그럼 물어보죠. 1번 환자부터.
+ELENA: Then we ask. Starting with patient number one.
 
-90. AVA: Linda Hayes? The one who brought cookies?
-    에이바: 린다 헤이스요? 쿠키 가져왔던 분?
+AVA: Linda Hayes? The one who brought cookies?
 
-91. ELENA: Calling her now. Linda? It's Elena Ruiz. Do you have a minute?
-    엘레나: 지금 전화할게요. 린다? 엘레나 루이즈예요. 잠깐 시간 되세요?
+ELENA: Calling her now. Linda? It's Elena Ruiz. Do you have a minute?
 
-92. LINDA: Dr. Ruiz! Of course. Is something wrong?
-    린다: 루이즈 선생님! 물론이죠. 무슨 문제 있어요?
+LINDA: Dr. Ruiz! Of course. Is something wrong?
 
-93. ELENA: Nothing wrong. We'd like to use your trial photos. In our campaign. Unretouched.
-    엘레나: 문제없어요. 임상 사진을 캠페인에 쓰고 싶어요. 보정 없이.
+ELENA: Nothing wrong. We'd like to use your trial photos. In our campaign. Unretouched.
 
-94. LINDA: My real face? With my real wrinkles? At twelve months?
-    린다: 내 진짜 얼굴이요? 진짜 주름까지? 12개월 차에?
+LINDA: My real face? With my real wrinkles? At twelve months?
 
-95. ELENA: Exactly that. And a sentence: "Individual results vary."
-    엘레나: 바로 그거예요. 그리고 문장 하나: "개인별 결과는 다를 수 있습니다."
+ELENA: Exactly that. And a sentence: "Individual results vary."
 
-96. LINDA: Honey, I've waited three years for someone to ask. My friends keep asking what I did, and now they can finally see for themselves. Yes, absolutely.
-    린다: 선생님, 누가 물어봐 주길 3년을 기다렸어요. 친구들이 뭘 했냐고 계속 묻는데, 이제야 직접 볼 수 있겠네요. 좋아요, 당연하죠.
+LINDA: Honey, I've waited three years for someone to ask. My friends keep asking what I did, and now they can finally see for themselves. Yes, absolutely.
 
-97. DIANE: In writing, Linda. I'll send a consent form today.
-    다이앤: 서면으로요, 린다. 오늘 동의서 보낼게요.
+DIANE: In writing, Linda. I'll send a consent form today.
 
-98. LINDA: Send two. My husband wants to sign as a witness. He was right.
-    린다: 두 장 보내 줘요. 남편이 증인으로 서명하고 싶대요. 남편이 옳았거든요.
+LINDA: Send two. My husband wants to sign as a witness. He was right.
 
-99. ZOE: Okay. I'm convinced. A real woman. Real photos. Real age.
-    조이: 좋아요. 설득됐어요. 진짜 여성. 진짜 사진. 진짜 나이.
+ZOE: Okay. I'm convinced. A real woman. Real photos. Real age.
 
-100. ELENA: Thank you, Zoe. And I'll concede one thing. Your question idea is brilliant.
-     엘레나: 고마워요, 조이. 그리고 하나 인정할게요. 당신의 질문 아이디어는 훌륭해요.
+ELENA: Thank you, Zoe. And I'll concede one thing. Your question idea is brilliant.
 
-101. ZOE: Did Elena just compliment marketing?
-     조이: 엘레나가 방금 마케팅을 칭찬했어요?
+ZOE: Did Elena just compliment marketing?
 
-102. AVA: I recorded it. For the dashboard.
-     에이바: 녹음했어요. 대시보드용으로.
+AVA: I recorded it. For the dashboard.
 
-103. BROOKE: Can I put Linda in my story too? With permission?
-     브룩: 제 스토리에 린다도 넣어도 돼요? 허락받고요?
+BROOKE: Can I put Linda in my story too? With permission?
 
-104. ELENA: If Linda agrees in writing. And the risk information is included.
-     엘레나: 린다가 서면으로 동의하면요. 그리고 위험 정보가 포함되면요.
+ELENA: If Linda agrees in writing. And the risk information is included.
 
-105. BROOKE: Risk information. In a story. That's a first for me.
-     브룩: 위험 정보. 스토리에. 저한텐 처음이네요.
+BROOKE: Risk information. In a story. That's a first for me.
 
 ### 마무리 — 오후 4시
 
-106. NOAH: How did it go? I heard shouting about pixels.
-     노아: 어땠어요? 픽셀 얘기로 소리친다고 들었는데.
+NOAH: How did it go? I heard shouting about pixels.
 
-107. ZOE: We fought. Elena won. The campaign got better.
-     조이: 싸웠어요. 엘레나가 이겼어요. 캠페인은 더 좋아졌고요.
+ZOE: We fought. Elena won. The campaign got better.
 
-108. ELENA: We both won, actually. Inside the room, we argue as hard as we need to. Outside, we speak with one voice. That's how Jess ends up trusting both of us.
-     엘레나: 사실 우리 둘 다 이겼어요. 회의실 안에선 필요한 만큼 치열하게 논쟁해요. 밖에선 한목소리로 말하고요. 그래야 제스가 우리 둘 다 믿게 되죠.
+ELENA: We both won, actually. Inside the room, we argue as hard as we need to. Outside, we speak with one voice. That's how Jess ends up trusting both of us.
 
-109. NOAH: Launch date?
-     노아: 출시일은요?
+NOAH: Launch date?
 
-110. ZOE: Two weeks. Brooke's first post. Hashtag ad, first line. Linda's photos on the site.
-     조이: 2주 뒤. 브룩의 첫 게시물. 해시태그 ad, 첫 줄. 린다 사진은 사이트에.
+ZOE: Two weeks. Brooke's first post. Hashtag ad, first line. Linda's photos on the site.
 
-111. AVA: And the clinic locator. Every certified clinic on a map. Ninety-eight right now.
-     에이바: 그리고 병원 찾기. 모든 인증 병원을 지도에. 지금 98곳.
+AVA: And the clinic locator. Every certified clinic on a map. Ninety-eight right now.
 
-112. NOAH: What happens after Jess books?
-     노아: 제스가 예약한 다음엔요?
+NOAH: What happens after Jess books?
 
-113. ZOE: That's the next problem. Right now, nothing happens. She gets treated, goes home, and we never hear from her again. We lose her right when she starts trusting us.
-     조이: 그게 다음 문제예요. 지금은 아무 일도 안 일어나요. 시술받고 집에 가면 다시는 소식을 못 들어요. 막 우리를 믿기 시작한 바로 그때 놓쳐 버리는 거죠.
+ZOE: That's the next problem. Right now, nothing happens. She gets treated, goes home, and we never hear from her again. We lose her right when she starts trusting us.
 
-114. AVA: Patients keep asking Keisha, "When should I come back? What should I avoid?"
-     에이바: 환자들이 키샤한테 계속 물어요. "언제 다시 와야 해요? 뭘 피해야 해요?"
+AVA: Patients keep asking Keisha, "When should I come back? What should I avoid?"
 
-115. ZOE: So we need something for after. An app. A membership.
-     조이: 그래서 사후용 뭔가가 필요해요. 앱. 멤버십.
+ZOE: So we need something for after. An app. A membership.
 
-116. ELENA: An app means patient data. Health data.
-     엘레나: 앱이면 환자 데이터예요. 건강 데이터.
+ELENA: An app means patient data. Health data.
 
-117. ZOE: I know. I already have a name. "Veyra Circle."
-     조이: 알아요. 이름은 이미 있어요. "베이라 서클."
+ZOE: I know. I already have a name. "Veyra Circle."
 
-118. ELENA: Then I'm bringing HIPAA. Printed.
-     엘레나: 그럼 HIPAA 가져올게요. 인쇄해서.
+ELENA: Then I'm bringing HIPAA. Printed.
 
-119. ZOE: Big letters?
-     조이: 큰 글씨로요?
+ZOE: Big letters?
 
-120. ELENA: The biggest.
-     엘레나: 제일 큰 걸로.
+ELENA: The biggest.
 
 ---
 
@@ -393,16 +273,16 @@
 
 | # | 표현 | 뜻 | 대본 속 쓰임 / 비즈니스 활용 |
 |---|---|---|---|
-| 1 | target persona | 타깃 페르소나(가상 대표 고객) | 1~3턴. 설문·데이터 기반으로 만든 고객 인물상. |
-| 2 | We don't sell the product. We sell a question. | 제품이 아니라 질문을 판다. | 9턴. 규제 안에서 수요를 만드는 캠페인 전략. |
-| 3 | conversion funnel | 전환 퍼널 | 13턴. 인지 → 방문 → 탐색 → 예약의 단계. |
-| 4 | Is that a compliment or a rejection? | 칭찬이에요, 거절이에요? | 26턴. 애매한 답에 가볍게 되묻는 표현. |
-| 5 | usage rights | 사용권 | 37~39턴. 크리에이터 콘텐츠 재사용 조건 협상. |
-| 6 | Sponsored content must be disclosed. | 협찬 콘텐츠는 반드시 표시해야 한다. | 44턴. FTC 광고 표시 의무. |
-| 7 | My followers trust me more when I'm upfront. | 솔직할 때 더 믿는다. | 45턴. 투명성이 신뢰를 만든다는 인플루언서 관점. |
-| 8 | If they get defensive, that's your answer. | 방어적으로 나오면 그게 답이다. | 58턴. 고객에게 판단 기준을 주는 조언. |
-| 9 | Not one pixel. | 픽셀 하나도 안 된다. | 80턴. 보정 사진에 대한 단호한 거절. |
-| 10 | Individual results vary. | 개인별 결과는 다를 수 있다. | 95턴. 비포·애프터 사진의 필수 고지 문구. |
+| 1 | target persona | 타깃 페르소나(가상 대표 고객) | 도입. 설문·데이터 기반으로 만든 고객 인물상. |
+| 2 | We don't sell the product. We sell a question. | 제품이 아니라 질문을 판다. | 도입. 규제 안에서 수요를 만드는 캠페인 전략. |
+| 3 | conversion funnel | 전환 퍼널 | 도입. 인지 → 방문 → 탐색 → 예약의 단계. |
+| 4 | Is that a compliment or a rejection? | 칭찬이에요, 거절이에요? | 장면1. 애매한 답에 가볍게 되묻는 표현. |
+| 5 | usage rights | 사용권 | 장면1. 크리에이터 콘텐츠 재사용 조건 협상. |
+| 6 | Sponsored content must be disclosed. | 협찬 콘텐츠는 반드시 표시해야 한다. | 장면1. FTC 광고 표시 의무. |
+| 7 | My followers trust me more when I'm upfront. | 솔직할 때 더 믿는다. | 장면1. 투명성이 신뢰를 만든다는 인플루언서 관점. |
+| 8 | If they get defensive, that's your answer. | 방어적으로 나오면 그게 답이다. | 장면2. 고객에게 판단 기준을 주는 조언. |
+| 9 | Not one pixel. | 픽셀 하나도 안 된다. | 장면2. 보정 사진에 대한 단호한 거절. |
+| 10 | Individual results vary. | 개인별 결과는 다를 수 있다. | 절정·전환. 비포·애프터 사진의 필수 고지 문구. |
 
 ### ② 비즈니스 컬처 노트 — 인플루언서 광고와 비포·애프터 규정
 미국 **FTC**는 인플루언서가 대가를 받은 게시물에 **#ad** 또는 **"Paid partnership"**을 눈에 띄게(가능하면 첫 줄에) 표시하도록 요구한다. 끝에 묻힌 해시태그나 "#gifted" 같은 모호한 표현은 문제가 될 수 있다. 의료 시술 광고의 **비포·애프터 사진**은 같은 조명·각도·화장 조건이어야 하고, 보정은 기만 광고로 간주될 수 있다. 대표적 결과(typical results)가 아니면 "개인별 결과는 다를 수 있다"는 고지가 필요하다. 연구용으로 촬영한 환자 사진을 마케팅에 쓰려면 **별도의 마케팅 동의**를 받아야 한다.
@@ -425,7 +305,7 @@
 
 ### ④ 긴 발화 분석
 
-> **21턴 ELENA:** "I'm sorry, but we can't do that. Our product isn't approved for lips, so if we show it there, even once, we're promoting off-label use. That's a line we don't cross."
+> **ELENA (장면1):** "I'm sorry, but we can't do that. Our product isn't approved for lips, so if we show it there, even once, we're promoting off-label use. That's a line we don't cross."
 
 | 구조 | 영어 | 기능 |
 |---|---|---|
@@ -437,3 +317,257 @@
 **활용 패턴:** I'm sorry, but… → 사실 → so if…, we're… → That's a line we don't cross.
 **연결 표현:** I'm sorry, but(죄송하지만) · even once(한 번이라도) · That's a line we don't cross(넘지 않는 선이다)
 **연습:** 고객이 계약 범위 밖의 서비스를 요구할 때, 같은 구조로 정중하지만 단호하게 거절하는 말을 30단어 안팎으로 해 보기.
+
+---
+
+## 한국어 번역
+
+### 도입 — 오전 10시, 페르소나
+
+조이: 제스를 소개할게요. 38세. 교사. 첫 필러 환자. 아주 긴장한 상태.
+
+에이바: 제스가 실존 인물이에요?
+
+조이: 제스는 실존 인물이 아니라 페르소나예요. 환자 설문 200건으로 만들었으니까, 그녀가 생각하고 두려워하는 건 전부 실제 답변에서 나온 거예요. 우리 타깃이죠.
+
+엘레나: 제스는 뭘 원해요?
+
+조이: 쉰 것처럼 보이기. 달라 보이지 않게. 그리고 "필러 실패" 영상에 나오지 않기.
+
+에이바: 예약 전에 뭘 검색해요?
+
+조이: "필러 안전해?" "근처 최고의 시술자." "베이라"는 절대 안 쳐요. 아직은.
+
+엘레나: 그리고 우린 제스에게 "베이라가 더 안전하다"고 말할 수 없어요. 절대.
+
+조이: 알아요. 그래서 제스에겐 제품을 팔지 않아요. 질문을 팔죠.
+
+에이바: 질문이요?
+
+조이: "준비됐는지 물어보세요." 당신의 시술자는 베이라 레디 인증을 받았나요?
+
+엘레나: …영리하네요. 교육을 팔아요. 주장이 아니라.
+
+조이: 퍼널. 제스가 질문을 본다. 사이트에 온다. 인증 시술자를 찾는다. 예약한다.
+
+에이바: 그리고 병원은 베이라를 더 주문하고. 하다드 선생님 문제가 해결되네요.
+
+조이: 환자들이 루마덤 대신 레디를 찾게. 그게 계획이에요.
+
+### 장면1 — 인플루언서 미팅
+
+브룩: 안녕하세요! 브룩이에요. 이쪽은 제 매니저 타라. 브랜드 너무 좋아요. 냅킨 로고!
+
+타라: 효율적으로 하죠. 브룩한테 컨셉이 있어요. 그리고 단가도.
+
+브룩: 카메라 앞에서 필러를 맞을게요. 생방송으로. 팔로워들이 봐요. 진짜, 날것 그대로.
+
+조이: 얼굴 어디에요?
+
+브룩: 입술이죠, 당연히. 다들 입술을 원해요.
+
+엘레나: 죄송하지만 그건 안 돼요. 우리 제품은 입술 승인을 받지 않았어요. 그래서 한 번이라도 거기에 쓰는 걸 보여 주면 오프라벨 사용을 홍보하는 게 돼요. 그건 우리가 넘지 않는 선이에요.
+
+브룩: 아. 그렇구나. 그럼 팔자주름?
+
+엘레나: 브룩, 몇 살이에요?
+
+브룩: 스물아홉이요.
+
+엘레나: 중등도 팔자주름이 없어요. 시술 대상에 해당하지 않아요.
+
+브룩: 그거 칭찬이에요, 거절이에요?
+
+엘레나: 둘 다요. 주로 칭찬이고요.
+
+타라: 그럼 브룩은 뭘 해요? 광고판이 아니잖아요.
+
+조이: 질문을 해요. 제스를 위해, 팔로워를 위해. 브룩은 바늘 없이도 쓸모가 있어요. 긴장한 첫 시술자 모두가 알고 싶어 하는 걸 묻는, 환자의 목소리가 되는 거예요.
+
+브룩: 질문이요? 어떤 거요?
+
+에이바: "인증받으셨어요?" "응급 키트 있어요?" "문제가 생기면 계획이 뭐예요?"
+
+브룩: 세상에. 팔로워들이 매일 저한테 이걸 물어요. DM으로.
+
+타라: 그럼 넌 뭐라고 답해?
+
+브룩: 솔직히 "잘하는 사람 찾아"라고 해요. 그게 제가 아는 전부예요. 잘한다는 게 어떤 건지 모르니까, 그냥 제대로 된 사람을 고르길 바랄 뿐이죠. 좀 무섭기도 해요.
+
+조이: 이제 더 많이 알게 될 거예요. 진짜 시술자를 인터뷰해요. 간호사 하나, 트레이너 하나.
+
+타라: 단가. 4만 달러. 게시물 셋, 스토리 시리즈 하나.
+
+조이: 4만 괜찮아요. 사용권은요? 영상을 재사용하고 싶어요.
+
+타라: 6개월. 유료 광고는 추가 비용.
+
+조이: 6개월, 오가닉만. 유료는 나중에 얘기해요.
+
+다이앤: 누가 서명하기 전에. 표시 의무. 브룩이 게시물에 어떻게 표시해요?
+
+브룩: 보통 "#gifted"요. 끝에. 다른 해시태그들이랑.
+
+다이앤: 이번엔 아니에요. 돈 받는 거예요. "#ad"나 "유료 광고." 첫 줄에.
+
+타라: 첫 줄에 쓰면 반응이 떨어져요.
+
+다이앤: FTC는 반응에 관심 없어요. 협찬 콘텐츠는 사람들이 실제로 보는 곳에 명확하게 표시해야 해요. 표시가 끝에 숨어 있으면 인정되지 않고, 우리 둘 다 책임을 져요.
+
+브룩: 솔직히요? 팔로워들은 제가 솔직할 때 더 믿어요.
+
+엘레나: 그럼 이미 의견이 같네요.
+
+다이앤: 또. 브룩은 "더 안전하다"고 할 수 없어요. "최고"도. "위험 없음"도.
+
+브룩: 그럼 뭐라고 해요?
+
+엘레나: 배운 거면 뭐든, 당신 말로요. 그래야 진짜가 돼요. 올라가기 전에 모든 게시물을 검토하겠지만, 사실 확인만 하지 당신 스타일은 건드리지 않아요.
+
+타라: 검토권. 좋아요. 사실만, 브룩 말투는 말고요. 그걸 계약서에 넣어 줘요.
+
+### 장면2 — "Ask if they're Ready" 촬영
+
+조이: 오후. 스튜디오. 브룩, 키샤를 소개할게요. 전문 간호사. 베이라 교수진.
+
+키샤: 안녕, 브룩. 우리 조카들이 당신을 팔로우해요. 이제 내가 멋진 줄 알아요.
+
+브룩: 멋지세요. 좋아요, 촬영 시작. 질문 하나. "인증받으셨어요?"
+
+키샤: 네. 그리고 증명을 요구하세요. 진짜 인증서. 날짜 있는 거.
+
+브룩: 질문 둘. "응급 키트 있어요? 보여 줄 수 있어요?"
+
+키샤: 여기 있어요. 바로 이 서랍에. 모든 방에. 매일.
+
+브룩: 잠깐. 진짜 환자한테 보여 줘요?
+
+키샤: 좋은 시술자라면 누구든 기꺼이 보여 줘요. 준비돼 있다는 걸 자랑스러워하니까요. 방어적으로 나오거나 말을 돌리면, 그게 답이에요. 그냥 나오세요.
+
+엘레나: 조심해요. 그 마지막 문장. 주장인가요?
+
+다이앤: 조언이에요. 우리 제품에 관한 게 아니라. 괜찮아요.
+
+브룩: 질문 셋. "문제가 생기면 계획이 뭐예요?"
+
+키샤: 멈추고. 도움 요청. 타이머 시작. 그다음 프로토콜. 외우고 있어요.
+
+브룩: 그거… 정말 안심되네요. 왜 다들 이 말을 안 해요?
+
+에이바: 아무도 안 물어보니까요. 그게 캠페인의 전부예요.
+
+브룩: 질문 넷. "어떤 제품을 쓸 거예요? 그리고 왜요?"
+
+조이: 그건 까다로워요. 키샤는 우리 걸 써요. 광고처럼 들릴까요?
+
+다이앤: 이미 광고예요. 해시태그 ad, 첫 줄. 그러니 아무도 속지 않아요. 그게 오히려 그녀를 자유롭게 해요. 우리가 돈을 냈다는 걸 다 아니까, 자기가 뭘 쓰는지 그냥 솔직하게 말하면 돼요.
+
+키샤: 여러 개 써요. 팔자주름엔 자주 베이라. 필요하면 더 빨리 녹아요.
+
+엘레나: "히알루로니다아제로"를 붙여요. 매번.
+
+키샤: 히알루로니다아제로 더 빨리. 필요하면. 됐죠?
+
+엘레나: 완벽해요. 고마워요.
+
+브룩: 마지막. 질문 다섯. "실제 비포·애프터 사진 볼 수 있어요?"
+
+키샤: 진짜로요. 같은 조명. 같은 각도. 필터 없이. 그걸 요구하세요.
+
+브룩: 아 이런. 제 피드 사진 절반에 필터가 있어요.
+
+조이: 사진 얘기가 나왔으니. 우리 거 있어요. 에이전시에서 온 거.
+
+엘레나: 보여 줘요.
+
+조이: 비포·애프터. 팔자주름. 예쁘죠?
+
+엘레나: 조이, 자세히 봐요. 애프터가 조명이 더 좋고, 팔자주름만이 아니라 피부 전체가 더 매끈해요. 필러는 그런 걸 못 해요. 누군가 이 사진에 손을 댔어요.
+
+조이: 에이전시가… 조금 손봤을 수도 있어요. 살짝.
+
+엘레나: 보정이네요. 못 써요. 픽셀 하나도.
+
+### 절정·전환 — 사진 전쟁
+
+조이: 엘레나, 모든 브랜드가 보정해요. 루마덤 사진은 빛이 나요.
+
+엘레나: 그럼 빛나라고 해요. 우린 진짜 결과를 보여 줘요. 아니면 아무것도.
+
+조이: 진짜 결과는… 지루해 보여요. 그림자. 모공.
+
+엘레나: 제스도 모공이 있어요, 조이. 매일 아침 거울에서 보죠. 우리 사진에서 모공을 보면 믿을 거예요. 자기 모습 같으니까요.
+
+다이앤: 그리고 법적으로 보정된 비포·애프터는 기만이에요. 끝.
+
+조이: 좋아요. 그럼 진짜 사진은 어디서 구해요? 빨리?
+
+엘레나: 임상이요. 환자 300명이 있어요. 표준화된 사진. 같은 조명, 같은 각도.
+
+다이앤: 조심해요. 그 사진들은 마케팅이 아니라 연구용으로 동의받은 거예요. 묻지 않고 광고에 쓰면 그 약속을 깨는 거예요. 환자 한 명 한 명에게서 새로 서명된 동의를 받아야 해요.
+
+엘레나: 그럼 물어보죠. 1번 환자부터.
+
+에이바: 린다 헤이스요? 쿠키 가져왔던 분?
+
+엘레나: 지금 전화할게요. 린다? 엘레나 루이즈예요. 잠깐 시간 되세요?
+
+린다: 루이즈 선생님! 물론이죠. 무슨 문제 있어요?
+
+엘레나: 문제없어요. 임상 사진을 캠페인에 쓰고 싶어요. 보정 없이.
+
+린다: 내 진짜 얼굴이요? 진짜 주름까지? 12개월 차에?
+
+엘레나: 바로 그거예요. 그리고 문장 하나: "개인별 결과는 다를 수 있습니다."
+
+린다: 선생님, 누가 물어봐 주길 3년을 기다렸어요. 친구들이 뭘 했냐고 계속 묻는데, 이제야 직접 볼 수 있겠네요. 좋아요, 당연하죠.
+
+다이앤: 서면으로요, 린다. 오늘 동의서 보낼게요.
+
+린다: 두 장 보내 줘요. 남편이 증인으로 서명하고 싶대요. 남편이 옳았거든요.
+
+조이: 좋아요. 설득됐어요. 진짜 여성. 진짜 사진. 진짜 나이.
+
+엘레나: 고마워요, 조이. 그리고 하나 인정할게요. 당신의 질문 아이디어는 훌륭해요.
+
+조이: 엘레나가 방금 마케팅을 칭찬했어요?
+
+에이바: 녹음했어요. 대시보드용으로.
+
+브룩: 제 스토리에 린다도 넣어도 돼요? 허락받고요?
+
+엘레나: 린다가 서면으로 동의하면요. 그리고 위험 정보가 포함되면요.
+
+브룩: 위험 정보. 스토리에. 저한텐 처음이네요.
+
+### 마무리 — 오후 4시
+
+노아: 어땠어요? 픽셀 얘기로 소리친다고 들었는데.
+
+조이: 싸웠어요. 엘레나가 이겼어요. 캠페인은 더 좋아졌고요.
+
+엘레나: 사실 우리 둘 다 이겼어요. 회의실 안에선 필요한 만큼 치열하게 논쟁해요. 밖에선 한목소리로 말하고요. 그래야 제스가 우리 둘 다 믿게 되죠.
+
+노아: 출시일은요?
+
+조이: 2주 뒤. 브룩의 첫 게시물. 해시태그 ad, 첫 줄. 린다 사진은 사이트에.
+
+에이바: 그리고 병원 찾기. 모든 인증 병원을 지도에. 지금 98곳.
+
+노아: 제스가 예약한 다음엔요?
+
+조이: 그게 다음 문제예요. 지금은 아무 일도 안 일어나요. 시술받고 집에 가면 다시는 소식을 못 들어요. 막 우리를 믿기 시작한 바로 그때 놓쳐 버리는 거죠.
+
+에이바: 환자들이 키샤한테 계속 물어요. "언제 다시 와야 해요? 뭘 피해야 해요?"
+
+조이: 그래서 사후용 뭔가가 필요해요. 앱. 멤버십.
+
+엘레나: 앱이면 환자 데이터예요. 건강 데이터.
+
+조이: 알아요. 이름은 이미 있어요. "베이라 서클."
+
+엘레나: 그럼 HIPAA 가져올게요. 인쇄해서.
+
+조이: 큰 글씨로요?
+
+엘레나: 제일 큰 걸로.

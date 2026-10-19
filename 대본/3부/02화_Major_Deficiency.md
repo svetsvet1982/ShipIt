@@ -17,373 +17,253 @@
 
 ### 도입 — 금요일 오후 4시, FDA 서한
 
-01. GRACE: It's here. Day one hundred twenty. The FDA letter.
-    그레이스: 왔어요. 120일째. FDA 서한.
+GRACE: It's here. Day one hundred twenty. The FDA letter.
 
-02. NOAH: Approval?
-    노아: 승인이에요?
+NOAH: Approval?
 
-03. GRACE: No. It's called a major deficiency letter.
-    그레이스: 아니요. 중대 보완 요청 서한이라고 해요.
+GRACE: No. It's called a major deficiency letter.
 
-04. MARCUS: Major. That's not a word I like.
-    마커스: 중대. 별로 안 좋아하는 단어네.
+MARCUS: Major. That's not a word I like.
 
-05. GRACE: Elena, read the first paragraph. Everyone, sit down.
-    그레이스: 엘레나, 첫 단락 읽어 주세요. 다들 앉아요.
+GRACE: Elena, read the first paragraph. Everyone, sit down.
 
-06. ELENA: "We have identified deficiencies that must be addressed before we can complete our review. The review clock is stopped."
-    엘레나: "심사를 완료하기 전에 해결해야 할 결함을 확인했습니다. 심사 시계는 정지되었습니다."
+ELENA: "We have identified deficiencies that must be addressed before we can complete our review. The review clock is stopped."
 
-07. PRIYA: The clock is stopped. For how long?
-    프리야: 시계가 멈췄다고. 얼마나요?
+PRIYA: The clock is stopped. For how long?
 
-08. ELENA: Until we respond. We have up to one hundred eighty days.
-    엘레나: 우리가 답변할 때까지요. 최대 180일이 있어요.
+ELENA: Until we respond. We have up to one hundred eighty days.
 
-09. LEO: Six months?
-    레오: 6개월이요?
+LEO: Six months?
 
-10. GRACE: Up to six months. Most companies take three or four.
-    그레이스: 최대 6개월이요. 대부분 서너 달 걸려요.
+GRACE: Up to six months. Most companies take three or four.
 
-11. NOAH: And launch?
-    노아: 그럼 출시는요?
+NOAH: And launch?
 
-12. ELENA: Launch moves too. At least six months, maybe more, because after we respond, the FDA still needs time to finish its review. I'd rather say that now than surprise you later.
-    엘레나: 출시도 밀려요. 최소 6개월, 어쩌면 더요. 우리가 답변한 뒤에도 FDA가 심사를 마무리할 시간이 필요하거든요. 나중에 놀라게 하느니 지금 말하는 게 나아요.
+ELENA: Launch moves too. At least six months, maybe more, because after we respond, the FDA still needs time to finish its review. I'd rather say that now than surprise you later.
 
-13. MARCUS: How many deficiencies?
-    마커스: 보완 사항이 몇 개야?
+MARCUS: How many deficiencies?
 
-14. ELENA: Four. Some small. One is not small.
-    엘레나: 네 개요. 몇 개는 작아요. 하나는 작지 않고요.
+ELENA: Four. Some small. One is not small.
 
-15. NOAH: Okay. Let's not panic. A letter like this feels huge when you read it all at once. So let's break it down, one at a time, and give each problem an owner.
-    노아: 좋아요. 당황하지 말고요. 이런 서한은 한꺼번에 읽으면 엄청 커 보여요. 그러니까 하나씩 나눠서 보고, 문제마다 책임자를 정하죠.
+NOAH: Okay. Let's not panic. A letter like this feels huge when you read it all at once. So let's break it down, one at a time, and give each problem an owner.
 
 ### 장면1 — 네 가지 보완 요청
 
-16. ELENA: Deficiency one. Stability. We asked for a two-year shelf life.
-    엘레나: 보완 1. 안정성. 우리는 유통기한 2년을 요청했어요.
+ELENA: Deficiency one. Stability. We asked for a two-year shelf life.
 
-17. PRIYA: And we have eighteen months of real-time data.
-    프리야: 그리고 실시간 데이터는 18개월 치가 있고요.
+PRIYA: And we have eighteen months of real-time data.
 
-18. ELENA: They'll accept eighteen months now. Or two years when the data is complete.
-    엘레나: 지금은 18개월을 인정하겠대요. 아니면 데이터가 다 모이면 2년.
+ELENA: They'll accept eighteen months now. Or two years when the data is complete.
 
-19. MARCUS: Eighteen months is fine for launch. We can extend later.
-    마커스: 출시엔 18개월이면 충분해. 나중에 늘리면 되고.
+MARCUS: Eighteen months is fine for launch. We can extend later.
 
-20. NOAH: So deficiency one is easy?
-    노아: 그럼 보완 1은 쉬운 거네요?
+NOAH: So deficiency one is easy?
 
-21. PRIYA: Easy. We accept eighteen months. One letter.
-    프리야: 쉬워. 18개월로 받아들이면 돼. 서한 하나.
+PRIYA: Easy. We accept eighteen months. One letter.
 
-22. ELENA: Deficiency two. Sterilization. They want one more validation run. Worst-case load.
-    엘레나: 보완 2. 멸균. 밸리데이션 한 번 더 원해요. 최악의 적재 조건으로.
+ELENA: Deficiency two. Sterilization. They want one more validation run. Worst-case load.
 
-23. MARCUS: Worst case means the autoclave completely full, every shelf loaded. The coldest corners heat up last, so if those corners get sterile, everything else does too. That's what they want to see.
-    마커스: 최악 조건이란 멸균기를 꽉 채운 상태야. 선반 하나하나 다. 가장 차가운 모서리가 제일 늦게 데워지니까, 거기가 멸균되면 나머지도 다 멸균된 거지. 그걸 보고 싶은 거야.
+MARCUS: Worst case means the autoclave completely full, every shelf loaded. The coldest corners heat up last, so if those corners get sterile, everything else does too. That's what they want to see.
 
-24. LEO: We tested it nearly full. Not completely full.
-    레오: 거의 꽉 찬 상태로는 시험했어요. 완전히 꽉 찬 건 아니고요.
+LEO: We tested it nearly full. Not completely full.
 
-25. MARCUS: The FDA noticed "nearly." They always notice "nearly."
-    마커스: FDA가 "거의"를 알아챈 거지. 항상 "거의"를 알아채.
+MARCUS: The FDA noticed "nearly." They always notice "nearly."
 
-26. NOAH: How long to fix?
-    노아: 고치는 데 얼마나 걸려요?
+NOAH: How long to fix?
 
-27. MARCUS: Six weeks. Kevin and Sandra can schedule it. I'll call Monday.
-    마커스: 6주. 케빈이랑 산드라가 일정을 잡을 수 있어. 월요일에 전화할게.
+MARCUS: Six weeks. Kevin and Sandra can schedule it. I'll call Monday.
 
-28. NOAH: Two down. Medium difficulty. What's three?
-    노아: 두 개 끝. 중간 난이도. 셋은요?
+NOAH: Two down. Medium difficulty. What's three?
 
-29. ELENA: Deficiency four first. Labeling. Small wording changes. I'll handle them this weekend.
-    엘레나: 4번 먼저요. 라벨링. 사소한 문구 수정. 이번 주말에 내가 처리할게요.
+ELENA: Deficiency four first. Labeling. Small wording changes. I'll handle them this weekend.
 
-30. GRACE: You skipped three.
-    그레이스: 3번을 건너뛰셨네요.
+GRACE: You skipped three.
 
-31. ELENA: I skipped three because three is the big one.
-    엘레나: 3번이 큰 거라서 건너뛰었어요.
+ELENA: I skipped three because three is the big one.
 
-32. PRIYA: Read it. Please.
-    프리야: 읽어 주세요. 제발.
+PRIYA: Read it. Please.
 
-33. ELENA: The dissolution substudy. The investigators measured dissolution themselves.
-    엘레나: 용해 하위 연구요. 연구자들이 용해를 직접 측정했잖아요.
+ELENA: The dissolution substudy. The investigators measured dissolution themselves.
 
-34. GRACE: Yes. By touch and visual check. As the protocol said.
-    그레이스: 네. 촉진과 육안 확인으로요. 프로토콜대로요.
+GRACE: Yes. By touch and visual check. As the protocol said.
 
-35. ELENA: The FDA says the injecting doctor knew which product was used. So it wasn't blinded.
-    엘레나: FDA는 주사한 의사가 어떤 제품인지 알았으니 눈가림이 아니었다고 해요.
+ELENA: The FDA says the injecting doctor knew which product was used. So it wasn't blinded.
 
-36. NOAH: But the main study was blinded. The evaluators didn't know.
-    노아: 하지만 본 연구는 눈가림이었잖아요. 평가자들은 몰랐어요.
+NOAH: But the main study was blinded. The evaluators didn't know.
 
-37. ELENA: The main study, yes. The substudy timing was measured by the injector.
-    엘레나: 본 연구는 그렇죠. 하위 연구의 시간은 시술자가 쟀어요.
+ELENA: The main study, yes. The substudy timing was measured by the injector.
 
-38. PRIYA: So they think the doctors might have been biased.
-    프리야: 그러니까 의사들이 편향됐을 수 있다고 보는 거네요.
+PRIYA: So they think the doctors might have been biased.
 
-39. ELENA: Not dishonest. Just human. If you're a doctor and you want a result, you might see it, even without meaning to. That's exactly why blinding exists in the first place.
-    엘레나: 부정직했다는 게 아니라, 그냥 인간이라서요. 의사가 어떤 결과를 원하면, 의도하지 않아도 그게 보일 수 있어요. 애초에 눈가림이라는 게 존재하는 이유가 바로 그거예요.
+ELENA: Not dishonest. Just human. If you're a doctor and you want a result, you might see it, even without meaning to. That's exactly why blinding exists in the first place.
 
-40. LEO: What do they want us to do?
-    레오: 우리한테 뭘 하라는 거예요?
+LEO: What do they want us to do?
 
-41. ELENA: Re-analyze the dissolution using the photos. Read by blinded experts.
-    엘레나: 사진을 이용해 용해를 재분석하래요. 눈가림 전문가들이 판독해서.
+ELENA: Re-analyze the dissolution using the photos. Read by blinded experts.
 
-42. GRACE: We took photos every five minutes. It's in the protocol.
-    그레이스: 5분마다 사진을 찍었어요. 프로토콜에 있어요.
+GRACE: We took photos every five minutes. It's in the protocol.
 
-43. NOAH: So we have the photos. That's good news, right?
-    노아: 그럼 사진은 있네요. 그건 좋은 소식이죠?
+NOAH: So we have the photos. That's good news, right?
 
-44. ELENA: It's good news. But the result could change.
-    엘레나: 좋은 소식이에요. 하지만 결과가 바뀔 수도 있어요.
+ELENA: It's good news. But the result could change.
 
-45. PRIYA: Change how much?
-    프리야: 얼마나 바뀔 수 있어요?
+PRIYA: Change how much?
 
-46. ELENA: Nobody knows. That's the scary part.
-    엘레나: 아무도 몰라요. 그게 무서운 부분이죠.
+ELENA: Nobody knows. That's the scary part.
 
-47. MARCUS: If three point one becomes two point one?
-    마커스: 3.1이 2.1이 되면?
+MARCUS: If three point one becomes two point one?
 
-48. ELENA: Then the claim on our label gets weaker. Maybe much weaker.
-    엘레나: 그럼 라벨에 쓸 주장이 약해져요. 어쩌면 훨씬 약해지고요.
+ELENA: Then the claim on our label gets weaker. Maybe much weaker.
 
-49. NOAH: And our whole message is "three times faster."
-    노아: 그리고 우리 메시지 전체가 "세 배 빠르다"인데.
+NOAH: And our whole message is "three times faster."
 
-50. PRIYA: The one thing. Under a microscope. Again.
-    프리야: 단 하나의 핵심이 또 현미경 아래 놓였네.
+PRIYA: The one thing. Under a microscope. Again.
 
 ### 장면2 — Stein의 분노, 그리고 정면 돌파
 
-51. STEIN: I heard. Grace called me. Are they saying my measurements were wrong?
-    스타인: 들었어요. 그레이스가 전화했어요. 내 측정이 틀렸다는 거예요?
+STEIN: I heard. Grace called me. Are they saying my measurements were wrong?
 
-52. ELENA: No, Rachel. They're saying they weren't blinded. It's a fair question.
-    엘레나: 아니에요, 레이첼. 눈가림이 아니었다는 거예요. 합당한 질문이에요.
+ELENA: No, Rachel. They're saying they weren't blinded. It's a fair question.
 
-53. STEIN: I've been measuring dissolution for twenty years, Elena. I've seen thousands of these. When I say a filler is gone, it's gone. I know what I saw, and I don't need a photo.
-    스타인: 난 20년 동안 용해를 측정해 왔어요, 엘레나. 이런 걸 수천 번 봤어요. 내가 필러가 없어졌다고 하면 없어진 거예요. 내가 본 게 뭔지 알고, 사진은 필요 없어요.
+STEIN: I've been measuring dissolution for twenty years, Elena. I've seen thousands of these. When I say a filler is gone, it's gone. I know what I saw, and I don't need a photo.
 
-54. ELENA: I believe you. But "I know what I saw" isn't evidence. Photos are.
-    엘레나: 믿어요. 하지만 "내가 본 걸 안다"는 증거가 아니에요. 사진이 증거죠.
+ELENA: I believe you. But "I know what I saw" isn't evidence. Photos are.
 
-55. STEIN: I told you. In my office. You'd fight the FDA.
-    스타인: 말했잖아요. 내 진료실에서. FDA랑 싸우게 될 거라고.
+STEIN: I told you. In my office. You'd fight the FDA.
 
-56. NOAH: We're not fighting them. We're answering them.
-    노아: 싸우는 게 아니에요. 답하는 거예요.
+NOAH: We're not fighting them. We're answering them.
 
-57. STEIN: Same thing, with better manners.
-    스타인: 같은 거예요. 매너만 더 좋을 뿐.
+STEIN: Same thing, with better manners.
 
-58. GRACE: Rachel, can we use your photos? You took the most.
-    그레이스: 레이첼, 박사님 사진을 써도 될까요? 제일 많이 찍으셨잖아요.
+GRACE: Rachel, can we use your photos? You took the most.
 
-59. STEIN: Use them. Every single one. They're good photos. Tamara is a perfectionist.
-    스타인: 써요. 한 장도 빠짐없이. 좋은 사진들이에요. 타마라가 완벽주의자거든요.
+STEIN: Use them. Every single one. They're good photos. Tamara is a perfectionist.
 
-60. PRIYA: Who reads the photos? It can't be us.
-    프리야: 사진은 누가 판독해요? 우리일 순 없잖아.
+PRIYA: Who reads the photos? It can't be us.
 
-61. GRACE: Independent dermatologists. Three of them. They won't know which product.
-    그레이스: 독립 피부과 전문의들이요. 세 명. 어떤 제품인지 모를 거예요.
+GRACE: Independent dermatologists. Three of them. They won't know which product.
 
-62. MARCUS: How long?
-    마커스: 얼마나 걸려?
+MARCUS: How long?
 
-63. GRACE: Six to eight weeks. Then Paul re-runs the statistics.
-    그레이스: 6주에서 8주요. 그다음 폴이 통계를 다시 돌려요.
+GRACE: Six to eight weeks. Then Paul re-runs the statistics.
 
-64. NOAH: And if the number drops?
-    노아: 숫자가 떨어지면요?
+NOAH: And if the number drops?
 
-65. ELENA: Then we report the new number. Whatever it is.
-    엘레나: 그럼 새 숫자를 보고하죠. 그게 뭐든.
+ELENA: Then we report the new number. Whatever it is.
 
-66. STEIN: Even if it hurts you?
-    스타인: 당신들한테 불리해도요?
+STEIN: Even if it hurts you?
 
-67. ELENA: Especially if it hurts us. If we report a lower number honestly, they'll trust everything else we say. If we try to hide it, they'll question every page of the file.
-    엘레나: 불리할수록 더요. 낮은 숫자를 정직하게 보고하면, 우리가 하는 다른 말도 다 믿어 줄 거예요. 숨기려고 하면, 파일의 모든 쪽을 의심할 거고요.
+ELENA: Especially if it hurts us. If we report a lower number honestly, they'll trust everything else we say. If we try to hide it, they'll question every page of the file.
 
-68. STEIN: You're a strange company. I'm starting to like that.
-    스타인: 이상한 회사예요. 그게 점점 마음에 드네요.
+STEIN: You're a strange company. I'm starting to like that.
 
-69. NOAH: Okay. Big picture. Four deficiencies. How long until we respond?
-    노아: 좋아요. 큰 그림. 보완 사항 넷. 답변까지 얼마나 걸려요?
+NOAH: Okay. Big picture. Four deficiencies. How long until we respond?
 
-70. GRACE: The slowest one decides the timeline, and that's the photo re-read. Eight weeks for the dermatologists, plus about two more for writing the response. Everything else can happen in parallel.
-    그레이스: 가장 느린 게 일정을 결정해요. 그게 사진 재판독이고요. 피부과 전문의들한테 8주, 답변서 작성에 2주 정도 더. 나머지는 전부 동시에 진행할 수 있어요.
+GRACE: The slowest one decides the timeline, and that's the photo re-read. Eight weeks for the dermatologists, plus about two more for writing the response. Everything else can happen in parallel.
 
-71. MARCUS: Ten weeks to respond. Then the FDA restarts the clock.
-    마커스: 답변까지 10주. 그다음 FDA가 시계를 다시 돌리고.
+MARCUS: Ten weeks to respond. Then the FDA restarts the clock.
 
-72. ELENA: Then sixty days left on their side. Maybe a panel meeting.
-    엘레나: 그럼 그쪽엔 60일 남아요. 어쩌면 자문위원회 회의도.
+ELENA: Then sixty days left on their side. Maybe a panel meeting.
 
-73. PRIYA: A panel? A public meeting?
-    프리야: 자문위원회? 공개 회의요?
+PRIYA: A panel? A public meeting?
 
-74. ELENA: For a new claim like ours, it's possible. They may want outside experts.
-    엘레나: 우리 같은 새로운 주장이면 가능해요. 외부 전문가 의견을 원할 수 있죠.
+ELENA: For a new claim like ours, it's possible. They may want outside experts.
 
-75. NOAH: So approval is… October? November?
-    노아: 그럼 승인은… 10월? 11월?
+NOAH: So approval is… October? November?
 
-76. ELENA: If everything goes well. And launch after that.
-    엘레나: 모든 게 잘되면요. 그리고 출시는 그 뒤고요.
+ELENA: If everything goes well. And launch after that.
 
-77. MARCUS: That's a big setback.
-    마커스: 큰 차질이네.
+MARCUS: That's a big setback.
 
-78. NOAH: A setback. Not a stop. There's a difference.
-    노아: 차질이에요. 멈춤이 아니라. 차이가 있죠.
+NOAH: A setback. Not a stop. There's a difference.
 
-79. LEO: And the team? Do we tell them today?
-    레오: 그리고 팀은요? 오늘 말해요?
+LEO: And the team? Do we tell them today?
 
-80. NOAH: Today. In one hour. Everyone.
-    노아: 오늘. 한 시간 뒤에. 전원에게.
+NOAH: Today. In one hour. Everyone.
 
 ### 절정·전환 — 오후 5시, 전 직원 미팅
 
-81. NOAH: Thanks for staying late on a Friday. I'm afraid we have some bad news.
-    노아: 금요일인데 늦게까지 남아 줘서 고마워요. 안타깝지만 나쁜 소식이 있어요.
+NOAH: Thanks for staying late on a Friday. I'm afraid we have some bad news.
 
-82. GRACE: The FDA sent a major deficiency letter. Approval is delayed about six months.
-    그레이스: FDA가 중대 보완 요청 서한을 보냈어요. 승인이 약 6개월 늦어져요.
+GRACE: The FDA sent a major deficiency letter. Approval is delayed about six months.
 
-83. MAYA: Six months? Is the product unsafe?
-    마야: 6개월이요? 제품이 안전하지 않은 거예요?
+MAYA: Six months? Is the product unsafe?
 
-84. ELENA: No. Nothing in the letter is about safety. It's about proof and paperwork.
-    엘레나: 아니요. 서한에 안전성 문제는 하나도 없어요. 증명과 서류에 관한 거예요.
+ELENA: No. Nothing in the letter is about safety. It's about proof and paperwork.
 
-85. NOAH: Here's what we're doing about it. Four issues. Four owners. Clear deadlines.
-    노아: 우리가 어떻게 대응하는지 말할게요. 문제 넷. 책임자 넷. 명확한 마감.
+NOAH: Here's what we're doing about it. Four issues. Four owners. Clear deadlines.
 
-86. MARCUS: Priya owns stability. I own sterilization. Grace, the photo re-read. Elena, labeling.
-    마커스: 안정성은 프리야. 멸균은 나. 사진 재판독은 그레이스. 라벨링은 엘레나.
+MARCUS: Priya owns stability. I own sterilization. Grace, the photo re-read. Elena, labeling.
 
-87. MAYA: Can I ask a hard question? Are our jobs safe?
-    마야: 어려운 질문 하나 해도 돼요? 우리 일자리는 안전해요?
+MAYA: Can I ask a hard question? Are our jobs safe?
 
-88. ELENA: That's a fair question. And you deserve a straight answer.
-    엘레나: 합당한 질문이에요. 솔직한 답을 들을 자격이 있어요.
+ELENA: That's a fair question. And you deserve a straight answer.
 
-89. NOAH: I'll give you the real numbers. Today, we have money for nine months. Approval might take eight, if everything goes well. I'm not going to pretend that's comfortable.
-    노아: 실제 숫자를 말할게요. 지금 9개월 치 돈이 있어요. 승인은 모든 게 잘되면 8개월쯤 걸릴 수도 있어요. 그게 여유롭다고 꾸며 말하진 않을게요.
+NOAH: I'll give you the real numbers. Today, we have money for nine months. Approval might take eight, if everything goes well. I'm not going to pretend that's comfortable.
 
-90. MARCUS: Too close. No safety margin.
-    마커스: 너무 빠듯해. 안전 여유가 없어.
+MARCUS: Too close. No safety margin.
 
-91. NOAH: So we'll raise extra money. Before we need it. Starting Monday.
-    노아: 그래서 추가 자금을 모을 거예요. 필요해지기 전에. 월요일부터.
+NOAH: So we'll raise extra money. Before we need it. Starting Monday.
 
-92. MAYA: And if you can't?
-    마야: 못 모으면요?
+MAYA: And if you can't?
 
-93. NOAH: Then I'll tell you first. Before anyone else. That's a promise.
-    노아: 그럼 여러분한테 제일 먼저 말할게요. 누구보다 먼저. 약속해요.
+NOAH: Then I'll tell you first. Before anyone else. That's a promise.
 
-94. PRIYA: We don't hide bad news here. That's why you're hearing it today.
-    프리야: 우린 여기서 나쁜 소식을 숨기지 않아요. 그래서 오늘 듣는 거예요.
+PRIYA: We don't hide bad news here. That's why you're hearing it today.
 
-95. LEO: Can I add something? As employee number one?
-    레오: 하나 덧붙여도 돼요? 1호 직원으로서?
+LEO: Can I add something? As employee number one?
 
-96. NOAH: Please.
-    노아: 그래요.
+NOAH: Please.
 
-97. LEO: Three years ago, we failed with one point eight. It was a terrible day. But we didn't hide it. We told the investor the truth, the whole thing. And you know what happened?
-    레오: 3년 전에 우린 1.8로 실패했어요. 끔찍한 날이었죠. 하지만 숨기지 않았어요. 투자자한테 진실을, 전부 다 말했어요. 그래서 어떻게 됐는지 아세요?
+LEO: Three years ago, we failed with one point eight. It was a terrible day. But we didn't hide it. We told the investor the truth, the whole thing. And you know what happened?
 
-98. MARCUS: He gave us more money, not less. Honesty worked then. It'll work now.
-    마커스: 그 사람은 돈을 줄이는 대신 더 줬지. 그때 정직함이 통했어. 지금도 통할 거야.
+MARCUS: He gave us more money, not less. Honesty worked then. It'll work now.
 
-99. MAYA: Okay. That helps. Thank you.
-    마야: 알겠어요. 도움이 돼요. 감사합니다.
+MAYA: Okay. That helps. Thank you.
 
-100. PRIYA: One more thing. The photo re-read might lower our number. We don't know yet. But whatever comes back, good or bad, you'll hear it from us in a meeting like this.
-     프리야: 하나 더요. 사진 재판독 결과 우리 숫자가 낮아질 수도 있어요. 아직은 몰라요. 하지만 결과가 좋든 나쁘든, 이런 자리에서 우리한테 직접 듣게 될 거예요.
+PRIYA: One more thing. The photo re-read might lower our number. We don't know yet. But whatever comes back, good or bad, you'll hear it from us in a meeting like this.
 
-101. ELENA: Whatever the number is, the product is the same. And it works.
-     엘레나: 숫자가 뭐든 제품은 똑같아요. 그리고 효과가 있어요.
+ELENA: Whatever the number is, the product is the same. And it works.
 
-102. NOAH: Questions can come to me anytime. My door is open. Literally. It's broken.
-     노아: 질문은 언제든 저한테 해요. 제 문은 열려 있어요. 문자 그대로요. 고장 났거든요.
+NOAH: Questions can come to me anytime. My door is open. Literally. It's broken.
 
-103. MAYA: We know. Marcus has a ticket open for it.
-     마야: 알아요. 마커스가 수리 요청을 올려놨어요.
+MAYA: We know. Marcus has a ticket open for it.
 
-104. MARCUS: Low priority. An open door is good for culture.
-     마커스: 낮은 우선순위야. 열린 문은 조직 문화에 좋거든.
+MARCUS: Low priority. An open door is good for culture.
 
-105. NOAH: Okay. Go home. Have a weekend. We start again Monday.
-     노아: 좋아요. 집에 가요. 주말 보내고요. 월요일에 다시 시작해요.
+NOAH: Okay. Go home. Have a weekend. We start again Monday.
 
 ### 마무리 — 오후 6시, 이사회 화상
 
-106. RICHARD: So. A major deficiency. How bad?
-     리처드: 그래서. 중대 보완 요청. 얼마나 심각해요?
+RICHARD: So. A major deficiency. How bad?
 
-107. NOAH: Bad news first. Approval is delayed about six months, and our runway is nine months. That's too tight, because if anything else slips, we run out of money before launch.
-     노아: 나쁜 소식 먼저요. 승인이 약 6개월 늦어지고, 런웨이는 9개월이에요. 너무 빠듯해요. 다른 게 하나라도 밀리면 출시 전에 돈이 떨어지니까요.
+NOAH: Bad news first. Approval is delayed about six months, and our runway is nine months. That's too tight, because if anything else slips, we run out of money before launch.
 
-108. VICTORIA: And the plan?
-     빅토리아: 그리고 계획은요?
+VICTORIA: And the plan?
 
-109. NOAH: Four issues, four owners. Response in ten weeks. And we need a bridge.
-     노아: 문제 넷, 책임자 넷. 10주 안에 답변. 그리고 브리지 자금이 필요해요.
+NOAH: Four issues, four owners. Response in ten weeks. And we need a bridge.
 
-110. ELAINE: How big a bridge?
-     일레인: 브리지는 얼마나 크게요?
+ELAINE: How big a bridge?
 
-111. NOAH: Eight million. Enough for approval plus six months. Without selling more equity.
-     노아: 800만 달러요. 승인까지에 6개월 더. 지분을 더 팔지 않고요.
+NOAH: Eight million. Enough for approval plus six months. Without selling more equity.
 
-112. RICHARD: Without equity means debt. Venture debt.
-     리처드: 지분 없이라는 건 부채라는 거죠. 벤처 대출.
+RICHARD: Without equity means debt. Venture debt.
 
-113. VICTORIA: I know a lender. Hannah Greer, at Sterling Bank. Tough, but fair.
-     빅토리아: 대출 기관을 하나 알아요. 스털링 은행의 해나 그리어. 깐깐하지만 공정해요.
+VICTORIA: I know a lender. Hannah Greer, at Sterling Bank. Tough, but fair.
 
-114. ELAINE: Debt has rules, Noah. They're called covenants. If you break them, even by accident, the bank can step in and start making decisions for you. So read the fine print.
-     일레인: 부채엔 규칙이 있어요, 노아. 약정 조건이라고 하죠. 실수로라도 어기면 은행이 끼어들어서 당신들 대신 결정을 내리기 시작할 수 있어요. 그러니 깨알 같은 조항까지 읽어요.
+ELAINE: Debt has rules, Noah. They're called covenants. If you break them, even by accident, the bank can step in and start making decisions for you. So read the fine print.
 
-115. NOAH: Understood. We'll read every word. Diane will make sure.
-     노아: 이해해요. 한 단어도 빠짐없이 읽을게요. 다이앤이 확실히 할 거예요.
+NOAH: Understood. We'll read every word. Diane will make sure.
 
-116. RICHARD: One more thing. Halvern's trial is enrolling fast. Faster than yours did.
-     리처드: 하나 더요. 할번 임상이 빠르게 등록 중이에요. 당신들보다 빨리.
+RICHARD: One more thing. Halvern's trial is enrolling fast. Faster than yours did.
 
-117. PRIYA: How fast?
-     프리야: 얼마나 빨리요?
+PRIYA: How fast?
 
-118. RICHARD: They have Halvern's sales force recruiting patients. Big companies move slowly—
-     리처드: 할번 영업 조직이 환자를 모집하고 있어요. 큰 회사는 느리게 움직이죠—
+RICHARD: They have Halvern's sales force recruiting patients. Big companies move slowly—
 
-119. NOAH: Until they don't. Elaine taught me that.
-     노아: 안 그럴 때까지는요. 일레인이 가르쳐 줬어요.
+NOAH: Until they don't. Elaine taught me that.
 
-120. ELAINE: Then don't waste the six months. Every week matters now.
-     일레인: 그럼 6개월을 낭비하지 마요. 이제 매주가 중요해요.
+ELAINE: Then don't waste the six months. Every week matters now.
 
 ---
 
@@ -393,16 +273,16 @@
 
 | # | 표현 | 뜻 | 대본 속 쓰임 / 비즈니스 활용 |
 |---|---|---|---|
-| 1 | major deficiency letter | 중대 보완 요청 서한 | 03턴. FDA가 심사 완료 전에 해결을 요구하는 문서. |
-| 2 | The review clock is stopped. | 심사 시계가 멈췄다. | 06턴. 답변 전까지 심사 기간이 흐르지 않음. |
-| 3 | Let's break it down. One at a time. | 나눠서 봅시다. 하나씩. | 15턴. 큰 문제를 작게 나눠 다루는 표현. |
-| 4 | worst-case load | 최악 조건(적재) | 22턴. 검증 시 가장 불리한 조건을 시험하는 개념. |
-| 5 | They always notice "nearly." | 그들은 항상 "거의"를 알아챈다. | 25턴. 규제 기관이 애매한 표현을 놓치지 않는다는 뜻. |
-| 6 | Not dishonest. Just human. | 부정직한 게 아니라, 그냥 인간이라서. | 39턴. 편향(bias)을 비난 없이 설명하는 표현. |
-| 7 | Same thing, with better manners. | 같은 건데 매너만 더 좋을 뿐. | 57턴. 표현만 다르고 본질은 같다는 유머. |
-| 8 | A setback. Not a stop. | 차질이지 멈춤이 아니다. | 78턴. 위기 속에서 프레임을 바로잡는 리더십 표현. |
-| 9 | You deserve a straight answer. | 솔직한 답을 들을 자격이 있다. | 88턴. 직원의 어려운 질문에 답하기 전의 말. |
-| 10 | My door is open. | 제 방문은 열려 있다(언제든 찾아와라). | 102턴. open-door policy. (여기선 "문자 그대로 고장 났다"는 농담) |
+| 1 | major deficiency letter | 중대 보완 요청 서한 | 도입. FDA가 심사 완료 전에 해결을 요구하는 문서. |
+| 2 | The review clock is stopped. | 심사 시계가 멈췄다. | 도입. 답변 전까지 심사 기간이 흐르지 않음. |
+| 3 | Let's break it down. One at a time. | 나눠서 봅시다. 하나씩. | 도입. 큰 문제를 작게 나눠 다루는 표현. |
+| 4 | worst-case load | 최악 조건(적재) | 장면1. 검증 시 가장 불리한 조건을 시험하는 개념. |
+| 5 | They always notice "nearly." | 그들은 항상 "거의"를 알아챈다. | 장면1. 규제 기관이 애매한 표현을 놓치지 않는다는 뜻. |
+| 6 | Not dishonest. Just human. | 부정직한 게 아니라, 그냥 인간이라서. | 장면1. 편향(bias)을 비난 없이 설명하는 표현. |
+| 7 | Same thing, with better manners. | 같은 건데 매너만 더 좋을 뿐. | 장면2. 표현만 다르고 본질은 같다는 유머. |
+| 8 | A setback. Not a stop. | 차질이지 멈춤이 아니다. | 장면2. 위기 속에서 프레임을 바로잡는 리더십 표현. |
+| 9 | You deserve a straight answer. | 솔직한 답을 들을 자격이 있다. | 절정·전환. 직원의 어려운 질문에 답하기 전의 말. |
+| 10 | My door is open. | 제 방문은 열려 있다(언제든 찾아와라). | 절정·전환. open-door policy. (여기선 "문자 그대로 고장 났다"는 농담) |
 
 ### ② 비즈니스 컬처 노트 — 전 직원에게 나쁜 소식 전하기
 미국 스타트업에서는 나쁜 소식을 **빨리, 직접, 전원에게** 알리는 것을 리더십의 기본으로 여긴다. 주말 전에 알리는 이유는 직원들이 소문으로 먼저 듣지 않게 하기 위해서다. 좋은 전달 구조는 ① 사실(무엇이 일어났나) ② 영향(무엇이 달라지나) ③ 계획(누가 무엇을 언제까지) ④ 질문 받기(특히 "내 일자리는 안전한가?")다. "You deserve a straight answer."처럼 상대의 질문을 존중하는 말로 시작해 숫자로 답하는 것이 신뢰를 지킨다.
@@ -420,7 +300,7 @@
 
 ### ④ 긴 발화 분석
 
-> **107턴 NOAH:** "Bad news first. Approval is delayed about six months, and our runway is nine months. That's too tight, because if anything else slips, we run out of money before launch."
+> **NOAH (마무리):** "Bad news first. Approval is delayed about six months, and our runway is nine months. That's too tight, because if anything else slips, we run out of money before launch."
 
 | 구조 | 영어 | 기능 |
 |---|---|---|
@@ -432,3 +312,257 @@
 **활용 패턴:** Bad news first. → 숫자 A, 숫자 B → That's too ___, because if ___, ___.
 **연결 표현:** Bad news first(나쁜 소식부터) · That's too tight(너무 빠듯하다) · if anything else slips(다른 게 하나라도 밀리면)
 **연습:** 프로젝트 일정이 지연되어 예산이 부족해질 상황을 상사에게 같은 구조로 30단어 안팎으로 보고해 보기.
+
+---
+
+## 한국어 번역
+
+### 도입 — 금요일 오후 4시, FDA 서한
+
+그레이스: 왔어요. 120일째. FDA 서한.
+
+노아: 승인이에요?
+
+그레이스: 아니요. 중대 보완 요청 서한이라고 해요.
+
+마커스: 중대. 별로 안 좋아하는 단어네.
+
+그레이스: 엘레나, 첫 단락 읽어 주세요. 다들 앉아요.
+
+엘레나: "심사를 완료하기 전에 해결해야 할 결함을 확인했습니다. 심사 시계는 정지되었습니다."
+
+프리야: 시계가 멈췄다고. 얼마나요?
+
+엘레나: 우리가 답변할 때까지요. 최대 180일이 있어요.
+
+레오: 6개월이요?
+
+그레이스: 최대 6개월이요. 대부분 서너 달 걸려요.
+
+노아: 그럼 출시는요?
+
+엘레나: 출시도 밀려요. 최소 6개월, 어쩌면 더요. 우리가 답변한 뒤에도 FDA가 심사를 마무리할 시간이 필요하거든요. 나중에 놀라게 하느니 지금 말하는 게 나아요.
+
+마커스: 보완 사항이 몇 개야?
+
+엘레나: 네 개요. 몇 개는 작아요. 하나는 작지 않고요.
+
+노아: 좋아요. 당황하지 말고요. 이런 서한은 한꺼번에 읽으면 엄청 커 보여요. 그러니까 하나씩 나눠서 보고, 문제마다 책임자를 정하죠.
+
+### 장면1 — 네 가지 보완 요청
+
+엘레나: 보완 1. 안정성. 우리는 유통기한 2년을 요청했어요.
+
+프리야: 그리고 실시간 데이터는 18개월 치가 있고요.
+
+엘레나: 지금은 18개월을 인정하겠대요. 아니면 데이터가 다 모이면 2년.
+
+마커스: 출시엔 18개월이면 충분해. 나중에 늘리면 되고.
+
+노아: 그럼 보완 1은 쉬운 거네요?
+
+프리야: 쉬워. 18개월로 받아들이면 돼. 서한 하나.
+
+엘레나: 보완 2. 멸균. 밸리데이션 한 번 더 원해요. 최악의 적재 조건으로.
+
+마커스: 최악 조건이란 멸균기를 꽉 채운 상태야. 선반 하나하나 다. 가장 차가운 모서리가 제일 늦게 데워지니까, 거기가 멸균되면 나머지도 다 멸균된 거지. 그걸 보고 싶은 거야.
+
+레오: 거의 꽉 찬 상태로는 시험했어요. 완전히 꽉 찬 건 아니고요.
+
+마커스: FDA가 "거의"를 알아챈 거지. 항상 "거의"를 알아채.
+
+노아: 고치는 데 얼마나 걸려요?
+
+마커스: 6주. 케빈이랑 산드라가 일정을 잡을 수 있어. 월요일에 전화할게.
+
+노아: 두 개 끝. 중간 난이도. 셋은요?
+
+엘레나: 4번 먼저요. 라벨링. 사소한 문구 수정. 이번 주말에 내가 처리할게요.
+
+그레이스: 3번을 건너뛰셨네요.
+
+엘레나: 3번이 큰 거라서 건너뛰었어요.
+
+프리야: 읽어 주세요. 제발.
+
+엘레나: 용해 하위 연구요. 연구자들이 용해를 직접 측정했잖아요.
+
+그레이스: 네. 촉진과 육안 확인으로요. 프로토콜대로요.
+
+엘레나: FDA는 주사한 의사가 어떤 제품인지 알았으니 눈가림이 아니었다고 해요.
+
+노아: 하지만 본 연구는 눈가림이었잖아요. 평가자들은 몰랐어요.
+
+엘레나: 본 연구는 그렇죠. 하위 연구의 시간은 시술자가 쟀어요.
+
+프리야: 그러니까 의사들이 편향됐을 수 있다고 보는 거네요.
+
+엘레나: 부정직했다는 게 아니라, 그냥 인간이라서요. 의사가 어떤 결과를 원하면, 의도하지 않아도 그게 보일 수 있어요. 애초에 눈가림이라는 게 존재하는 이유가 바로 그거예요.
+
+레오: 우리한테 뭘 하라는 거예요?
+
+엘레나: 사진을 이용해 용해를 재분석하래요. 눈가림 전문가들이 판독해서.
+
+그레이스: 5분마다 사진을 찍었어요. 프로토콜에 있어요.
+
+노아: 그럼 사진은 있네요. 그건 좋은 소식이죠?
+
+엘레나: 좋은 소식이에요. 하지만 결과가 바뀔 수도 있어요.
+
+프리야: 얼마나 바뀔 수 있어요?
+
+엘레나: 아무도 몰라요. 그게 무서운 부분이죠.
+
+마커스: 3.1이 2.1이 되면?
+
+엘레나: 그럼 라벨에 쓸 주장이 약해져요. 어쩌면 훨씬 약해지고요.
+
+노아: 그리고 우리 메시지 전체가 "세 배 빠르다"인데.
+
+프리야: 단 하나의 핵심이 또 현미경 아래 놓였네.
+
+### 장면2 — Stein의 분노, 그리고 정면 돌파
+
+스타인: 들었어요. 그레이스가 전화했어요. 내 측정이 틀렸다는 거예요?
+
+엘레나: 아니에요, 레이첼. 눈가림이 아니었다는 거예요. 합당한 질문이에요.
+
+스타인: 난 20년 동안 용해를 측정해 왔어요, 엘레나. 이런 걸 수천 번 봤어요. 내가 필러가 없어졌다고 하면 없어진 거예요. 내가 본 게 뭔지 알고, 사진은 필요 없어요.
+
+엘레나: 믿어요. 하지만 "내가 본 걸 안다"는 증거가 아니에요. 사진이 증거죠.
+
+스타인: 말했잖아요. 내 진료실에서. FDA랑 싸우게 될 거라고.
+
+노아: 싸우는 게 아니에요. 답하는 거예요.
+
+스타인: 같은 거예요. 매너만 더 좋을 뿐.
+
+그레이스: 레이첼, 박사님 사진을 써도 될까요? 제일 많이 찍으셨잖아요.
+
+스타인: 써요. 한 장도 빠짐없이. 좋은 사진들이에요. 타마라가 완벽주의자거든요.
+
+프리야: 사진은 누가 판독해요? 우리일 순 없잖아.
+
+그레이스: 독립 피부과 전문의들이요. 세 명. 어떤 제품인지 모를 거예요.
+
+마커스: 얼마나 걸려?
+
+그레이스: 6주에서 8주요. 그다음 폴이 통계를 다시 돌려요.
+
+노아: 숫자가 떨어지면요?
+
+엘레나: 그럼 새 숫자를 보고하죠. 그게 뭐든.
+
+스타인: 당신들한테 불리해도요?
+
+엘레나: 불리할수록 더요. 낮은 숫자를 정직하게 보고하면, 우리가 하는 다른 말도 다 믿어 줄 거예요. 숨기려고 하면, 파일의 모든 쪽을 의심할 거고요.
+
+스타인: 이상한 회사예요. 그게 점점 마음에 드네요.
+
+노아: 좋아요. 큰 그림. 보완 사항 넷. 답변까지 얼마나 걸려요?
+
+그레이스: 가장 느린 게 일정을 결정해요. 그게 사진 재판독이고요. 피부과 전문의들한테 8주, 답변서 작성에 2주 정도 더. 나머지는 전부 동시에 진행할 수 있어요.
+
+마커스: 답변까지 10주. 그다음 FDA가 시계를 다시 돌리고.
+
+엘레나: 그럼 그쪽엔 60일 남아요. 어쩌면 자문위원회 회의도.
+
+프리야: 자문위원회? 공개 회의요?
+
+엘레나: 우리 같은 새로운 주장이면 가능해요. 외부 전문가 의견을 원할 수 있죠.
+
+노아: 그럼 승인은… 10월? 11월?
+
+엘레나: 모든 게 잘되면요. 그리고 출시는 그 뒤고요.
+
+마커스: 큰 차질이네.
+
+노아: 차질이에요. 멈춤이 아니라. 차이가 있죠.
+
+레오: 그리고 팀은요? 오늘 말해요?
+
+노아: 오늘. 한 시간 뒤에. 전원에게.
+
+### 절정·전환 — 오후 5시, 전 직원 미팅
+
+노아: 금요일인데 늦게까지 남아 줘서 고마워요. 안타깝지만 나쁜 소식이 있어요.
+
+그레이스: FDA가 중대 보완 요청 서한을 보냈어요. 승인이 약 6개월 늦어져요.
+
+마야: 6개월이요? 제품이 안전하지 않은 거예요?
+
+엘레나: 아니요. 서한에 안전성 문제는 하나도 없어요. 증명과 서류에 관한 거예요.
+
+노아: 우리가 어떻게 대응하는지 말할게요. 문제 넷. 책임자 넷. 명확한 마감.
+
+마커스: 안정성은 프리야. 멸균은 나. 사진 재판독은 그레이스. 라벨링은 엘레나.
+
+마야: 어려운 질문 하나 해도 돼요? 우리 일자리는 안전해요?
+
+엘레나: 합당한 질문이에요. 솔직한 답을 들을 자격이 있어요.
+
+노아: 실제 숫자를 말할게요. 지금 9개월 치 돈이 있어요. 승인은 모든 게 잘되면 8개월쯤 걸릴 수도 있어요. 그게 여유롭다고 꾸며 말하진 않을게요.
+
+마커스: 너무 빠듯해. 안전 여유가 없어.
+
+노아: 그래서 추가 자금을 모을 거예요. 필요해지기 전에. 월요일부터.
+
+마야: 못 모으면요?
+
+노아: 그럼 여러분한테 제일 먼저 말할게요. 누구보다 먼저. 약속해요.
+
+프리야: 우린 여기서 나쁜 소식을 숨기지 않아요. 그래서 오늘 듣는 거예요.
+
+레오: 하나 덧붙여도 돼요? 1호 직원으로서?
+
+노아: 그래요.
+
+레오: 3년 전에 우린 1.8로 실패했어요. 끔찍한 날이었죠. 하지만 숨기지 않았어요. 투자자한테 진실을, 전부 다 말했어요. 그래서 어떻게 됐는지 아세요?
+
+마커스: 그 사람은 돈을 줄이는 대신 더 줬지. 그때 정직함이 통했어. 지금도 통할 거야.
+
+마야: 알겠어요. 도움이 돼요. 감사합니다.
+
+프리야: 하나 더요. 사진 재판독 결과 우리 숫자가 낮아질 수도 있어요. 아직은 몰라요. 하지만 결과가 좋든 나쁘든, 이런 자리에서 우리한테 직접 듣게 될 거예요.
+
+엘레나: 숫자가 뭐든 제품은 똑같아요. 그리고 효과가 있어요.
+
+노아: 질문은 언제든 저한테 해요. 제 문은 열려 있어요. 문자 그대로요. 고장 났거든요.
+
+마야: 알아요. 마커스가 수리 요청을 올려놨어요.
+
+마커스: 낮은 우선순위야. 열린 문은 조직 문화에 좋거든.
+
+노아: 좋아요. 집에 가요. 주말 보내고요. 월요일에 다시 시작해요.
+
+### 마무리 — 오후 6시, 이사회 화상
+
+리처드: 그래서. 중대 보완 요청. 얼마나 심각해요?
+
+노아: 나쁜 소식 먼저요. 승인이 약 6개월 늦어지고, 런웨이는 9개월이에요. 너무 빠듯해요. 다른 게 하나라도 밀리면 출시 전에 돈이 떨어지니까요.
+
+빅토리아: 그리고 계획은요?
+
+노아: 문제 넷, 책임자 넷. 10주 안에 답변. 그리고 브리지 자금이 필요해요.
+
+일레인: 브리지는 얼마나 크게요?
+
+노아: 800만 달러요. 승인까지에 6개월 더. 지분을 더 팔지 않고요.
+
+리처드: 지분 없이라는 건 부채라는 거죠. 벤처 대출.
+
+빅토리아: 대출 기관을 하나 알아요. 스털링 은행의 해나 그리어. 깐깐하지만 공정해요.
+
+일레인: 부채엔 규칙이 있어요, 노아. 약정 조건이라고 하죠. 실수로라도 어기면 은행이 끼어들어서 당신들 대신 결정을 내리기 시작할 수 있어요. 그러니 깨알 같은 조항까지 읽어요.
+
+노아: 이해해요. 한 단어도 빠짐없이 읽을게요. 다이앤이 확실히 할 거예요.
+
+리처드: 하나 더요. 할번 임상이 빠르게 등록 중이에요. 당신들보다 빨리.
+
+프리야: 얼마나 빨리요?
+
+리처드: 할번 영업 조직이 환자를 모집하고 있어요. 큰 회사는 느리게 움직이죠—
+
+노아: 안 그럴 때까지는요. 일레인이 가르쳐 줬어요.
+
+일레인: 그럼 6개월을 낭비하지 마요. 이제 매주가 중요해요.
