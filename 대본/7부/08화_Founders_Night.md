@@ -231,8 +231,8 @@
 70. ELENA: Go on.
     엘레나: 해요.
 
-71. NOAH: I wasn't undecided about money. I was afraid you'd all want to sell. And I'd be the only one who didn't.
-    노아: 돈 때문에 미정이었던 게 아니에요. 다들 팔고 싶어 할까 봐 무서웠어요. 그리고 나만 아닐까 봐.
+71. NOAH: It wasn't the money. I was afraid you'd all want to sell. And I'd be the only one who didn't.
+    노아: 돈 때문이 아니었어요. 다들 팔고 싶어 할까 봐 무서웠어요. 그리고 나만 아닐까 봐.
 
 72. PRIYA: So you stayed silent. To protect us from your opinion.
     프리야: 그래서 침묵했군요. 당신 의견으로부터 우릴 보호하려고.
