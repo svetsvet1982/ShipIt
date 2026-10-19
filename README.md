@@ -15,4 +15,4 @@
 - [x] 4부 Launch (1~15화)
 - [x] 5부 Traction (1~15화)
 - [x] 6부 Crossing the Pond (1~15화)
-- [ ] 7부 Global
+- [x] 7부 Global (1~15화)
