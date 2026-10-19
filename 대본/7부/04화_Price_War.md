@@ -9,7 +9,7 @@
 > - 비즈니스 스킬: 가격 압박 대응, 가치 제안 재정의, 세그먼트 전략, 현지 규제 내 마케팅
 > - 난이도: C1 · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
 > - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내.
-> - 복선 설치: **식약처 승인(서린 오창 생산, 국내 제조 허가) 지난주 수령 → 5월 6일 한국 출시** · **클리닉 공급가 ₩230,000 vs Bellacare ₩85,000(지난주 ₩90,000에서 인하)** · 배 원장 "₩140,000. Or I buy Bellacare." · Grace "We won't join a race to the bottom." · **Dr. Choi의 위험 부위 포지셔닝: 코·이마·미간 = 시술량 30%, 합병증 80% → "Use Veyra where the risk is highest."** · 배 원장 실제 데이터: Lumi 작년 혈관 사건 11건 중 9건이 코·이마 · **메시지 테스트(Grace): 의사 = 자신감("lets you sleep at night"), 소비자 = "Natural now. Reversible always." — 한국 헤드라인 채택** · **한국 의료법: 시술 경험담 광고 금지, 의료광고 사전 심의 → 서유나 캠페인은 비브랜드 교육 "시술 전 두 가지 질문"(녹일 수 있나요? 얼마나 빨리?)** · 서유나 자신의 이마 합병증 경험(3년 전, 회복) · **가치 패키지: 한국어 Veyra Ready 교육 무료 / 응급 키트 / 24시간 한국어 핫라인 / 스캔 시스템 / 보험료 할인 협의 중** · **Lumi 합의: 20개 지점 코·이마·미간 전용 Veyra, ₩215,000(볼륨 등급 6.5%), 전 시술자 인증 60일 내** · Paul: 한국 1년 차 물량 목표 −30%, 매출총이익률 유지 · Noah "Let them race. We'll be at the finish line they can't reach." · Bellacare ₩79,000 추가 인하 · **Tom 문자 "Back from Seoul? Dinner May 8th. I'm not asking a third time."** · Kenji Sato(일본 종합상사) 미팅 5월 19일 도쿄 확정(→5화)
+> - 복선 설치: **식약처 승인(서린 오창 생산, 국내 제조 허가) 지난주 수령 → 5월 6일 한국 출시** · **클리닉 공급가 ₩230,000 vs Bellacare ₩85,000(지난주 ₩90,000에서 인하)** · 배 원장 "₩140,000. Or I buy Bellacare." · Grace "We won't join a race to the bottom." · **Dr. Choi의 위험 부위 포지셔닝: 코·이마·미간 = 시술량 30%, 합병증 80% → "Use Veyra where the risk is highest."** · 배 원장 실제 데이터: Lumi 작년 혈관 사건 11건 중 9건이 코·이마 · **메시지 테스트(Grace): 의사 = 자신감("lets you sleep at night"), 소비자 = "Natural now. Reversible always." — 한국 헤드라인 채택** · **한국 의료법: 시술 경험담 광고 금지, 의료광고 사전 심의 → 서유나 캠페인은 비브랜드 교육 "시술 전 두 가지 질문"(녹일 수 있나요? 얼마나 빨리?)** · 서유나 자신의 이마 합병증 경험(3년 전, 회복) · **가치 패키지: 한국어 Veyra Ready 교육 무료 / 응급 키트 / 24시간 한국어 핫라인 / 스캔 시스템 / 보험료 할인 협의 중** · **Lumi 합의: 20개 지점 코·이마·미간 전용 Veyra, ₩215,000(볼륨 등급 6.5%), 전 시술자 인증 60일 내** · Paul: 한국 1년 차 물량 목표 −30%, 매출총이익률 유지 · Noah "Let them race. We'll be at the finish line they can't reach." · Bellacare ₩79,000 추가 인하 · **Tom 문자 "Back from Seoul? Dinner May 28th. I'm not asking a third time."** · Kenji Sato(일본 종합상사) 미팅 5월 19일 도쿄 확정(→5화)
 
 ---
 
@@ -364,7 +364,7 @@
 113. NOAH: Read it.
      노아: 읽어 줘요.
 
-114. PAUL: "Back from Seoul? Dinner May eighth. I'm not asking a third time. T."
+114. PAUL: "Back from Seoul? Dinner May twenty-eighth. I'm not asking a third time. T."
      폴: "서울에서 돌아왔어? 5월 8일 저녁. 세 번째는 안 물어. T."
 
 115. ZOE: "Not asking a third time." That sounds like a threat.
@@ -379,8 +379,8 @@
 118. PAUL: In writing. Diane already drafted the notice. Just in case.
      폴: 서면으로. 다이앤이 통지문 초안을 이미 써 놨어요. 혹시 몰라서.
 
-119. NOAH: Reply to Tom. "May eighth. I'll be there." Nothing else.
-     노아: 톰한테 답장해요. "5월 8일. 갈게." 그 외엔 아무것도.
+119. NOAH: Reply to Tom. "May twenty-eighth. I'll be there." Nothing else.
+     노아: 톰한테 답장해요. "5월 28일. 갈게." 그 외엔 아무것도.
 
 120. GRACE: Short. Clear. No "amazing." James would be proud.
      그레이스: 짧고. 분명하고. "놀라운" 없이. 제임스가 자랑스러워할 거예요.
