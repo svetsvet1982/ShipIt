@@ -340,8 +340,8 @@
 
 ### 마무리 — 오후 1시, 오스틴 사무실
 
-106. JAMES: Good. Also, I've booked the training centre. Manchester. Twelfth of June. Thirty nurses. Eight doctors.
-     제임스: 좋아요. 그리고 교육 센터 예약했어요. 맨체스터. 6월 12일. 간호사 30명. 의사 8명.
+106. JAMES: Good. Also, I've booked the training centre. London. Twelfth of June. Thirty nurses. Eight doctors.
+     제임스: 좋아요. 그리고 교육 센터 예약했어요. 런던. 6월 12일. 간호사 30명. 의사 8명.
 
 107. NOAH: You haven't started yet.
      노아: 아직 입사도 안 했잖아요.
