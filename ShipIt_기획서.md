@@ -1,4 +1,4 @@
-# SHIP IT — 스타트업 비즈니스 영어 회화 드라마 기획서 (v4: 7부 105화)
+# SHIP IT — 스타트업 비즈니스 영어 회화 드라마 기획서 (v5: 8부 120화)
 
 > 미국 텍사스 오스틴의 미용 의료 스타트업 **Veyra Aesthetics**가 응급실의 한 장면에서 시작해 글로벌 기업이 되기까지.
 > 창업 → 제품 개발·임상 → FDA 승인 → 출시·마케팅 → 미국 판매 → 해외 진출(유럽·아시아)을 한 남자의 시선으로 따라가며, 실제 업계에서 쓰는 비즈니스 영어를 단계별로 익힌다.
@@ -11,7 +11,7 @@
 |---|---|
 | 제목 | **SHIP IT** (부제: 되돌릴 수 있는 약속) |
 | 장르 | 비즈니스 드라마 / 학습용 회화 대본 |
-| 분량 | 7부 × 15화 = **총 105화**, 화당 **120턴** (총 12,600턴) |
+| 분량 | 8부 × 15화 = **총 120화**, 화당 **120턴** (총 14,400턴) — 7부 완결 후 8부 "Public" 추가 |
 | 학습 대상 | 비즈니스 영어가 필요한 한국인 직장인·창업 준비생·제약/의료기기 업계 종사자 (B1 → C1) |
 | 형식 | 지문 없음. 전 화 100% `화자명: 대사` + 한국어 번역 |
 | 배경 | 오스틴 → 뉴저지(위탁생산) → 워싱턴 D.C.(FDA) → 미국피부과학회(AAD) → 파리(IMCAS) → 런던 → 베를린 → 서울(아시아 미용학회) → 도쿄 |
@@ -54,6 +54,7 @@
 | 3부 | 벤처 대출 (브리지) | $8M | FDA 심사 지연 대응 |
 | 5부 | 시리즈 B | $80M | 미국 영업 조직, B2C 확장 |
 | 7부 | 시리즈 C (크로스오버) | $150M | 아시아 진출, IPO 준비 |
+| 8부 | IPO (나스닥 VEYR) | 약 $300M 공모 | 라인 C·중국 임상·인수(AI 매핑 스타트업) |
 
 ---
 
@@ -112,7 +113,7 @@
 
 1. **지문(내레이션) 없음.** 모든 정보는 대사로 전달. 장면 전환도 대사로 암시.
 2. 각 턴은 `번호. 화자명(대문자): 영어 대사` + 다음 줄에 `한국어 화자명: 번역`.
-3. **1턴 = 영어 15단어 이내** (1~4부). 5~7부는 20단어 이내 허용. 이메일·발표문·계약 조항·FDA 서한 낭독은 화당 2회까지 예외(최대 40단어).
+3. **1턴 = 영어 15단어 이내** (1~4부). 5~8부는 20단어 이내 허용. 이메일·발표문·계약 조항·FDA 서한 낭독은 화당 2회까지 예외(최대 40단어).
 4. **120턴 구성:** 도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15.
 5. 화 머리에 「표기 전용 정보」(부/화, 배경, 등장인물, 비즈니스 스킬, 난이도, 복선)를 둔다.
 6. 화 말미 학습 부록: ① 핵심 표현 10개 ② 비즈니스 컬처 노트 1개 ③ 실무 템플릿 1개(이메일·회의록·슬라이드 문구 등).
@@ -129,10 +130,11 @@
 | 5부 | B2 | 협상·법무·재무지표·소비자 채널 | 협상 화법, 가정법, 보고체 |
 | 6부 | B2+ | 국제 전시·계약·규제·문화 차이 | 영국식 완곡어법, 격식체, 함의 읽기 |
 | 7부 | C1 | M&A·이사회·리더십 | 고난도 협상, 설득, 연설체 |
+| 8부 | C1+ | 상장사 운영·IR·공시·주주·인수 | 법적으로 정밀한 화법(헤징·공시 표현), 실적 발표, 공청회 증언 |
 
 ---
 
-## 4. 전체 줄거리 (7부 구조)
+## 4. 전체 줄거리 (8부 구조)
 
 | 부 | 부제 | 단계 | 작중 시점 | 핵심 질문 | 부 엔딩 훅 |
 |---|---|---|---|---|---|
@@ -143,6 +145,7 @@
 | 5부 | **Traction** | 미국 판매 확대 | Year 5 | 미국 시장에서 이길 수 있는가? | 50만 시린지 달성. Zoe가 파리 IMCAS 부스 신청서를 내민다 |
 | 6부 | **Crossing the Pond** | 해외 진출 I (유럽) | Year 6 | 다른 규제·문화에서도 통하는가? | 유럽 안착 직후, 한국 대양바이오의 연락 + Halvern 인수설 |
 | 7부 | **Global** | 해외 진출 II (아시아·글로벌) | Year 7 | 팔 것인가, 키울 것인가? | Lily가 거울 앞에 선다 — 처음으로 돌아온 결말 |
+| 8부 | **Public** | 상장사 운영 | Year 8 ~ Year 10 | 주주가 생긴 뒤에도 원칙을 지킬 수 있는가? | 창립 10주년, 다음 세대의 냅킨 — 이번엔 Noah가 남에게 "Ship it." |
 
 ---
 
@@ -302,6 +305,31 @@
 | 14 | The Call | 서울 클리닉 ↔ 오스틴 응급 핫라인 | 서울에서 혈관 폐색 응급 상황. Veyra 응급 핫라인과 빠른 용해로 환자가 흉터 없이 회복한다. 1부 1화의 응급실과 대구. | 실시간 위기 공조 | Stay on the line. / Talk me through it. / You did everything right. |
 | 15 | The Mirror | Elena의 클리닉 → 글로벌 생중계 | IPO 신청 발표. Lily가 마침내 Elena에게 흉터 치료를 받는다. 거울 앞의 Lily. Noah가 냅킨에 새 그림을 그린다. | 비전 연설, 감사 | We've come a long way. / This is just the beginning. / Thank you for believing in us. |
 
+### 8부 — Public (상장사) · C1+ · Year 8 ~ Year 10
+
+> **부 시놉시스:** 나스닥 상장으로 Veyra는 분기마다 시장에 성적표를 내는 회사가 된다. 첫 분기 실적은 기대에 못 미치고, 행동주의 펀드는 아시아에서 미용사에게도 팔라고 압박한다. Noah는 젊은 창업자의 스타트업을 인수하며 처음으로 Tom의 자리에 앉아, 자기 안의 Tom과 마주한다. Halvern은 초대형 제약사에 팔리고, 자리를 잃은 Tom이 Noah에게 전화를 건다. 그리고 Noah와 Claire의 결혼식, 창립 10주년, 다음 세대의 냅킨.
+
+| 화 | 제목 | 배경 | 줄거리 | 비즈니스 스킬 | 핵심 표현 |
+|---|---|---|---|---|---|
+| 1 | Roadshow | 뉴욕·보스턴·샌프란시스코 | 8일, 3개 도시, 투자자 미팅 60회. 같은 질문 백 번에 같은 답 백 번. 공모가 결정의 밤. | IPO 로드쇼 피치, 반복 질문 대응 | order book / oversubscribed / price the deal |
+| 2 | Ring the Bell | 나스닥 타임스스퀘어 | 상장일. 전광판의 Lily 로고, 첫날 급등, 들뜬 직원들. Noah는 "주가는 우리 일이 아니다"라고 말해야 한다. | 축하와 기대치 관리 | first-day pop / lock-up / Let's stay focused. |
+| 3 | Guidance | 오스틴 IR 회의실 | 첫 실적 발표 준비. 가이던스를 얼마나 보수적으로 잡을까. 신임 IR 책임자 Ruth의 상장사 화법 수업. | 실적 발표 준비, 발언 통제 | guidance / Reg FD / forward-looking statements |
+| 4 | The Miss | 실적 발표 콜 | 라인 C 지연으로 매출 미달, 주가 18% 하락. 애널리스트 Dana의 날 선 질문에 Noah가 미달을 인정한다. | 나쁜 소식 공시, 애널리스트 Q&A | We fell short. / headwinds / We own this. |
+| 5 | Counterfeit | 오스틴 ↔ 호찌민 화상 | 동남아 온라인몰의 가짜 Veyra. 일련번호 스캔이 위조품을 잡아낸다. 플랫폼·세관과의 협상. | 브랜드 보호, 위기 대응 | counterfeit / takedown notice / chain of custody |
+| 6 | Lock-up | 본사 타운홀 | 보호예수 만료. Richard의 매도 공시, 직원들의 질문, 내부자 거래 규정 교육. | 내부 커뮤니케이션, 컴플라이언스 | blackout period / insider trading / 10b5-1 plan |
+| 7 | The Activist | 이사회 → 공개서한 | 행동주의 펀드 Pikestone의 Graham Pike: 교육비 삭감, 아시아 미용사 판매. 위임장 대결 위협. | 주주 대응, 공개 반박 | activist investor / proxy fight / long-term value |
+| 8 | Other Side of the Table | 오스틴 카페 → 회의실 | AI 주입 매핑 스타트업 인수. 27세 창업자 Maya Ortiz. 처음으로 사는 쪽에 앉은 Noah. | 인수자 입장 협상 | acqui-hire / What do you need? / earn-out (반대편에서) |
+| 9 | Diligence | 데이터 룸 | 실사에서 Maya가 숨긴 데이터 문제가 드러난다. Noah는 Tom과 다른 길을 고른다. | 실사, 문제 발견 시 대화 | red flag / disclosure schedule / Tell me before I find it. |
+| 10 | China | 상하이 → 서울 화상 | 중국 임상 시작. Grace와 대양 사이의 긴장, 데이터 현지화. | 합작법인 갈등 조정 | data localization / escalation path / Let's align first. |
+| 11 | Form 483 | 오창 라인 C | FDA 실사, 지적사항 3건. Leo·이수진·CTO Marisol의 대응, Priya와 Marisol의 "방 안에서 반대하기". | 규제 실사 대응 | observation / CAPA / within fifteen business days |
+| 12 | Tom Calls | 오스틴 바비큐집 | Halvern이 초대형 제약사 Castellan에 인수되고 Tom은 해고된다. "For advice. Only advice." | 옛 경쟁자와의 관계 재정의 | What are you really asking? / advisory role |
+| 13 | Testimony | 텍사스 주의회 | 필러 시술 자격 법안 공청회. Noah와 Tom이 나란히 증언한다(6부 James 청문회의 대구). | 공청회 증언, 공동 성명 | I yield my time. / bipartisan / on the record |
+| 14 | Vows | 텍사스 힐 컨트리 | Noah와 Claire의 결혼식. Marcus의 들러리 연설, Elena에게 2주간 전권 위임. | 축사, 완전한 위임 | Here's to… / best man's toast / You have full authority. |
+| 15 | The Next Napkin | 본사 옥상 → 10주년 행사 | 창립 10주년. Maya가 자기 냅킨을 내밀고, Lily의 마지막 디자인, Noah가 이번엔 다른 사람에게 "Ship it." | 기념 연설, 다음 세대에 넘기기 | legacy / pass the torch / Ship it. |
+
+**8부 신규 인물:** Ruth Okonkwo(IR 책임자, 상장사 화법 코치) · Dana Brooks-Hall(셀사이드 애널리스트, 냉정한 질문자) · Graham Pike(행동주의 펀드 Pikestone Capital 대표) · Maya Ortiz(27세, AI 주입 매핑 스타트업 "Contour" 창업자 — 젊은 Noah의 거울) · Castellan(Halvern을 인수하는 초대형 제약사)
+**8부 회수 계획:** Claire 결혼(14화) · Tom 적 → 동료(12·13화) · James 영국 법안 통과(13화 언급) · Hannah Lloyd Veyra 합류·Fiona 영국 교육 파트너(7화) · Priya–Marisol 규칙 시험(11화) · 독일 Hautwerk 실적(3·4화)
+
 ---
 
 ## 6. 복선·반복 장치 맵
@@ -329,6 +357,10 @@
 | Derek의 성장 | 3부 13화 롤플레이에서 혼쭐 | 4부 3화 첫 주문 → 4부 14화 회수 후 거래처 회복 → 5부 3화 최우수 영업사원 |
 | Oliver와의 첫 만남 | 6부 4화 파리 부스 미팅룸 | 6부 7·8화 런던 협상 → 6부 15화 영국 반등 |
 | James가 풀어 준 영국식 영어 | 6부 8화 | 7부 12화 글로벌 회의에서 다문화 회의 진행을 돕는다 |
+| **"Only advice."** | 6부 8화 James | 7부 10화 Noah가 Tom에게 → 8부 12화 Tom이 Noah에게 전화 |
+| **청문회 증언** | 6부 15화 James(영국 의회) | 8부 13화 Noah와 Tom이 텍사스 주의회에서 나란히 |
+| **사는 쪽과 파는 쪽** | 7부 6화 Tom의 인수 제안 | 8부 8·9화 Noah가 Maya의 회사를 인수하며 Tom의 자리에 앉는다 |
+| **"Ship it."** | 7부 15화 Lily → Noah | 8부 15화 Noah → Maya |
 
 ---
 
