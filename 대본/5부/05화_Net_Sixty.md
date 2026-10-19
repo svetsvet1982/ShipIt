@@ -183,8 +183,8 @@
 54. SOFIA: First access to every new product. Sixty days before anyone else.
     소피아: 모든 신제품에 대한 첫 접근권. 다른 누구보다 60일 먼저.
 
-55. SOFIA: And joint data. Your pilot results, published with Nadia's name. At a national conference.
-    소피아: 그리고 공동 데이터. 파일럿 결과를 나디아 이름으로 발표. 전국 학회에서.
+55. DEREK: And joint data. Your pilot results, published with Nadia's name. At a national conference.
+    데릭: 그리고 공동 데이터. 파일럿 결과를 나디아 이름으로 발표. 전국 학회에서.
 
 56. GREG: Published? With our name on it?
     그레그: 발표라고요? 우리 이름으로?
