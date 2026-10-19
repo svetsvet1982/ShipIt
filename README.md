@@ -12,7 +12,7 @@
 - [x] 1부 The Napkin (1~15화)
 - [x] 2부 The Trial (1~15화)
 - [x] 3부 Approval (1~15화)
-- [ ] 4부 Launch
+- [x] 4부 Launch (1~15화)
 - [ ] 5부 Traction
 - [ ] 6부 Crossing the Pond
 - [ ] 7부 Global
