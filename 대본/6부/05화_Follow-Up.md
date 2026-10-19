@@ -364,26 +364,26 @@
 113. MARCUS: Call her. Now. Not a text. A call. Bad news from a person.
      마커스: 전화해. 지금. 문자 말고. 전화. 나쁜 소식은 사람이.
 
-114. MARCUS: Voicemail?
-     마커스: 음성 사서함?
+114. NOAH: Voicemail. …Claire, it's me. A strike. I land at two p.m. on the third. I'm so sorry.
+     노아: 음성 사서함. …클레어, 나야. 파업이야. 3일 오후 2시에 도착해. 정말 미안해.
 
-115. NOAH: Claire, it's me. There's a strike. I'll land at two p.m. on the third. I'm so sorry.
-     노아: 클레어, 나야. 파업이 났어. 3일 오후 2시에 도착해. 정말 미안해.
+115. MARCUS: She'll call back. Give her time.
+     마커스: 다시 전화할 거야. 시간을 줘.
 
-116. MARCUS: She'll call back.
-     마커스: 다시 전화할 거야.
-
-117. NOAH: She texted. Two words. "It's okay."
+116. NOAH: She texted. Two words. "It's okay."
      노아: 문자 왔어. 두 단어. "괜찮아."
 
-118. MARCUS: Noah. Denise taught me something. When an engineer says "it's okay," check the load.
+117. MARCUS: Noah. Denise taught me something. When an engineer says "it's okay," check the load.
      마커스: 노아. 데니스가 가르쳐 준 게 있어. 엔지니어가 "괜찮아"라고 하면, 하중을 확인해.
 
-119. NOAH: What does that mean?
-     노아: 그게 무슨 뜻이야?
+118. NOAH: Check the load?
+     노아: 하중을 확인하라고?
 
-120. MARCUS: It means something's carrying more than it should. And you won't see the crack until later.
-     마커스: 뭔가가 감당할 수 있는 것보다 많이 지고 있다는 뜻이야. 그리고 금은 나중에야 보이지.
+119. MARCUS: Something's carrying more than it should. And you won't see the crack until later.
+     마커스: 뭔가가 감당할 수 있는 것보다 많이 지고 있다는 거야. 그리고 금은 나중에야 보이지.
+
+120. NOAH: …Then I'll go straight from the airport to her. Bridge or no bridge.
+     노아: …그럼 공항에서 바로 그 사람한테 갈게. 다리가 있든 없든.
 
 ---
 
