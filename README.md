@@ -13,6 +13,6 @@
 - [x] 2부 The Trial (1~15화)
 - [x] 3부 Approval (1~15화)
 - [x] 4부 Launch (1~15화)
-- [ ] 5부 Traction
+- [x] 5부 Traction (1~15화)
 - [ ] 6부 Crossing the Pond
 - [ ] 7부 Global
