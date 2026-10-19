@@ -8,7 +8,7 @@
 > - 등장인물: Noah, Elena, Sofia, Sarah Whitfield(클래펌 간호사 처방권자), James Okafor(나이지리아계 영국인, 전 NHS 응급실 간호사·전 에스테틱 아카데미 교육 책임자, 독립 컨설턴트), Fiona Ashby(전화)
 > - 비즈니스 스킬: 영국식 완곡어법 해독, 오해 인정하기, 명확하고 정중한 후속 이메일 쓰기, 직설적 거절 받아들이기
 > - 난이도: B2+ · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
-> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내.
+> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내 + 긴 턴 10~15회(30~60단어).
 > - 복선 설치: **James Okafor: 라고스 태생·런던 페컴 성장, NHS 응급실 간호사 12년 → 에스테틱 아카데미 교육 책임자 → 아카데미가 미용사 3일 과정을 시작하자 사임, 현재 독립 컨설턴트, 의회 미용 시술 규제 자문 그룹 위원** · **"Translation table": quite interesting = no / I hear what you say = I disagree and the discussion is over / with the greatest respect = you're wrong / not bad at all = good / do enjoy London = we're finished for now** · James "Oliver didn't lie. He was kind. In British, that's worse." · Noah 오해 인정 "I heard what I wanted to hear." · James 이메일 원칙 "Short. Warm. One clear question." · James: Oliver의 매출 60%가 미용사 → 같은 영업팀 분리 불가 · **James "I don't work for companies anymore."** · 다음 날 Fiona의 직설 전화 "Oliver won't say it. So I will. It's a no." + "For what it's worth, I'd have signed." · Noah "Then we go direct."(→9~10화)
 
 ---

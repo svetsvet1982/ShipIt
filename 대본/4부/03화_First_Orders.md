@@ -8,7 +8,7 @@
 > - 등장인물: Noah, Derek, Brenda(Patel 피부과 프런트 매니저), Dr. Omar Haddad(바쁜 피부과 의사), Dr. Susan Wade(Dallas Dermatology Group 대표, Derek의 옛 거래처), Keisha Grant(소형 클리닉 원장, 전문 간호사 NP), Ava(전화)
 > - 비즈니스 스킬: 영업 방문(게이트키퍼 존중, 짧은 미팅, 장애물 묻기, 시험 주문으로 마무리), 원칙 지키며 거절하기
 > - 난이도: B2 · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
-> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 15단어 이내.
+> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 15단어 이내 + 긴 턴 10~15회(25~35단어).
 > - 복선 설치: **Dr. Susan Wade — 시험 주문 10개(교육 후 출고), 교육 다음 주 목요일, 4화 댈러스 라이브 데모 워크숍 장소 제공** · **Keisha Grant — 즉시 주문 $4,000 요청 → 교육 전 판매 거절, 화요일 교육 예약** · Brenda(Patel 피부과) — 간호사용 "First Ten Seconds" 카드 수령 → 후일 · Dr. Haddad 장애물: 직원 교육·환자의 브랜드 지명 · **Ava: 오스틴 Lakeway Skin(Dr. Nguyen) 첫 재주문 20개** · Derek "One goal per visit. The next step."
 
 ---

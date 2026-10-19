@@ -8,7 +8,7 @@
 > - 등장인물: Elaine, Noah, Priya, Richard, Victoria, Victor, Ingrid(화상), Diane, Tom Brennan, Jordan(Tom의 비서실장), Lily, Elena(전화)
 > - 비즈니스 스킬: 단호하게 거절하기, 거절 문구 다듬기(문을 닫을 것인가 열어 둘 것인가), 마지막 압박에 흔들리지 않기, 관계는 지키고 거래는 닫기
 > - 난이도: C1 · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
-> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내. 예외(거절 서한 낭독) 1회.
+> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내 + 긴 턴 10~15회(30~60단어). 예외(거절 서한 낭독) 1회.
 > - 복선 설치: **새벽 1시 대양 LOI 도착(CEO 서명), Victoria 허세 증거 확인 → 정식 표결 7:0 거절, 세컨더리·텐더 오퍼·대양 LOI·Mitsukawa 추진 승인** · **Richard: "not at this time"(문 열어 두기) 문구 주장 vs Noah "Our answer is final." → Elaine 표결로 최종 문구 채택(6:1, Richard 반대 기록)** · Richard "Never close a door you might need." → Noah "This door, we close. Other doors stay open." · **Tom 14층: 구두로 $1.4B 즉석 제시 → Noah "We've decided to decline. Our answer is final."** · Tom 한국 위협 → Noah "There's no application on file. We checked." · **지배권 변경 조항 공개 → Tom "You made yourselves unbuyable." / Noah "By you."** · Tom "You just cost me a corner office." → Noah "Halvern cost you that. The day it said no to Priya's chemistry." · **Noah가 Tom의 말을 돌려줌: "Nothing personal, Tom. It's just business."** + "You taught me to read a P and L. Lily taught me to read a face." · Tom "You'll call me someday." → Noah "Maybe. For advice. Only advice." · **Ishikawa 이메일(도쿄 토요일 새벽): 링기 도장 7개 완료, Mitsukawa 승인** · Bluewater·Fjord 세컨더리 서명 · **Lily "Now book my laser. You promised in year five." → Noah "In the fall. After Seoul. I'll be there. The whole time."**(→15화)
 
 ---

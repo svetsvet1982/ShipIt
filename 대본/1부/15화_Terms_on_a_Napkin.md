@@ -8,7 +8,7 @@
 > - 등장인물: Noah, Priya, Marcus, Elena, Elaine, Dr. David Kaplan(피부과 의사 엔젤), Diane(문자), Denise(전화), Tom(전화)
 > - 비즈니스 스킬: 투자 조건 협상(SAFE, 밸류에이션 캡, 할인율), 조건 확인, 이해충돌 공개
 > - 난이도: B1 · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
-> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 15단어 이내.
+> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 15단어 이내 + 긴 턴 10~15회(25~35단어).
 > - 복선 설치: SAFE 150만 달러(Elaine 100만 + 피부과 의사 엔젤 3명 50만), 캡 800만 달러, 할인 20% · Elaine의 조건 4가지(Marcus 풀타임, Priya H-1B 2주 내 신청, 월간 업데이트, 프로라타) · Marcus 퇴사 결심 → 월요일 Corwin에 통보 · Dr. Kaplan은 Halvern 강연 의사(이해충돌 공개) → 투자 소식이 Tom에게 새어 나감 · Diane "A napkin is not a contract."(→2부) · Tom "Check your contract, Noah."(→5부 7화) · 냅킨 원본은 Elaine이 보관(→7부 8화)
 
 ---

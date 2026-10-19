@@ -8,7 +8,7 @@
 > - 등장인물: Noah, Zoe, Grace, Elena, Priya, Kim Ha-eun(Veyra Korea 1호 영업 담당), Dr. Choi Min-jun(서울 피부과 전문의, 시연 연자), Yoon Ji-woo(강남 간호사, 카드 다운로드 50만 번째), 박정호(서린바이오 대표), 이수진(서린바이오 QA 팀장), 한서연(대양바이오 신사업 상무), Bellacare 부스 직원
 > - 비즈니스 스킬: 대형 부스 운영, 라이브 시연 진행, 경쟁사 분석, 신뢰 관계의 순서 지키기, 제휴 첫 미팅
 > - 난이도: C1 · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
-> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내.
+> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내 + 긴 턴 10~15회(30~60단어).
 > - 복선 설치: **100㎡ 메인 홀(파리 10㎡), LED 벽에 Lily의 냅킨 로고, 시연 무대 30석** · Halvern 부스 40㎡(역전) · **Ha-eun의 30초 피치 "In a nutshell, we…" — Noah가 지켜봄(4부 1화 서툰 첫 소개 ↔ 6부 2화 훈련 회수)** · **라이브 시연: Dr. Choi, 초음파 유도 주입 + 겔 용해 비교(Veyra 4분 vs 일반 12분), "Every minute counts."** · 관객 질문 "Why pay double?" → Dr. Choi "Because I have treated the cheap ones. At midnight." · **경쟁사 Bellacare Fill: 가격 절반, "Same HA. Korean quality. Faster results."** — Grace 통역: 한국 클리닉 키워드 = 자연스러움·빠른 회복·트렌드, 합병증은 말하지 않음 · **Yoon Ji-woo: 50만 번째 다운로드 간호사, 카드로 혈관 폐색 1건 대응("I treated first. Then I phoned.")** · **박 대표 첫날 방문(Noah가 1월에 먼저 전화함 — 약속 이행): "Tomorrow Daeyang will come. Listen carefully. Then come to Ochang."** · **한서연 제안: 한국·중국 합작법인(대양 51 : Veyra 49 제안), 대양 보툴리눔 톡신 + FlexLink 스킨부스터 공동개발, 생산은 서린 포함** · Han "Halvern is our customer. Not our partner. Their supply contract ends next year." · Noah "Let's set up a proper meeting." · 첫날 리드 640(파리 186)
 
 ---

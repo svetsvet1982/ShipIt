@@ -8,7 +8,7 @@
 > - 등장인물: Noah, Priya, Diane, Raymond Ostrowski, Judge Robert Kwan(은퇴 연방 판사, 조정인), Tom Brennan, Patricia Vance(Halvern 법무 총괄), Marcus·Sofia(전화)
 > - 비즈니스 스킬: 합의 협상(조정 절차·"without prejudice"), 증거 공개 타이밍, 이익 중심 협상, 크로스 라이선스 구조
 > - 난이도: B2 · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
-> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내.
+> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내 + 긴 턴 10~15회(30~60단어).
 > - 복선 설치: **차고에서 찾은 증거: 논문 원본 + 실험 노트(날짜) + 12년 전 학회 포스터 세션 서명부 — Halvern '847 특허 발명자 Dr. Alan Wu의 서명** · Halvern 반론: "논문은 시험관 연구, 필러가 아니다" → Priya 112쪽 제조법·주입 가능성 데이터로 반박 · **합의: ①Halvern 소송 취하 ②Veyra에 '847 특허 무상·영구 라이선스 ③Veyra는 특허청 이의 심판 취하 ④Halvern에 Veyra 멸균 공정 특허 라이선스(로열티 3%) ⑤Halvern이 Veyra 법률 비용 $2.5M 부담 ⑥상호 비방 금지** · Tom "Your CTO is better than our entire patent department." / Tom "One day I'll make you an offer. You'll want to refuse it."(→7부 The Offer) · Noah "This time, I believe you." · 다음: Wade 연간 비즈니스 리뷰(→13화)
 
 ---

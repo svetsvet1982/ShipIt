@@ -8,7 +8,7 @@
 > - 등장인물: Noah, Elena, Priya, Marcus, Grace, Leo, Dr. Susan Park(FDA), Diane, Lily, Carol(전화), Kevin·Sandra(전화), Hannah(전화), Zoe Whitman(신임 마케팅 VP)
 > - 비즈니스 스킬: 문서 협상(라벨링), 공식 서한 이해, 축하·감사 표현
 > - 난이도: B2 · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
-> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 15단어 이내. (FDA 서한·라벨 문구 낭독 2회 예외)
+> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 15단어 이내 + 긴 턴 10~15회(25~35단어). (FDA 서한·라벨 문구 낭독 2회 예외)
 > - 복선 설치: **최종 라벨: "In a clinical study (n=40)… 2.8 times faster… blinded photo assessment" + "The clinical benefit of faster dissolution has not been established."** · 승인 조건: 5년 시판 후 연구(부작용 등록 + 시술자 교육 효과) · 교육 이수자에게만 판매 정책을 라벨 문구에 반영 · **PMA 승인: 10월 마지막 주 화요일**(은행 기한 3월 31일보다 5개월 빠름) · Sandra와의 "피렌체 저녁" 약속 · Carol "Your father would have framed this." · **Zoe Whitman 첫 등장(월요일 입사): "Beautifully boring. Let's make it exciting. Within the label."**(→3부 7·8화)
 
 ---

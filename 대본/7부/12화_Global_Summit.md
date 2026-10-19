@@ -8,7 +8,7 @@
 > - 등장인물: Noah, Elena, Sofia(영업 총괄), James(영국), Anke Fischer(독일 지사장 — 6부 IMCAS의 뮌헨 간호사), Grace(Veyra Asia CEO), Kenji Sato(Mitsukawa 베이라 사업 책임자), 한서연(Veyra Asia 의장, 게스트), Leo Martinez(품질 담당 부사장), Kim Ha-eun, Priya
 > - 비즈니스 스킬: 다문화 회의 진행, 발언 기회 고르게 나누기, 상세 설명 요청, 요약하기, 갈등을 구조 문제로 전환하기
 > - 난이도: C1 · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
-> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내.
+> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내 + 긴 턴 10~15회(30~60단어).
 > - 복선 설치: **조직 700명(Veyra Asia·일본 팀 포함), 리더 40명, 국가 4곳 + 파트너** · **Anke Fischer = 독일 지사장(MediPartner와 공동, IMCAS에서 Priya와 독일어 단어로 친해진 간호사)** · 진행 규칙(Noah): 사전 자료 48시간 전 배포 / 라운드 로빈 / 침묵 10초 / "Let's make sure everyone's heard." · Kenji 침묵 → Noah "Kenji-san, could you elaborate?" → 일본은 의사만 시술(간호사는 의사 지시하) · **Anke: 독일 Heilpraktiker(비의사 자연치료사)는 필러 시술 가능 — "medical professional" 정의 문제** · **James 기준: "licensed to prescribe hyaluronidase" → 글로벌 최저 기준(floor), 국가별 더 엄격한 기준 허용(한국·일본은 의사만)** · Ha-eun 발언(신입도 발언) · **문화 희석: 최근 1년 입사자 41%가 원칙 1번을 못 댐 / 텍사스 영업 2명이 장부 외 할인(볼륨 등급 위반)** · **Leo의 이야기: 4년 차 마개 배치 B-2207, 압출력 추세 보고, 회수 13~15번 로트 "I'd rather find the problem than hide it."** · Anke "That's not a culture problem. That's incentive design." · Sofia 방어 → 수용 · **결정: 영업 보너스 30%를 인증·스캔 준수에 연동 / 신규 입사자 첫날 원칙 교육(창업자 1명 직접) / 장부 외 할인 = 계약 위반** · Han "A moat needs maintenance." · **Sofia CCO 승진 발표(5부 18개월 조건 회수)** · Priya 옥상 1시간(→13화)
 
 ---

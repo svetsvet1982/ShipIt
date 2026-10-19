@@ -8,7 +8,7 @@
 > - 등장인물: Zoe, Noah, Marcus, Elena, Priya, Sofia, Tasha, Grace, 박정호(전화), Claire
 > - 비즈니스 스킬: 행사 준비(부스 배치·예산·물류·순번), 리드 수집 설계, 30초 피치("In a nutshell, we…"), 국제 영어로 말하기
 > - 난이도: B2+ · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
-> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내.
+> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내 + 긴 턴 10~15회(30~60단어).
 > - 복선 설치: **부스 10m²(약 3×3m), 홀 2, 스탠드 2.F14 — 바로 옆 Halvern 60m²** · **예산 $200K 내역(공간 $38K·제작 $45K·운송 $22K·출장 $70K·통역/번역 $15K·예비 $10K)** · **전시용 주사기는 "DISPLAY ONLY — NOT FOR HUMAN USE" 더미(물+젤), 진짜 제품 반입 금지** · ATA 카르네(임시 통관) · **"Not available for sale in the EU" 영·불·독 3개 국어** · 카드 프랑스어·독일어판 · **리드 등급: 유통사용 질문 "Do you sell to non-medical injectors?"** · 30초 피치: 관용어 금지("home run", "crush it"), 천천히, 숫자는 한 개만 · 박 대표 "Learn in Europe. Then come to us." · **Claire의 첫 다리 준공식 2월 3일 — Noah "I'll put it in my calendar. Twice."**(→6부 5화·14화)
 
 ---

@@ -8,7 +8,7 @@
 > - 등장인물: Noah, Zoe, Ava, Derek, Tasha, Elena, Marcus, Leo, Dr. Alan Pierce(웨스트레이크 성형외과), Kyle(Halvern 남서부 영업 사원), Maria Santos(휴스턴 간호사 시술자), Dr. Rachel Stein
 > - 비즈니스 스킬: 부스 응대, 짧은 소개(30-second pitch), 지나가는 사람 붙잡기, 배지 스캔·리드 분류(A/B/C), 경쟁사 정탐 대응
 > - 난이도: B2 · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
-> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 15단어 이내.
+> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 15단어 이내 + 긴 턴 10~15회(25~35단어).
 > - 복선 설치: **Dr. Pierce "A solution looking for a problem." / "Your own label says no clinical benefit."** → 4부 10화 One Bad Post · Pierce가 Noah = "Results that stay" 작성자임을 알게 됨 · Kyle(Halvern) 가격 정탐 → 공개 정보만 · **첫날 배지 스캔 412건, A 리드 63건** · Maria Santos(휴스턴) 2초 기록 → 첫 인증 신청 · 내일 심포지엄(Rachel·Elena·Noah 연설)
 
 ---

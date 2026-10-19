@@ -8,7 +8,7 @@
 > - 등장인물: Noah, Priya, Marcus, Elena, Rita Gomez(Capital BioWorks 매니저)
 > - 비즈니스 스킬: 성찰적 대화, 가치관 확인, 미뤄 둔 말 꺼내기, 이해관계자의 진짜 필요(유동성) 분리해 해결하기
 > - 난이도: C1 · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
-> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내.
+> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내 + 긴 턴 10~15회(30~60단어).
 > - 복선 설치: **Rita Gomez 재등장(아직 매니저, 14번 실험대는 지금 마이크로바이옴 스타트업), 금요일 간식 이웃(먹는 포장재 회사)은 시리즈 B 받아 이사 감 — 남긴 간식 한 상자** · **냅킨(1부 15화): SAFE 조건, Noah 서명, BBQ 소스 얼룩, 모서리에 Elena 낙서 "Second, don't lose the napkin."** · 화이트보드 원칙 재기록: ① First, do no harm. ② Inside, argue. Outside, one voice. ③ Protect what's working. Fix what isn't.(**7년 만에 정식 확정**) ④ I'd rather find the problem than hide it. ⑤ Medicine and sales in the same room, from the start. · **"I've been meaning to say…": Marcus — 혼자였다면 돈을 받았을 것, Denise 대출·딸 학비 / Elena — 5부의 사직서를 아직 서랍에 갖고 있었고 오늘 찢음 / Priya — 언젠가 CTO가 아니라 과학만 하고 싶다(→13화) / Noah — "I was afraid you'd all want to sell. And I'd be the only one who didn't."** · **그 한 가지(2025년 7부 버전): Priya "Seven years ago, it was the chemistry. Now it's the hands. Whose hands hold our syringe."** · **대안 설계: ① Halvern 거절 ② Richard의 진짜 필요 = 유동성 → Northgate 지분 일부를 Bluewater·Fjord에 2차 매각(세컨더리) ③ 직원 400명 = 기득 옵션 최대 15% 매각 텐더 오퍼(하은 대출·레오) ④ 대양 JV 텀시트·Mitsukawa 6월 30일까지 → 레버리지** · 만장일치 · Marcus "Two is one. One is none. Four is a company." · 금요일 이사회 전에 Diane(목요일)·Han(서울 화상) → 9화
 
 ---

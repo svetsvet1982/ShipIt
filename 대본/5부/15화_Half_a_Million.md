@@ -8,7 +8,7 @@
 > - 등장인물: Noah, Lily, Carol(엄마, 피닉스에서 옴), Priya, Marcus, Denise, Elena, Zoe, Tasha, Sofia, Derek, Ava, Leo, Grace, Elaine, Richard, Ingrid
 > - 비즈니스 스킬: 축하 연설(성과→사람→다음 목표), 건배사, 비전 제시, 다음 단계 합의
 > - 난이도: B2 · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
-> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내(연설 인용 예외 2줄, 40단어 이내).
+> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내 + 긴 턴 10~15회(30~60단어)(연설 인용 예외 2줄, 40단어 이내).
 > - 복선 설치: **50만 번째 다운로드: 서울의 간호사(→7부)** · 메시지: Rebecca(오하이오), Pierce("Fine. Impressive."), Keisha, 박정호 대표("Asia rights, later. Remember?") · **Destiny: 간호학과 진학 예정 — "A certified one."** · Carol 첫 사무실 방문, 아빠의 다리 사진 · **Noah 연설 "Half a million people know step one."** · Tasha 건배 "To the first ten seconds. And to everyone who didn't freeze." · **Richard "The US is not enough." → Zoe의 IMCAS 2027 부스 신청서(마감 9월 30일), "Booth to learn, not to sell"(CE 마크 전 전시 — "Not available for sale" 표시)** · Ingrid "I read it twice. Sign it." · Elaine "The board votes in October. I'll vote yes." · **Lily 레이저 치료 또 연기 — "When you finish the bridge."** · Noah 서명 "Paris." → 6부
 
 ---

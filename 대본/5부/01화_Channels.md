@@ -8,7 +8,7 @@
 > - 등장인물: Noah, Marcus, Priya, Elena, Zoe, Derek, Grace, Tasha(중간 합류), Dan Whitaker(MedPath Distribution 사업개발 이사, 오전 화상), Elaine Choi(전화)
 > - 비즈니스 스킬: 선택지 비교(장단점·트레이드오프), 시장 진출 전략(go-to-market), 가격 압박 속 포지셔닝, 결정 기준 세우기
 > - 난이도: B2 · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
-> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. **5부부터 1턴 20단어 이내.**
+> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내 + 긴 턴 10~15회(30~60단어).
 > - 복선 설치: **Flex 가격 대응: $425 유지 — "We compete on value, not price." 단, 대량 구매 등급 할인(합법적 볼륨 티어)은 키 어카운트에 한해 검토** · **채널 결정: ①피부과·성형외과 직판 유지 ②메디스파 체인은 "교육 조건부" 키 어카운트 ③일반 유통사(MedPath) 거절 — 교육 통제 불가** · MedPath 제안: 50개 주, 마진 30% · 체인 후보: **Glow Collective(300개 지점, 구매 총괄 Greg Holloway)** · Glow 간호사 이직률 연 40% · Noah "I'm not a sales leader." → **Elaine 추천: Sofia Alvarez**(→2화) · 첫해 목표: 6만 개, 활성 병원 900곳
 
 ---

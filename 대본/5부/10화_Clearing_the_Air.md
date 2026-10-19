@@ -8,7 +8,7 @@
 > - 등장인물: Noah, Elena, Dr. Miriam Fischer(경영 코치, 60대), Priya, Marcus, Sofia, Nina, Leo, Greg Holloway(화상), Richard(마지막 전화)
 > - 비즈니스 스킬: 갈등 해결(I-화법: "When you…, I feel… What I need is…"), 입장 대신 필요 말하기, 역할 재정의, 창의적 대안으로 재협상
 > - 난이도: B2 · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
-> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내.
+> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내 + 긴 턴 10~15회(30~60단어).
 > - 복선 설치: **Miriam 규칙: "always/never" 금지, 자기 얘기만, I-화법** · Elena "When you answered Richard's call, I felt alone." / Noah "When you said I sound like Tom, I felt you'd stopped seeing me." · **합의: ①안전 관련 사안은 투자자 통화 전에 Elena에게 먼저 ②Elena는 "Chief Medical Officer" — 영업 기준(컴플라이언스) 공동 소유 ③거부권 편지는 "보내지 않은 채" Elena 서랍에** · **Leo·Nina 해법: 일련번호 + 스마트폰 스캔 — 입고·사용 시 스캔하면 월간 재고 대조 자동(지점당 월 2분)** · **Glow 최종: 월간 자동 대조 + 시술자 100% 인증(신규 30일 내) 미충족 지점은 공급 일시 중단 → Greg 수락, 파일럿 재개** · Greg "Not a pharmacy. An app. I can sell that." · Richard: 2주 뒤 시리즈 B 피칭 데이, "Bring Elena."(→11화)
 
 ---

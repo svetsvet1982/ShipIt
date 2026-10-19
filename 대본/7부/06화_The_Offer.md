@@ -8,7 +8,7 @@
 > - 등장인물: Noah, Tom Brennan(Halvern Aesthetics 사장 — 부사장에서 승진), Claire, 종업원, Elena(전화), Paul(문자)
 > - 비즈니스 스킬: 인수 조건 이해하기, 확인 질문으로 숨은 조건 드러내기, 즉답하지 않기, 압박 속에서 정중하게 선 긋기
 > - 난이도: C1 · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
-> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내. 예외(제안서 요약 낭독) 1회.
+> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내 + 긴 턴 10~15회(30~60단어). 예외(제안서 요약 낭독) 1회.
 > - 복선 설치: **Noah의 사전 네마와시(5월 22~27일): Elaine 반대 성향, Ingrid 중립, Victor "48 hours", Richard 마지막** · **Tom: Halvern Aesthetics 사장 승진(1월), 본사 CEO 승계 후보 — Veyra 인수가 그의 "ticket"** · **제안: 총 $1.2B = 클로징 현금 $950M + 언아웃 $250M(3년: 아시아 매출 $40M, 스킨부스터 FDA 승인) / 창업자 잔류 패키지 3년(Noah $18M, 각 공동창업자 $8~10M), 직원 스톡옵션 가속 / Noah = Halvern 내 Veyra 사업부 사장** · 시리즈 C 포스트머니 $970M 대비 약 24% 프리미엄 · **확인 질문 결과: ① 의료인 전용 원칙 = "reviewed as part of integration" ② 안전위원회 = "advisory" ③ Elena 거부권 = "Halvern doesn't do vetoes." ④ 대양 JV = 인수 시 이해충돌로 소멸("Daeyang is our supplier.") ⑤ 독점 협상(no-shop) 45일 요구, 답변 21일** · **위협: "If you say no, Lumaderm Flex launches in Korea. At Bellacare prices."** · Tom "I hired you at twenty-six." / "Nothing personal. It's just business." → Noah "It's personal to me. It always was." · Noah 즉답 거부 "I'll take it to the board." · **Bluewater 48시간 통지 → Paul에게 문자, 다음 날 오전 통지** · 7시 이후 규칙: Noah가 Elena에게 "Not an emergency. Tomorrow, 8 a.m. All four founders." · Claire "What do you want?" → Noah "I don't know. That's what scares me."(→7·8화)
 
 ---

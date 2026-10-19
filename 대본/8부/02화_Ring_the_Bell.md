@@ -8,7 +8,7 @@
 > - 등장인물: Noah, Ruth, Paul, Priya, Elena, Marcus, Lily, Carol Bennett(Noah·Lily의 어머니), Claire, Elaine, Nasdaq 진행자(Host), Leo, Tasha, Ben Tran(추첨으로 온 2년 차 물류 직원), Ji-woo(화상), Victor(전화)
 > - 비즈니스 스킬: 축하와 기대치 관리, 언론·직원에게 주가 언급하지 않기, 보호예수·내부 규정 설명, 첫 평가에 침착하게 반응하기
 > - 난이도: C1+ · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
-> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내.
+> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내 + 긴 턴 10~15회(30~60단어).
 > - 복선 설치: **공모가 $27 → 첫 거래 오전 11시 4분 $34(+26%) → 종가 $36.50(+35%), 시가총액 약 $17억** · 타임스스퀘어 8층 전광판의 Lily 로고 — Lily "It's not shiny. Thank you." · Carol 피켓 "That's my son." · Noah 벨 앞 한 문장: "This bell is for everyone who held a syringe with care." · **직원들 들뜸: Ben "My options are worth eighty thousand dollars. I just did the math." → Marcus·Ruth: 보호예수 180일, 내부자 거래 규정, 블랙아웃 기간 — "On paper, until September."** · **Ethan Cole이 배정 물량을 첫날 전량 매도(Paul 확인) — "That's why we chose."** · Noah 언론 인터뷰: 주가 질문에 "We don't comment on the stock price. We focus on patients." 3회 반복 · Halvern 주가 당일 4% 하락 · Victor "Hold for ten years. Starting today." · **Elaine: 1부 냅킨을 액자로 만들어 나스닥에 기증 제안 → Noah 거절, 본사 로비에** · **다음 날 아침: 셀사이드 애널리스트 Dana Brooks-Hall(Meridian Hill Securities)이 "Hold" 등급, 목표가 $33으로 커버리지 개시 — "Execution risk on Line C." → Ruth "Good. Now we have someone to prove wrong. Quietly."**(→3·4화)
 
 ---

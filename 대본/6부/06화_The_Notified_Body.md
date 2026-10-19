@@ -8,7 +8,7 @@
 > - 등장인물: Priya, Elena, Marcus, Leo, Katrin Weber(MDR 규제 컨설턴트), Dr. Henrik Vogel(NordCert 수석 심사원), Noah(전화)
 > - 비즈니스 스킬: 심사 대응(질문만 답하기, 사실 고수, 기한 약속), 직설적 피드백 받기, 시정 조치 계획
 > - 난이도: B2+ · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
-> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내.
+> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내 + 긴 턴 10~15회(30~60단어).
 > - 복선 설치: **Katrin 첫마디 "Your documents are not ready."** · Katrin → Priya "Section four is a novel. Not documentation." → Priya 상처 · **심사원 Dr. Henrik Vogel: "To be precise…"** · Katrin 원칙 "Answer only the question. Let's stick to the facts." · **강점: 일련번호 = EU UDI 요건 선제 충족, Elena의 실사용 레지스트리 = 시판 후 임상 추적(PMCF) 근거** · **부적합(경미) 2건: ①임상 평가에 EU 문헌 검색 누락 ②독일어 사용 설명서 오역 — "Stop injecting"이 "Injektion pausieren"(일시 정지)로 번역 → Priya가 발견(Katrin도 놓침)** · "We'll provide that by Friday." · Katrin "You were right. I was wrong. That is all." · **"In Germany, I criticize the document. Never the person."** · 인증서 예상 약 10주 후(6월 초) · Oliver 런던 미팅 3월 20일 확정 · Claire 근황 "Polite. Very polite. That's worse."(→14화)
 
 ---

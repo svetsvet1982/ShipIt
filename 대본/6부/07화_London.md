@@ -8,7 +8,7 @@
 > - 등장인물: Noah, Elena, Sofia, Diane(화상), Oliver Grant, Fiona Ashby(Grant & Ashby 공동 대표, 영업 담당), Harriet Cole(Grant & Ashby 법무 고문)
 > - 비즈니스 스킬: 국제 유통 계약 협상(exclusivity, territory, minimum purchase), 레드라인 밝히기, 영국식 거절 신호 놓치기
 > - 난이도: B2+ · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
-> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내.
+> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내 + 긴 턴 10~15회(30~60단어).
 > - 복선 설치: **Grant & Ashby 제안: 영국·아일랜드 독점 5년 / 최소 구매 1년 차 6,000개 / 공급가 £210 / 판매 대상 "aesthetic practitioners"(Level 7 자격 비의료인 포함)** · **Veyra 레드라인: 규제 의료 전문가(의사·치과의사·간호사·약사 처방권자)만, 미용사 판매 = 즉시 해지, 월간 스캔·감사권** · 영국 필러 시술의 60%가 미용사·비의료인 · Oliver의 절충안: 미용사는 다른 브랜드로, Veyra는 의료인만 — 단 "same sales team" · Elena "That's a red line for us." · **Oliver "With the greatest respect…" / "I hear what you say." / "That's quite interesting. Let me reflect."** → Noah·Sofia는 긍정으로 해석 · Diane "In writing, it says nothing." · 남은 쟁점: 독점 기간(5년 vs 3년), 미용사 조항, 영업팀 분리 · 택시에서 Oliver 이메일 "Thank you for a most interesting day."(→8화)
 
 ---

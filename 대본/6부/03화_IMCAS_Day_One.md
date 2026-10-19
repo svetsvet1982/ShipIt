@@ -8,7 +8,7 @@
 > - 등장인물: Noah, Zoe, Elena, Tasha, Priya, Sofia, Marcus, Dr. Céline Marchand(파리 피부과 의사), Dr. Bruno Costa(상파울루 피부과 의사), Dr. Layla Al-Mansouri(두바이 클리닉 그룹 의료 책임자), Anke Fischer(뮌헨 간호사), Sarah Whitfield(런던 간호사 처방권자), Tom Brennan
 > - 비즈니스 스킬: 다국적 고객 응대, 되묻기·확인하기, 문화별 인사·격식, 판매 불가 상황에서 관계 만들기
 > - 난이도: B2+ · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
-> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내.
+> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내 + 긴 턴 10~15회(30~60단어).
 > - 복선 설치: **프랑스 예절: 대화는 반드시 "Bonjour"부터** · Céline "In France, only doctors inject. Your problem is not our problem." → 교육 데이터에는 관심 · Bruno: 가격·브라질 승인 질문("two years") · **Layla: 걸프 지역 그룹 40곳, "We'll wait for your CE mark."** · Anke: 가교제 화학 정밀 질문 → Priya와 독일어 단어 하나로 친해짐 · **Sarah(런던 간호사 처방권자): "My clients come from a beautician's kitchen."** — 영국 문제의 현장 증언 · **Tom: "Welcome to Europe. Here, I'm the old company. You're the loud American."** · Halvern 부스 샴페인 vs Veyra 훈련 줄 · **Priya가 잠깐 자리 비운 Noah 대신 한서연을 만남 — 명함: "Han Seo-yeon, Executive Director, New Business, Daeyang Bio" + 메모 "Asia needs a safety standard. Let's talk someday."** · 첫날 리드 186(의사 140·유통사 14 중 3곳 C) · 내일 오전 9시 Oliver Grant
 
 ---

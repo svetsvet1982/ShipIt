@@ -8,7 +8,7 @@
 > - 등장인물: Noah, Elena, Zoe, Kenji Sato(Mitsukawa 헬스케어 부문 과장), Ishikawa Hiroshi(헬스케어 부문 상무), Tanaka Yuki(규제 담당 부장), Mori Takeshi(법무), Fujita Aya(재무), Paul(화상)
 > - 비즈니스 스킬: 합의 형성 문화 이해, 인내, 이해관계자 지도 그리기, 개별 사전 설득
 > - 난이도: C1 · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
-> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내.
+> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내 + 긴 턴 10~15회(30~60단어).
 > - 복선 설치: **명함 교환(일본식): 고개 숙여 건네기, 받은 명함은 좌석 순서대로 테이블 위에** · 상석(kamiza) — 문에서 가장 먼 자리 · **Mitsukawa 제안 구조: 일본 독점 유통 + 제조판매업자(MAH)로서 PMDA 승인 대행** · **일본 현실: 승인 HA 필러 소수, 다수 의사가 미승인 필러를 개인 수입으로 사용 → Tanaka의 문제의식** · **Noah가 독점 여부 결정을 요구 → 긴 침묵 → Ishikawa "We will consider it positively."** · **이자카야 Kenji: "In our meetings, decisions are announced, not made." / 링기쇼(품의서) 도장 7개, 6~8주 / "Speed is not a value here. Certainty is." / 숨은 결정권자 = Tanaka(규제)** · Noah "Who else needs to be involved?" — Kenji의 이해관계자 지도: Ishikawa(최종), Tanaka(거부권 사실상), Mori(책임 조항), Fujita(가격·환율), 의료기기 사업부장, 컴플라이언스, 사장실 · **Tanaka 조건: 일본인 대상 임상(약 150명) + 레지스트리 데이터 공유 → Elena 수락("Data has no accent.") → Tanaka "Then I will support it in the ringi."** · Fujita: 엔화 약세 → 엔화 가격 고정 기간 요구 → Paul 1년 고정 + 이후 연동 · **Ishikawa 조찬(영어 유창): "If Halvern buys you, what happens to us?" — 인수설이 도쿄까지 → Noah "We're not for sale." → Ishikawa "Everyone says that." → Noah "Then let me show you. Not tell you."** · Kenji: 링기 6월 말 결론(Q3 이전) · Noah: Tom 저녁 9일 전, Elaine에게 전화 — "my own nemawashi"(→6·7화)
 
 ---

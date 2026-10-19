@@ -8,7 +8,7 @@
 > - 등장인물: Elena(가상 의사 "Dr. Hart" 역), Derek, Ava, Tasha(진행·채점), Zoe(채점), Noah, Marcus
 > - 비즈니스 스킬: 반론 처리(LAER: Listen–Acknowledge–Explore–Respond), 라벨 기반 답변, 피드백 주고받기
 > - 난이도: B2 · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
-> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 15단어 이내.
+> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 15단어 이내 + 긴 턴 10~15회(25~35단어).
 > - 복선 설치: **Derek 탈락 — 3가지 위반("doctors sleep better" 안전 암시 / 입술 미소 / 2.8배→괴사 감소 동의)** · Derek의 과거: Kessler 동료가 오프라벨로 해고, 자신은 "미소"로 버팀 · Derek "Then teach me to sell without it." → 월요일 재응시 · **Ava 통과 — 가격 반론 "$45 more per syringe"** · **Noah도 탈락("safer" 습관 — Halvern 브랜드 매니저 시절)** · Marcus 약자 65번(LAER)
 
 ---

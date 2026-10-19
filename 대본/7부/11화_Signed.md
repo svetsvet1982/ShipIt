@@ -8,7 +8,7 @@
 > - 등장인물: Noah, Elena, Priya, Marcus, Grace, 한서연, 박정호, 이수진, 정민석, 윤재석(대양바이오 법무 이사), 대양바이오 CEO 최동훈, Kim Ha-eun, 기자 2명(Reporter Lim, Reporter Kang), 사회자(MC)
 > - 비즈니스 스킬: 서명 직전 쟁점 정리, 격식 있는 축사, 기자 질의 대응, 장기 파트너십 언어
 > - 난이도: C1 · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
-> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내. 예외(연설 핵심 문장) 2회.
+> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내 + 긴 턴 10~15회(30~60단어). 예외(연설 핵심 문장) 2회.
 > - 복선 설치: **JV 이름 "Veyra Asia Co., Ltd." / 지분 대양 46 : Veyra 44 : 서린 10** · **마지막 쟁점 ① 이사회 7석(대양 3·Veyra 3·서린 1), 의장 한서연 ② Elena 거부권 범위 3가지 — 회수 결정, 비의료인 유통, 시술자 교육 기준(윤 이사 "Only these three." → Elena "These three are everything.") ③ JV 대표: 한서연이 Grace를 제안 → Grace 수락("I'll need a Korean name card. Both hands.")** · **생산: 라인 C 착공 8월, 첫 상업 배치 Year 9 1분기(정민석 추정 18개월 채택) / 중국: NMPA 승인 약 3년, 중국 임상 필요 → 2단계** · 공동개발: 대양 톡신(아시아 교육·안전 시스템은 Veyra) + FlexLink 스킨부스터(Priya 리드, 한국 의료기기 허가 먼저) · **서명식: 한서연 "On behalf of Daeyang Bio…" / Noah "This marks the beginning of a long-term partnership." + 한국어 "같이 갑시다" / 박 대표 "This time, the same side."** · 기념품: Noah가 냅킨 로고를 Lily가 손으로 다시 그린 액자를 박 대표·한서연에게 · 정민석 서명식 초대(공장장 추천) · **기자 질의: "Is Veyra still for sale?" → Noah "No. We're for building." / "Why Korea?" → "Because Korea taught us that safety is assumed—until it isn't."** · Tom이 보낸 난초 화분 + 카드 "Not bad at all. —T." · **블루워터 3분기 조건(파트너 서명) 충족 — 6월 29일** · Mitsukawa 서명 7월 15일 도쿄 · 만찬: 박 대표·한서연 같은 잔으로 건배(5년 만의 화해) · 9월 오스틴 글로벌 리더 회의 예고(→12화) · Priya "After the summit, I need an hour with you. Just us."(→13화)
 
 ---

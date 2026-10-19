@@ -8,7 +8,7 @@
 > - 등장인물: Elena(시연자), Noah, Zoe, Tasha, Derek, Dr. Susan Wade(호스트), Carmen Ortiz(Wade 병원 사무장, 시연 모델), Dr. Omar Haddad, Keisha Grant, Dr. Brian Cole(회의적인 성형외과 의사), Diane(전화)
 > - 비즈니스 스킬: 제품 시연과 실시간 해설, 시연의 한계를 밝히기, 회의적 청중 참여시키기, KOL 프로그램 설계(공정 시장 가치·공개 의무)
 > - 난이도: B2 · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
-> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 15단어 이내.
+> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 15단어 이내 + 긴 턴 10~15회(25~35단어).
 > - 복선 설치: **팔뚝 용해 시연: Veyra 9분 vs 루마덤 25분 후에도 촉지** — "One arm. One person. A demonstration, not data." · Elena "Every minute counts."(1부 1화 회수) · **Veyra Faculty 출범 — 첫 교수진 Dr. Wade, Rachel, Keisha(간호사 대표)** · 공정 시장 가치 보수·Open Payments 공개·대본 없음·한계 문구 필수 · **Dr. Brian Cole** 회의 → 촉진 후 "I'll take the course." · Haddad 점심 교육 등록 · 결과: 참석 50, 교육 등록 22, 시험 주문 4 · **Kyle이 "faster to dissolve = won't last" FUD 유포**(→5화 Battlecard)
 
 ---

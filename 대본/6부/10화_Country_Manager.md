@@ -8,7 +8,7 @@
 > - 등장인물: Noah, Sofia, Elena, Diane, Charles Whitmore(후보 1, 전 대형 제약사 영국 영업 이사), Hannah Lloyd(후보 2, 간호사 출신 마케터), James Okafor
 > - 비즈니스 스킬: 구조화 면접, 원격 채용 조건(시차·보고 라인), 오퍼 협상, 조건부 수락
 > - 난이도: B2+ · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
-> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내.
+> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내 + 긴 턴 10~15회(30~60단어).
 > - 복선 설치: **James가 쓴 면접 질문 5개 — ① What does success look like in year one? ② A top clinic asks you to sell to their beautician. What do you say? ③ How much time zone overlap do you need? ④ Who should you report to? ⑤ What would make you resign?** · Charles: 영업 12명·예산 요구, "Realistically, you'll need beauticians eventually." + "I hear what you say" → 팀이 해독 성공 · 3번 후보는 Grant & Ashby가 채용(Fiona) · **Hannah: 최고 답변, 그러나 어제 Halvern UK 오퍼 수락 — "Tom Brennan called me himself."** · James 조건: ① 의료인 전용 원칙을 이사회 결의로 ② 주 1일 Sarah 클리닉 진료 유지 ③ 의회 실무 그룹 자문 유지 + 이해충돌 공개 ④ 보고 라인: Noah 직속(영업 지표는 Sofia와 공유, 임상은 Elena 점선) · 시차 겹침: 런던 오후 2~5시 = 오스틴 오전 8~11시, 화·목 · **보상: 기본급 £135,000 + 보너스 20%(그중 절반을 교육 예산으로 전환 요청) + 스톡옵션 0.15%** · 1년 차 성공: 인증 시술자 150명 / 주사기 3,000개 / "zero syringes in the wrong hands" · **"If you ever sell to a beautician, I resign the same week." → Noah "Put it in my contract."** · James 첫 이메일 서명 "Country Manager, Veyra UK Ltd" → Diane "We don't have a UK Ltd."(→11화)
 
 ---

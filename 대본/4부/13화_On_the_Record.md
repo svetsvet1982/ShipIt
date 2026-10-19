@@ -8,7 +8,7 @@
 > - 등장인물: Noah, Diane, Zoe, Alex Rivera(전국 일간지 보건 담당 기자), Tom Brennan(마지막 전화), Derek(마지막)
 > - 비즈니스 스킬: 언론 인터뷰(핵심 메시지 3개, 브리징, 모르는 것·말할 수 없는 것 구분), 책임 표현, 경계 지키기
 > - 난이도: B2 · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
-> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 15단어 이내.
+> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 15단어 이내 + 긴 턴 10~15회(25~35단어).
 > - 복선 설치: **Diane 규칙: "There is no off the record." / 핵심 메시지 3개(빠른 회수·환자 피해 0·근본 원인 공개) / 브리징 "What I can tell you is…"** · Noah 공급사 탓 거부 "We're responsible for our product." · **Alex가 입수한 Halvern 내부 메모("영업 사원은 공식 이상사례 보고를 권장하지 말 것", 6년 전)** → Noah 코멘트 거절 · 녹음기 끈 뒤 "off the record" 질문 → Noah "Everything I say today is on the record." · **기사 제목 "The Startup That Recalled Itself"** · Halvern 메모는 별도 기사, Noah 발언 없음 → Tom "Thank you." · 다음: 보류 병원 18곳 재방문(→14화)
 
 ---

@@ -8,7 +8,7 @@
 > - 등장인물: Noah, Diane, Elena, Zoe, Derek, Ava, Marcus, Priya, Leo, Ms. Ortega(FDA 리콜 코디네이터), Dr. Susan Wade, Keisha(전화), Kevin Liu, 이수진(Sujin, 화상), 핫라인 환자 Megan
 > - 비즈니스 스킬: 규제기관 통화, 공식 서한 작성(책임 표현·행동 지침), 나쁜 소식 전화하기, 공급업체 책임 협상(CAPA·비용)
 > - 난이도: B2 · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
-> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 15단어 이내(서한 인용 예외 2줄).
+> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 15단어 이내 + 긴 턴 10~15회(25~35단어)(서한 인용 예외 2줄).
 > - 복선 설치: **FDA 리콜 코디네이터 Ms. Ortega — 건강 위해 평가, 효과 점검, 등급은 FDA가 결정** · **의사 서한 핵심 문장 "out of an abundance of caution" / "We're committed to…" / "We're sorry."** · 교체품 무상, 반품 키트, 환자 관찰 안내 · Derek이 서한보다 먼저 전화 → Wade "You called before the letter." · Haddad 교육 연기("We'll wait.") · **Meridian: 회수 비용 전액 부담($1.1M), 이전 공급사 마개로 복귀, 모든 부품 변경 사전 승인 서면화** · **7주 뒤: 회수 실효율 97%, 감염 0건, Class II 분류, 서린바이오 PMA 보충 승인 → 첫 한국산 로트 출고** · 기자 Alex Rivera 인터뷰 요청(→13화)
 
 ---

@@ -8,7 +8,7 @@
 > - 등장인물: Noah, Marcus, Grace, Priya, 박정호(서린바이오 대표), 이수진(QA 팀장), 강태호(공장장), 정민석(신입 공정 엔지니어)
 > - 비즈니스 스킬: 위계 문화 이해, 간접 표현 해독, 신뢰 관계 쌓기(rapport), 공식 자리와 비공식 자리의 역할 구분
 > - 난이도: C1 · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
-> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내.
+> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내 + 긴 턴 10~15회(30~60단어).
 > - 복선 설치: **Grace 어머니의 규칙 재등장(1 두 손 명함 / 3 윗사람 먼저 앉기 / 9 "미국 사람 너무 많이 마시게 하지 마라")** · Marcus–박 대표 재회(둘 다 군 출신, 박 대표 취사병) · **Noah가 대양 제안(51:49, 서린 = 생산 기지)을 숨김없이 공유** → 박 대표 "It may be difficult." = 거절 · **신입 정민석이 강 공장장을 본 뒤에야 답함 → Priya가 질문을 공장장에게 돌림** · 서린 현황: 라인 A·B 연 300만 개, 아시아 수요엔 **라인 C(약 $28M)** 필요 · 박 대표 "We'll review it internally." = 진짜 검토(Grace: "We'll review it positively"는 not today) · **회식: 잔 받을 때 두 손, 윗사람 앞에서 고개 돌려 마시기, 자기 잔 직접 채우지 않기** · **박 대표의 사연: 5년 전 Halvern을 대양으로 가져간 사람이 한서연 / 2년 전 한서연이 오창에 직접 와서 사과 — "In Korea, a personal apology is not small."** · 박 대표 "I will not be Daeyang's subcontractor. Never again." · **2차에서 진짜 협상: 서린 = 합작법인 주주(지분 약 10%) + 품질위원회 1석 / 품질 = 이수진, 안전 = Dr. Ruiz / 라인 C 공동 투자** · Noah "I can't promise percentages tonight. I can promise Seorin is a partner, not a supplier. In writing." · 박 대표 "That is enough for tonight." → 수진 "He said 'enough.' That's a yes." · 노래방: Noah "Country Roads"(엉망), Marcus 군가 · 한서연 답장 "I expected nothing less."
 
 ---

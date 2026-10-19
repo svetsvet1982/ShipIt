@@ -8,7 +8,7 @@
 > - 등장인물: Noah, Sofia, Zoe, Elena, Oliver Grant(Grant & Ashby Distribution 대표, 런던), Klaus Becker(MediPartner GmbH, 뮌헨), Javier Ruiz-Ortega(EstéticaPro, 마드리드), Femke de Vries(DermaLink, 암스테르담), Laurent Dubois(Dubois Médical, 리옹), Omar Saleh(Gulf MedTrade, 두바이)
 > - 비즈니스 스킬: 유통사 미팅(짧은 시간 내 적합성 판단), 영국식 영어 해석, 물량 질문, 문화별 협상 스타일 대응
 > - 난이도: B2+ · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
-> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내.
+> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내 + 긴 턴 10~15회(30~60단어).
 > - 복선 설치: **Zoe의 영국식 해석 카드("I'll bear it in mind" = 잊을 수도 / "Not bad at all" = 꽤 좋음 / "quite interesting" = 대개 아님 / "with the greatest respect" = 당신이 틀렸다)** · **Oliver: 영국 약 1,800개 병원 네트워크, 매력적, 미용사 판매 질문에 "We sell to anyone the law allows. As one does." — 애매** · Oliver "What volumes are we talking about?" · **Klaus(독일·오스트리아·스위스): 데이터 집착, 5년 독점 요구, 의사만** · **Javier(스페인): "estheticians" 판매 → 탈락** · **Femke(네덜란드): "Your price is too high. Goodbye." 직설** · Laurent(프랑스): 점심 2시간 제안, 의사만, 소규모 · Omar(두바이): CE 후 · **순위: 영국 Oliver(네트워크 최강, 미용사 판매 리스크) / 독일 Klaus(적합, 느림)** · Oliver 문자 "Not bad at all… I'll bear it in mind." → 두 번째 문자 "Shall we have a proper chat in London? March?"(→5·7화)
 
 ---

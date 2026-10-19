@@ -8,7 +8,7 @@
 > - 등장인물: Noah, James(런던), Zoe, Sofia, Paul, Elena, Grace, Imogen Price(화상, 후반)
 > - 비즈니스 스킬: 포스트모템 진행, 근본 원인 분석(5 Whys), 메시지 재구성, 비난 없는 회고
 > - 난이도: B2+ · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
-> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내.
+> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내 + 긴 턴 10~15회(30~60단어).
 > - 복선 설치: **3분기(6/12~9/24) 실적: 주사기 410개 / 목표 750(55%) · 인증 시술자 92명 / 목표 110 · 간호사 재주문율 78%(강점) · 의사 61명 중 주문 6명** · 포스트모템 규칙 "Blameless. Facts first. Then causes. Then fixes." · **원인 ① "take back" 메시지 — 영국 환자는 모든 HA 필러가 녹는다고 알고 있음, 차별점 약함 + "take back"은 "실패할 때"를 떠올리게 함 ② 부가세 £264 — 독립 간호사 ③ 의사들은 간호사 사례를 기다림** · **Grace 설문: 영국 환자 1,200명 — 1순위 두려움은 "who's holding the needle"(58%), 혈관 폐색 인지는 12%** · **James 통찰: "In America, you sold the reversal. In Britain, the problem is the hands."** · **새 메시지: "The filler only medical professionals use." / 환자용 "Ask: Is it Veyra?" — Veyra라면 시술자는 의료인** · Zoe 반발 → 슬로건 폐기 아님, "take back"은 근거(reason to believe)로 이동 · **Imogen: 주장 가능 조건 = "true every day" → 일련번호 스캔·감사가 증거** · Elena "The red line just became the headline." · **가격: 독립 간호사 "Founding Nurse" 3개 팩 £600(부가세 별도) 1년 한정, Paul 승인 조건 재주문 2회** · 의사: Fraser 재시험 합격 → 에든버러 사례 시리즈 공동 저자 · 재출범 10월 20일 런던 · **Noah: 10월 19일 출국 = Claire 어머니 60세 생일 저녁과 겹침, 잊고 있었음(→14화)**
 
 ---

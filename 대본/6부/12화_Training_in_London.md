@@ -8,7 +8,7 @@
 > - 등장인물: Tasha, Elena, James, Noah(밤 비행기로 도착), Sarah Whitfield, Margaret Doyle(아일랜드 출신 NHS 경력 30년 간호사 처방권자), Dr. Alistair Fraser(에든버러 성형외과 의사, 회의적), Chloe Hart(개업 2년 차 독립 간호사)
 > - 비즈니스 스킬: 교육 진행, 청중 맞추기, 질문 유도, 다시 설명하기, 전문가 청중 존중하기
 > - 난이도: B2+ · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
-> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내.
+> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내 + 긴 턴 10~15회(30~60단어).
 > - 복선 설치: **CE 인증서 6월 4일 수령 → 6월 12일 영국 출시 = 첫 교육일** · **오전: Tasha의 미국식 진행 — "Awesome!", 하이파이브, "fun fact" 자기소개, "Does that make sense?" 반복 → 침묵, 팔짱** · Margaret "I've been dissolving filler since you were in school." · Fraser "Is this a training or a pep rally?" · "Feel free to jump in" → 아무도 안 끼어듦 · **휴식 시간 James 처방: ① 에너지 낮추기 ② "Does that make sense?" 금지 → "What would you do?" ③ 그들이 가르치게 하기 ④ 미국 숫자 대신 영국 사례** · Noah의 미국식 격려 연설 시도 → James가 막음 "Not today. Today you listen." · **오후: Tasha "You've seen more occlusions than I have. Teach me." → Margaret 사례 공유 → 토론 폭발** · Elena 데이터 모듈은 오전부터 통함("Data has no accent.") · **CPD 학점 인정(James가 미리 확보)** · 평가 38명 중 37명 통과(Fraser 1차 불합격 → 재시험 요청) · **첫 주문: Sarah 10개, Chloe 4개 — 의사 8명은 "We'll reflect."** · Margaret 피드백 "Not bad at all." → James "From Margaret, that's a standing ovation." · Chloe: 부가세 미등록 £264 부담 언급(→13화)
 
 ---

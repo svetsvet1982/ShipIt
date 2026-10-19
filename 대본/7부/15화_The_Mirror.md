@@ -8,7 +8,7 @@
 > - 등장인물: Noah, Lily, Elena, Tasha, Claire, Diane, Priya, Marcus, (생중계 채팅·영상) James, Ji-woo, Han, Park, Kenji, Destiny Ramos, Kayla Webb
 > - 비즈니스 스킬: 비전 연설, 감사 표현, 상장 전 조용한 기간(quiet period)의 발언 원칙, 개인적 고백
 > - 난이도: C1 · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
-> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내. 예외(연설 핵심 문장) 2회.
+> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내 + 긴 턴 10~15회(30~60단어). 예외(연설 핵심 문장) 2회.
 > - 복선 회수: **Lily의 흉터(1부 1화) — 프랙셔널 레이저 3회(11월·12월·2월)** · **Lily 레이저 연기(5부 15화 → 7부 10화 약속 → 13화 확정)** · **Noah의 비밀(6부 14화): 메디스파 문자 "Something feels wrong."을 2시간 뒤에 읽음 → Lily "I know. I saw the time it said 'Read.' Seven years ago." / "I forgave you in the ambulance. You're the one who didn't."** · **Tasha = 그날 밤 응급실 간호사(3부 11화) — 시술 보조** · Lily "I'm not your marketing story." → "Today, I'm your ending. Just this once." · **"Don't tell Mom."(1부) → 엄마 Carol이 피닉스에서 와 대기실에 있음** · "Every minute counts."·"Keep her warm." · **IPO: S-1 공개 제출, 나스닥 티커 VEYR, 조용한 기간 — Diane "No forecasts. No hype. Facts and thanks."** · 연설 "We've come a long way. This is just the beginning. Thank you for believing in us." · 수치: 5개국(미국·영국·독일·한국·일본), 인증 시술자 1만 4천 명, 비의료인에게 간 주사기 0개, 레지스트리 1,300여 건 · **생중계 채팅: James "Not bad at all." / Ji-woo "I treated first." / Han·Park "Same side." / Kenji "Very meaningful." / Destiny Ramos(5부 휴스턴 필러 파티 피해자) "RN. Veyra Ready Certified. Last week. My lips are fine." / Kayla "Can I be your first customer now?" → Marcus "Not until you're thirty."** · **거울: 흉터가 거의 보이지 않음 — Lily "It's still there. A little. I'm keeping that part."** · **새 냅킨: Noah가 그물을 그리고, Lily가 매듭마다 손을 그려 넣음 — "Whose hands hold it."** · 마지막 대사 "Ship it."
 
 ---

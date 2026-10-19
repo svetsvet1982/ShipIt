@@ -8,7 +8,7 @@
 > - 등장인물: Zoe, Priya, Elena, Noah, Leo, Marcus, Diane(오후 법무 검토)
 > - 비즈니스 스킬: 제품 특장점 설명(Feature → Advantage → Benefit), 메시지 설계, 기술 언어를 고객 언어로 번역
 > - 난이도: B2 · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
-> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 15단어 이내.
+> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 15단어 이내 + 긴 턴 10~15회(25~35단어).
 > - 복선 설치: **기술명 FlexLink 확정**(후보: QuickRelease, SafeLink — "Safe" 금지) · **메시지 하우스 — 지붕: "Same results. Plus an emergency exit." / 기둥 3개: Results·Control·Support / 바닥: 라벨 데이터** · FAB 5종(FlexLink, 낮은 압출력, 리도카인, 12개월, 교육+응급 키트) · "Control" 단어 선택(→6부 13화 영국 리프레임) · 비유 "emergency exit"은 데이터와 함께 쓸 것(Diane) · Priya "My chemistry has feelings too."
 
 ---

@@ -8,7 +8,7 @@
 > - 등장인물: Noah, Marcus, Paul Novak(재무 부사장, 시리즈 B 이후 합류), Diane, Gareth Evans(Harcourt & Lane 런던 파트너, 웨일스인, 영국 세무), Lauren Cho(Harcourt & Lane 뉴욕, 국제 조세·이전가격), James(합류 예정자, 후반 참여)
 > - 비즈니스 스킬: 해외 법인 구조 결정, 이전가격 설명 듣고 이해하기, 부가세·현금 흐름 영향 파악, 환위험 관리 방침 정하기
 > - 난이도: B2+ · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
-> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내.
+> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내 + 긴 턴 10~15회(30~60단어).
 > - 복선 설치: **Paul Novak 첫 등장(시리즈 B 후 합류, 전직 의료기기 회사 재무 담당, 말버릇 "What's the number?")** · **구조: 지사(branch) 대신 자회사 Veyra UK Limited — 책임 분리·현지 신뢰·채용, 설립은 24시간("the easy part")** · **이전가격: 미국 본사 → 영국 법인 판매가 = 정상가격(arm's length), 영국 법인 = 저위험 유통사, 영업이익률 약 4% 목표, 벤치마킹 보고서 필요** · Noah "Can't we just choose?" → Lauren "You can document. You can't choose." · **부가세: 주사기 £220 + VAT 20% = £264, 소규모 간호사 클리닉(부가세 미등록)은 환급 불가 → James 우려** · 수입 부가세 이연 납부(postponed VAT accounting) · **은행 계좌 개설 4~8주(외국 모회사 KYC) → James 5월 1일 급여는 고용대행(EOR)으로 임시 처리** · **환위험: 매출 파운드·원가 달러 → 향후 12개월 예상 파운드 매출의 50% 선물환 헤지, 영국 급여·임차료는 파운드로(자연 헤지)** · Marcus 재고: 영국 3PL 창고(밀턴킨스) 2개월분 + 오스틴 1개월 예비 "Two is one, one is none." · Marcus "You need a backup. For you."(→14화) · 법인 설립 완료, James "Not bad at all."
 
 ---

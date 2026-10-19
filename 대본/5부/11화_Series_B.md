@@ -8,7 +8,7 @@
 > - 등장인물: Noah, Elena, Marcus, Sofia, Richard Hale, Victoria Lane, Ingrid Larsen(Fjord Growth 파트너, 리드 후보), Owen Hartley(Summit Health Partners), Rafael Cruz(Atlas Ventures), Raymond Ostrowski(전화), Elaine Choi, Priya(저녁)
 > - 비즈니스 스킬: 투자자 피칭(트랙션 중심), 반론 처리("That's a fair concern / Let me reframe that / I'm glad you asked"), 텀싯 비교, 가치 기준으로 투자자 고르기
 > - 난이도: B2 · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
-> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내.
+> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내 + 긴 턴 10~15회(30~60단어).
 > - 복선 설치: **실적(Year 5 4월): 연 환산 매출 $31M / 활성 병원 780곳 / 재주문율 70% / GM 88% / Recover Aurelle 테스트 판매율 6주 차 64% / Glow 파일럿 재개** · **특허: 특허청 무효 심판(IPR) 청구 완료, Halvern은 델라웨어 소송 제기(7화 예고대로)** · Rafael "Would you sell to Halvern?" → "Not today." · **Owen: 창업자 갈등·거부권 소문 → Elena "Yes. We nearly broke. Here's what we built."** · **Ingrid(Fjord) 리드: $80M, 프리머니 $320M, 조건 = Elena 거부권 유지 + 독립 안전위원회 강화** · **Owen(Summit): 프리머니 $380M 제안, 조건 = 거부권 폐지 → 거절** · Elaine "Don't fall in love with the biggest number."(2부 회수) · 다음: 특허 조정(mediation) 일정(→12화)
 
 ---

@@ -8,7 +8,7 @@
 > - 등장인물: Noah, Priya, Elaine, Elena, Paul, Marcus, Dr. Marisol Vega(CTO 후보, 전 치과 임플란트 기업 R&D 부사장), Leo
 > - 비즈니스 스킬: 역할 전환 논의, 강점에 맞는 자리 찾기, 승계 계획 수립, 후임자 면접, 이해관계자 커뮤니케이션 순서
 > - 난이도: C1 · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
-> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내.
+> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내 + 긴 턴 10~15회(30~60단어).
 > - 복선 설치: **Priya의 일정 분석: 지난 6개월 과학에 쓴 시간 11%(예산·채용·이사회·출장 89%)** · Priya가 냅킨 뒷면에 상자 두 개 — "What I'm good at" / "What a CTO needs now"(규모·제조 이전·3대륙 규제) · Noah의 두려움 "You're the chemistry." → Priya "The chemistry is in forty scientists now. I trained them." · **새 역할: Chief Scientist & co-founder — 스킨부스터, 톡신 과학(대양), FlexLink 2세대, 레지스트리 과학 / CEO 직속 / 이사회 자리 유지 / 보상 변동 없음** · Priya "I'm not stepping down. I'm stepping into a new role." · **승계 계획(Elaine): 6개월 인수인계, 발표 순서 = 이사회 → 공동창업자 → 과학팀 → 전 직원 → 투자자·파트너(한서연·Kenji) → 외부** · Elaine "A founder who chooses her successor is rare. A founder who lets the successor lead is rarer." · **후보 3명 중 Dr. Marisol Vega(R&D 300명, 3대륙 규제 제출, 제조 이전 4건)** · 면접: Priya "Show me the data." → Marisol 실패담(멸균 검증 실패를 출시 2주 전 스스로 공개, 출시 6개월 지연) · Marisol 역질문 "Will you let me be CTO? Or will you be CTO with a different title?" · Priya "If I interfere, tell me. In front of Noah." · **Marisol 수락 조건: Priya와 매주 30분, 서로 거부권 없이 "disagree in the room"** · Leo 반응 · **Lily 레이저 11월 18일 확정(Elena 시술)**(→15화) · Priya 실험복 차림으로 실험대 복귀
 
 ---

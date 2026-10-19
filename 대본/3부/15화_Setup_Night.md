@@ -8,7 +8,7 @@
 > - 등장인물: Noah, Zoe, Marcus, Tasha, Elena, Derek(재시험 합격), Ava, Leo, Priya, Tom Brennan, Lily
 > - 비즈니스 스킬: 전시회 부스 설치·현장 문제 해결, 협력업체 긴급 섭외, 경쟁사와의 프로페셔널한 대화
 > - 난이도: B2 · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
-> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 15단어 이내.
+> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 15단어 이내 + 긴 턴 10~15회(25~35단어).
 > - 복선 설치: **Derek·Noah 재시험 합격** · Marcus 백업 마네킹·키트를 개인 수하물로 가져옴("Two is one") · **배너 한계 문구 축소 인쇄 → Derek의 인맥(심야 인쇄소 Manny)으로 재인쇄** · **Halvern LED 벽 "Lumaderm Flex — Coming Soon"** · Tom "Welcome to the big leagues." / "Same exit. Bigger company." · Leo: 7번 로트도 소폭 상승(규격 내) · **Lily–Tasha 재회: "It wasn't your fault."** · 냅킨 로고 조명 점등 · "Doors open at nine." → 4부 1화
 
 ---

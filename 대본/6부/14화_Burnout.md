@@ -8,7 +8,7 @@
 > - 등장인물: Noah, Claire, James(전화), Elena(전화), Sofia(전화)
 > - 비즈니스 스킬: 개인적이지만 솔직한 대화, 한계 인정하기, 경계 설정, 위임과 대리 체계 만들기
 > - 난이도: B2+ · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
-> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내.
+> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내 + 긴 턴 10~15회(30~60단어).
 > - 복선 설치: **Claire의 "점검 보고서(inspection)" — 다리 준공식, 저녁 약속 7번 중 5번 지각·2번 불참, 새벽 2시 통화, 고양이 Rivet와 먹은 저녁 11번** · **Noah 증상: 지난주 I-35에서 졸음운전으로 차선 이탈, 가슴 두근거림, 하루 한 끼** · Claire "That's the crack. Where you weren't looking." · Claire "I'm not asking you to choose. I'm doing an inspection." · Noah "I'm stretched too thin." · **근본 이유: Lily가 메디스파에서 보낸 문자 "Something feels wrong."을 Halvern 고객 저녁 중 2시간 뒤에 읽음(아무에게도 말한 적 없음, Lily도 모름) → 모든 방에 있어야 한다는 강박** · Claire "You can't be in every room. That's what a team is for." · **James 전화: "I wrote 'Noah not attending' in the plan. In September."** · **경계: 오후 7시 이후 통화 금지(응급 제외) / 주 1일 무출장 / 출장은 월 1회 / Elena = 대리(deputy), Sofia = 영국 재출범 대표** · Elena "I've been waiting a year for you to ask." · Noah "I need to step back. Not out. Back." · Claire "Don't promise. Just be there." → Noah "I'll be there. The whole dinner. And dessert." · **Noah "After Dallas, there's something I want to ask you. Not tonight."**(→7부 약혼)
 
 ---

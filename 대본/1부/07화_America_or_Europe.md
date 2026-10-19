@@ -8,7 +8,7 @@
 > - 등장인물: Noah, Priya, Marcus, Elena, Lily(전화)
 > - 비즈니스 스킬: 선택지 비교, 장단점 말하기, 의사결정과 "disagree and commit"
 > - 난이도: B1 · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
-> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 15단어 이내.
+> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 15단어 이내 + 긴 턴 10~15회(25~35단어).
 > - 복선 설치: 미국 PMA 선택("The hardest path the FDA has.") · 유럽은 나중에(→6부) · Noah "Someday. With a booth in Paris."(→6부 2·3화) · Marcus "I disagree, but I'll commit." · 기간이 길어질수록 Priya의 비자가 급해짐(→1부 14화) · 엄마 Carol이 추수감사절에 온다
 
 ---

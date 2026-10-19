@@ -8,7 +8,7 @@
 > - 등장인물: Zoe, Noah, Elena, Priya, Marcus, Nina, Sofia(오전), Diane(전화, 마지막), Monica Ellis(Aurelle Beauty 스킨케어 바이어), Ava(뉴욕 동행)
 > - 비즈니스 스킬: 소비자 제품 피칭(히어로 제품·스토리), 리테일 지표(판매율 sell-through, 진열 공간 shelf space), 테스트 매장 제안, 화장품 표시 규정
 > - 난이도: B2 · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
-> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내.
+> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내 + 긴 턴 10~15회(30~60단어).
 > - 복선 설치: **Veyra Recover — 시술 후 진정·보습 세럼, 30mL, 소비자가 $68, 원가 $9(화장품 위탁생산사 Lumen Labs)** · **화장품 주장만: "calms and hydrates skin after aesthetic treatments" / 금지: "reduces swelling/bruising"(의약품 주장), 합병증 관련 암시 금지** · Veyra Circle 포인트는 Recover에만 허용("Not a needle") · **Glow Launch Partner 60일 선판매 → 판매율(sell-through) 71%** · **Aurelle Beauty(매장 520곳) 테스트: 50개 매장, 아이레벨 진열, 12주, 판매율 목표 60%, 공동 마케팅 기금 $40K, 독점 없음** · **Diane: Halvern의 특허 침해 경고장 도착**(→7화)
 
 ---

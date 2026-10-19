@@ -8,7 +8,7 @@
 > - 등장인물: Noah, Paul, Ruth Okonkwo(IR 책임자, 1월 합류), Jonathan Reed(Calder Partners — 대표 주관사), Marcy Feldman(보스턴 장기 투자 운용사 Commonwealth Asset Management 포트폴리오 매니저), Ethan Cole(샌프란시스코 헤지펀드 매니저), Sandra Liu(헬스케어 전문 펀드 애널리스트), Victor(전화), Elaine(전화), Claire(전화)
 > - 비즈니스 스킬: 로드쇼 피치, 반복 질문에 일관되게 답하기, 조용한 기간의 발언, 공모가·배정 결정
 > - 난이도: C1+ · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
-> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내.
+> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내 + 긴 턴 10~15회(30~60단어).
 > - 복선 설치: **Ruth Okonkwo 첫 등장 — 나이지리아계 미국인, 전 대형 의료기기사 IR 12년, 말버릇 "Same answer. Every time."(James와 동향, 서로 모르는 사이)** · **공모: 1,150만 주, 희망가 $22~25 → 수요 폭주로 $25~27 상향** · Ruth의 3대 메시지: ① 안전 시스템이 해자 ② 미국·영국 흑자, 아시아는 투자 ③ 의료인 전용은 비용이 아니라 브랜드 · 반복 질문 Top 5(아시아 미용사 판매 / Halvern 위협 / Priya 역할 변경 / 한국 가격 / 라인 C 일정) · **Marcy: 레지스트리 질문 — "That's the first question I haven't heard on this roadshow."** · Ethan: 보호예수·첫날 상승만 질문 · **Noah 4일 차 목소리 상실 → Paul 대신 발표 → Noah가 피치가 닳았음을 깨닫고 오프닝을 서울 13분 이야기로 교체(사실만, 조용한 기간 준수)** · 수요: 1일 차 1배 → 5일 차 4배 → 8일 차 9배 초과 청약 · **공모가 결정: Jonathan $29 제안 vs Noah $27 + 장기 투자자 우선 배정 — "We're not selling shares tonight. We're choosing shareholders." / Paul: 테이블에 남기는 돈 약 $2,300만 → 가격위원회(Elaine) $27 승인, 약 $3억 1천만 조달** · Ethan 배정 축소 · 내일 오전 9시 30분 나스닥 개장 벨, 타임스스퀘어 전광판에 Lily 로고(→2화)
 
 ---

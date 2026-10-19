@@ -8,7 +8,7 @@
 > - 등장인물: Noah, Rachel Stein(좌장), Elena, Zoe, Marcus, Tasha, Dr. Victor Lang(Halvern 자문위원, 성형외과 의사), Dr. Alan Pierce, Maria Santos, Tom Brennan
 > - 비즈니스 스킬: 출시 연설(구조·숫자 뒤 멈춤·한 가지 메시지), 적대적 질문 응대(방어하지 말고 답하기), 공개 발표의 마무리
 > - 난이도: B2 · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
-> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 15단어 이내(연설 인용 예외 2줄, 40단어 이내).
+> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 15단어 이내 + 긴 턴 10~15회(25~35단어)(연설 인용 예외 2줄, 40단어 이내).
 > - 복선 설치: **"One more thing": 응급 모듈 4를 모든 시술자에게 무료 + "The First Ten Seconds" 카드 PDF 무료 공개(veyra.com/tenseconds)** · Dr. Victor Lang(Halvern 자문) "marketing stunt" → Noah "Then copy it. Please." · **Pierce "Can I take module four?"** · Tom "You're expensive to compete with." · Noah 연설 핵심: "We're not here to replace your skill. We're here to back it up."
 
 ---

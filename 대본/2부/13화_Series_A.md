@@ -8,7 +8,7 @@
 > - 등장인물: Noah, Priya, Elena, Marcus, Cole Matthews(Bayline Capital 파트너), Victoria Lane(Cypress Health Ventures 파트너), Diane, Elaine
 > - 비즈니스 스킬: 협상 레버리지, 텀싯 비교, 익스플로딩 오퍼 대응, "가격보다 파트너" 판단
 > - 난이도: B1+ · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
-> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 15단어 이내.
+> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 15단어 이내 + 긴 턴 10~15회(25~35단어).
 > - 복선 설치: Bayline: 프리머니 6,000만, 2배 참여형 청산우선권, 이사회 2석, 48시간 익스플로딩 오퍼 · Cypress: 프리 4,500만 → 5,000만, 1배 비참여, 이사회 1석, 헬스케어 전문 · **Cypress 리드 2,500만 달러 확정**(Northgate·Elaine 프로라타 참여) · Elaine "Who would you rather call at two a.m.?" · **이사회 5석 완성: Noah, Priya, Richard, Victoria, Elaine(독립)** · Victoria가 Halvern의 "녹는 필러" 소문을 이미 앎 · 다음: 첫 환자(→2부 14화)
 
 ---

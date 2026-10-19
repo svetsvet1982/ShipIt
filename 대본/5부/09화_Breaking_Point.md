@@ -8,7 +8,7 @@
 > - 등장인물: Noah, Elena, Sofia, Marcus, Priya, Leo, Derek(초반), Richard(문자·전화)
 > - 비즈니스 스킬: 갈등 표출과 감정 표현, 상대 말 오해 바로잡기, 말 끊기·재진술, 갈등 중 경계 세우기
 > - 난이도: B2 · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
-> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내.
+> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내 + 긴 턴 10~15회(30~60단어).
 > - 복선 설치: **Glow = 내년 예측의 22%** · **Richard: 시리즈 B 투자자 두 곳 보류(소송 + Glow 뉴스)** · **Greg 역제안: 분기별 자체 보고** → Sofia 절충안: 분기 자체 보고 + 무작위 감사 → Noah 수용 기울어짐 · **Elena "You said 'no exceptions.' On television. Yesterday." / "You sound like Tom."** · Noah "That's not fair." · **Elena: Glow 예외 시 안전 거부권 서면 행사 → 이사회 사유서(2부 합의 절차)** · Elena 퇴장 · Marcus: 외부 경영 코치 제안 — **Dr. Miriam Fischer**(Denise의 대학 동기) · Elena 문자 "I'm not quitting. But I'm not coming in tomorrow."(→10화)
 
 ---

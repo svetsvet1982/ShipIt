@@ -8,7 +8,7 @@
 > - 등장인물: Noah, Lily, Priya, Elena(전화)
 > - 비즈니스 스킬: 프레젠테이션 구조, 슬라이드 피드백, 스토리텔링의 윤리
 > - 난이도: B1 · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
-> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 15단어 이내.
+> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 15단어 이내 + 긴 턴 10~15회(25~35단어).
 > - 복선 설치: 회사명 유래 "Vera = true, Y for the domain" · Lily의 냅킨 로고가 정식 로고로 · 덱 10장 구조 · Lily "I'm not your marketing story, Noah." 첫 등장(→3부 9화) · 문제 슬라이드에 Jasmine의 "For ten seconds, I froze."(익명) · 표어 "The filler you can take back."(Lily가 만듦) · Elaine Choi 미팅 확정: 다음 주 목요일 오후 4시(→1부 13화) · Elena와 Elaine은 병원 이사회 인연
 
 ---

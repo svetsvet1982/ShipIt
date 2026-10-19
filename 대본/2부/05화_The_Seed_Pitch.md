@@ -8,7 +8,7 @@
 > - 등장인물: Noah, Priya, Elena, Richard Hale(Northgate 파트너), Jordan Pike(Northgate 애널리스트), Elaine(전화)
 > - 비즈니스 스킬: 시장 규모 발표(TAM·SAM·SOM), 투자자 질문 대응, 조건부 제안 이해
 > - 난이도: B1+ · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
-> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 15단어 이내.
+> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 15단어 이내 + 긴 턴 10~15회(25~35단어).
 > - 복선 설치: Richard 습관어 "What's the path to a billion?"(→5부 15화, 7부 7화) · 시험관 데이터 2.9배(멸균 후) · 조건부 텀싯: 500만 달러, 동물 시험에서 2.5배 이상이면 리드(→2부 6화 1.8배 위기) · Priya의 경고 "In vitro isn't in vivo." · Elaine "A conditional term sheet is handcuffs with a bow." · 동물 시험은 샌안토니오 비임상 CRO, 다음 주 시작 · Leo 입사 2주 차, 아내 Ana 임신 7개월 · Jordan Pike(→2부 8화 실사)
 
 ---

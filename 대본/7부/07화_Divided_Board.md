@@ -8,7 +8,7 @@
 > - 등장인물: Elaine Choi(이사회 의장), Noah, Priya, Richard Hale(Northgate), Victoria Lane(Cypress), Ingrid Larsen(Fjord, 화상), Victor Lang(Bluewater), Diane(법률 고문), Paul(CFO), Jonathan Reed(Calder Partners 투자은행, 재무 자문), Elena(안전 보고), Marcus
 > - 비즈니스 스킬: 이사회 토론, 이해관계 다른 투자자 설득, 강하게 권고하기, 시한부 압박에 대응하기
 > - 난이도: C1 · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
-> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내.
+> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내 + 긴 턴 10~15회(30~60단어).
 > - 복선 설치: **Diane의 신인의무 설명: "You're not required to sell. You're required to decide carefully. With information."** · **Calder Partners(Jonathan Reed) 평가: 독립 시나리오 DCF $1.1~1.6B / 24개월 IPO 경로 $1.5~2.0B(실행 위험) / Halvern 제안 = "fair, but not full"** · **투자자별 수익: Northgate(시드) 약 31배·펀드 9년 차 / Cypress(시리즈 A) 약 12배 / Fjord(시리즈 B) 약 2.6배 / Bluewater(시리즈 C, 5개월) 약 1.2배** · Richard "This is the path to a billion. We're standing on it." / "I'd urge the board to engage." · Victor: 매각 반대(수익 부족, IPO 선호) — 돈의 논리로 Elaine 편 · Ingrid: Fjord 펀드 원칙(안전·책임 투자) → 원칙 소멸 조건이 문제 · Victoria: Halvern의 한국 가격 전쟁 위협이 실제라고 봄 → 협상 찬성 · **Elena 보고: 인수 시 사라지는 5가지(의료인 전용·거부권·독립 안전위원회·레지스트리 공개 약속·Mitsukawa 데이터 공유) + Reese 서한 "If the committee becomes advisory, I will resign."** · **Tom 이메일(회의 중): $1.3B로 증액, 단 금요일 정오까지 독점 협상 서명 조건(exploding offer)** · Elaine "An offer that explodes is an offer that's nervous." · **비공식 집계: 찬성(협상 개시) Richard·Victoria / 반대 Elaine·Priya·Victor / 미정 Ingrid·Noah** → Elaine 표결 금요일 오전 9시로 연기 · Elaine "What's the one thing?" — Noah 답 못 함 · Elaine "Go and find it. With your co-founders. Tonight." → Marcus "I know a place. The old lab." (→8화)
 
 ---

@@ -8,7 +8,7 @@
 > - 등장인물: Grace(Veyra Korea 총괄), Zoe, Kim Ha-eun, Dr. Choi Min-jun, 배승호(Lumi Clinic 대표 원장, 지점 20곳), 서유나(뷰티 유튜버, 구독자 320만), Noah(화상), Paul(화상)
 > - 비즈니스 스킬: 가격 압박 대응, 가치 제안 재정의, 세그먼트 전략, 현지 규제 내 마케팅
 > - 난이도: C1 · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
-> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내.
+> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내 + 긴 턴 10~15회(30~60단어).
 > - 복선 설치: **식약처 승인(서린 오창 생산, 국내 제조 허가) 지난주 수령 → 5월 6일 한국 출시** · **클리닉 공급가 ₩230,000 vs Bellacare ₩85,000(지난주 ₩90,000에서 인하)** · 배 원장 "₩140,000. Or I buy Bellacare." · Grace "We won't join a race to the bottom." · **Dr. Choi의 위험 부위 포지셔닝: 코·이마·미간 = 시술량 30%, 합병증 80% → "Use Veyra where the risk is highest."** · 배 원장 실제 데이터: Lumi 작년 혈관 사건 11건 중 9건이 코·이마 · **메시지 테스트(Grace): 의사 = 자신감("lets you sleep at night"), 소비자 = "Natural now. Reversible always." — 한국 헤드라인 채택** · **한국 의료법: 시술 경험담 광고 금지, 의료광고 사전 심의 → 서유나 캠페인은 비브랜드 교육 "시술 전 두 가지 질문"(녹일 수 있나요? 얼마나 빨리?)** · 서유나 자신의 이마 합병증 경험(3년 전, 회복) · **가치 패키지: 한국어 Veyra Ready 교육 무료 / 응급 키트 / 24시간 한국어 핫라인 / 스캔 시스템 / 보험료 할인 협의 중** · **Lumi 합의: 20개 지점 코·이마·미간 전용 Veyra, ₩215,000(볼륨 등급 6.5%), 전 시술자 인증 60일 내** · Paul: 한국 1년 차 물량 목표 −30%, 매출총이익률 유지 · Noah "Let them race. We'll be at the finish line they can't reach." · Bellacare ₩79,000 추가 인하 · **Tom 문자 "Back from Seoul? Dinner May 28th. I'm not asking a third time."** · Kenji Sato(일본 종합상사) 미팅 5월 19일 도쿄 확정(→5화)
 
 ---

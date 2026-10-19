@@ -8,7 +8,7 @@
 > - 등장인물: Dr. Song Ye-jin(Lumi Clinic 강남점 2년 차 피부과 의사), Yoon Ji-woo(같은 지점 간호사 — 7부 2화 50만 번째 다운로드), 박서현(환자, 24세), 박민호(환자의 오빠, 대기실), Dr. Choi Min-jun(Veyra Korea 의료 자문, 한국어 핫라인 당직), Elena, Tasha(글로벌 핫라인 총괄), Noah, Leo, Grace(전화)
 > - 비즈니스 스킬: 실시간 위기 공조, 단계별 지시와 확인, 침착한 목소리 유지, 사후 기록·보고, 보호자 소통
 > - 난이도: C1 · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
-> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내.
+> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내 + 긴 턴 10~15회(30~60단어).
 > - 복선 설치: **22:14 코등 주입 중 창백(blanching) — Song 즉시 중단** · Ji-woo "Treat first. Phone second." — 키트 열고 타이머 시작 후 핫라인 · **한국어 핫라인(최 원장) 22:15 연결 → 글로벌 핫라인 삼자 통화(Elena·Tasha, 오스틴 07:15)** · "Stay on the line." / "Talk me through it." · **히알루로니다아제 고용량 1차 22:16, 마사지·온찜질, 22:20 그물 모양 반점 축소, 2차 22:22, 22:27 모세혈관 재충혈 2초, 시력 확인 정상(양쪽 손가락 세기·색 구분)** · **일련번호 스캔 2초 → Leo가 로트 확인(V-7-0912, 서린 오창 라인 B), 동일 로트 이상 보고 0건** · Tasha의 타이머(3부 11화 낚시 도구함 키트) · **보호자 박민호 — 대기실, Noah와 통화: "Seven years ago, I was where you are." / "Two ninety-nine. It was an Instagram deal."의 반대 — 이번엔 인증된 의사, 추적되는 주사기, 1분 안의 효소** · Elena "Every minute counts. Tonight, we won the minutes." · **Song "You did everything right." → "I treated first. Then I called. Ji-woo made me."** · 사후: 레지스트리 기록(7년 차 #1,148), 식약처 자발 보고, 48시간 후 재진 · **환자 박서현 다음 날 사진: 흉터 없음** · Noah가 Lily에게 문자 → Lily "Then November 18 is easy." · Elena가 1부 1화와 같은 대사 "Keep her warm."
 
 ---

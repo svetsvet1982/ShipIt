@@ -8,7 +8,7 @@
 > - 등장인물: Noah, Elena, Marcus, Priya, Grace Kim(임상 운영 매니저), Ben Adler(CRO Clearpath Clinical 프로젝트 디렉터)
 > - 비즈니스 스킬: 견적 비교, 숨은 비용 찾기, 범위 조정 협상, 마일스톤 기반 지급
 > - 난이도: B1+ · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
-> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 15단어 이내.
+> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 15단어 이내 + 긴 턴 10~15회(25~35단어).
 > - 복선 설치: 시드 600만 달러 입금·Meridian 계약 서명 완료 · Halvern 대응 원칙 "We can't control their speed. Only ours." · Grace Kim(34, LA 출신 한국계, 대형 CRO 8년) — "Every budget has padding." · Clearpath 견적 1,420만 달러 → 1,260만 달러(위험 기반 모니터링, Grace가 일부 모니터링 담당, 등록 마일스톤 지급) · 피험자 300명, 15개 사이트 · Grace의 한국어(→7부 3화) · 다음: 스타 의사가 필요하다(→2부 12화 Dr. Stein)
 
 ---

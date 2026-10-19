@@ -8,7 +8,7 @@
 > - 등장인물: Sofia, Derek, Diane, Marcus, Greg Holloway, Martin Kaye(Glow 법무 고문), Nadia(전화로 언급), Noah·Zoe(전화)
 > - 비즈니스 스킬: 강경 협상(최종 제안·결렬 지점·양보 교환), 결제 조건(Net 30/45/60, 조기 결제 할인), 독점 대신 대안 제시, 법무 승인 조건 걸기
 > - 난이도: B2 · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
-> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내.
+> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내 + 긴 턴 10~15회(30~60단어).
 > - 복선 설치: **Greg 원안: Net 60·남서부 독점·리베이트 12%(시술자 개인에게 가는 "Injector Excellence Fund")** · **Diane 경고: 시술자 개인에게 사용량 연동 보상 = 더 많이 주사하라는 유인 → 거부** · **최종: Net 45(10일 내 결제 시 2% 할인) / 독점 없음 → Glow는 "Launch Partner"(신제품 첫 접근권·공동 교육 데이터 발표) / 리베이트 8% — Glow 본사에, 송장에 명시, 물량 등급 + 인증 100% 유지 조건** · Sofia가 "That's our walk-away point"로 일어섬 → 주차장에서 Greg 전화(Nadia·Tiffany 압박) · 파일럿 90일 후 본계약 · Zoe "first access to new products" → Recover(→6화)
 
 ---

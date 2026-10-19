@@ -8,7 +8,7 @@
 > - 등장인물: Noah, Elena, Priya, Novak, Stein, Grace, Reese, Dr. Harold Whitfield(위원장), Dr. Lisa Chen(패널, 생물통계), Ms. Barbara Hughes(패널, 소비자 대표), Dr. Susan Park(FDA), Dr. Evan Price(Halvern 의학 담당 부사장), Lily, Tom
 > - 비즈니스 스킬: 공식 발표, 공개 증언, 반대 의견 인정, 침묵의 절제
 > - 난이도: B2 · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
-> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 15단어 이내. (Lily의 준비된 발언 낭독 2회 예외)
+> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 15단어 이내 + 긴 턴 10~15회(25~35단어). (Lily의 준비된 발언 낭독 2회 예외)
 > - 복선 설치: 표결 — 안전성 9:0, 효과 9:0, 이익>위험 8:1(반대: Dr. Chen, 하위 연구 규모) · 패널 권고: 라벨에 용해 데이터와 표본 크기 명시 + **시술자 교육 프로그램 권고**(→3부 11화) · Halvern Dr. Price의 "moral hazard" 주장(→4부 10화, 5부 8화) · Lily의 공개 발언("I'm the CEO's sister.") · Tom 객석에 있음 → 복도에서 "Nothing personal." Noah는 끝까지 침묵 · Elena "No filler fixes bad training."
 
 ---

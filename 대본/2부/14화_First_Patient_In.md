@@ -8,7 +8,7 @@
 > - 등장인물: Noah, Elena, Grace, Stein, Linda Hayes(첫 피험자, 52세 고등학교 사서), Marcus(전화), Priya(전화)
 > - 비즈니스 스킬: 절차 설명, 동의(informed consent) 대화, 이상반응 보고, 위기 속 침착함
 > - 난이도: B1+ · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
-> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 15단어 이내.
+> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 15단어 이내 + 긴 턴 10~15회(25~35단어).
 > - 복선 설치: 첫 임상 로트 VF-001(Sandra 출하 승인) · 피험자 001 Linda Hayes — 하위 연구 불참, 본 연구만 · 시리즈 A 입금 완료 · 첫 이상반응: 멍과 부기(경미, 예상된 반응, 비중대) → 프로토콜대로 기록·보고 · Elena "Expected is not the same as nothing."(→4부 11화) · Noah의 공황 → "Let's follow the protocol." · 첫 주 등록 12명(Stein 8명) · Stein "In eighteen months, you'll know if you were right."(→2부 15화 시간 점프)
 
 ---

@@ -8,7 +8,7 @@
 > - 등장인물: Noah, Zoe, Elena, Marcus, Marco Bell(Northbound Creative 크리에이티브 디렉터), Jenna(Northbound 기획자), Lily
 > - 비즈니스 스킬: 에이전시 피칭 듣기, 크리에이티브 피드백 주기, 거절하고 대안 제시하기, 환자 후기(testimonial) 규정
 > - 난이도: B2 · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
-> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 15단어 이내.
+> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 15단어 이내 + 긴 턴 10~15회(25~35단어).
 > - 복선 설치: **FlexLink 상표 통과** · Northbound의 컨셉 3안("Her Story")에 패널 영상 사용 시도 → 거절 · **캠페인 "Ready." 탄생 — 주인공은 시술자의 손** · Lily "My face is not a logo." · Lily와 Zoe 첫 만남 · Marco "Without a face, you're a spec sheet." · Marcus·Grace 한국 출장 확정(→10화)
 
 ---

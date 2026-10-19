@@ -8,7 +8,7 @@
 > - 등장인물: Noah, Diane, Paul, Elena, Grace(서울 화상), Victor(전화), Ingrid(전화), 한서연, 박정호, 이수진, Richard(전화), Kenji(문자)
 > - 비즈니스 스킬: BATNA 분석, 앵커링, 상대 허세 검증(call their bluff), 조건부 합의 설계
 > - 난이도: C1 · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
-> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내.
+> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내 + 긴 턴 10~15회(30~60단어).
 > - 복선 설치: **Diane의 BATNA 표: Veyra = 독립 + 대양 JV + Mitsukawa / Halvern = 루마덤 플렉스 자체 성장(부진) + Tom의 9월 CEO 결정 시한** · **Grace 확인: 루마덤 플렉스 한국 식약처 허가 없음, 신청 기록도 없음 → 허가까지 12~18개월 → "this fall"은 불가능 = 허세** · Diane "Let's call their bluff." · **세컨더리: Noah 앵커 $1.15B → Victor $1.0B → 합의 $1.08B(시리즈 C보다 높고 Halvern보다 낮음) / Northgate 지분 40% 매각 약 $60M(Bluewater $35M·Fjord $25M) / 텐더 오퍼 기득 옵션 최대 15% 같은 가격, Bluewater·Fjord 추가 $20M** · Paul "Secondaries usually trade at a discount. We're asking for a premium to the last round." · **서울 화상: JV 지분 대양 46 : Veyra 44 : 서린 10 / 품질 = 이수진, 안전 = Elena 거부권(JV 정관에) / 라인 C 공동 투자 / 중국은 2단계** · **한서연: 대양은 Halvern 공급 계약 갱신 안 함(이사회 확정) / 서명된 의향서(LOI) 서울 금요일 오후 3시 = 오스틴 금요일 새벽 1시 발송** · **한서연 조건 = 지배권 변경 조항: Veyra가 Halvern에 인수되면 대양이 Veyra의 JV 지분을 장부가로 매수 가능 → Halvern에게 Veyra의 아시아 가치 소멸** · Diane "That's not a clause. That's a moat with a drawbridge." · 박 대표 "Safety by Dr. Ruiz. In writing. Or Seorin stays home." · Kenji 문자: Tanaka·사업부장 도장 완료, Ishikawa "Waiting for Friday." · **Richard: "You found my real problem." → 세컨더리 60일 내 클로징 서면 조건으로 Halvern 반대표 전환**
 
 ---

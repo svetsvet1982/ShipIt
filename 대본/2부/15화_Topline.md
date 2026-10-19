@@ -8,7 +8,7 @@
 > - 등장인물: Noah, Priya, Elena, Marcus, Grace, Leo, Dr. Paul Novak(화상), Lily, Elaine·Richard·Victoria(화상)
 > - 비즈니스 스킬: 결과 발표, 통계 결과 이해하기, 일화와 데이터 구분, 리스크 경고
 > - 난이도: B1+ · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
-> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 15단어 이내. (보도자료 낭독 1회 예외)
+> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 15단어 이내 + 긴 턴 10~15회(25~35단어). (보도자료 낭독 1회 예외)
 > - 복선 설치: **1차 평가변수 충족(6개월 반응률 Veyra 82% vs Lumaderm 80%, 비열등성)** · 12개월 지속력 71% vs 70% · **하위 연구 용해 3.1배** · 이상반응 양 군 비슷, 혈관 사건 2건(각 군 1건, 모두 해결) — Veyra 건 25분 vs Lumaderm 건 90분 → "That's an anecdote, not data." · Leo가 품질 관리 책임자로 성장 · **지난달 Meridian 정전으로 3주 생산 중단 → Marcus "Two is one, one is none." 백업 공급처 필요(→3부 10화 한국)** · **Halvern 보도자료: "Lumaderm Flex" 되돌릴 수 있는 필러, 핵심 임상 진입. Tom: "Reversibility is the future. Halvern will lead it."** · Noah "Ship it."
 
 ---

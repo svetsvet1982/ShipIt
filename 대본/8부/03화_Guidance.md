@@ -8,7 +8,7 @@
 > - 등장인물: Noah, Paul, Ruth, Diane, Elena, Marisol Vega(CTO), Grace(서울 화상), Anke(뮌헨 화상), Dana Brooks-Hall(전화), Marcy Feldman(전화)
 > - 비즈니스 스킬: 실적 발표 준비, 가이던스 설정, 공정공시 준수, 미래 예측 진술 고지, 예상 질문 리허설
 > - 난이도: C1+ · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
-> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내.
+> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내 + 긴 턴 10~15회(30~60단어).
 > - 복선 설치: **1분기 잠정 매출 $17.1M vs 시장 컨센서스 $18.4M(약 7% 미달)** · 원인 ① 한국 출시 속도 느림(위험 부위 전용 전략, Bellacare ₩69,000까지 인하) ② 미국 Glow Collective 재고 조정(주문 1개월 연기) ③ 일회성 상장 비용 · **라인 C 첫 배치 3개월 지연(장비 공급사 부품 문제) → Year 9 2분기, Marisol 보고** · 독일 Hautwerk 1분기 610개(계획 대비 +12%, Anke — 6부 미회수 해소) · **가이던스 논쟁: Noah $85~90M(강하게) vs Paul $78~82M vs Ruth "Under-promise. Over-deliver. Never the other way."** → **연간 가이던스 $79~83M 확정** · **Reg FD: Dana가 Paul에게 전화해 라인 C "color" 요청 → Paul 거절 "Anything material, we'll share with everyone at once." / Marcy도 같은 답** · **Diane: 미래 예측 진술 고지문(safe harbor) 낭독 의무, "expect", "believe", "intend" 같은 단어 사용법** · 모의 콜: Ruth가 Dana 역할 — Noah 첫 시도 실패("I'm confident we'll catch up" = 약속), 두 번째 성공 · **실적 발표일 5월 6일(수) 장 마감 후 오후 4시 30분(동부)** · Ruth "The first call sets the tone for ten years."
 
 ---

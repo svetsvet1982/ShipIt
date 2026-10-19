@@ -8,7 +8,7 @@
 > - 등장인물: Noah, Priya, Marcus, Elena(창업자 4인), Elaine Choi, Richard Hale, Victoria Lane(이사), Zoe, Leo, Derek(발표), Tom Brennan(생중계), Rosie(식당 주인)
 > - 비즈니스 스킬: 이사회 성과 보고, 교훈 정리(lessons learned), 경쟁 위협 평가, 다음 단계 제시
 > - 난이도: B2 · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
-> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 15단어 이내.
+> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 15단어 이내 + 긴 턴 10~15회(25~35단어).
 > - 복선 설치: **6개월 실적: 누적 판매 24,600개 / 활성 병원 386곳 / 재주문율 68% / 매출 약 $9.4M / 매출총이익률 89%** · 출시가 $395 종료 → 정가 $425 · **교훈 5개(Leo의 차트, 버퍼, 제2 공급처, 직접 전화, 투명성)** · Elena "We didn't dodge a bullet. We stood in front of it." · **Halvern Lumaderm Flex 승인·출시: "2.5배 빠른 용해"(자사 데이터), 가격 $329, 무료 "Halvern Safe Start" 응급 교육** — Veyra 모델 복제 · Richard "Series B in nine months. Eighty million. The clock is ticking." · Victoria "A competitor validates the category." · Rosie's Diner 재방문, 네 창업자 · Tom 문자 "Welcome to the price war. Nothing personal." · 다음: 영업 조직 확대·채널 전략(→5부 1화)
 
 ---

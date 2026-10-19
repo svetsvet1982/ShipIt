@@ -8,7 +8,7 @@
 > - 등장인물: Noah, Paul, Priya, Elena, Richard(화상), Victor Lang(Bluewater Capital 헬스케어 크로스오버 펀드 파트너), Rebecca Stone(Bluewater 애널리스트)
 > - 비즈니스 스킬: 대규모 투자 Q&A, 자금 사용 계획 설명, 수익성 경로 제시, 경쟁 우위(해자) 방어, 민감한 질문에 정직하게 답하기
 > - 난이도: C1 · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
-> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내.
+> - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내 + 긴 턴 10~15회(30~60단어).
 > - 복선 설치: **Year 6 실적: 매출 $52M(전년 대비 +58%), 매출총이익률 86%, 4분기 EBITDA 흑자 전환, 미국 재주문율 71%·영국 78%** · **라운드: $150M, 프리머니 $850M 제안 → Victor $780M 역제안 → 합의 $820M(다음 화 이전 서면 확정 조건)** · **자금 사용: 아시아 $60M / 생산 확장(Seorin·한국) $35M / 신제품 R&D(톡신·스킨부스터 탐색) $30M / IPO 준비·운전자본 $25M** · **해자 3층: ① FlexLink 특허(2041년까지) ② 안전 시스템 네트워크 효과(인증 시술자 1만 2천 명, 스캔 데이터, 혈관 사건 레지스트리) ③ "의료인 전용" 브랜드 — 경쟁사가 따라 하려면 매출을 포기해야 함** · Rebecca의 날카로운 질문: 한국 반값 필러, 고객 획득 비용 회수 기간(11개월), 영국 1분기 실패 · **Victor "Are you for sale?" → Noah "We're not running a process. But my job is to listen to anything that's serious."** · Priya "Show me the data."의 반대편에 섬 · 조건: 이사회 1석(Victor), 24개월 내 IPO 준비, **"If Halvern makes a serious offer, we expect to hear about it within forty-eight hours."** · Tom 1월 저녁 → Noah가 두 번 연기("February. Then March.") · 한서연 이메일: 3월 12일 서울 학회 메인 홀 100㎡ 부스 확정, 학회 둘째 날 미팅
 
 ---
