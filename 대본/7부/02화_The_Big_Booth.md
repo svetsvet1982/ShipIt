@@ -5,7 +5,7 @@
 > **표기 전용 정보 (낭독하지 않음)**
 > - 부/화: 7부 2화 · 서사 기능: 서울 아시아 미용학회 메인 홀 100㎡ 부스 — 신입의 30초 피치, 라이브 시연 무대, 한국 경쟁사 부스 탐방, 서린 박 대표 선(先)방문, 대양바이오 한서연의 합작법인·공동개발 제안
 > - 배경: Year 7 3월 12일 목요일 오전 8시 30분 서울 삼성동 컨벤션센터 메인 홀 → 오후 2시 시연 무대 → 오후 4시 경쟁사 부스 → 오후 6시 / 3월 13일 금요일 오전 10시 부스 미팅룸
-> - 등장인물: Noah, Zoe, Grace, Elena, Priya, Kim Ha-eun(Veyra Korea 1호 영업 담당), Dr. Choi Min-jun(서울 피부과 전문의, 시연 연자), Yoon Ji-woo(강남 간호사, 카드 다운로드 50만 번째), 박정호(서린바이오 대표), 이수진(서린바이오 해외사업 팀장), 한서연(대양바이오 신사업 상무), Bellacare 부스 직원
+> - 등장인물: Noah, Zoe, Grace, Elena, Priya, Kim Ha-eun(Veyra Korea 1호 영업 담당), Dr. Choi Min-jun(서울 피부과 전문의, 시연 연자), Yoon Ji-woo(강남 간호사, 카드 다운로드 50만 번째), 박정호(서린바이오 대표), 이수진(서린바이오 QA 팀장), 한서연(대양바이오 신사업 상무), Bellacare 부스 직원
 > - 비즈니스 스킬: 대형 부스 운영, 라이브 시연 진행, 경쟁사 분석, 신뢰 관계의 순서 지키기, 제휴 첫 미팅
 > - 난이도: C1 · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
 > - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 20단어 이내.
@@ -223,7 +223,7 @@
     노아: 박 대표님. 와 주셔서 감사합니다. 오창에서 여기까지.
 
 68. PARK: You called me first. In January. Before anyone else. I remember things like that.
-    박정호: 먼저 전화하셨죠. 1월에. 다른 누구보다 먼저. 저는 그런 걸 기억합니다.
+    박 대표: 먼저 전화하셨죠. 1월에. 다른 누구보다 먼저. 저는 그런 걸 기억합니다.
 
 69. NOAH: You have a first-negotiation right for Asia. In writing. I keep my promises.
     노아: 아시아 우선 협상권이 있으시잖아요. 서면으로. 전 약속을 지킵니다.
@@ -232,19 +232,19 @@
     수진: 대표님이 부스가 할번보다 크다고 하세요. 웃으면서요. 드문 일이에요.
 
 71. PARK: Mr. Bennett. Tomorrow, Daeyang will come to your booth. Ms. Han.
-    박정호: 베넷 대표님. 내일 대양이 부스에 올 겁니다. 한 상무가요.
+    박 대표: 베넷 대표님. 내일 대양이 부스에 올 겁니다. 한 상무가요.
 
 72. NOAH: How do you know?
     노아: 어떻게 아세요?
 
 73. PARK: Korea is small. And she told me. Yesterday. Politely.
-    박정호: 한국은 좁습니다. 그리고 그분이 말해 줬어요. 어제. 정중하게.
+    박 대표: 한국은 좁습니다. 그리고 그분이 말해 줬어요. 어제. 정중하게.
 
 74. NOAH: What should I do?
     노아: 제가 어떻게 해야 할까요?
 
 75. PARK: Listen carefully. Promise nothing. Then come to Ochang. We'll talk properly. Over dinner.
-    박정호: 잘 들으세요. 아무것도 약속하지 말고요. 그다음 오창으로 오세요. 제대로 얘기합시다. 저녁 먹으면서.
+    박 대표: 잘 들으세요. 아무것도 약속하지 말고요. 그다음 오창으로 오세요. 제대로 얘기합시다. 저녁 먹으면서.
 
 76. SUJIN: Dinner means soju. Please prepare your liver.
     수진: 저녁은 소주라는 뜻이에요. 간을 준비해 두세요.
