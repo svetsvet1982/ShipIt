@@ -207,8 +207,8 @@
 62. RICHARD: Thank you. Finally, someone honest about money.
     리처드: 고마워요. 드디어 돈에 대해 솔직한 사람이네요.
 
-63. MARCUS: Leo has three kids. Ha-eun has loans. My daughter starts college. Money matters. But I asked twenty employees.
-    마커스: 레오는 아이가 셋. 하은은 대출. 내 딸은 대학에 가요. 돈은 중요해요. 하지만 직원 스무 명에게 물었어요.
+63. MARCUS: Leo has three kids. Ha-eun has loans. Jamal starts college. Money matters. But I asked twenty employees.
+    마커스: 레오는 아이가 셋. 하은은 대출. 자말은 대학에 가요. 돈은 중요해요. 하지만 직원 스무 명에게 물었어요.
 
 64. ELAINE: And?
     일레인: 그래서요?
@@ -246,11 +246,11 @@
 75. ELAINE: And what does?
     일레인: 그럼 뭐가 유혹이 돼요?
 
-76. NOAH: The four hundred. Ha-eun's loans. Leo's kids. Marcus's daughter.
-    노아: 400명이요. 하은의 대출. 레오의 아이들. 마커스의 딸.
+76. NOAH: The four hundred. Ha-eun's loans. Leo's kids. Marcus's son.
+    노아: 400명이요. 하은의 대출. 레오의 아이들. 마커스의 아들.
 
-77. MARCUS: Don't use my daughter as a reason, Noah. She'd hate that.
-    마커스: 내 딸을 이유로 쓰지 마요, 노아. 걔가 싫어할 거예요.
+77. MARCUS: Don't use my son as a reason, Noah. He'd hate that.
+    마커스: 내 아들을 이유로 쓰지 마요, 노아. 걔가 싫어할 거예요.
 
 78. NOAH: Fair. I'm sorry.
     노아: 맞아요. 미안해요.

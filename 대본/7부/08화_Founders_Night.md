@@ -142,8 +142,8 @@
 41. PRIYA: …Thank you for saying it.
     프리야: …말해 줘서 고마워요.
 
-42. MARCUS: Denise and I still have a mortgage. My daughter got into Rice. Do you know what Rice costs?
-    마커스: 데니스랑 난 아직 주택 대출이 있어요. 딸이 라이스 대학에 붙었어요. 라이스가 얼마인지 알아요?
+42. MARCUS: Denise and I still have a mortgage. Jamal got into Rice. Do you know what Rice costs?
+    마커스: 데니스랑 난 아직 주택 대출이 있어요. 자말이 라이스 대학에 붙었어요. 라이스가 얼마인지 알아요?
 
 43. NOAH: Congratulations. I didn't know she got in.
     노아: 축하해요. 합격한 줄 몰랐어요.
@@ -249,8 +249,8 @@
 76. ELENA: Then argue now. What do you want?
     엘레나: 그럼 지금 논쟁해요. 뭘 원해요?
 
-77. NOAH: I want to say no to Tom. And I want Ha-eun's loans paid. And Marcus's daughter at Rice.
-    노아: 톰에게 노라고 하고 싶어요. 그리고 하은의 대출이 갚아지길. 마커스 딸이 라이스에 가길.
+77. NOAH: I want to say no to Tom. And I want Ha-eun's loans paid. And Marcus's son at Rice.
+    노아: 톰에게 노라고 하고 싶어요. 그리고 하은의 대출이 갚아지길. 마커스 아들이 라이스에 가길.
 
 78. PRIYA: Those aren't opposites. You keep treating them like opposites.
     프리야: 그건 반대가 아니에요. 계속 반대인 것처럼 다루고 있어요.
@@ -296,8 +296,8 @@
 91. MARCUS: Up to fifteen percent of what's vested. Enough for loans. And tuition. Not enough to leave.
     마커스: 기득분의 최대 15%. 대출 갚을 만큼. 그리고 학비. 떠날 만큼은 아니고.
 
-92. NOAH: Ha-eun pays off her loans. Leo's kids. Your daughter goes to Rice. And we keep the company.
-    노아: 하은은 대출을 갚고. 레오의 아이들. 당신 딸은 라이스에 가고. 그리고 우린 회사를 지켜요.
+92. NOAH: Ha-eun pays off her loans. Leo's kids. Jamal goes to Rice. And we keep the company.
+    노아: 하은은 대출을 갚고. 레오의 아이들. 자말은 라이스에 가고. 그리고 우린 회사를 지켜요.
 
 93. ELENA: And Victoria? She's worried about Tom's price war in Korea.
     엘레나: 그럼 빅토리아는요? 한국에서 톰의 가격 전쟁을 걱정하잖아요.
