@@ -5,7 +5,7 @@
 > **표기 전용 정보 (낭독하지 않음)**
 > - 부/화: 1부 15화(1부 최종화) · 서사 기능: 이름의 두 얼굴 — 상표 충돌을 공존 합의로 풀고, "상자에 이름 = 법적 제조사"의 여덟 가지 책임을 확인, 원산지를 같은 크기로 넣은 첫 상자 시안
 > - 배경: Année 1, 7월 첫째 주 월요일 오전 9시 공유 사무실 → 오전 11시 변리사 사무실 → 오후 3시 화이트보드 → 오후 6시 상자 시안·오송 화상 → 토요일 오후 클뤼즈 제라르의 작업장
-> - 등장인물: Clémence, Bastien, Inès, Me Rachid Benali(변리사, conseil en propriété industrielle), Liane Ferrand(보르도 근처 비누 공방 「Liane」 대표, 전화), Seo Ji-hoon(화상), Gérard
+> - 등장인물: Clémence, Bastien, Inès, Me Rachid Lemaire(변리사, conseil en propriété industrielle), Liane Castagné(보르도 근처 비누 공방 「Liane」 대표, 전화), Seo Ji-hoon(화상), Gérard
 > - 비즈니스 스킬: 상표 선행 조사 결과 듣기, 선택지 비교, 상대에게 직접 전화로 먼저 알리기, 공존 합의, 책임 목록으로 결정하기
 > - 난이도: B1 · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
 > - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 18단어 이내 + 긴 턴 10~15회(30~40단어).
@@ -22,7 +22,7 @@ INES: Le kimchi est dans le frigo commun. Quelqu'un a déjà écrit « Qu'est-ce
 
 BASTIEN: J'ai écrit la réponse en dessous. « Un cadeau. Ne pas toucher. »
 
-CLEMENCE: J'ai un mail du conseil en propriété industrielle. Maître Benali. Il a fait la recherche sur le nom.
+CLEMENCE: J'ai un mail du conseil en propriété industrielle. Maître Lemaire. Il a fait la recherche sur le nom.
 
 INES: Et alors ? Liane est libre ?
 
@@ -36,13 +36,13 @@ INES: Des savons ? On ne vend pas de savons. Où est le problème ?
 
 BASTIEN: La confusion. Crème pour le visage, gel pour le visage. Un juge pourrait dire : trop proche.
 
-CLEMENCE: Benali nous reçoit à onze heures. Il dit : « Ne tombez pas amoureux du nom avant. »
+CLEMENCE: Lemaire nous reçoit à onze heures. Il dit : « Ne tombez pas amoureux du nom avant. »
 
 INES: Trop tard. Je l'aime déjà. Le président aussi l'aimait. Le ciel et la liane.
 
 BASTIEN: Moi, je l'aime raisonnablement. Comme tout.
 
-CLEMENCE: Et après Benali, Bastien, tu nous fais ton tableau. Celui que tu prépares depuis l'avion.
+CLEMENCE: Et après Lemaire, Bastien, tu nous fais ton tableau. Celui que tu prépares depuis l'avion.
 
 BASTIEN: Le tableau du fabricant. Vous allez le détester.
 
@@ -51,75 +51,75 @@ INES: On déteste tous tes tableaux. Et on les garde tous.
 
 ### 장면1 — 오전 11시, 변리사 사무실
 
-BENALI: Asseyez-vous. Je vais commencer par une leçon rapide sur les classes de marques. Ensuite, la mauvaise nouvelle.
+LEMAIRE: Asseyez-vous. Je vais commencer par une leçon rapide sur les classes de marques. Ensuite, la mauvaise nouvelle.
 
 CLEMENCE: Allez-y. On a l'habitude des mauvaises nouvelles.
 
-BENALI: Une marque est protégée pour des produits précis, rangés en classes. Votre voisine de Bordeaux est en classe trois : les cosmétiques. Vous, vous devez déposer en classe dix, les dispositifs médicaux, et probablement en classe cinq.
+LEMAIRE: Une marque est protégée pour des produits précis, rangés en classes. Votre voisine de Bordeaux est en classe trois : les cosmétiques. Vous, vous devez déposer en classe dix, les dispositifs médicaux, et probablement en classe cinq.
 
 INES: Donc on n'est pas dans la même classe. C'est une bonne nouvelle, non ?
 
-BENALI: C'est une demi-nouvelle. Les classes ne suffisent pas. Le juge regarde aussi si le public peut confondre.
+LEMAIRE: C'est une demi-nouvelle. Les classes ne suffisent pas. Le juge regarde aussi si le public peut confondre.
 
 BASTIEN: Un gel injecté par un médecin, et une crème vendue au marché. Le public est différent.
 
-BENALI: Les médecins, oui. Mais les patientes achètent des crèmes. Et elles entendent parler de votre gel. La propriétaire de la marque pourrait s'opposer à votre dépôt. Ou vous attaquer plus tard, quand vous serez connus.
+LEMAIRE: Les médecins, oui. Mais les patientes achètent des crèmes. Et elles entendent parler de votre gel. La propriétaire de la marque pourrait s'opposer à votre dépôt. Ou vous attaquer plus tard, quand vous serez connus.
 
 CLEMENCE: Quand on sera connus. Donc quand on aura le plus à perdre.
 
-BENALI: Exactement. Voilà pourquoi on règle ça maintenant, quand c'est encore petit.
+LEMAIRE: Exactement. Voilà pourquoi on règle ça maintenant, quand c'est encore petit.
 
 INES: Et quelles sont nos options ?
 
-BENALI: Trois. Un : changer de nom. Simple, pas cher, mais douloureux, je le vois à vos visages.
+LEMAIRE: Trois. Un : changer de nom. Simple, pas cher, mais douloureux, je le vois à vos visages.
 
 CLEMENCE: Très douloureux. Le nom est déjà sur nos cartes de visite. Et dans une lettre d'intention.
 
-BENALI: Deux : racheter sa marque. Possible, mais ça peut coûter cher si elle comprend votre projet.
+LEMAIRE: Deux : racheter sa marque. Possible, mais ça peut coûter cher si elle comprend votre projet.
 
 BASTIEN: Et trois ?
 
-BENALI: Trois : un accord de coexistence. Elle garde les cosmétiques, vous gardez les dispositifs médicaux. Chacun promet de ne jamais entrer dans le domaine de l'autre. C'est un contrat simple, et il protège les deux côtés, pour toujours.
+LEMAIRE: Trois : un accord de coexistence. Elle garde les cosmétiques, vous gardez les dispositifs médicaux. Chacun promet de ne jamais entrer dans le domaine de l'autre. C'est un contrat simple, et il protège les deux côtés, pour toujours.
 
 CLEMENCE: Ça me parle. Pourquoi elle accepterait ?
 
-BENALI: Parce que ça la protège aussi. Si vous devenez grands, personne ne pourra l'attaquer, elle.
+LEMAIRE: Parce que ça la protège aussi. Si vous devenez grands, personne ne pourra l'attaquer, elle.
 
 INES: Comment elle s'appelle, la propriétaire ?
 
-BENALI: Madame Liane Ferrand. La marque porte son prénom.
+LEMAIRE: Madame Liane Castagné. La marque porte son prénom.
 
 INES: Son prénom ! On a pris le prénom de quelqu'un.
 
 CLEMENCE: Maître, je peux l'appeler moi-même ? Avant les avocats ?
 
-BENALI: C'est inhabituel. Mais souvent efficace. Ne promettez rien d'écrit au téléphone.
+LEMAIRE: C'est inhabituel. Mais souvent efficace. Ne promettez rien d'écrit au téléphone.
 
 CLEMENCE: J'appelle maintenant. Mettez le haut-parleur, Bastien.
 
-FERRAND: Allô ? Savonnerie Liane, j'écoute.
+CASTAGNE: Allô ? Savonnerie Liane, j'écoute.
 
-CLEMENCE: Bonjour, madame Ferrand. Je m'appelle Clémence Arnaud. Je crée une entreprise qui s'appelle aussi Liane. Je voulais vous le dire moi-même. Nous démarrons à peine, et je préfère commencer honnêtement.
+CLEMENCE: Bonjour, madame Castagné. Je m'appelle Clémence Arnaud. Je crée une entreprise qui s'appelle aussi Liane. Je voulais vous le dire moi-même. Nous démarrons à peine, et je préfère commencer honnêtement.
 
-FERRAND: Aussi Liane ? Vous faites du savon ?
+CASTAGNE: Aussi Liane ? Vous faites du savon ?
 
 CLEMENCE: Non. Des gels injectables, pour les médecins. Rien à voir avec vos savons. Mais le nom est le même, et je ne voulais pas que vous l'appreniez par une lettre d'avocat.
 
-FERRAND: C'est gentil. Les gens ne téléphonent plus, aujourd'hui. Ils envoient des avocats.
+CASTAGNE: C'est gentil. Les gens ne téléphonent plus, aujourd'hui. Ils envoient des avocats.
 
 CLEMENCE: Nous voudrions signer un accord. Vous gardez les cosmétiques, nous les dispositifs médicaux. Chacun chez soi.
 
-FERRAND: Chacun chez soi. J'aime bien. Mon mari disait ça tout le temps. Il a choisi le nom de la savonnerie il y a trente ans, quand on a ouvert la boutique au marché.
+CASTAGNE: Chacun chez soi. J'aime bien. Mon mari disait ça tout le temps. Il a choisi le nom de la savonnerie il y a trente ans, quand on a ouvert la boutique au marché.
 
 INES: Il a donné votre prénom à la savonnerie ? C'est très romantique.
 
-FERRAND: Romantique et économique. Il n'a pas payé de graphiste. J'accepte, mademoiselle. À une condition.
+CASTAGNE: Romantique et économique. Il n'a pas payé de graphiste. J'accepte, mademoiselle. À une condition.
 
 CLEMENCE: Laquelle ?
 
-FERRAND: Vous ne vendrez jamais de savon. Et vous m'envoyez une boîte de votre gel. Vide. Pour ma vitrine.
+CASTAGNE: Vous ne vendrez jamais de savon. Et vous m'envoyez une boîte de votre gel. Vide. Pour ma vitrine.
 
-CLEMENCE: Une boîte vide, dans une vitrine de savons. Marché conclu, madame Ferrand.
+CLEMENCE: Une boîte vide, dans une vitrine de savons. Marché conclu, madame Castagné.
 
 
 ### 장면2 — 오후 3시, 공유 사무실 화이트보드
@@ -295,7 +295,7 @@ GERARD: Je note. Comme ton Bastien. Maintenant, goûtons ce kimchi.
 ### ③ 실무 템플릿 — 공존 합의 핵심 조항(초안)
 
 > **Accord de coexistence — « LIANE »**
-> 1. Mme Liane Ferrand (Savonnerie Liane) conserve l'usage exclusif de la marque pour les produits cosmétiques (classe 3).
+> 1. Mme Liane Castagné (Savonnerie Liane) conserve l'usage exclusif de la marque pour les produits cosmétiques (classe 3).
 > 2. Liane SAS utilise la marque uniquement pour des dispositifs médicaux et produits associés (classes 10 et 5), vendus aux professionnels de santé.
 > 3. Chaque partie s'interdit d'utiliser la marque dans le domaine de l'autre et de s'opposer aux dépôts de l'autre dans son propre domaine.
 > 4. Les parties coopèrent de bonne foi pour éviter toute confusion du public.
@@ -341,7 +341,7 @@ GERARD: Je note. Comme ton Bastien. Maintenant, goûtons ce kimchi.
 
 바스티앵: 그 밑에 내가 답을 썼어. 「선물. 손대지 마시오.」
 
-클레망스: 변리사한테서 메일 왔어. 베날리 변리사. 이름 조사를 해 줬어.
+클레망스: 변리사한테서 메일 왔어. 르메르 변리사. 이름 조사를 해 줬어.
 
 이네스: 그래서? 리안 써도 돼?
 
@@ -355,7 +355,7 @@ GERARD: Je note. Comme ton Bastien. Maintenant, goûtons ce kimchi.
 
 바스티앵: 혼동. 얼굴용 크림, 얼굴용 젤. 판사가 너무 비슷하다고 할 수 있어.
 
-클레망스: 베날리 변리사가 11시에 만나 준대. 「그 전에 이름과 사랑에 빠지지 마세요.」래.
+클레망스: 르메르 변리사가 11시에 만나 준대. 「그 전에 이름과 사랑에 빠지지 마세요.」래.
 
 이네스: 늦었어. 난 벌써 사랑에 빠졌어. 대표님도 좋아하셨고. 하늘과 덩굴.
 
@@ -370,75 +370,75 @@ GERARD: Je note. Comme ton Bastien. Maintenant, goûtons ce kimchi.
 
 ### 장면1 — 오전 11시, 변리사 사무실
 
-베날리: 앉으세요. 상표 분류에 대한 짧은 강의부터 하죠. 그다음에 나쁜 소식이요.
+르메르: 앉으세요. 상표 분류에 대한 짧은 강의부터 하죠. 그다음에 나쁜 소식이요.
 
 클레망스: 하세요. 나쁜 소식엔 익숙해요.
 
-베날리: 상표는 특정 상품에 대해 보호되고, 상품은 류(類)로 분류됩니다. 보르도의 이웃은 3류, 화장품이에요. 여러분은 10류, 의료기기로 출원해야 하고, 아마 5류도 필요할 겁니다.
+르메르: 상표는 특정 상품에 대해 보호되고, 상품은 류(類)로 분류됩니다. 보르도의 이웃은 3류, 화장품이에요. 여러분은 10류, 의료기기로 출원해야 하고, 아마 5류도 필요할 겁니다.
 
 이네스: 그러니까 같은 류가 아니네요. 좋은 소식 아니에요?
 
-베날리: 반쪽짜리 소식이에요. 류만으로는 부족해요. 판사는 대중이 혼동할 수 있는지도 봐요.
+르메르: 반쪽짜리 소식이에요. 류만으로는 부족해요. 판사는 대중이 혼동할 수 있는지도 봐요.
 
 바스티앵: 의사가 주사하는 젤과 시장에서 파는 크림. 대중이 달라요.
 
-베날리: 의사는 그렇죠. 하지만 환자들은 크림을 사요. 그리고 여러분의 젤 얘기를 듣게 되죠. 상표권자가 여러분의 출원에 이의를 제기할 수도 있어요. 아니면 나중에, 여러분이 유명해졌을 때 소송을 걸 수도 있고요.
+르메르: 의사는 그렇죠. 하지만 환자들은 크림을 사요. 그리고 여러분의 젤 얘기를 듣게 되죠. 상표권자가 여러분의 출원에 이의를 제기할 수도 있어요. 아니면 나중에, 여러분이 유명해졌을 때 소송을 걸 수도 있고요.
 
 클레망스: 유명해졌을 때. 그러니까 잃을 게 가장 많을 때.
 
-베날리: 바로 그거예요. 그래서 아직 작을 때 지금 정리하는 겁니다.
+르메르: 바로 그거예요. 그래서 아직 작을 때 지금 정리하는 겁니다.
 
 이네스: 그럼 우리 선택지는요?
 
-베날리: 세 가지. 하나, 이름을 바꾼다. 간단하고 싸지만 고통스럽죠. 얼굴에 다 보이네요.
+르메르: 세 가지. 하나, 이름을 바꾼다. 간단하고 싸지만 고통스럽죠. 얼굴에 다 보이네요.
 
 클레망스: 아주 고통스러워요. 이름이 이미 명함에 있어요. 그리고 의향서에도요.
 
-베날리: 둘, 상표를 사들인다. 가능하지만, 상대가 여러분 사업을 이해하면 비쌀 수 있어요.
+르메르: 둘, 상표를 사들인다. 가능하지만, 상대가 여러분 사업을 이해하면 비쌀 수 있어요.
 
 바스티앵: 그럼 셋은요?
 
-베날리: 셋, 공존 합의. 상대는 화장품을, 여러분은 의료기기를 가져요. 서로 상대 분야에 절대 들어가지 않기로 약속하는 거죠. 간단한 계약이고, 양쪽을 영원히 보호해요.
+르메르: 셋, 공존 합의. 상대는 화장품을, 여러분은 의료기기를 가져요. 서로 상대 분야에 절대 들어가지 않기로 약속하는 거죠. 간단한 계약이고, 양쪽을 영원히 보호해요.
 
 클레망스: 와닿네요. 그분이 왜 받아들일까요?
 
-베날리: 그분도 보호받으니까요. 여러분이 커지면 아무도 그분을 공격할 수 없게 돼요.
+르메르: 그분도 보호받으니까요. 여러분이 커지면 아무도 그분을 공격할 수 없게 돼요.
 
 이네스: 상표권자 이름이 뭐예요?
 
-베날리: 리안 페랑 부인이요. 상표가 그분 이름이에요.
+르메르: 리안 카스타녜 부인이요. 상표가 그분 이름이에요.
 
 이네스: 이름이라니! 우리가 누군가의 이름을 가져온 거네.
 
 클레망스: 변리사님, 제가 직접 전화해도 될까요? 변호사들보다 먼저요.
 
-베날리: 흔한 일은 아니지만, 효과적인 경우가 많아요. 전화로 문서상 약속은 하지 마세요.
+르메르: 흔한 일은 아니지만, 효과적인 경우가 많아요. 전화로 문서상 약속은 하지 마세요.
 
 클레망스: 지금 걸게요. 스피커 켜 줘, 바스티앵.
 
-페랑: 여보세요? 리안 비누 공방입니다.
+카스타녜: 여보세요? 리안 비누 공방입니다.
 
-클레망스: 안녕하세요, 페랑 부인. 클레망스 아르노라고 합니다. 저도 리안이라는 회사를 만들고 있어요. 직접 말씀드리고 싶었어요. 이제 막 시작하는 회사라, 정직하게 시작하고 싶어서요.
+클레망스: 안녕하세요, 카스타녜 부인. 클레망스 아르노라고 합니다. 저도 리안이라는 회사를 만들고 있어요. 직접 말씀드리고 싶었어요. 이제 막 시작하는 회사라, 정직하게 시작하고 싶어서요.
 
-페랑: 그쪽도 리안이요? 비누 만들어요?
+카스타녜: 그쪽도 리안이요? 비누 만들어요?
 
 클레망스: 아니요. 의사용 주사 젤이에요. 부인의 비누와는 아무 상관이 없어요. 하지만 이름이 같아서, 변호사 편지로 알게 되시는 건 원하지 않았어요.
 
-페랑: 친절하네요. 요즘 사람들은 전화를 안 해요. 변호사를 보내죠.
+카스타녜: 친절하네요. 요즘 사람들은 전화를 안 해요. 변호사를 보내죠.
 
 클레망스: 합의서를 쓰고 싶어요. 부인은 화장품을, 저희는 의료기기를. 각자 자기 자리에서요.
 
-페랑: 각자 자기 자리에서. 좋네요. 남편이 늘 하던 말이에요. 30년 전 시장에 가게를 열 때 남편이 공방 이름을 지었어요.
+카스타녜: 각자 자기 자리에서. 좋네요. 남편이 늘 하던 말이에요. 30년 전 시장에 가게를 열 때 남편이 공방 이름을 지었어요.
 
 이네스: 부인 이름을 공방에 붙이셨어요? 정말 낭만적이네요.
 
-페랑: 낭만적이고 경제적이었죠. 디자이너한테 돈을 안 냈으니까. 받아들일게요, 아가씨. 조건이 하나 있어요.
+카스타녜: 낭만적이고 경제적이었죠. 디자이너한테 돈을 안 냈으니까. 받아들일게요, 아가씨. 조건이 하나 있어요.
 
 클레망스: 뭔데요?
 
-페랑: 절대 비누를 팔지 말 것. 그리고 그쪽 젤 상자를 하나 보내 줘요. 빈 걸로. 내 진열장에 두게.
+카스타녜: 절대 비누를 팔지 말 것. 그리고 그쪽 젤 상자를 하나 보내 줘요. 빈 걸로. 내 진열장에 두게.
 
-클레망스: 비누 진열장에 빈 상자 하나. 거래 성사예요, 페랑 부인.
+클레망스: 비누 진열장에 빈 상자 하나. 거래 성사예요, 카스타녜 부인.
 
 
 ### 장면2 — 오후 3시, 공유 사무실 화이트보드
