@@ -9,7 +9,7 @@
 
 ## 진행 현황
 - [x] 기획서 v1
-- [ ] 1부 L'idée
+- [ ] 1부 L'idée (1화~)
 - [ ] 2부 Le contrat
 - [ ] 3부 Le lancement
 - [ ] 4부 La crise
