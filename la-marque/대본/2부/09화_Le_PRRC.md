@@ -3,14 +3,14 @@
 ## Le PRRC (규제 준수 책임자)
 
 > **표기 전용 정보 (낭독하지 않음)**
-> - 부/화: 2부 9화 · 서사 기능: 바스티앵의 도약 — PRRC는 "상시·지속" 가능해야 하므로 람베르 제약을 떠날지 결정. 부속서 XVI·공통 규격과 "사용 목적 한 문장"의 무게. 소피의 두 조건, 클레망스·이네스의 급여 유예. 들로름 미팅 5월 15일로 연기
+> - 부/화: 2부 9화 · 서사 기능: 바스티앵의 도약 — PRRC는 "상시·지속" 가능해야 하므로 베르네 제약을 떠날지 결정. 부속서 XVI·공통 규격과 "사용 목적 한 문장"의 무게. 소피의 두 조건, 클레망스·이네스의 급여 유예. 들로름 미팅 5월 15일로 연기
 > - 배경: Année 2, 3월 첫째 주 월요일 오전 9시 공유 사무실 → 오전 10시 화이트보드 → 같은 날 밤 10시 바스티앵의 집 부엌 → 다음 날 오전 9시 → 오후 5시
 > - 등장인물: Clémence, Bastien, Inès, Sophie Morel(바스티앵의 아내, 간호사 20년), Léo(바스티앵의 아들, 골키퍼)
 > - 비즈니스 스킬: 법적 역할의 책임 설명, 개인의 위험을 가족과 함께 결정하기, 조건을 걸고 수락하기, 팀이 비용을 나눠 지기
 > - 난이도: B1+ · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
 > - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 18단어 이내 + 긴 턴 10~15회(30~40단어). 문법 초점: 접속법(il faut que tu sois ici, c'est bien que ce soit écrit), 조건법(qui serait mieux que toi).
 > - vous/tu: 창업 3인·바스티앵 가족 tu.
-> - 복선 설치: **페이로의 질문 "PRRC는 누구, 계약은?" → 바스티앵은 아직 람베르 제약에서 주 3일(1부부터의 주 2일 체제) → PRRC는 "상시·지속" 필요(소기업은 외부 PRRC 가능, 비싸고 "우리 사람이 아님")** · **PRRC(제15조): 출하 전 로트 적합성, 기술 문서·적합성 선언 최신화, 중대 사고 기한 내 보고 / 유럽 DB에 이름 등록 / 자격: 과학 학위 + 규제·품질 1년(바스티앵 15년) / 직무 수행으로 불이익 금지 → 정관에도(안전 거부권과 함께)** · **부속서 XVI: 의료 목적 없는 제품(컬러 렌즈·레이저 제모기 — 이네스의 옛 제품·얼굴 필러) / "사용 목적 한 문장": 「주름 교정·볼륨 회복」 = 미용(부속서 XVI) vs 「질병으로 인한 볼륨 손실 치료」 = 의료 → 두 체계 동시 / 공통 규격 2022년 규정, 2023년 6월 적용(위험, 환자 정보, 임상 데이터)** · **결정: 처음엔 미용 목적만("증명할 수 있는 것만 쓴다") — 이네스의 "나중에" 대장(의료 목적·리도카인)** · 환자용 쉬운 설명서는 이네스 + 파브르 · **소피(간호사 20년, 결혼 16년): 대출 월 1,800유로, 저축 6개월, "당신은 서명이 아니라 드디어 혼자 책임지는 게 무섭다", "깔끔하게 무서워한다" / 조건: ①PRRC까지 보장하는 임원 배상책임보험 ②주 2회 저녁 8시 전 귀가(화·목 — 화요일은 레오의 축구, 골키퍼)** · 바스티앵: "무서운 건 환자 단 한 명", "람베르엔 앞에 열 명 뒤에 스무 명, 여기선 나뿐" · **결정 11번: 바스티앵 전일제 PRRC(람베르 3개월 예고), "제안자: 소피 모렐" / 클레망스 6월까지 무급, 이네스 2개월 급여 유예(주말 리옹 사촌 집) → 자금 7월 말까지("한 달 여유")** · "무서운 건 망설임이지 위험이 아니다" · **들로름 비서: 3월 14일 → 5월 15일, "공장을 보기 전엔 투자하지 않는다, 서류로라도" → 한울 감사 보고서 요구(→10화·11화)** · **오송 감사 4월 14~18일 확정, 정 대표 "문 세 개" 메모를 읽고 "오라"(→10화)**
+> - 복선 설치: **페이로의 질문 "PRRC는 누구, 계약은?" → 바스티앵은 아직 베르네 제약에서 주 3일(1부부터의 주 2일 체제) → PRRC는 "상시·지속" 필요(소기업은 외부 PRRC 가능, 비싸고 "우리 사람이 아님")** · **PRRC(제15조): 출하 전 로트 적합성, 기술 문서·적합성 선언 최신화, 중대 사고 기한 내 보고 / 유럽 DB에 이름 등록 / 자격: 과학 학위 + 규제·품질 1년(바스티앵 15년) / 직무 수행으로 불이익 금지 → 정관에도(안전 거부권과 함께)** · **부속서 XVI: 의료 목적 없는 제품(컬러 렌즈·레이저 제모기 — 이네스의 옛 제품·얼굴 필러) / "사용 목적 한 문장": 「주름 교정·볼륨 회복」 = 미용(부속서 XVI) vs 「질병으로 인한 볼륨 손실 치료」 = 의료 → 두 체계 동시 / 공통 규격 2022년 규정, 2023년 6월 적용(위험, 환자 정보, 임상 데이터)** · **결정: 처음엔 미용 목적만("증명할 수 있는 것만 쓴다") — 이네스의 "나중에" 대장(의료 목적·리도카인)** · 환자용 쉬운 설명서는 이네스 + 파브르 · **소피(간호사 20년, 결혼 16년): 대출 월 1,800유로, 저축 6개월, "당신은 서명이 아니라 드디어 혼자 책임지는 게 무섭다", "깔끔하게 무서워한다" / 조건: ①PRRC까지 보장하는 임원 배상책임보험 ②주 2회 저녁 8시 전 귀가(화·목 — 화요일은 레오의 축구, 골키퍼)** · 바스티앵: "무서운 건 환자 단 한 명", "베르네엔 앞에 열 명 뒤에 스무 명, 여기선 나뿐" · **결정 11번: 바스티앵 전일제 PRRC(베르네 3개월 예고), "제안자: 소피 모렐" / 클레망스 6월까지 무급, 이네스 2개월 급여 유예(주말 리옹 사촌 집) → 자금 7월 말까지("한 달 여유")** · "무서운 건 망설임이지 위험이 아니다" · **들로름 비서: 3월 14일 → 5월 15일, "공장을 보기 전엔 투자하지 않는다, 서류로라도" → 한울 감사 보고서 요구(→10화·11화)** · **오송 감사 4월 14~18일 확정, 정 대표 "문 세 개" 메모를 읽고 "오라"(→10화)**
 
 ---
 
@@ -30,17 +30,17 @@ BASTIEN: C'est moi, évidemment. Je suis le seul ici avec le bon diplôme et l'e
 
 CLEMENCE: Alors pourquoi Peyrot demande « quel est son contrat » ?
 
-BASTIEN: Parce que je travaille encore trois jours par semaine chez Lambert Pharma. Elle a lu mon CV.
+BASTIEN: Parce que je travaille encore trois jours par semaine chez Vernet Pharma. Elle a lu mon CV.
 
 INES: Et alors ? Deux jours ici, trois là-bas. Ça marche depuis un an.
 
 BASTIEN: Pour un projet, ça marche. Pour un PRRC, le règlement dit « en permanence et de manière continue ».
 
-CLEMENCE: En permanence. Même le mardi, quand tu es chez Lambert ?
+CLEMENCE: En permanence. Même le mardi, quand tu es chez Vernet ?
 
 BASTIEN: Surtout le mardi. Un incident grave n'attend pas mon jour de présence.
 
-INES: Donc il faut que tu sois ici tout le temps. Que tu quittes Lambert.
+INES: Donc il faut que tu sois ici tout le temps. Que tu quittes Vernet.
 
 BASTIEN: Ou qu'on trouve un PRRC externe. Il existe des consultants. Ça coûte cher, et ce n'est pas nous.
 
@@ -113,7 +113,7 @@ BASTIEN: Le registre des « plus tard » devient long.
 
 CLEMENCE: C'est notre liste de rêves. Bien rangée.
 
-INES: Revenons au PRRC. Tu vas quitter Lambert, Bastien ?
+INES: Revenons au PRRC. Tu vas quitter Vernet, Bastien ?
 
 BASTIEN: Je ne sais pas. J'ai deux enfants, un crédit, et un CDI. Je dois en parler à Sophie.
 
@@ -126,7 +126,7 @@ BASTIEN: Pas seul. C'est la première fois qu'on me dit ça au travail.
 
 SOPHIE: Les enfants dorment. Tu as ta tête des mauvais jours. Raconte.
 
-BASTIEN: Liane a besoin d'un PRRC à plein temps. Ça veut dire quitter Lambert. Avant la levée de fonds.
+BASTIEN: Liane a besoin d'un PRRC à plein temps. Ça veut dire quitter Vernet. Avant la levée de fonds.
 
 SOPHIE: Avant la levée de fonds. Donc sans salaire sûr.
 
@@ -148,9 +148,9 @@ SOPHIE: De quoi ?
 
 BASTIEN: D'une patiente. D'une seule. Que je ne connaîtrai jamais, et qui aura un problème à cause d'un lot que j'ai signé. Une seule personne, et ce serait déjà trop pour moi.
 
-SOPHIE: Chez Lambert, tu signes aussi des lots. Depuis quinze ans.
+SOPHIE: Chez Vernet, tu signes aussi des lots. Depuis quinze ans.
 
-BASTIEN: Chez Lambert, il y a dix personnes avant moi, et vingt après. Ici, il n'y a que moi.
+BASTIEN: Chez Vernet, il y a dix personnes avant moi, et vingt après. Ici, il n'y a que moi.
 
 SOPHIE: Tu es la personne la plus prudente que je connaisse. Tu vérifies trois fois la porte.
 
@@ -187,7 +187,7 @@ LEO: Papa ? Maman ? Pourquoi vous ne dormez pas ?
 
 ### 절정·전환 — 다음 날 오전 9시, 공유 사무실
 
-BASTIEN: Sophie et moi, on a décidé. Je démissionne de chez Lambert. Trois mois de préavis.
+BASTIEN: Sophie et moi, on a décidé. Je démissionne de chez Vernet. Trois mois de préavis.
 
 INES: Bastien ! Tu es sûr ? Avec le crédit, les enfants ?
 
@@ -209,7 +209,7 @@ INES: Léo joue au foot ? À quel poste ?
 
 BASTIEN: Gardien. Il vérifie trois fois que le ballon n'entre pas.
 
-INES: Et ton salaire ? Avant la levée, on ne peut pas te payer comme Lambert.
+INES: Et ton salaire ? Avant la levée, on ne peut pas te payer comme Vernet.
 
 CLEMENCE: Moi, je ne me paie pas jusqu'en juin. Bastien prend un salaire tout de suite. Petit, mais vrai.
 
@@ -350,17 +350,17 @@ INES: Et Bastien rentre avant vingt heures le mardi et le jeudi. N'oublie pas.
 
 클레망스: 그럼 페이로 씨는 왜 「계약은 어떻게 되나요」라고 묻는 거야?
 
-바스티앵: 내가 아직 일주일에 사흘을 람베르 제약에서 일하니까. 내 이력서를 읽었대.
+바스티앵: 내가 아직 일주일에 사흘을 베르네 제약에서 일하니까. 내 이력서를 읽었대.
 
 이네스: 그래서? 여기 이틀, 저기 사흘. 1년 동안 잘 됐잖아.
 
 바스티앵: 프로젝트로는 돼. PRRC로는, 규정이 「상시적이고 지속적으로」라고 해.
 
-클레망스: 상시적으로. 람베르에 있는 화요일에도?
+클레망스: 상시적으로. 베르네에 있는 화요일에도?
 
 바스티앵: 화요일일수록. 중대 사고는 내 출근일을 기다려 주지 않아.
 
-이네스: 그러니까 네가 항상 여기 있어야 한다는 거네. 람베르를 그만둬야 한다는 거고.
+이네스: 그러니까 네가 항상 여기 있어야 한다는 거네. 베르네를 그만둬야 한다는 거고.
 
 바스티앵: 아니면 외부 PRRC를 구하든가. 컨설턴트들이 있어. 비싸고, 우리 사람이 아니지.
 
@@ -433,7 +433,7 @@ INES: Et Bastien rentre avant vingt heures le mardi et le jeudi. N'oublie pas.
 
 클레망스: 우리의 꿈 목록이야. 잘 정리된.
 
-이네스: PRRC 얘기로 돌아가자. 람베르 그만둘 거야, 바스티앵?
+이네스: PRRC 얘기로 돌아가자. 베르네 그만둘 거야, 바스티앵?
 
 바스티앵: 모르겠어. 아이 둘, 대출 하나, 정규직. 소피랑 얘기해야 해.
 
@@ -446,7 +446,7 @@ INES: Et Bastien rentre avant vingt heures le mardi et le jeudi. N'oublie pas.
 
 소피: 애들 잔다. 안 좋은 날 얼굴이네. 말해 봐.
 
-바스티앵: 리안에 전일제 PRRC가 필요해. 람베르를 그만둬야 한다는 뜻이야. 투자 유치 전에.
+바스티앵: 리안에 전일제 PRRC가 필요해. 베르네를 그만둬야 한다는 뜻이야. 투자 유치 전에.
 
 소피: 투자 유치 전에. 그러니까 확실한 월급 없이.
 
@@ -468,9 +468,9 @@ INES: Et Bastien rentre avant vingt heures le mardi et le jeudi. N'oublie pas.
 
 바스티앵: 환자 한 명. 단 한 명. 내가 절대 만나지 못할, 내가 서명한 로트 때문에 문제가 생길 사람. 단 한 사람이어도 나한텐 이미 너무 많아.
 
-소피: 람베르에서도 로트에 서명하잖아. 15년째.
+소피: 베르네에서도 로트에 서명하잖아. 15년째.
 
-바스티앵: 람베르에선 내 앞에 열 명, 뒤에 스무 명이 있어. 여기선 나뿐이야.
+바스티앵: 베르네에선 내 앞에 열 명, 뒤에 스무 명이 있어. 여기선 나뿐이야.
 
 소피: 당신은 내가 아는 가장 신중한 사람이야. 문 잠갔는지 세 번 확인하잖아.
 
@@ -507,7 +507,7 @@ INES: Et Bastien rentre avant vingt heures le mardi et le jeudi. N'oublie pas.
 
 ### 절정·전환 — 다음 날 오전 9시, 공유 사무실
 
-바스티앵: 소피랑 결정했어. 람베르를 그만둘게. 예고 기간 3개월.
+바스티앵: 소피랑 결정했어. 베르네를 그만둘게. 예고 기간 3개월.
 
 이네스: 바스티앵! 확실해? 대출이랑 애들이랑?
 
@@ -529,7 +529,7 @@ INES: Et Bastien rentre avant vingt heures le mardi et le jeudi. N'oublie pas.
 
 바스티앵: 골키퍼. 공이 안 들어갔는지 세 번 확인해.
 
-이네스: 그럼 월급은? 투자 전에는 람베르만큼 못 줘.
+이네스: 그럼 월급은? 투자 전에는 베르네만큼 못 줘.
 
 클레망스: 나는 6월까지 월급 안 받을게. 바스티앵은 지금부터 월급을 받아. 적지만, 진짜로.
 
