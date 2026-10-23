@@ -10,7 +10,7 @@
 > - 난이도: B2 · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
 > - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 18단어 이내 + 긴 턴 10~15회(30~40단어). 문법 초점: 부정·제한(ne… que, ne… jamais), 수동(est soumise à), 대명사 le/la/les 반복.
 > - vous/tu: 창업 3인·카미유 tu, 쥘리앵 → 창업자·카미유 vous.
-> - 복선 설치: **10개 차이 해결: 학회 시연용 주사기 10개("시연용" 라벨 두 번)를 창고가 판매 가능 재고로 집계 → 출고 정지, 별도 위치·"판매 불가"·추적 폐기(표 61번째 줄)** · **이네스 시안 «Le gel coréen le plus sûr de France. Sans douleur. Résultat naturel garanti.» → 카미유 "하나만 남긴다: «Liane.»" — 최상급(비교 연구 없음, "추측"), 규정상 없는 성능 표시 금지, "통증 없음"(가르니에 "따끔"), "보장"(결과가 아니라 적합한 제품을 보장), "자연스러운"은 주관 / 전후 사진: 가르니에 SNS 거부 + 서면 동의가 있어도 결과 약속** · **ANSM: 필러 대중 광고 = 사전 허가(약 2개월) / 의료인 대상 = 사전 허가 불필요, 정확·설명서 일치·필수 표기(기기명·용도·«Lire attentivement la notice»·CE·제조사) "읽을 수 없는 표기는 없는 표기"** · **고백: 일요일 21시 스토리(시연 접시 사진 + «Le gel le plus sûr de France est réversible en dix-huit minutes.») 조회 2,300, 메시지 40(환자 30이 시술처 문의) → 월요일 10시 12분 삭제, 캡처, 대장, 중립 답변 «Seul votre médecin peut vous conseiller. Liane ne recommande aucun praticien.»("우린 예약 대행사가 아니다"). 바스티앵: ANSM 페랑(우리 카테고리 감시)을 처음 언급 — "그날 그의 서류철에 우리 스토리가 없길"(→10화)** · **결정 28번: 모든 외부 커뮤니케이션은 게시 전 바스티앵/카미유 검토(클레망스의 링크드인 포함 — "대표의 문장 = 리안의 문장")** · **카미유 3가지: 의사 대상 캠페인(학회 명함 214 중 수신 동의 140) / 대중 캠페인 허가 신청 / 판매 없는 정보 콘텐츠. 클레망스: «Avant une injection, demandez à votre médecin d'où vient le gel.» + 이름·표기 → "광고이니 광고로 신청, 위선 없이, ANSM이 판단", 비교 광고 금지("누구에 대해서도 한마디도")** · 지표: "포스터가 아니라 교육받은 의사로, 아니면 못 채운다 — 못 채우면 위원회 첫 페이지에". 답장받은 환자 «Personne ne m'avait jamais dit ça.» → "이미 시작된 캠페인, 실수로". 이네스 포스트잇 «Relire avant de poster.»
+> - 복선 설치: **10개 차이 해결: 학회 시연용 주사기 10개("시연용" 라벨 두 번)를 창고가 판매 가능 재고로 집계 → 출고 정지, 별도 위치·"판매 불가"·추적 폐기(표 61번째 줄)** · **이네스 시안 «Le gel coréen le plus sûr de France. Sans douleur. Résultat naturel garanti.» → 카미유 "하나만 남긴다: «Liane.»" — 최상급(비교 연구 없음, "추측"), 규정상 없는 성능 표시 금지, "통증 없음"(베르탱 "따끔"), "보장"(결과가 아니라 적합한 제품을 보장), "자연스러운"은 주관 / 전후 사진: 베르탱 SNS 거부 + 서면 동의가 있어도 결과 약속** · **ANSM: 필러 대중 광고 = 사전 허가(약 2개월) / 의료인 대상 = 사전 허가 불필요, 정확·설명서 일치·필수 표기(기기명·용도·«Lire attentivement la notice»·CE·제조사) "읽을 수 없는 표기는 없는 표기"** · **고백: 일요일 21시 스토리(시연 접시 사진 + «Le gel le plus sûr de France est réversible en dix-huit minutes.») 조회 2,300, 메시지 40(환자 30이 시술처 문의) → 월요일 10시 12분 삭제, 캡처, 대장, 중립 답변 «Seul votre médecin peut vous conseiller. Liane ne recommande aucun praticien.»("우린 예약 대행사가 아니다"). 바스티앵: ANSM 페랑(우리 카테고리 감시)을 처음 언급 — "그날 그의 서류철에 우리 스토리가 없길"(→10화)** · **결정 28번: 모든 외부 커뮤니케이션은 게시 전 바스티앵/카미유 검토(클레망스의 링크드인 포함 — "대표의 문장 = 리안의 문장")** · **카미유 3가지: 의사 대상 캠페인(학회 명함 214 중 수신 동의 140) / 대중 캠페인 허가 신청 / 판매 없는 정보 콘텐츠. 클레망스: «Avant une injection, demandez à votre médecin d'où vient le gel.» + 이름·표기 → "광고이니 광고로 신청, 위선 없이, ANSM이 판단", 비교 광고 금지("누구에 대해서도 한마디도")** · 지표: "포스터가 아니라 교육받은 의사로, 아니면 못 채운다 — 못 채우면 위원회 첫 페이지에". 답장받은 환자 «Personne ne m'avait jamais dit ça.» → "이미 시작된 캠페인, 실수로". 이네스 포스트잇 «Relire avant de poster.»
 
 ---
 
@@ -73,7 +73,7 @@ BASTIEN: Et le règlement interdit de prêter au dispositif des performances qu'
 
 INES: D'accord. « Sans douleur » ?
 
-CAMILLE: Sans lidocaïne, et sans douleur ? Madame Garnier a dit « ça pique » devant trois cents médecins.
+CAMILLE: Sans lidocaïne, et sans douleur ? Madame Bertin a dit « ça pique » devant trois cents médecins.
 
 INES: Ça pique un peu. Ce n'est pas vraiment de la douleur.
 
@@ -89,9 +89,9 @@ INES: Il me reste « Liane » et une jolie photo. Ça ne vend pas grand-chose.
 
 CAMILLE: Parle-moi de la photo.
 
-INES: Une photo de la démonstration. Le visage de madame Garnier, avant, et puis après.
+INES: Une photo de la démonstration. Le visage de madame Bertin, avant, et puis après.
 
-CLEMENCE: Inès. Madame Garnier a rayé les réseaux sociaux de son consentement. Sa fille est avocate.
+CLEMENCE: Inès. Madame Bertin a rayé les réseaux sociaux de son consentement. Sa fille est avocate.
 
 INES: Je sais. Je ne l'ai pas utilisée. Je voulais juste montrer que j'y avais pensé.
 
@@ -396,7 +396,7 @@ CLEMENCE: Colle-le à l'intérieur de la coque. Il restera plus longtemps qu'une
 
 이네스: 알았어. 「통증 없음」은?
 
-카미유: 리도카인도 없는데 통증도 없다고? 가르니에 부인이 의사 3백 명 앞에서 「따끔하다」고 했잖아.
+카미유: 리도카인도 없는데 통증도 없다고? 베르탱 부인이 의사 3백 명 앞에서 「따끔하다」고 했잖아.
 
 이네스: 조금 따끔한 거지. 진짜 통증은 아니야.
 
@@ -412,9 +412,9 @@ CLEMENCE: Colle-le à l'intérieur de la coque. Il restera plus longtemps qu'une
 
 카미유: 사진 얘기해 봐.
 
-이네스: 시연 사진이야. 가르니에 부인 얼굴, 전, 그리고 후.
+이네스: 시연 사진이야. 베르탱 부인 얼굴, 전, 그리고 후.
 
-클레망스: 이네스. 가르니에 부인은 동의서에서 소셜 미디어를 지웠어. 딸이 변호사야.
+클레망스: 이네스. 베르탱 부인은 동의서에서 소셜 미디어를 지웠어. 딸이 변호사야.
 
 이네스: 알아. 안 썼어. 생각은 했다는 걸 보여 주고 싶었을 뿐이야.
 

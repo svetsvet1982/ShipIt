@@ -5,12 +5,12 @@
 > **표기 전용 정보 (낭독하지 않음)**
 > - 부/화: 3부 4화 · 서사 기능: 지훈의 확인(옹벨은 고객 아님, 2년 전 방문 거절) → 파브르의 라이브 시연. 체외 히알루로니다아제 용해가 "10분" 약속을 넘기고, 파브르가 3백 명 앞에서 «Je me suis trompée» — 18분이라는 숫자가 신뢰가 됨
 > - 배경: Année 3, 10월 첫째 주 금요일 아침 8시(서울 오후 3시) 학회 카페 통화 → 토요일 아침 9시 30분 준비실 → 오전 11시 시연장 → 오전 11시 11분 → 정오 부스
-> - 등장인물: Clémence, Bastien, Inès, Jihoon(전화), Dr Hélène Fabre, Mme Odile Garnier(61, 파브르의 환자), Dr Olivier Dumas
+> - 등장인물: Clémence, Bastien, Inès, Jihoon(전화), Dr Hélène Fabre, Mme Odile Bertin(61, 파브르의 환자), Dr Olivier Dumas
 > - 비즈니스 스킬: 시연의 독립성(환자는 의사가 고름), 동의서·초상권, 경쟁 제품·의약품 언급 금지, 범위로 말하기, 공개적으로 오류 인정
 > - 난이도: B2 · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
 > - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 18단어 이내 + 긴 턴 10~15회(30~40단어). 문법 초점: 반과거/복합과거로 오류 인정(je me suis trompée, je me trompais), quoi qu'il arrive, plus… plus….
 > - vous/tu: 의사·환자 vous. 클레망스–지훈 tu. 창업 3인 tu.
-> - 복선 설치: **지훈(금요일 아침, 서울 오후 3시): 전화 전에 시스템 확인 — "옹벨은 고객 아님(주문·계약 없음), 메일로 확인". 라콩브는 2년 전 유통업자와 오송 방문 → 정 대표 거절("너무 서두르고, 가격 질문만, 세척 질문 0" — 바스티앵은 첫날 세척을 물었음). "독점은 연 2만 개"(→4부 8화: 직접이 아닌 경로)** · **가르니에 부인(61, 우체국 창구 30년, 파브르 환자 8년): 파브르가 직접 고름(위원회 규칙 "리안은 환자를 고르지 않는다"), 동의서 2장(시술·초상권) — 변호사 딸이 SNS 게시 조항 삭제 → 강당에서만** · **시연 설계: Volume 양쪽 광대(한쪽 1 mL 이하, 캐뉼라) + 체외 가역성(접시에 젤 + 효소, 끊김 없는 클로즈업, 2번 화면). 히알루로니다아제 = 의약품, 의사가 처방·사용, 리안은 판매·홍보·브랜드 언급 안 함** · **바스티앵 "10~30분 범위" 제안 → 파브르 "범위는 망설임처럼 들린다, 10분"(Souple로만 테스트) / 클레망스 "바스티앵은 숫자에 거의 틀리지 않는다" → 파브르 "거의. 절대가 아니라." / 파브르: 클레망스는 무대 X("브랜드가 아니라 의사를 보게")** · **시연: 관계 공개로 시작, 혈관 폐색 징후 + 코팅 응급 안내문(쿠르투아와 작성), "리도카인 버전 아직 허가 안 됨"(응우옌 끄덕임) → 10분에 젤이 남아 있음 → 뒤마 "이론상으로만 가역적?" → 가르니에 "뺄 수 있어요, 없어요?" → 파브르 «Oui. Mais pas en dix minutes… Je me suis trompée.» → "숫자를 지어내지 않겠다", 바스티앵은 스톱워치에 손대지 않음 → 18분 완전 용해 → "망설임처럼 들리는 건 범위가 아니라 틀린 숫자" → "10분에 화면을 끄면?" "여러분이 언젠가 시계를 볼 테니까" → 박수("젤이 아니라 숫자에")** · **결과: 확정 주문 12건(응우옌 10개, 광대용). 교육 자료 "체외 용해 10~25분, Volume 더 김". 라콩브는 11분에 퇴장 — "10분의 침묵"만 봄(→소문). 파브르 "자존심 때문" "청중은 넘친 8분을 기억한다". 가르니에 "발표자" 배지 2개**
+> - 복선 설치: **지훈(금요일 아침, 서울 오후 3시): 전화 전에 시스템 확인 — "옹벨은 고객 아님(주문·계약 없음), 메일로 확인". 라콩브는 2년 전 유통업자와 오송 방문 → 정 대표 거절("너무 서두르고, 가격 질문만, 세척 질문 0" — 바스티앵은 첫날 세척을 물었음). "독점은 연 2만 개"(→4부 8화: 직접이 아닌 경로)** · **베르탱 부인(61, 우체국 창구 30년, 파브르 환자 8년): 파브르가 직접 고름(위원회 규칙 "리안은 환자를 고르지 않는다"), 동의서 2장(시술·초상권) — 변호사 딸이 SNS 게시 조항 삭제 → 강당에서만** · **시연 설계: Volume 양쪽 광대(한쪽 1 mL 이하, 캐뉼라) + 체외 가역성(접시에 젤 + 효소, 끊김 없는 클로즈업, 2번 화면). 히알루로니다아제 = 의약품, 의사가 처방·사용, 리안은 판매·홍보·브랜드 언급 안 함** · **바스티앵 "10~30분 범위" 제안 → 파브르 "범위는 망설임처럼 들린다, 10분"(Souple로만 테스트) / 클레망스 "바스티앵은 숫자에 거의 틀리지 않는다" → 파브르 "거의. 절대가 아니라." / 파브르: 클레망스는 무대 X("브랜드가 아니라 의사를 보게")** · **시연: 관계 공개로 시작, 혈관 폐색 징후 + 코팅 응급 안내문(쿠르투아와 작성), "리도카인 버전 아직 허가 안 됨"(응우옌 끄덕임) → 10분에 젤이 남아 있음 → 뒤마 "이론상으로만 가역적?" → 베르탱 "뺄 수 있어요, 없어요?" → 파브르 «Oui. Mais pas en dix minutes… Je me suis trompée.» → "숫자를 지어내지 않겠다", 바스티앵은 스톱워치에 손대지 않음 → 18분 완전 용해 → "망설임처럼 들리는 건 범위가 아니라 틀린 숫자" → "10분에 화면을 끄면?" "여러분이 언젠가 시계를 볼 테니까" → 박수("젤이 아니라 숫자에")** · **결과: 확정 주문 12건(응우옌 10개, 광대용). 교육 자료 "체외 용해 10~25분, Volume 더 김". 라콩브는 11분에 퇴장 — "10분의 침묵"만 봄(→소문). 파브르 "자존심 때문" "청중은 넘친 8분을 기억한다". 베르탱 "발표자" 배지 2개**
 
 ---
 
@@ -51,9 +51,9 @@ JIHOON: Dis au docteur Fabre bonne chance pour demain. Ici, toute l'usine veut v
 
 ### 장면1 — 토요일 아침 9시 30분, 시연장 뒤 준비실
 
-FABRE: Bonjour à tous. Je vous présente madame Garnier, ma patiente depuis huit ans. Elle a accepté de venir aujourd'hui, et je tiens à le dire tout de suite : c'est moi qui l'ai choisie, personne d'autre, et sans rien vous demander.
+FABRE: Bonjour à tous. Je vous présente madame Bertin, ma patiente depuis huit ans. Elle a accepté de venir aujourd'hui, et je tiens à le dire tout de suite : c'est moi qui l'ai choisie, personne d'autre, et sans rien vous demander.
 
-GARNIER: Bonjour. Soixante et un ans, retraitée de la poste, et première fois devant trois cents médecins.
+BERTIN: Bonjour. Soixante et un ans, retraitée de la poste, et première fois devant trois cents médecins.
 
 CLEMENCE: Bonjour, madame. Merci d'être là. Nous ne vous avions jamais rencontrée.
 
@@ -61,7 +61,7 @@ FABRE: Exactement. Règle du comité : Liane ne choisit pas les patients.
 
 BASTIEN: Le consentement est signé ? Pour l'acte, et pour l'image ?
 
-GARNIER: Deux formulaires. J'ai tout lu. Ma fille est avocate, elle a tout relu.
+BERTIN: Deux formulaires. J'ai tout lu. Ma fille est avocate, elle a tout relu.
 
 FABRE: Elle a même rayé une phrase. La diffusion sur les réseaux sociaux. Seulement la salle, seulement aujourd'hui.
 
@@ -71,7 +71,7 @@ FABRE: Le programme. Je traite les deux pommettes avec le Volume. Pas plus d'un 
 
 INES: Et la réversibilité ? Le programme dit « démonstration de réversibilité ».
 
-FABRE: Je ne vais pas injecter madame Garnier pour la dissoudre ensuite. Ce serait absurde, et contraire à l'éthique.
+FABRE: Je ne vais pas injecter madame Bertin pour la dissoudre ensuite. Ce serait absurde, et contraire à l'éthique.
 
 BASTIEN: Donc la démonstration de réversibilité se fait in vitro. Une goutte de gel Volume dans une coupelle, l'enzyme par-dessus, et une caméra qui filme tout en gros plan, sans coupure, du début à la fin.
 
@@ -99,11 +99,11 @@ CLEMENCE: Docteure, c'est vous qui décidez. Mais Bastien a rarement tort sur le
 
 FABRE: Rarement, oui. Pas jamais. Dix minutes.
 
-GARNIER: Excusez-moi. Moi, je dois faire quoi pendant les dix minutes ? Sourire ?
+BERTIN: Excusez-moi. Moi, je dois faire quoi pendant les dix minutes ? Sourire ?
 
 FABRE: Respirer. Et me dire si vous avez mal. Vraiment mal, pas poliment mal.
 
-GARNIER: J'ai travaillé trente ans au guichet. Je sais dire quand quelque chose ne va pas.
+BERTIN: J'ai travaillé trente ans au guichet. Je sais dire quand quelque chose ne va pas.
 
 INES: La salle est pleine. Ils ont ajouté des chaises au fond.
 
@@ -132,9 +132,9 @@ INES: Elle le fait vraiment. Même ici. Même devant tout le monde.
 
 CLEMENCE: Chut. Écoute la salle. Personne ne parle.
 
-FABRE: Madame Garnier, ma patiente. Objectif : un peu de soutien aux pommettes. Rien de plus.
+FABRE: Madame Bertin, ma patiente. Objectif : un peu de soutien aux pommettes. Rien de plus.
 
-GARNIER: Mon visage me va très bien. Je veux juste avoir l'air moins fatiguée que mes petits-enfants.
+BERTIN: Mon visage me va très bien. Je veux juste avoir l'air moins fatiguée que mes petits-enfants.
 
 FABRE: Canule, point d'entrée unique, injection lente. Je regarde la peau, pas l'écran.
 
@@ -142,7 +142,7 @@ BASTIEN: Écran deux : le gel Volume dans la coupelle. Enzyme ajoutée. Chronom�
 
 INES: Il y a des gens qui filment la coupelle avec leur téléphone. C'est autorisé ?
 
-CLEMENCE: La coupelle, oui. Madame Garnier, non. Fabre l'a dit au début.
+CLEMENCE: La coupelle, oui. Madame Bertin, non. Fabre l'a dit au début.
 
 FABRE: Pendant que j'injecte, une question me vient toujours. « Et si ça tourne mal ? » Alors parlons-en. Toute injection de gel peut un jour toucher un vaisseau. Avec n'importe quelle marque. Le signe : une peau qui blanchit, une douleur anormale.
 
@@ -158,9 +158,9 @@ FABRE: Voici la fiche d'urgence, plastifiée, dans chaque boîte. Les signes, le
 
 BASTIEN: Chronomètre : cinq minutes. Le gel commence à perdre sa forme sur les bords.
 
-FABRE: Côté gauche terminé. Madame Garnier, comment ça va ?
+FABRE: Côté gauche terminé. Madame Bertin, comment ça va ?
 
-GARNIER: Ça pique un peu. Comme une prise de sang. Pas de quoi déranger trois cents personnes.
+BERTIN: Ça pique un peu. Comme une prise de sang. Pas de quoi déranger trois cents personnes.
 
 INES: Elle est formidable. Dommage, pas de vidéo.
 
@@ -191,11 +191,11 @@ DUMAS: Docteure, une question du fond. Votre gel est réversible, ou il est rév
 
 FABRE: Bonne question. Et je vous dois une réponse exacte, pas une réponse confortable.
 
-GARNIER: Je peux parler ? C'est mon visage, après tout, ça m'intéresse aussi.
+BERTIN: Je peux parler ? C'est mon visage, après tout, ça m'intéresse aussi.
 
 FABRE: Allez-y, madame. Vous avez plus de droits que moi sur cette question.
 
-GARNIER: Si un jour je n'aime pas le résultat, on peut l'enlever, oui ou non ?
+BERTIN: Si un jour je n'aime pas le résultat, on peut l'enlever, oui ou non ?
 
 FABRE: Oui, madame. Mais pas en dix minutes, comme je l'ai annoncé tout à l'heure. Je me suis trompée. J'ai testé le Souple au cabinet, pas le Volume. Et le Volume est plus réticulé, donc plus lent à dissoudre.
 
@@ -217,7 +217,7 @@ INES: Elle le cite. Bastien, elle te cite devant toute la salle.
 
 BASTIEN: Je ne touche pas au chronomètre. Quinze minutes. Il ne reste presque rien.
 
-GARNIER: Donc, si je comprends bien, c'est réversible, mais il faut être patient. Comme mon mari.
+BERTIN: Donc, si je comprends bien, c'est réversible, mais il faut être patient. Comme mon mari.
 
 DUMAS: Docteure, une dernière. Pourquoi ne pas couper l'écran, à dix minutes ? Personne ne l'aurait su.
 
@@ -231,11 +231,11 @@ FABRE: Dix-huit minutes, in vitro, à cette dose. Notez-le. Pas dix. Dix-huit.
 
 CLEMENCE: Ils applaudissent. Pas pour le gel. Pour le chiffre.
 
-INES: Pour le chiffre, et pour madame Garnier. Regarde, elle salue comme une actrice.
+INES: Pour le chiffre, et pour madame Bertin. Regarde, elle salue comme une actrice.
 
-GARNIER: Trente ans au guichet, et c'est à soixante et un ans qu'on m'applaudit. Merci, la science.
+BERTIN: Trente ans au guichet, et c'est à soixante et un ans qu'on m'applaudit. Merci, la science.
 
-FABRE: Merci, madame Garnier. Et merci au chronomètre.
+FABRE: Merci, madame Bertin. Et merci au chronomètre.
 
 
 ### 마무리 — 정오, 리안 부스
@@ -262,7 +262,7 @@ BASTIEN: Donc il racontera dix minutes de silence. Pas dix-huit minutes d'honnê
 
 FABRE: Laissez-le raconter. Les médecins qui étaient là raconteront autre chose. Et ils sont trois cents.
 
-INES: Madame Garnier m'a demandé si elle pouvait garder le badge « intervenante ». Je lui en ai donné deux.
+INES: Madame Bertin m'a demandé si elle pouvait garder le badge « intervenante ». Je lui en ai donné deux.
 
 CLEMENCE: Elle les mérite. Elle a posé la seule question qui comptait.
 
@@ -372,9 +372,9 @@ BASTIEN: Registre : « Démonstration. Erreur annoncée, erreur corrigée, dix-h
 
 ### 장면1 — 토요일 아침 9시 30분, 시연장 뒤 준비실
 
-파브르: 모두 안녕하세요. 8년째 제 환자인 가르니에 부인을 소개합니다. 오늘 와 주시기로 했고, 바로 말해 두고 싶어요. 이분을 고른 건 저예요. 다른 누구도 아니고, 여러분에게 아무것도 묻지 않고요.
+파브르: 모두 안녕하세요. 8년째 제 환자인 베르탱 부인을 소개합니다. 오늘 와 주시기로 했고, 바로 말해 두고 싶어요. 이분을 고른 건 저예요. 다른 누구도 아니고, 여러분에게 아무것도 묻지 않고요.
 
-가르니에: 안녕하세요. 예순한 살, 우체국 퇴직, 그리고 의사 3백 명 앞은 처음이에요.
+베르탱: 안녕하세요. 예순한 살, 우체국 퇴직, 그리고 의사 3백 명 앞은 처음이에요.
 
 클레망스: 안녕하세요, 부인. 와 주셔서 감사해요. 저희는 처음 뵙네요.
 
@@ -382,7 +382,7 @@ BASTIEN: Registre : « Démonstration. Erreur annoncée, erreur corrigée, dix-h
 
 바스티앵: 동의서는 서명됐나요? 시술과, 초상권 둘 다?
 
-가르니에: 서류 두 장. 다 읽었어요. 딸이 변호사라 다시 다 읽었고요.
+베르탱: 서류 두 장. 다 읽었어요. 딸이 변호사라 다시 다 읽었고요.
 
 파브르: 한 문장은 지우기까지 했어요. 소셜 미디어 게시. 오늘, 이 강당에서만.
 
@@ -392,7 +392,7 @@ BASTIEN: Registre : « Démonstration. Erreur annoncée, erreur corrigée, dix-h
 
 이네스: 그럼 되돌리기는요? 프로그램엔 「가역성 시연」이라고 돼 있는데요.
 
-파브르: 가르니에 부인께 주사했다가 다시 녹이지는 않을 거예요. 말도 안 되고, 윤리에도 어긋나요.
+파브르: 베르탱 부인께 주사했다가 다시 녹이지는 않을 거예요. 말도 안 되고, 윤리에도 어긋나요.
 
 바스티앵: 그러니까 가역성 시연은 체외(in vitro)로 해요. 접시에 Volume 젤 한 방울, 그 위에 효소, 그리고 처음부터 끝까지 끊지 않고 전부 클로즈업으로 찍는 카메라.
 
@@ -420,11 +420,11 @@ BASTIEN: Registre : « Démonstration. Erreur annoncée, erreur corrigée, dix-h
 
 파브르: 거의, 네. 절대가 아니라. 10분.
 
-가르니에: 실례지만요. 저는 그 10분 동안 뭘 하면 돼요? 웃어요?
+베르탱: 실례지만요. 저는 그 10분 동안 뭘 하면 돼요? 웃어요?
 
 파브르: 숨 쉬세요. 그리고 아프면 말해 주세요. 정말로 아픈 거요, 예의상 아픈 거 말고.
 
-가르니에: 30년을 창구에서 일했어요. 뭔가 잘못되면 말할 줄 알아요.
+베르탱: 30년을 창구에서 일했어요. 뭔가 잘못되면 말할 줄 알아요.
 
 이네스: 강당이 꽉 찼어요. 뒤에 의자를 더 놨어요.
 
@@ -453,9 +453,9 @@ BASTIEN: Registre : « Démonstration. Erreur annoncée, erreur corrigée, dix-h
 
 클레망스: 쉿. 강당 소리를 들어 봐. 아무도 말 안 해.
 
-파브르: 제 환자 가르니에 부인입니다. 목표: 광대에 약간의 지지. 그 이상은 없습니다.
+파브르: 제 환자 베르탱 부인입니다. 목표: 광대에 약간의 지지. 그 이상은 없습니다.
 
-가르니에: 제 얼굴은 아주 마음에 들어요. 그냥 손주들보다 덜 피곤해 보이고 싶을 뿐이에요.
+베르탱: 제 얼굴은 아주 마음에 들어요. 그냥 손주들보다 덜 피곤해 보이고 싶을 뿐이에요.
 
 파브르: 캐뉼라, 진입점 하나, 천천히 주입. 저는 화면이 아니라 피부를 봅니다.
 
@@ -463,7 +463,7 @@ BASTIEN: Registre : « Démonstration. Erreur annoncée, erreur corrigée, dix-h
 
 이네스: 접시를 휴대폰으로 찍는 사람들이 있어. 괜찮은 거야?
 
-클레망스: 접시는 돼. 가르니에 부인은 안 돼. 파브르 선생님이 처음에 말했어.
+클레망스: 접시는 돼. 베르탱 부인은 안 돼. 파브르 선생님이 처음에 말했어.
 
 파브르: 주사하는 동안 늘 떠오르는 질문이 있어요. 「잘못되면 어떡하지?」 그럼 얘기해 봅시다. 어떤 젤 주사든 언젠가 혈관을 건드릴 수 있어요. 어느 브랜드든. 징후: 하얗게 변하는 피부, 비정상적인 통증.
 
@@ -479,9 +479,9 @@ BASTIEN: Registre : « Démonstration. Erreur annoncée, erreur corrigée, dix-h
 
 바스티앵: 스톱워치: 5분. 젤 가장자리가 형태를 잃기 시작해요.
 
-파브르: 왼쪽 끝났습니다. 가르니에 부인, 괜찮으세요?
+파브르: 왼쪽 끝났습니다. 베르탱 부인, 괜찮으세요?
 
-가르니에: 좀 따끔해요. 채혈할 때처럼. 3백 명을 방해할 정도는 아니에요.
+베르탱: 좀 따끔해요. 채혈할 때처럼. 3백 명을 방해할 정도는 아니에요.
 
 이네스: 정말 멋진 분이야. 영상이 없어서 아쉽다.
 
@@ -512,11 +512,11 @@ BASTIEN: Registre : « Démonstration. Erreur annoncée, erreur corrigée, dix-h
 
 파브르: 좋은 질문이에요. 그리고 편한 대답이 아니라 정확한 대답을 드려야겠죠.
 
-가르니에: 제가 말해도 될까요? 어쨌든 제 얼굴이니까, 저도 궁금해요.
+베르탱: 제가 말해도 될까요? 어쨌든 제 얼굴이니까, 저도 궁금해요.
 
 파브르: 말씀하세요, 부인. 이 질문엔 저보다 부인이 더 권리가 있어요.
 
-가르니에: 언젠가 결과가 마음에 안 들면, 뺄 수 있어요, 없어요?
+베르탱: 언젠가 결과가 마음에 안 들면, 뺄 수 있어요, 없어요?
 
 파브르: 있습니다, 부인. 하지만 아까 말씀드린 것처럼 10분 만에는 아니에요. 제가 틀렸어요. 진료실에서 Volume이 아니라 Souple을 테스트했어요. Volume은 가교가 더 많이 돼 있어서 녹는 데 더 오래 걸려요.
 
@@ -538,7 +538,7 @@ BASTIEN: Registre : « Démonstration. Erreur annoncée, erreur corrigée, dix-h
 
 바스티앵: 스톱워치엔 손 안 대. 15분. 거의 아무것도 안 남았어.
 
-가르니에: 그러니까, 제가 이해한 게 맞으면, 되돌릴 수 있지만 참을성이 필요하다는 거네요. 우리 남편처럼.
+베르탱: 그러니까, 제가 이해한 게 맞으면, 되돌릴 수 있지만 참을성이 필요하다는 거네요. 우리 남편처럼.
 
 뒤마: 선생님, 마지막으로. 10분에 화면을 끄면 되잖아요? 아무도 몰랐을 텐데요.
 
@@ -552,11 +552,11 @@ BASTIEN: Registre : « Démonstration. Erreur annoncée, erreur corrigée, dix-h
 
 클레망스: 박수 친다. 젤에 대한 박수가 아니야. 숫자에 대한 박수야.
 
-이네스: 숫자, 그리고 가르니에 부인. 봐, 배우처럼 인사하셔.
+이네스: 숫자, 그리고 베르탱 부인. 봐, 배우처럼 인사하셔.
 
-가르니에: 30년 창구 일, 그런데 예순한 살에 박수를 받네요. 고마워요, 과학.
+베르탱: 30년 창구 일, 그런데 예순한 살에 박수를 받네요. 고마워요, 과학.
 
-파브르: 고마워요, 가르니에 부인. 그리고 스톱워치에게도.
+파브르: 고마워요, 베르탱 부인. 그리고 스톱워치에게도.
 
 
 ### 마무리 — 정오, 리안 부스
@@ -583,7 +583,7 @@ BASTIEN: Registre : « Démonstration. Erreur annoncée, erreur corrigée, dix-h
 
 파브르: 이야기하게 둬요. 거기 있던 의사들은 다른 이야기를 할 거예요. 그리고 그들은 3백 명이에요.
 
-이네스: 가르니에 부인이 「발표자」 배지를 가져가도 되냐고 물으셨어. 두 개 드렸어.
+이네스: 베르탱 부인이 「발표자」 배지를 가져가도 되냐고 물으셨어. 두 개 드렸어.
 
 클레망스: 그럴 자격 있으셔. 중요한 단 하나의 질문을 하셨잖아.
 
