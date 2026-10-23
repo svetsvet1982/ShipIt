@@ -10,7 +10,7 @@
 > - 난이도: B2 · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
 > - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 18단어 이내 + 긴 턴 10~15회(30~40단어). 문법 초점: 조건 구문(Si…, on…), 부정 나열(ne… jamais, ni…), 접속법(rien qui ne soit…).
 > - vous/tu: 클레망스·바스티앵 → 노라 vous(채용 후에도 클레망스는 vous, 교육에서 바스티앵은 tu로 전환), 이네스–노라 tu. 르블랑 vous.
-> - 복선 설치: **노라: 약국 4년 + 미국 필러 브랜드 1년 → 상사가 "목요일 의사의 감독" 아래 피부관리사 주사에 눈 감으라 함("네 문제 아니야") → 다른 자리 없이 사직, 3개월 실업. 경업금지(2년·전국)에 금전적 보상 없음 → 프랑스 노동법상 무효(변호사 확인 예정). 고객 파일은 두고 옴. 지원 이유: 토요일 시연 4번째 줄에서 «je me suis trompée»를 봄** · **성과급: 이네스 70/30 매출 → 바스티앵 "성과급은 메시지 — 물량만 보상하면 '피부관리실에도 팔아'" → 클레망스 3분할(매출 1/2, 교육한 의사 수 1/3, 나머지 품질: 완전한 서류·확인된 고객·규칙 밖 판매 0), "실수면 고치고 배우고, 일부러면 헤어진다". 지역: 리옹·남동부(사미아의 레지스트리, 리옹 의사 연락 → 6화). 필기시험(바스티앵 19, 이네스 16)** · **교육: 의사만 주사 / RPPS 공개 명부 확인 / 배송은 의사 진료실·클리닉, 청구서는 의사 이름 / "의심이 남으면 배송 안 함" / 메시지 3개(원산지·추적 주사기·가역성 18분) "메시지 열둘은 0" / 리도카인은 묻기 전에 말하기 / 설명서 밖은 절대 말하지 않음, 윙크 금지 / 경쟁사 험담 금지("특히 옹벨") / 이상 반응은 24시간 내 서면** · **첫 전화: 안시 벨 리브 관리실 르블랑, 50개 — 주사는 피부관리사 제시카(바르셀로나 수료증), 모렐 의사는 목요일 "감독"·서명만 → 노라 «Ce n'est pas possible, et voici pourquoi»: 감독 ≠ 주사, 불법 의료 행위, 응급 대처 불가, "규칙은 제시카도 지킨다(판사 앞에 서는 건 제시카)", 모렐이 직접 주사하면 무료 교육 → 르블랑 "다른 브랜드들은 묻지도 않고 배송" → "그쪽 손해" / "그럼 저희 손해"** · **노라의 기억: 작년 예전 지역 피부관리사의 입술 괴사, 유죄 판결, 환자 흉터. 대장: 관리실·거절 + "고객 말로는 다른 브랜드들이 배송". 안시–클뤼즈 40분 → 모랑에게 다음 위원회에서 공식 질문. 결정 27번 «Liane ne livre qu'au cabinet ou à la clinique d'un médecin vérifié.»**
+> - 복선 설치: **노라: 약국 4년 + 미국 필러 브랜드 1년 → 상사가 "목요일 의사의 감독" 아래 피부관리사 주사에 눈 감으라 함("네 문제 아니야") → 다른 자리 없이 사직, 3개월 실업. 경업금지(2년·전국)에 금전적 보상 없음 → 프랑스 노동법상 무효(변호사 확인 예정). 고객 파일은 두고 옴. 지원 이유: 토요일 시연 4번째 줄에서 «je me suis trompée»를 봄** · **성과급: 이네스 70/30 매출 → 바스티앵 "성과급은 메시지 — 물량만 보상하면 '피부관리실에도 팔아'" → 클레망스 3분할(매출 1/2, 교육한 의사 수 1/3, 나머지 품질: 완전한 서류·확인된 고객·규칙 밖 판매 0), "실수면 고치고 배우고, 일부러면 헤어진다". 지역: 리옹·남동부(사미아의 레지스트리, 리옹 의사 연락 → 6화). 필기시험(바스티앵 19, 이네스 16)** · **교육: 의사만 주사 / RPPS 공개 명부 확인 / 배송은 의사 진료실·클리닉, 청구서는 의사 이름 / "의심이 남으면 배송 안 함" / 메시지 3개(원산지·추적 주사기·가역성 18분) "메시지 열둘은 0" / 리도카인은 묻기 전에 말하기 / 설명서 밖은 절대 말하지 않음, 윙크 금지 / 경쟁사 험담 금지("특히 옹벨") / 이상 반응은 24시간 내 서면** · **첫 전화: 안시 벨 리브 관리실 르블랑, 50개 — 주사는 피부관리사 제시카(바르셀로나 수료증), 퓌졸 의사는 목요일 "감독"·서명만 → 노라 «Ce n'est pas possible, et voici pourquoi»: 감독 ≠ 주사, 불법 의료 행위, 응급 대처 불가, "규칙은 제시카도 지킨다(판사 앞에 서는 건 제시카)", 퓌졸이 직접 주사하면 무료 교육 → 르블랑 "다른 브랜드들은 묻지도 않고 배송" → "그쪽 손해" / "그럼 저희 손해"** · **노라의 기억: 작년 예전 지역 피부관리사의 입술 괴사, 유죄 판결, 환자 흉터. 대장: 관리실·거절 + "고객 말로는 다른 브랜드들이 배송". 안시–클뤼즈 40분 → 모랑에게 다음 위원회에서 공식 질문. 결정 27번 «Liane ne livre qu'au cabinet ou à la clinique d'un médecin vérifié.»**
 
 ---
 
@@ -201,9 +201,9 @@ INES: Nous y voilà. Exactement la situation de ce matin.
 
 NORA: Madame, en France, seul un médecin peut injecter ce produit. Je ne peux pas livrer un institut.
 
-LEBLANC: Mais il y a un médecin ! Le docteur Morel vient le jeudi. Il signera le bon.
+LEBLANC: Mais il y a un médecin ! Le docteur Pujol vient le jeudi. Il signera le bon.
 
-NORA: Le docteur Morel injecte lui-même, le jeudi ?
+NORA: Le docteur Pujol injecte lui-même, le jeudi ?
 
 LEBLANC: Lui, il supervise. Il regarde. Jessica fait les gestes, elle a de meilleures mains que lui, franchement.
 
@@ -219,7 +219,7 @@ NORA: Si une patiente fait une complication, c'est Jessica qui sera devant le ju
 
 LEBLANC: Vous perdez une commande de cinquante seringues pour un principe, mademoiselle.
 
-NORA: Je perds une commande, madame. Je ne perds pas une patiente. Si le docteur Morel veut injecter lui-même, dans son propre cabinet, je serai ravie de venir le former, gratuitement, et de le livrer dès la semaine prochaine.
+NORA: Je perds une commande, madame. Je ne perds pas une patiente. Si le docteur Pujol veut injecter lui-même, dans son propre cabinet, je serai ravie de venir le former, gratuitement, et de le livrer dès la semaine prochaine.
 
 LEBLANC: Il n'a pas le temps. Il vient pour signer, c'est tout. Bon, tant pis pour vous.
 
@@ -244,7 +244,7 @@ CLEMENCE: On ne fait pas la police. Mais on ne ferme pas les yeux non plus.
 
 BASTIEN: Je l'écris dans le registre : « Institut Belle Rive, Annecy. Injections par esthéticienne. Commande refusée. »
 
-INES: Et Morel ? Un médecin qui signe pour une esthéticienne, ça me dégoûte un peu.
+INES: Et Pujol ? Un médecin qui signe pour une esthéticienne, ça me dégoûte un peu.
 
 CLEMENCE: Si une patiente de cet institut arrive chez un de nos médecins avec une complication, on agira.
 
@@ -522,9 +522,9 @@ INES: Bienvenue, Nora. Tu viens de gagner ton premier client : Bastien.
 
 노라: 고객님, 프랑스에서는 의사만 이 제품을 주사할 수 있어요. 관리실에는 배송할 수 없어요.
 
-르블랑: 의사 있어요! 모렐 선생님이 목요일마다 와요. 주문서에 서명해 줄 거예요.
+르블랑: 의사 있어요! 퓌졸 선생님이 목요일마다 와요. 주문서에 서명해 줄 거예요.
 
-노라: 모렐 선생님이 목요일에 직접 주사하시나요?
+노라: 퓌졸 선생님이 목요일에 직접 주사하시나요?
 
 르블랑: 그분은 감독해요. 보기만 해요. 시술은 제시카가 하고요. 솔직히 손은 제시카가 더 좋아요.
 
@@ -540,7 +540,7 @@ INES: Bienvenue, Nora. Tu viens de gagner ton premier client : Bastien.
 
 르블랑: 원칙 하나 때문에 주사기 50개 주문을 놓치는 거예요, 아가씨.
 
-노라: 주문 하나를 놓치는 거죠, 고객님. 환자를 잃는 게 아니라. 모렐 선생님이 자기 진료실에서 직접 주사하시겠다면, 기꺼이 무료로 교육해 드리고 다음 주에 바로 배송해 드릴게요.
+노라: 주문 하나를 놓치는 거죠, 고객님. 환자를 잃는 게 아니라. 퓌졸 선생님이 자기 진료실에서 직접 주사하시겠다면, 기꺼이 무료로 교육해 드리고 다음 주에 바로 배송해 드릴게요.
 
 르블랑: 그분은 시간이 없어요. 서명하러 오는 거예요, 그게 다예요. 됐어요, 그쪽 손해예요.
 
@@ -565,7 +565,7 @@ INES: Bienvenue, Nora. Tu viens de gagner ton premier client : Bastien.
 
 바스티앵: 대장에 적을게. 「벨 리브 피부관리실, 안시. 피부관리사가 주사. 주문 거절.」
 
-이네스: 모렐은? 피부관리사를 위해 서명하는 의사라니, 좀 역겨워.
+이네스: 퓌졸은? 피부관리사를 위해 서명하는 의사라니, 좀 역겨워.
 
 클레망스: 그 관리실 환자가 합병증으로 우리 의사 중 누구에게 오면, 그때 행동할 거야.
 

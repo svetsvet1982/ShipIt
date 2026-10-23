@@ -5,12 +5,12 @@
 > **표기 전용 정보 (낭독하지 않음)**
 > - 부/화: 3부 2화 · 서사 기능: 의사 자문위원회 구성 — 파브르의 세 기준, 인플루언서 의사 탈락, 친구 배제, 협약·신고·공개 규칙, 매 회의 "관계 낭독". 첫 회의의 불편한 조언(응급 안내문, 입술·리도카인), 옹벨의 숨긴 원산지
 > - 배경: Année 3, 6월 셋째 주 화요일 저녁 6시 파브르 진료실 → 오후 6시 15분 → 오후 6시 50분 → 7월 둘째 주 목요일 저녁 8시 첫 자문단 화상 회의 → 저녁 9시 30분
-> - 등장인물: Clémence, Bastien, Inès, Dr Hélène Fabre(의장), Dr Anne Vasseur(릴 피부과), Dr Hakim Benchetrit(마르세유 성형외과), Dr Pierre Morand(클뤼즈 피부과)
+> - 등장인물: Clémence, Bastien, Inès, Dr Hélène Fabre(의장), Dr Anne Courtois(릴 피부과), Dr Hakim Benchetrit(마르세유 성형외과), Dr Pierre Morand(클뤼즈 피부과)
 > - 비즈니스 스킬: 선정 기준을 먼저 정하기, 이해 충돌 신고·공개, 보수의 적정성("부끄러우면 너무 높다"), 비판을 사는 자문 구조
 > - 난이도: B2 · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
 > - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 18단어 이내 + 긴 턴 10~15회(30~40단어). 문법 초점: 강조 구문(c'est pour elles que…, ce que…), 반론 처리.
 > - vous/tu: 의사들 vous. 창업 3인 tu.
-> - 복선 설치: **파브르 기준 3: ①매주 직접 주사 ②업계 관계 전부 신고("볼펜 하나도 — 볼펜을 숨기는 사람은 나머지도 숨긴다") ③브랜드를 거절한 적 있음("'아니요'를 해 본 적 없는 오피니언 리더는 의견 없이 후원사만 있다")** · **탈락: 막심 들로네(34, 팔로워 30만, 다섯 달에 스위스·미국·옹벨 영상 — "의견이 아니라 달력") — 이네스의 부분 반대(노출) 기록 / 사미아 벨카셈(리옹, 이네스의 바칼로레아 동기) → 위원회 대신 레지스트리 연구자("친구에게는 조언을 잘 못 한다")** · **위원: 안 바쇠르(릴, 15년, 이상 반응 숨긴 회사 거절, 스위스 브랜드 컨설턴트 — 신고 조건) / 아킴 벤셰트리(마르세유 성형외과, 고령·남성 환자, 발표 사전 검토 요구한 위원회 탈퇴) / 피에르 모랑(클뤼즈, 클레망스 어머니 주치의 — 관계 신고) + 파브르 의장 = 5인** · **규칙: 협약서(금액·목적·기간), 보수 = 반나절 진료비 수준, 기차 2등석, 금액에 따라 의사회 신고/승인, Transparence Santé 공개("부끄러우면 너무 높다"), 합리적 식사(샌드위치) / 매 회의 시작에 관계 낭독("말하지 않게 되는 날 잊기 시작한다"), 거부 시 퇴출 / 리안 금지: 발표 사전 검토, 환자 선택, 칭찬 요청 / 헌장 «Le comité peut dire des choses désagréables. Liane doit les écouter jusqu'au bout.»** · **첫 회의: 관계 낭독(파브르: 레지스트리 보수, 6년간 다른 관계 없음) → 바쇠르 "설명서는 너무 길고, 혈관 폐색엔 너무 짧다" → 코팅한 1쪽 응급 안내문을 모든 상자에(바스티앵+카미유 작성, 바쇠르 무료 검토) / 벤셰트리 "입술은 리도카인 없이는 안 한다" → 이네스 반대 3번 "위원회가 확인"("메달", 파브르 "의기양양하지 말 것") / 모랑 "클뤼즈 환자는 스키를 탄다" ↔ 벤셰트리 "마르세유 환자는 인터넷 후기를 쓴다" / 원산지: 환자는 안 묻고 의사는 묻는다 — 리안만 답한다 = 강점** · **벤셰트리: 동료가 옹벨 젤의 출처를 물었으나 영업 담당이 "몰랐거나, 말하고 싶지 않았다"(→4부 8화)** · 클레망스 "비밀 조사는 안 된다, 정면으로 묻자"
+> - 복선 설치: **파브르 기준 3: ①매주 직접 주사 ②업계 관계 전부 신고("볼펜 하나도 — 볼펜을 숨기는 사람은 나머지도 숨긴다") ③브랜드를 거절한 적 있음("'아니요'를 해 본 적 없는 오피니언 리더는 의견 없이 후원사만 있다")** · **탈락: 막심 들로네(34, 팔로워 30만, 다섯 달에 스위스·미국·옹벨 영상 — "의견이 아니라 달력") — 이네스의 부분 반대(노출) 기록 / 사미아 벨카셈(리옹, 이네스의 바칼로레아 동기) → 위원회 대신 레지스트리 연구자("친구에게는 조언을 잘 못 한다")** · **위원: 안 쿠르투아(릴, 15년, 이상 반응 숨긴 회사 거절, 스위스 브랜드 컨설턴트 — 신고 조건) / 아킴 벤셰트리(마르세유 성형외과, 고령·남성 환자, 발표 사전 검토 요구한 위원회 탈퇴) / 피에르 모랑(클뤼즈, 클레망스 어머니 주치의 — 관계 신고) + 파브르 의장 = 5인** · **규칙: 협약서(금액·목적·기간), 보수 = 반나절 진료비 수준, 기차 2등석, 금액에 따라 의사회 신고/승인, Transparence Santé 공개("부끄러우면 너무 높다"), 합리적 식사(샌드위치) / 매 회의 시작에 관계 낭독("말하지 않게 되는 날 잊기 시작한다"), 거부 시 퇴출 / 리안 금지: 발표 사전 검토, 환자 선택, 칭찬 요청 / 헌장 «Le comité peut dire des choses désagréables. Liane doit les écouter jusqu'au bout.»** · **첫 회의: 관계 낭독(파브르: 레지스트리 보수, 6년간 다른 관계 없음) → 쿠르투아 "설명서는 너무 길고, 혈관 폐색엔 너무 짧다" → 코팅한 1쪽 응급 안내문을 모든 상자에(바스티앵+카미유 작성, 쿠르투아 무료 검토) / 벤셰트리 "입술은 리도카인 없이는 안 한다" → 이네스 반대 3번 "위원회가 확인"("메달", 파브르 "의기양양하지 말 것") / 모랑 "클뤼즈 환자는 스키를 탄다" ↔ 벤셰트리 "마르세유 환자는 인터넷 후기를 쓴다" / 원산지: 환자는 안 묻고 의사는 묻는다 — 리안만 답한다 = 강점** · **벤셰트리: 동료가 옹벨 젤의 출처를 물었으나 영업 담당이 "몰랐거나, 말하고 싶지 않았다"(→4부 8화)** · 클레망스 "비밀 조사는 안 된다, 정면으로 묻자"
 
 ---
 
@@ -77,7 +77,7 @@ INES: D'accord. Je le barre. Mais je note que je ne suis pas d'accord. Sur la vi
 
 CLEMENCE: Noté. Nom suivant ?
 
-INES: Docteure Anne Vasseur. Dermatologue à Lille. Quinze ans de pratique. Elle injecte trois jours par semaine.
+INES: Docteure Anne Courtois. Dermatologue à Lille. Quinze ans de pratique. Elle injecte trois jours par semaine.
 
 FABRE: Excellente. Elle a refusé un laboratoire qui cachait un effet indésirable. Elle en parle encore.
 
@@ -191,7 +191,7 @@ CLEMENCE: Bonsoir à tous. Docteure Fabre, vous ouvrez la séance ?
 
 FABRE: Première réunion du comité. Avant tout, les liens. Je commence. Je suis payée par Liane pour diriger le registre. Je n'ai aucun autre lien avec l'industrie depuis six ans. Voilà.
 
-VASSEUR: Anne Vasseur, Lille. Consultante pour une marque suisse depuis deux ans. Je l'ai dit, je le redis.
+COURTOIS: Anne Courtois, Lille. Consultante pour une marque suisse depuis deux ans. Je l'ai dit, je le redis.
 
 BENCHETRIT: Hakim Benchetrit, Marseille. Deux contrats déclarés, avec deux laboratoires de lasers. Aucun avec un fabricant de gel.
 
@@ -201,19 +201,19 @@ CLEMENCE: Merci à tous. Nous voulons votre avis franc. Sur le produit, la notic
 
 BENCHETRIT: Franc, vous allez l'avoir. On est payés pour ça, paraît-il.
 
-VASSEUR: Alors je commence par le désagréable. Votre notice est trop longue pour être lue, et trop courte sur ce qui compte : l'occlusion vasculaire. C'est ce qui tue, ou ce qui sauve.
+COURTOIS: Alors je commence par le désagréable. Votre notice est trop longue pour être lue, et trop courte sur ce qui compte : l'occlusion vasculaire. C'est ce qui tue, ou ce qui sauve.
 
 BASTIEN: Trop courte ? Nous avons suivi les exigences réglementaires.
 
-VASSEUR: Les exigences, oui. Mais un jeune médecin, le soir, avec une patiente qui a mal, il veut une page claire. Quels signes, quoi faire, dans quel ordre. Pas un paragraphe juridique.
+COURTOIS: Les exigences, oui. Mais un jeune médecin, le soir, avec une patiente qui a mal, il veut une page claire. Quels signes, quoi faire, dans quel ordre. Pas un paragraphe juridique.
 
 FABRE: Elle a raison. Faites une fiche d'urgence. Une page. Plastifiée. Dans chaque boîte.
 
 INES: Une fiche d'urgence plastifiée. Elle peut sauver une patiente. Et elle prouve qu'on prend la sécurité au sérieux.
 
-BASTIEN: Je la rédige avec Camille. Et vous la relisez, docteure Vasseur.
+BASTIEN: Je la rédige avec Camille. Et vous la relisez, docteure Courtois.
 
-VASSEUR: Avec plaisir. Gratuitement, pour celle-là.
+COURTOIS: Avec plaisir. Gratuitement, pour celle-là.
 
 BENCHETRIT: Deuxième chose désagréable : les lèvres. Sans lidocaïne, pas avec votre gel. Mes patientes ne reviendraient pas.
 
@@ -231,7 +231,7 @@ FABRE: Les deux ont raison. Pour les lèvres, la lidocaïne compte. Pour le rest
 
 CLEMENCE: Et l'origine ? Le fait que le gel soit coréen ? Vos patientes posent la question ?
 
-VASSEUR: Jamais. Mes patientes demandent le nom de la marque, pas le pays. Mais les médecins, eux, posent la question. Et votre réponse les rassure. Personne d'autre ne répond. C'est un avantage.
+COURTOIS: Jamais. Mes patientes demandent le nom de la marque, pas le pays. Mais les médecins, eux, posent la question. Et votre réponse les rassure. Personne d'autre ne répond. C'est un avantage.
 
 BENCHETRIT: Un confrère a demandé d'où venait le gel d'Ombelle. Le commercial n'a pas su. Ou pas voulu.
 
@@ -304,7 +304,7 @@ CLEMENCE: Pas d'enquête secrète, Inès. Si on veut savoir, on demande en face.
 
 ### ④ 긴 발화 분석
 
-> **VASSEUR (절정·전환):** "Alors je commence par le désagréable. Votre notice est trop longue pour être lue, et trop courte sur ce qui compte : l'occlusion vasculaire. C'est ce qui tue, ou ce qui sauve."
+> **COURTOIS (절정·전환):** "Alors je commence par le désagréable. Votre notice est trop longue pour être lue, et trop courte sur ce qui compte : l'occlusion vasculaire. C'est ce qui tue, ou ce qui sauve."
 
 | 구조 | 프랑스어 | 기능 |
 |---|---|---|
@@ -397,7 +397,7 @@ CLEMENCE: Pas d'enquête secrète, Inès. Si on veut savoir, on demande en face.
 
 클레망스: 기록됐어. 다음 이름?
 
-이네스: 안 바쇠르 선생님. 릴의 피부과 의사. 경력 15년. 일주일에 사흘 주사해요.
+이네스: 안 쿠르투아 선생님. 릴의 피부과 의사. 경력 15년. 일주일에 사흘 주사해요.
 
 파브르: 훌륭해요. 이상 반응을 숨긴 회사를 거절했어요. 지금도 그 얘기를 해요.
 
@@ -511,7 +511,7 @@ CLEMENCE: Pas d'enquête secrète, Inès. Si on veut savoir, on demande en face.
 
 파브르: 위원회 첫 회의입니다. 무엇보다 먼저, 관계. 내가 먼저 하죠. 레지스트리 책임자로 리안에서 보수를 받습니다. 6년 전부터 업계와 다른 관계는 없습니다. 이상입니다.
 
-바쇠르: 릴의 안 바쇠르. 2년째 스위스 브랜드 컨설턴트. 리안에 말했고, 다시 말합니다.
+쿠르투아: 릴의 안 쿠르투아. 2년째 스위스 브랜드 컨설턴트. 리안에 말했고, 다시 말합니다.
 
 벤셰트리: 마르세유의 아킴 벤셰트리. 레이저 회사 두 곳과 신고된 계약 두 건. 젤 제조사와는 없습니다.
 
@@ -521,19 +521,19 @@ CLEMENCE: Pas d'enquête secrète, Inès. Si on veut savoir, on demande en face.
 
 벤셰트리: 솔직함이라면 드리죠. 그러라고 돈을 받는다던데요.
 
-바쇠르: 그럼 불편한 것부터. 설명서가 너무 길어서 읽히지 않고, 정작 중요한 혈관 폐색에 대해선 너무 짧아요. 그게 사람을 죽이거나 살리는 부분이에요.
+쿠르투아: 그럼 불편한 것부터. 설명서가 너무 길어서 읽히지 않고, 정작 중요한 혈관 폐색에 대해선 너무 짧아요. 그게 사람을 죽이거나 살리는 부분이에요.
 
 바스티앵: 너무 짧다고요? 규제 요구사항을 따랐는데요.
 
-바쇠르: 요구사항은 그렇죠. 하지만 저녁에 아파하는 환자 앞의 젊은 의사는 명확한 한 장을 원해요. 어떤 징후, 무엇을, 어떤 순서로. 법률 문단이 아니라.
+쿠르투아: 요구사항은 그렇죠. 하지만 저녁에 아파하는 환자 앞의 젊은 의사는 명확한 한 장을 원해요. 어떤 징후, 무엇을, 어떤 순서로. 법률 문단이 아니라.
 
 파브르: 맞는 말이에요. 응급 안내문을 만드세요. 한 장. 코팅해서. 상자마다.
 
 이네스: 코팅한 응급 안내문. 환자를 살릴 수 있어요. 그리고 우리가 안전을 진지하게 여긴다는 증거고요.
 
-바스티앵: 카미유와 같이 쓸게요. 그리고 바쇠르 선생님이 검토해 주세요.
+바스티앵: 카미유와 같이 쓸게요. 그리고 쿠르투아 선생님이 검토해 주세요.
 
-바쇠르: 기꺼이요. 그건 무료로요.
+쿠르투아: 기꺼이요. 그건 무료로요.
 
 벤셰트리: 두 번째 불편한 것: 입술. 리도카인이 없으면 여러분 젤로는 안 해요. 환자들이 다시 안 올 거예요.
 
@@ -551,7 +551,7 @@ CLEMENCE: Pas d'enquête secrète, Inès. Si on veut savoir, on demande en face.
 
 클레망스: 원산지는요? 한국 젤이라는 걸 환자들이 묻나요?
 
-바쇠르: 전혀요. 환자들은 브랜드 이름을 묻지, 나라를 묻지 않아요. 하지만 의사들은 물어요. 그리고 여러분 대답이 안심을 줘요. 다른 회사는 아무도 답하지 않으니까요. 그게 강점이에요.
+쿠르투아: 전혀요. 환자들은 브랜드 이름을 묻지, 나라를 묻지 않아요. 하지만 의사들은 물어요. 그리고 여러분 대답이 안심을 줘요. 다른 회사는 아무도 답하지 않으니까요. 그게 강점이에요.
 
 벤셰트리: 동료 한 명이 옹벨 젤이 어디서 오는지 물었어요. 영업 담당이 몰랐대요. 아니면 말하고 싶지 않았거나.
 
