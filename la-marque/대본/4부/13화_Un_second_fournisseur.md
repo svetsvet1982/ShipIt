@@ -10,7 +10,7 @@
 > - 난이도: B2 · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
 > - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 18단어 이내 + 긴 턴 10~15회(30~40단어). 문법 초점: 조건법(serait lié), 가정(Si Jinhe achète…), 비교·선호(Je préfère… que…), 규제 어휘.
 > - vous/tu: 들로름·파브르 vous, 팀 tu, 클레망스–지훈 tu.
-> - 복선 설치: **도입: 리옹 — 진허 한국 거점 새 균주 가루: 분자량·불순물 양호, 짧은 조각 6 %(새 한계 3.5) 불합격, 진난 가루(젤 7 %) 불합격 → "옛 주소도, 새 주소도" / 한 이사 제안: 노르디알(덴마크, 깨끗한 발효·엄격한 관리·+80 %) → 가루 6 → 약 11유로, 원가 38에 +5** · **전략위원회: «Café, et mauvaises nouvelles.» / 바스티앵 "일요일의 표" 세 선택지("셋, 속도 셋") / 들로름 "셋째는 10년 뒤" / CE = "어떤 젤"이 아니라 한울·오송·쪽마다 기술된 공정의 우리 젤 → 2nd 제조사 = 새 기기, 새 기술 문서·시험·아마 임상(3등급 이식형) 2~3년·200만~300만 / 페이로(«Je peux expliquer le règlement…»): 핵심 원료 공급업체 변경 = 중대 변경, 판매 전 평가·승인, 가루 비교·생체적합성·가속 안정성·검증 로트 3, 서류 후 3~4개월("최소치") → 샘플 3주·검증 2개월·서류 1월 말 → 5~6월 / 선주문 3월 말 → 8만 5천 환불 위험 / 페이로 «Cette fois, vous nous le dites avant. Ça, je le retiendrai.» «C'est fatigant, mais c'est juste.» / 들로름 "한 공장, 그리고 통제 못 하는 가루 — 질문은 사라지지 않는다"** · **의존의 가격: 최악 = 파산·화재·매각 / 진허(가루 → 제조사, 옹벨 제안, 대표에게 작년 편지) / 진허가 한울을 사면: 인증서가 문제 일으킨 그룹의 공장에, 노하우는 한울 것 → «Vous êtes le fabricant légal, mais vous ne savez pas fabriquer.» / 파브르 "한울이라고 쓰는 건 정직하지만 지켜 주지 않는다" / 오르센(독일 제조사)도 마찬가지 — "차이는 누가 아느냐" / 가루 차액은 한울에 요구 / 현금 석 달, Bpifrance 운전자금 30만 신청(12월 답), 안 되면 주주(들로름) / 의사들에게 지금 알림 — «Je préfère perdre une précommande que perdre un médecin.»(선택: 대기 또는 환불, 배송 전까지 환불 가능)** · **절정: 지훈 — 진허가 12월 오송에서 대표 면담 요청 «parler de l'avenir» → 대표 «Peut-être. Pas encore.» 미리 알림(둘째 항목처럼 — "서명 전에 약속을 지킨다") / 들로름: 진짜 두 번째 공급업체 = 보호 장치 → 지배권 변경 조항 + 완전한 제조 문서를 제3자(공증인)에게 임치 — 매각·중단 시 열어 다른 곳에서 제조 / 지훈 "레시피는 30년의 일" ↔ «Je ne veux pas la voler. Je veux qu'elle ne soit pas volée par quelqu'un d'autre.» / "진허가 사면 레시피는 진허로 — 임치는 존중하는 사람들 곁에" / "선택지에 대한 선택권" / 새 품질 협약에 포함(→14화)** · **마무리: 정리(진허 불합격·노르디알·Certivia 넉 달·5~6월·Bpifrance 12월·현금 석 달) / 의사 편지 오늘 밤("안타깝게도" 금지어) / 들로름 "언젠가 의존에 대한 진짜 답" → 셋째 선택지 = «question ouverte»(→15화) / 결정 40번**
+> - 복선 설치: **도입: 리옹 — 진허 한국 거점 새 균주 가루: 분자량·불순물 양호, 짧은 조각 6 %(새 한계 3.5) 불합격, 진난 가루(젤 7 %) 불합격 → "옛 주소도, 새 주소도" / 한 이사 제안: 노르디알(덴마크, 깨끗한 발효·엄격한 관리·+80 %) → 가루 6 → 약 11유로, 원가 38에 +5** · **전략위원회: «Café, et mauvaises nouvelles.» / 바스티앵 "일요일의 표" 세 선택지("셋, 속도 셋") / 들로름 "셋째는 10년 뒤" / CE = "어떤 젤"이 아니라 한울·오송·쪽마다 기술된 공정의 우리 젤 → 2nd 제조사 = 새 기기, 새 기술 문서·시험·아마 임상(3등급 이식형) 2~3년·200만~300만 / 페이로(«Je peux expliquer le règlement…»): 핵심 원료 공급업체 변경 = 중대 변경, 판매 전 평가·승인, 가루 비교·생체적합성·가속 안정성·검증 로트 3, 서류 후 3~4개월("최소치") → 샘플 3주·검증 2개월·서류 1월 말 → 5~6월 / 선주문 3월 말 → 8만 5천 환불 위험 / 페이로 «Cette fois, vous nous le dites avant. Ça, je le retiendrai.» «C'est fatigant, mais c'est juste.» / 들로름 "한 공장, 그리고 통제 못 하는 가루 — 질문은 사라지지 않는다"** · **의존의 가격: 최악 = 파산·화재·매각 / 진허(가루 → 제조사, 옹벨 제안, 대표에게 작년 편지) / 진허가 한울을 사면: 인증서가 문제 일으킨 그룹의 공장에, 노하우는 한울 것 → «Vous êtes le fabricant légal, mais vous ne savez pas fabriquer.» / 파브르 "한울이라고 쓰는 건 정직하지만 지켜 주지 않는다" / 오르센(독일 제조사)도 마찬가지 — "차이는 누가 아느냐" / 가루 차액은 한울에 요구 / 현금 석 달, Bpifrance 운전자금 30만 신청(12월 답), 안 되면 주주(들로름) / 의사들에게 지금 알림 — «Je préfère perdre une précommande que perdre un médecin.»(선택: 대기 또는 환불, 배송 전까지 환불 가능)** · **절정: 지훈 — 진허가 12월 오송에서 대표 면담 요청 «parler de l'avenir» → 대표 «Peut-être. Pas encore.» 미리 알림(둘째 항목처럼 — "서명 전에 약속을 지킨다") / 들로름: 진짜 두 번째 공급업체 = 보호 장치 → 지배권 변경 조항 + 완전한 제조 문서를 제3자(공증인)에게 임치 — 매각·중단 시 열어 다른 곳에서 제조 / 지훈 "레시피는 20년의 일" ↔ «Je ne veux pas la voler. Je veux qu'elle ne soit pas volée par quelqu'un d'autre.» / "진허가 사면 레시피는 진허로 — 임치는 존중하는 사람들 곁에" / "선택지에 대한 선택권" / 새 품질 협약에 포함(→14화)** · **마무리: 정리(진허 불합격·노르디알·Certivia 넉 달·5~6월·Bpifrance 12월·현금 석 달) / 의사 편지 오늘 밤("안타깝게도" 금지어) / 들로름 "언젠가 의존에 대한 진짜 답" → 셋째 선택지 = «question ouverte»(→15화) / 결정 40번**
 
 ---
 
@@ -215,7 +215,7 @@ DELORME: Non. Mais on peut emporter le savoir. Le dossier de fabrication complet
 
 BASTIEN: Un séquestre du procédé. La recette, dans un coffre, chez un notaire. Ouverte seulement si le monde change.
 
-JIHOON: Le président ne va pas aimer. Sa recette, c'est trente ans de travail.
+JIHOON: Le président ne va pas aimer. Sa recette, c'est vingt ans de travail.
 
 CLEMENCE: Je sais. Je ne veux pas la voler. Je veux qu'elle ne soit pas volée par quelqu'un d'autre.
 
@@ -534,7 +534,7 @@ CLEMENCE: Décision quarante : qualifier Nordhyal par Hanul, écrire aux médeci
 
 바스티앵: 공정 임치. 레시피를 공증인의 금고에. 세상이 바뀔 때만 여는.
 
-지훈: 대표님이 좋아하지 않으실 거예요. 그 레시피는 30년의 일이에요.
+지훈: 대표님이 좋아하지 않으실 거예요. 그 레시피는 20년의 일이에요.
 
 클레망스: 알아. 훔치려는 게 아니야. 다른 누가 훔쳐 가지 못하게 하려는 거야.
 
