@@ -3,7 +3,7 @@
 ## Le premier lot français (첫 프랑스 로트)
 
 > **표기 전용 정보 (낭독하지 않음)**
-> - 부/화: 8부 15화 (8부 마지막 화) · 서사 기능: Année 11 1월 11일 6시 C-001(첫 상업 로트, "C = commercial"). 알랭이 가루, 테오가 평가(트레이너 체계 작동), 냉각수 11 °C, 지훈의 첫 전날 확인(화면 "예"), 야니크 6시 2분 쌀 → 오송에 송부 → 백 이사 «Tu es plus lent que moi. C'est bien : un procédé qui ralentit chez les élèves, c'est un procédé qu'ils respectent.» 제라르는 5시 반부터 주차장 — "젤이 태어나는 게 아니라 트럭이 떠나는 걸", 달력에 연필 날짜 + 물음표. 1월 14일 상자 문구: 이네스 «Fabriqué en Haute-Savoie» → 바스티앵: 원산지 표시 = 단속 대상, 가루 한국·주사기 이탈리아·바늘 독일, 기준은 마지막 실질적 변형(용해·가교·충전·멸균) → «Fabriqué en France» 가능, «Haute-Savoie, France» 가능, «100 % français»·«origine France» 불가, 카미유 "HA가 프랑스산이라 믿게 할 것 금지". 쥘리앵: 프랑스 표시 = 일부 국가 +5~8% ↔ 클레망스 "참이라서 쓴다" ↔ "참이고 돈도 된다, 둘 다". 이네스: 오송 누락 = "붓질 한 번에 20년 삭제", 지훈 "누락에 의한 거짓말", 바스티앵 "법은 노하우 표기를 요구하지 않는다" ↔ 클레망스: Année 3 약속(정 대표 이름을 같은 크기로) — "직접 만드는 날 지우면 바로 그때가 중요한 순간". 결정 문구: «Fabriqué en Haute-Savoie, France.» / «Selon le procédé Hanul, Osong, Corée.»(같은 크기, "방법의 출처", 품질 약속 없음 — 최상급 없음). 정 대표: "오송이 왜 한국 앞에?" → "장소, 그다음 나라", 자로 재서 둘 다 3 mm «C'est juste.»(8년 전처럼). 라벨 변경 = 기술 문서 반영·세르티비아 정보 제공(중대 아님), 인쇄 이틀 전 2인 검토. 가격: 오송 로트와 동일 — «Pas un centime de plus pour le mot France.» / «C'est pour ne jamais avoir à expliquer pourquoi on l'a pris.» 2월 4일 출하: C-001 탁도 5·G′ +1·BDDE·무균·엔도톡신·리도카인 3.1, 로트 기록 140쪽, 카림이 먼저 신고한 편차(23번 트레이 쐐기 재적재 10분, 87쪽) = 관리된 편차, 냄새는 자격표에 있지 로트 기준이 아님. 카미유 서명 8:40 + 바스티앵 두 번째 열쇠 8:52(부속서 A 54줄 — 10년, 6년 남음, "한울을 위해 있었고 우리를 위해 남는다"). 4,860개(140개 분석·안정성). 첫 주문 파브르(인증서 날, 20상자) — 조건: 1번 상자를 "어디서 왔냐"고 처음 묻는 환자에게, 상자의 답이 참이면 재주문. 2월 5일 15시 출하장: 제라르 — 무브먼트 공장의 마지막 트럭(기계를 싣고 아시아로) ↔ 첫해 «Une marque sans usine, c'est une montre sans mouvement.» → «Aujourd'hui, la montre a son mouvement.» 파트리크 "35년 프랑스에서 만들었지만 아무도 상자에 안 썼다" ↔ 제라르 "이젠 적어야 하고, 자격을 갖춰야". 정 대표(밤 11시)가 1번 상자 라벨을 프랑스어로 읽고 오송에서 멈춤 — «Vous ne l'avez pas refaite. Vous l'avez écrite. Moi, je l'avais seulement faite.» 문: 제라르 "나는 마지막 문, 너는 첫 문". 트럭은 남쪽으로, "월요일에 돌아온다". 2월 8일 16시 10분: 시계는 아무도 안 봄("쳐다보는 시계는 의심받는 시계"). 파브르: "올해 첫 정직한 라벨", 첫 환자(52세, 시옹지에 정밀가공 노동자 출신)가 "오송"을 묻고 «Comme nous, alors. On apprenait chez les anciens.» Année 3 "처음 백 명" ↔ "겁주려고 한 말" ↔ "아직도 무섭다, 오늘부터 백 명 중 한 명" → 백 번째에 전화. 결정 100번
+> - 부/화: 8부 15화 (8부 마지막 화) · 서사 기능: Année 11 1월 11일 6시 C-001(첫 상업 로트, "C = commercial"). 알랭이 가루, 테오가 평가(트레이너 체계 작동), 냉각수 11 °C, 지훈의 첫 전날 확인(화면 "예"), 야니크 6시 2분 쌀 → 오송에 송부 → 백 이사 «Tu es plus lent que moi. C'est bien : un procédé qui ralentit chez les élèves, c'est un procédé qu'ils respectent.» 제라르는 5시 반부터 주차장 — "젤이 태어나는 게 아니라 트럭이 떠나는 걸", 달력에 연필 날짜 + 물음표. 1월 14일 상자 문구: 이네스 «Fabriqué en Haute-Savoie» → 바스티앵: 원산지 표시 = 단속 대상, 가루 덴마크·주사기 이탈리아·바늘 독일, 기준은 마지막 실질적 변형(용해·가교·충전·멸균) → «Fabriqué en France» 가능, «Haute-Savoie, France» 가능, «100 % français»·«origine France» 불가, 카미유 "HA가 프랑스산이라 믿게 할 것 금지". 쥘리앵: 프랑스 표시 = 일부 국가 +5~8% ↔ 클레망스 "참이라서 쓴다" ↔ "참이고 돈도 된다, 둘 다". 이네스: 오송 누락 = "붓질 한 번에 20년 삭제", 지훈 "누락에 의한 거짓말", 바스티앵 "법은 노하우 표기를 요구하지 않는다" ↔ 클레망스: Année 3 약속(정 대표 이름을 같은 크기로) — "직접 만드는 날 지우면 바로 그때가 중요한 순간". 결정 문구: «Fabriqué en Haute-Savoie, France.» / «Selon le procédé Hanul, Osong, Corée.»(같은 크기, "방법의 출처", 품질 약속 없음 — 최상급 없음). 정 대표: "오송이 왜 한국 앞에?" → "장소, 그다음 나라", 자로 재서 둘 다 3 mm «C'est juste.»(8년 전처럼). 라벨 변경 = 기술 문서 반영·세르티비아 정보 제공(중대 아님), 인쇄 이틀 전 2인 검토. 가격: 오송 로트와 동일 — «Pas un centime de plus pour le mot France.» / «C'est pour ne jamais avoir à expliquer pourquoi on l'a pris.» 2월 4일 출하: C-001 탁도 5·G′ +1·BDDE·무균·엔도톡신·리도카인 3.1, 로트 기록 140쪽, 카림이 먼저 신고한 편차(23번 트레이 쐐기 재적재 10분, 87쪽) = 관리된 편차, 냄새는 자격표에 있지 로트 기준이 아님. 카미유 서명 8:40 + 바스티앵 두 번째 열쇠 8:52(부속서 A 54줄 — 10년, 6년 남음, "한울을 위해 있었고 우리를 위해 남는다"). 4,860개(140개 분석·안정성). 첫 주문 파브르(인증서 날, 20상자) — 조건: 1번 상자를 "어디서 왔냐"고 처음 묻는 환자에게, 상자의 답이 참이면 재주문. 2월 5일 15시 출하장: 제라르 — 무브먼트 공장의 마지막 트럭(기계를 싣고 아시아로) ↔ 첫해 «Une marque sans usine, c'est une montre sans mouvement.» → «Aujourd'hui, la montre a son mouvement.» 파트리크 "35년 프랑스에서 만들었지만 아무도 상자에 안 썼다" ↔ 제라르 "이젠 적어야 하고, 자격을 갖춰야". 정 대표(밤 11시)가 1번 상자 라벨을 프랑스어로 읽고 오송에서 멈춤 — «Vous ne l'avez pas refaite. Vous l'avez écrite. Moi, je l'avais seulement faite.» 문: 제라르 "나는 마지막 문, 너는 첫 문". 트럭은 남쪽으로, "월요일에 돌아온다". 2월 8일 16시 10분: 시계는 아무도 안 봄("쳐다보는 시계는 의심받는 시계"). 파브르: "올해 첫 정직한 라벨", 첫 환자(52세, 시옹지에 정밀가공 노동자 출신)가 "오송"을 묻고 «Comme nous, alors. On apprenait chez les anciens.» Année 3 "처음 백 명" ↔ "겁주려고 한 말" ↔ "아직도 무섭다, 오늘부터 백 명 중 한 명" → 백 번째에 전화. 결정 100번
 > - 배경: Année 11, 1월 11일 월요일 오전 6시 가교실 창 앞 → 1월 14일 목요일 오후 2시 공장 회의실 → 2월 4일 목요일 오전 8시 품질 실험실 → 2월 5일 금요일 오후 3시 출하장 → 2월 8일 월요일 오후 4시 10분 가교실 앞 시계
 > - 등장인물: Yannick, Manon Pollet, Alain, Théo, Karim, Camille Roux, Jihoon, Patrick Vial, Clémence, Inès, Bastien, Julien, Jeong Yu-na(화상), Élodie, Gérard, Dr Fabre(전화). 정 대표·백 이사(지훈 통역)
 > - 비즈니스 스킬: 원산지 표시(마지막 실질적 변형, 금지 표현), 라벨 문구의 사실성·누락, 파트너 크레디트 표기, 가격 정책과 원산지 프리미엄, 출하 승인(두 열쇠), 자진 편차 신고, 첫 고객의 조건부 주문, 시판 후 추적(처음 100명)
@@ -57,7 +57,7 @@ BASTIEN: Sur l'étiquette réglementaire ? Ou sur la boîte ?
 
 INES: Sur la boîte. Les médecins regardent la boîte. Personne ne lit l'étiquette du blister.
 
-BASTIEN: Alors il faut que ce soit vrai au sens du droit, pas seulement au sens du cœur. Une mention d'origine, c'est contrôlé. La poudre vient de Corée, la seringue d'Italie, l'aiguille d'Allemagne. Ce qui compte, c'est la dernière transformation substantielle. Ici, on dissout, on réticule, on remplit, on stérilise. Ça, c'est une transformation substantielle.
+BASTIEN: Alors il faut que ce soit vrai au sens du droit, pas seulement au sens du cœur. Une mention d'origine, c'est contrôlé. La poudre vient du Danemark, la seringue d'Italie, l'aiguille d'Allemagne. Ce qui compte, c'est la dernière transformation substantielle. Ici, on dissout, on réticule, on remplit, on stérilise. Ça, c'est une transformation substantielle.
 
 INES: Donc « Fabriqué en Haute-Savoie », c'est juste ?
 
@@ -298,14 +298,14 @@ CLEMENCE: Décision cent. Le premier lot fabriqué à Cluses, C-001, est libér�
 > | Mention | Vraie ? | Base | Décision |
 > |---|---|---|---|
 > | « Fabriqué en Haute-Savoie, France » | oui | dissolution, réticulation, remplissage et stérilisation à Cluses = dernière transformation substantielle | retenue |
-> | « 100 % français » / « origine France » | non | acide hyaluronique (Corée), seringue (Italie), aiguille (Allemagne) | refusée |
+> | « 100 % français » / « origine France » | non | acide hyaluronique (Danemark), seringue (Italie), aiguille (Allemagne) | refusée |
 > | « Selon le procédé Hanul, Osong, Corée » | oui | contrat de transfert, tableau des 15 différences | retenue, même taille (3 mm) |
 > | « qualité coréenne », « savoir-faire unique » | non vérifiable | superlatif / promesse | refusée |
 > **Autres** : intégration à la documentation technique ; information de Certivia (non substantiel) ; relecture à deux, deux jours avant l'impression ; prix identique aux lots d'Osong.
 
 ### ④ 긴 발화 분석
 
-> **BASTIEN (장면1):** "Alors il faut que ce soit vrai au sens du droit, pas seulement au sens du cœur. Une mention d'origine, c'est contrôlé. La poudre vient de Corée, la seringue d'Italie, l'aiguille d'Allemagne. Ce qui compte, c'est la dernière transformation substantielle. Ici, on dissout, on réticule, on remplit, on stérilise. Ça, c'est une transformation substantielle."
+> **BASTIEN (장면1):** "Alors il faut que ce soit vrai au sens du droit, pas seulement au sens du cœur. Une mention d'origine, c'est contrôlé. La poudre vient du Danemark, la seringue d'Italie, l'aiguille d'Allemagne. Ce qui compte, c'est la dernière transformation substantielle. Ici, on dissout, on réticule, on remplit, on stérilise. Ça, c'est une transformation substantielle."
 
 | 구조 | 프랑스어 | 기능 |
 |---|---|---|
@@ -379,7 +379,7 @@ CLEMENCE: Décision cent. Le premier lot fabriqué à Cluses, C-001, est libér�
 
 이네스: 상자에요. 의사들은 상자를 봐요. 블리스터 라벨은 아무도 안 읽어요.
 
-바스티앵: 그럼 마음으로만이 아니라 법적으로도 참이어야 해. 원산지 표시는 단속 대상이야. 가루는 한국, 주사기는 이탈리아, 바늘은 독일에서 와. 중요한 건 마지막 실질적 변형이야. 여기서 우리는 녹이고, 가교하고, 충전하고, 멸균해. 그건 실질적 변형이야.
+바스티앵: 그럼 마음으로만이 아니라 법적으로도 참이어야 해. 원산지 표시는 단속 대상이야. 가루는 덴마크, 주사기는 이탈리아, 바늘은 독일에서 와. 중요한 건 마지막 실질적 변형이야. 여기서 우리는 녹이고, 가교하고, 충전하고, 멸균해. 그건 실질적 변형이야.
 
 이네스: 그럼 「오트사부아에서 제조」는 맞는 거죠?
 
