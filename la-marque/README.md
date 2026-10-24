@@ -9,12 +9,12 @@
 
 ## 진행 현황
 - [x] 기획서 v1
-- [ ] 1부 L'idée (1화~)
-- [ ] 2부 Le contrat
-- [ ] 3부 Le lancement
-- [ ] 4부 La crise
-- [ ] 5부 La croissance
-- [ ] 6부 Le transfert
-- [ ] 7부 L'usine
-- [ ] 8부 La validation
+- [x] 1부 L'idée
+- [x] 2부 Le contrat
+- [x] 3부 Le lancement
+- [x] 4부 La crise
+- [x] 5부 La croissance
+- [x] 6부 Le transfert
+- [x] 7부 L'usine
+- [x] 8부 La validation
 - [ ] 9부 Survivre
