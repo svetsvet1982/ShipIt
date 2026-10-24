@@ -128,7 +128,7 @@ WEI: Bonjour. Wei Lan, directrice commerciale Europe de Linhai Biopolymer. J'ai 
 
 CAMILLE: Votre accent est très bien. Vos prix aussi. Cinq mille deux cents euros le kilo. Comment est-ce possible ?
 
-WEI: Long: Trois raisons. Notre site produit deux cents tonnes par an, surtout pour la cosmétique et l'alimentaire. La qualité injectable n'est que cinq pour cent de notre volume, mais elle profite des coûts de tout le reste. Notre énergie coûte moins cher. Et nous avons un certificat de conformité à la Pharmacopée européenne depuis six ans. Ce n'est pas une poudre bon marché. C'est une poudre produite en grande quantité.
+WEI: Trois raisons. Notre site produit deux cents tonnes par an, surtout pour la cosmétique et l'alimentaire. La qualité injectable n'est que cinq pour cent de notre volume, mais elle profite des coûts de tout le reste. Notre énergie coûte moins cher. Et nous avons un certificat de conformité à la Pharmacopée européenne depuis six ans. Ce n'est pas une poudre bon marché. C'est une poudre produite en grande quantité.
 
 CAMILLE: Alors la question qui fâche. Qui sont vos actionnaires ?
 
@@ -144,7 +144,7 @@ WEI: Deux. Un à Linhai, un à Taizhou, à soixante kilomètres. La qualité inj
 
 BASTIEN: Et si votre groupe décide de produire la qualité injectable à Taizhou ? Vous nous demandez notre accord avant ?
 
-WEI: Long: Non. Je vais être honnête. Notre politique de groupe, c'est la notification, pas l'accord. Si la direction déplace une production, nous informons les clients trois mois avant. Nous ne demandons pas leur accord, parce que nous avons six cents clients. Je ne peux pas vous promettre un accord préalable. Je peux vous promettre que je vous appellerai moi-même.
+WEI: Non. Je vais être honnête. Notre politique de groupe, c'est la notification, pas l'accord. Si la direction déplace une production, nous informons les clients trois mois avant. Nous ne demandons pas leur accord, parce que nous avons six cents clients. Je ne peux pas vous promettre un accord préalable. Je peux vous promettre que je vous appellerai moi-même.
 
 BASTIEN: Une notification, pas un accord. Nous avons vécu exactement ça, l'année quatre. Un changement de site, notifié trop tard. Un rappel.
 
@@ -191,7 +191,7 @@ CHAPUIS: Brigitte Chapuis, Fermalys, Vaulx-en-Velin. Quarante salariés. Je vous
 
 BASTIEN: Merci de commencer par là.
 
-CHAPUIS: Long: Nous faisons de la poudre cosmétique depuis vingt ans. Excellente masse moléculaire, bonne distribution. Mais nos endotoxines sont trop hautes pour une injection. Pour passer en qualité injectable, il faut une nouvelle unité de purification, une salle propre, et deux ans. Un million et demi d'euros. Je ne les ai pas. Et je ne les investirai pas sans un client.
+CHAPUIS: Nous faisons de la poudre cosmétique depuis vingt ans. Excellente masse moléculaire, bonne distribution. Mais nos endotoxines sont trop hautes pour une injection. Pour passer en qualité injectable, il faut une nouvelle unité de purification, une salle propre, et deux ans. Un million et demi d'euros. Je ne les ai pas. Et je ne les investirai pas sans un client.
 
 CLEMENCE: Vous voulez que Liane soit ce client.
 
@@ -205,13 +205,13 @@ ELODIE: Je peux donner les résultats à l'aveugle, maintenant ?
 
 CLEMENCE: Maintenant.
 
-ELODIE: Long: Poudre A : parfaite. Masse moléculaire stable, endotoxines très basses. C'est Nordial. Poudre B : presque aussi bonne, masse moléculaire plus étroite encore, protéines un peu plus hautes mais dans les normes. C'est Linhai. Poudre C : la plus belle distribution de masse moléculaire des trois. Mais des endotoxines dix fois trop hautes. C'est Fermalys, en qualité cosmétique.
+ELODIE: Poudre A : parfaite. Masse moléculaire stable, endotoxines très basses. C'est Nordial. Poudre B : presque aussi bonne, masse moléculaire plus étroite encore, protéines un peu plus hautes mais dans les normes. C'est Linhai. Poudre C : la plus belle distribution de masse moléculaire des trois. Mais des endotoxines dix fois trop hautes. C'est Fermalys, en qualité cosmétique.
 
 CHAPUIS: La plus belle distribution des trois ? Vous êtes sûre ?
 
 ELODIE: J'ai refait la mesure deux fois. Si vos endotoxines descendent, votre poudre sera la meilleure.
 
-JULIEN: Long: Alors je fais mon travail. Linhai est quarante pour cent moins cher que Nordial. À quarante kilos, c'est cent cinquante mille euros par an. Pour une usine qui perdra de l'argent pendant trois ans, ce n'est pas rien. Et la poudre B est presque aussi bonne que la A.
+JULIEN: Alors je fais mon travail. Linhai est quarante pour cent moins cher que Nordial. À quarante kilos, c'est cent cinquante mille euros par an. Pour une usine qui perdra de l'argent pendant trois ans, ce n'est pas rien. Et la poudre B est presque aussi bonne que la A.
 
 CLEMENCE: Cent cinquante mille euros par an. Ça fait combien par seringue ?
 
@@ -221,7 +221,7 @@ CLEMENCE: Quinze centimes. Et le rappel de l'année quatre, il nous a coûté co
 
 BASTIEN: Cent onze mille huit cents euros de remboursement. Six mois de rupture de Volume. Et trois médecins perdus.
 
-CLEMENCE: Long: Alors la poudre la moins chère n'est pas celle qui coûte le moins. Nordial reste notre fournisseur principal, avec l'engagement de vingt-cinq puis trente kilos. Fermalys devient notre deuxième source, avec l'avance de trois cent mille euros, si l'unité de purification est prête dans deux ans. Et Linhai...
+CLEMENCE: Alors la poudre la moins chère n'est pas celle qui coûte le moins. Nordial reste notre fournisseur principal, avec l'engagement de vingt-cinq puis trente kilos. Fermalys devient notre deuxième source, avec l'avance de trois cent mille euros, si l'unité de purification est prête dans deux ans. Et Linhai...
 
 JULIEN: Et Linhai, on la refuse ?
 
