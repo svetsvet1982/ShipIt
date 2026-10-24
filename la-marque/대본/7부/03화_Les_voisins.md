@@ -3,13 +3,13 @@
 ## Les voisins (이웃)
 
 > **표기 전용 정보 (낭독하지 않음)**
-> - 부/화: 7부 3화 · 서사 기능: Année 8 6월, 클뤼즈 연회장 자발적 주민 설명회(240명). 공장 = ICPE(환경 규제 대상 시설): 가성소다·세척용 에탄올·가교제 BDDE(에폭시드, 자극성, 돌연변이 유발 의심 — 백 이사도 마스크 없이 안 만짐). BDDE 최대 200 L(방화 캐비닛, 누출 방지 받침, 20 L 드럼) → 허가 기준치 아래 "신고 대상", 공청회 의무 없음. 틸뢸 거리(북쪽 담 뒤 12채): 오딜 페랭(옛 초등 교사, 7번지, 야니크의 5학년 담임 "글씨 못 쓰던") · 파브리스 모렐(애 둘, SNS 모임 «Riverains Bouvier vigilants» 300명, 할아버지는 부비에 열처리). 모렐 "기준치 바로 아래, 계산했죠?" → 클레망스 «Oui.»(합법 ≠ 충분) → 자발적 독립 위험성 평가(8만, 석 달, 공개). 페랭 정원 센서(주민이 위치 결정, 실시간 공개). 폐수: 현장 중화·pH·BDDE 확인 → 하수처리장, 외부 실험실 월 1회, 시청에도 결과. 트럭: 남쪽 산업단지 경유, 틸뢸 거리 금지(운송 계약 위약금·표지판), 오전 7시 전·주말 납품 없음. 두 교대조 6~22시, 야간 추가 시 "그 전에" 다시 설명. 클린룸 공조 24시간("공장 고양이") → 남쪽 공조기·방음벽·전후 측정·야간 +3 dB 이내·초과 시 소음기. 사고 대비: 누출 방지·증기 감지·자동 소화·소방서 연 1회 합동 훈련("작고, 알려져 있고, 대비된" 위험). 모렐의 주민 권한 요구 → 감시위원회(선출 주민 6, 시장, 직원 대표, 리안; 연 4회 + 연 1회 예고 없는 방문; 무균복 교육은 지훈). 거부권은 거절(진허에게도 거절했다) → 대신 주민이 고르는(인증 실험실 목록) 리안 비용 독립 분석, 상한 없음, 공개. 모렐 출마 "BDDE 보관소와 북동쪽 모퉁이부터" ↔ 백 이사 "가장 나쁜 곳을 먼저". 결정 73번
+> - 부/화: 7부 3화 · 서사 기능: Année 8 6월, 클뤼즈 연회장 자발적 주민 설명회(240명). 공장 = ICPE(환경 규제 대상 시설): 가성소다·세척용 에탄올·가교제 BDDE(에폭시드, 자극성, 돌연변이 유발 의심 — 백 이사도 마스크 없이 안 만짐). BDDE 최대 200 L(방화 캐비닛, 누출 방지 받침, 20 L 드럼) → 허가 기준치 아래 "신고 대상", 공청회 의무 없음. 틸뢸 거리(북쪽 담 뒤 12채): 오딜 페랭(옛 초등 교사, 7번지, 야니크의 5학년 담임 "글씨 못 쓰던") · 파브리스 라벨(애 둘, SNS 모임 «Riverains Bouvier vigilants» 300명, 할아버지는 부비에 열처리). 라벨 "기준치 바로 아래, 계산했죠?" → 클레망스 «Oui.»(합법 ≠ 충분) → 자발적 독립 위험성 평가(8만, 석 달, 공개). 페랭 정원 센서(주민이 위치 결정, 실시간 공개). 폐수: 현장 중화·pH·BDDE 확인 → 하수처리장, 외부 실험실 월 1회, 시청에도 결과. 트럭: 남쪽 산업단지 경유, 틸뢸 거리 금지(운송 계약 위약금·표지판), 오전 7시 전·주말 납품 없음. 두 교대조 6~22시, 야간 추가 시 "그 전에" 다시 설명. 클린룸 공조 24시간("공장 고양이") → 남쪽 공조기·방음벽·전후 측정·야간 +3 dB 이내·초과 시 소음기. 사고 대비: 누출 방지·증기 감지·자동 소화·소방서 연 1회 합동 훈련("작고, 알려져 있고, 대비된" 위험). 라벨의 주민 권한 요구 → 감시위원회(선출 주민 6, 시장, 직원 대표, 리안; 연 4회 + 연 1회 예고 없는 방문; 무균복 교육은 지훈). 거부권은 거절(진허에게도 거절했다) → 대신 주민이 고르는(인증 실험실 목록) 리안 비용 독립 분석, 상한 없음, 공개. 라벨 출마 "BDDE 보관소와 북동쪽 모퉁이부터" ↔ 백 이사 "가장 나쁜 곳을 먼저". 결정 73번
 > - 배경: Année 8, 6월 셋째 주 목요일 오후 4시 공사장 임시 사무실 → 오후 7시 클뤼즈 연회장 → 오후 8시 30분 → 오후 9시 30분 → 오후 11시 30분 연회장 앞 주차장
-> - 등장인물: Clémence, Bastien, Jihoon, Yannick, Gérard, Christine Dufour, Fabienne Rey, Odile Perrin(주민 — 신규), Fabrice Morel(주민 — 신규)
+> - 등장인물: Clémence, Bastien, Jihoon, Yannick, Gérard, Christine Dufour, Fabienne Rey, Odile Perrin(주민 — 신규), Fabrice Ravel(주민 — 신규)
 > - 비즈니스 스킬: 환경 규제 대상 시설(ICPE) 체계, 주민 설명회 운영, 불편한 질문에 정직하게 답하기, 우려를 측정 가능한 약속으로 바꾸기, 거부권 없이 감시 권한 주기, 이해관계자 거버넌스
 > - 난이도: C1 · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
 > - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 24단어 이내 + 긴 턴 10~15회(35~70단어). 문법 초점: 미래(stockera, rejettera, fera), 부정 강조(ne… jamais, pas de…), 양보(même s'il nous accuse), 조건(si nous ajoutons…, nous revenons…).
-> - vous/tu: 페랭→야니크 tu(옛 제자), 뒤푸르→모렐·제라르→모렐 tu, 야니크↔모렐 tu, 나머지 vous.
+> - vous/tu: 페랭→야니크 tu(옛 제자), 뒤푸르→라벨·제라르→라벨 tu, 야니크↔라벨 tu, 나머지 vous.
 > - 복선 설치: **도입: 의자 200개 / ICPE / 「물질」을 묻는 나라 / 장갑 두 겹·마스크 / 신고 대상·의무 아님 / "법 때문이 아니라" / 틸뢸 거리 12채 / 300명 / 아르브강 하류** · **장면1: 바자회 의자·240명 / "팔러 온 게 아니다" / 말장난 안 함 / 7번지 / 200 L / 통역사가 운영 / 5학년 담임 / «Oui.» / 합법 ≠ 충분 / 8만 / 할아버지 열처리 / 참새 철망 필터 / 토마토 사이 센서** · **장면2: 전처리·중화 / 시청에도 / 학교 앞 거리 / 내비게이션 / 새벽 5시 브레이크 / 7시 / "그 전에" / 공장 고양이 / 3 dB / 작고·알려지고·대비된** · **절정: 6+시장+직원+리안 / 40분 무균복 / 거부권 없음 / 독립 분석 상한 없음 / 근속 메달 / 가장 나쁜 곳 / 달리아 / 9월 선거** · **마무리: 질문 112개 / 약속 11개·네 번째 공책 / "회의록처럼" / 새벽 5시 정 대표 / 예비비 / 7시 의자 반납 = 첫 약속 이행 / 결정 73번**
 
 ---
@@ -40,9 +40,9 @@ GERARD: J'ai fait le tour du quartier ce matin. La rue des Tilleuls, derrière l
 
 CLEMENCE: Et qu'est-ce qu'ils disent ?
 
-GERARD: Mme Perrin, l'ancienne institutrice, a peur de l'odeur. Le jeune Morel a deux enfants. Il a peur de tout.
+GERARD: Mme Perrin, l'ancienne institutrice, a peur de l'odeur. Le jeune Ravel a deux enfants. Il a peur de tout.
 
-BASTIEN: Morel a créé un groupe sur les réseaux. « Riverains Bouvier vigilants. » Trois cents membres en une semaine.
+BASTIEN: Ravel a créé un groupe sur les réseaux. « Riverains Bouvier vigilants. » Trois cents membres en une semaine.
 
 JIHOON: Trois cents membres pour douze maisons ?
 
@@ -55,15 +55,15 @@ DUFOUR: Mesdames, messieurs, merci d'être venus. Deux cent quarante personnes. 
 
 CLEMENCE: Bonsoir. Je suis Clémence Arnaud. Je suis née à Cluses. Mon père a travaillé trente ans chez Bouvier. Ce soir, je ne viens pas vous vendre une usine. Je viens vous dire ce qu'elle stockera, ce qu'elle rejettera, et ce qu'elle fera si quelque chose tourne mal. Ensuite, vous posez toutes vos questions. Nous restons jusqu'à la dernière.
 
-MOREL: Fabrice Morel, rue des Tilleuls. Première question. Pourquoi une usine chimique derrière chez moi ?
+RAVEL: Fabrice Ravel, rue des Tilleuls. Première question. Pourquoi une usine chimique derrière chez moi ?
 
 CLEMENCE: Ce n'est pas une usine chimique. C'est une usine pharmaceutique. Mais elle utilise des produits chimiques. Je ne vais pas jouer sur les mots.
 
-MOREL: Lesquels ?
+RAVEL: Lesquels ?
 
 REY: Trois principaux. La soude, comme dans un déboucheur. L'éthanol, pour nettoyer. Et le BDDE, en petite quantité.
 
-MOREL: Le BDDE. J'ai cherché. « Suspecté mutagène. » C'est écrit sur la fiche de sécurité.
+RAVEL: Le BDDE. J'ai cherché. « Suspecté mutagène. » C'est écrit sur la fiche de sécurité.
 
 REY: C'est exact. Vous avez bien lu.
 
@@ -75,7 +75,7 @@ PERRIN: Deux cents litres. Et vous êtes qui, jeune homme ?
 
 JIHOON: Je m'appelle Jihoon. J'ai été traducteur dans l'usine coréenne qui utilise ce procédé. Maintenant, je dirige la production ici.
 
-MOREL: Un traducteur qui dirige une usine chimique. Ça me rassure.
+RAVEL: Un traducteur qui dirige une usine chimique. Ça me rassure.
 
 YANNICK: Il a traduit chaque geste pendant des années. Moi, j'ai appris avec lui, là-bas. Yannick Perret. Mon père était au chromage.
 
@@ -83,15 +83,15 @@ PERRIN: Le petit Perret. Je t'ai eu en CM2. Tu écrivais très mal.
 
 YANNICK: J'écris mieux maintenant, madame. Mes carnets de procédé sont relus par deux personnes.
 
-MOREL: Très touchant. Mais je vais vous dire ce qui m'inquiète. Le seuil. Vos deux cents litres sont juste sous le seuil de l'autorisation. Comme par hasard. Vous avez calculé pour éviter l'enquête publique, l'étude de dangers, tout ce qui coûte cher. C'est ça, la vérité ?
+RAVEL: Très touchant. Mais je vais vous dire ce qui m'inquiète. Le seuil. Vos deux cents litres sont juste sous le seuil de l'autorisation. Comme par hasard. Vous avez calculé pour éviter l'enquête publique, l'étude de dangers, tout ce qui coûte cher. C'est ça, la vérité ?
 
 CLEMENCE: Oui.
 
-MOREL: Pardon ?
+RAVEL: Pardon ?
 
 CLEMENCE: Oui, nous avons regardé le seuil. Tout industriel le regarde. Une autorisation, c'est dix-huit mois de procédure en plus. Nous avons dimensionné le stockage pour rester en déclaration. C'est légal. Mais vous avez raison sur un point : légal ne veut pas dire suffisant. Surtout ici.
 
-MOREL: Alors ?
+RAVEL: Alors ?
 
 CLEMENCE: Alors nous ferons l'étude de dangers quand même. Volontairement. Par un bureau indépendant. Et elle sera publiée.
 
@@ -101,7 +101,7 @@ BASTIEN: Encore quatre-vingt mille. La ligne imprévus va pleurer.
 
 GERARD: Fabrice, ton grand-père était chez Bouvier, au traitement thermique. Personne ne lui a jamais proposé une étude.
 
-MOREL: Je sais, monsieur Arnaud. C'est pour ça que je suis là.
+RAVEL: Je sais, monsieur Arnaud. C'est pour ça que je suis là.
 
 PERRIN: Et l'odeur ? Mon jardin est contre le mur.
 
@@ -117,7 +117,7 @@ PERRIN: Dans mon jardin ? Entre les tomates ?
 
 CLEMENCE: Où vous voulez. Et si un chiffre vous inquiète, vous appelez. Pas la mairie. Nous.
 
-MOREL: Un capteur, c'est de la communication.
+RAVEL: Un capteur, c'est de la communication.
 
 REY: Un capteur mal placé, oui. Celui-là, ce sont les riverains qui choisiront où le mettre.
 
@@ -128,11 +128,11 @@ DUFOUR: Deuxième sujet. L'eau. Plusieurs d'entre vous m'ont écrit. Où partent
 
 REY: À la station d'épuration de la communauté de communes. Après un prétraitement sur le site.
 
-MOREL: Prétraitement, ça veut dire quoi ? Vous diluez ?
+RAVEL: Prétraitement, ça veut dire quoi ? Vous diluez ?
 
 JIHOON: Non. On neutralise la soude. On contrôle le pH. Et on vérifie qu'il ne reste pas de BDDE. Avant chaque rejet.
 
-MOREL: Qui vérifie ?
+RAVEL: Qui vérifie ?
 
 YANNICK: Moi, en partie. Et un laboratoire extérieur, une fois par mois. Les résultats vont à la station.
 
@@ -150,11 +150,11 @@ GERARD: Chez Bouvier, les camions passaient à cinq heures du matin. Je me souvi
 
 CLEMENCE: Pas de livraison avant sept heures. Ni le week-end. C'est écrit ce soir.
 
-MOREL: Et la nuit ? Vous travaillerez la nuit ?
+RAVEL: Et la nuit ? Vous travaillerez la nuit ?
 
 CLEMENCE: Deux équipes, de six heures à vingt-deux heures. Pas de nuit au démarrage.
 
-MOREL: « Au démarrage. » Et après ?
+RAVEL: « Au démarrage. » Et après ?
 
 CLEMENCE: Après, si nous ajoutons une équipe de nuit, nous revenons ici vous l'expliquer. Avant, pas après.
 
@@ -170,40 +170,40 @@ PERRIN: Et si le chat ronronne trop fort ?
 
 BASTIEN: Alors on ajoute des silencieux. À nos frais. La limite, c'est trois décibels de plus qu'aujourd'hui, la nuit.
 
-MOREL: Et en cas d'accident ? Un fût de BDDE renversé ? Un incendie ?
+RAVEL: Et en cas d'accident ? Un fût de BDDE renversé ? Un incendie ?
 
 REY: Bac de rétention sous chaque stockage, détection de vapeurs, extinction automatique. Le plan d'intervention sera transmis aux pompiers de Cluses. Je recommande aussi un exercice par an avec eux. Mais je ne vais pas vous dire que le risque est nul. Il ne l'est jamais. Il est petit, connu et préparé.
 
-MOREL: Petit, connu et préparé. Bouvier aussi avait de beaux mots.
+RAVEL: Petit, connu et préparé. Bouvier aussi avait de beaux mots.
 
 DUFOUR: Fabrice, laisse-les finir. Tu les jugeras sur les actes.
 
-MOREL: C'est exactement ce que je veux. Les juger. Avec un vrai pouvoir.
+RAVEL: C'est exactement ce que je veux. Les juger. Avec un vrai pouvoir.
 
 CLEMENCE: Quel pouvoir ?
 
-MOREL: Un comité. Des riverains. Qui entrent dans l'usine quand ils veulent. Pas pour une visite guidée.
+RAVEL: Un comité. Des riverains. Qui entrent dans l'usine quand ils veulent. Pas pour une visite guidée.
 
 
 ### 절정·전환 — 오후 9시 30분, 같은 연회장 — 거부권 대신
 
 CLEMENCE: D'accord pour un comité de suivi. Six riverains, élus par vous, pas choisis par nous. La maire, un représentant des salariés, et nous. Quatre réunions par an, sur le site. Et une visite sans prévenir, une fois par an, le jour que vous choisissez.
 
-MOREL: Une fois par an ? Bouvier, c'est quarante ans sans prévenir personne.
+RAVEL: Une fois par an ? Bouvier, c'est quarante ans sans prévenir personne.
 
 CLEMENCE: Je sais. Mais une salle blanche ne s'ouvre pas comme un garage. Il faut s'habiller. Quarante minutes.
 
 JIHOON: Je peux former les membres du comité à l'habillage. C'est la première chose que j'ai apprise à Osong.
 
-MOREL: Et si on voit quelque chose qui ne va pas ? On a un veto ?
+RAVEL: Et si on voit quelque chose qui ne va pas ? On a un veto ?
 
 CLEMENCE: Non. Pas de veto.
 
-MOREL: Alors c'est du théâtre.
+RAVEL: Alors c'est du théâtre.
 
 CLEMENCE: Ce n'est pas du théâtre. Un veto, c'est quelqu'un qui ne porte pas la responsabilité et qui peut tout arrêter. Je ne le donne à personne, ni à vous, ni à un investisseur. Je l'ai refusé à un groupe chinois l'an dernier. Mais je vous donne autre chose : le droit de commander une analyse indépendante, quand vous voulez, payée par Liane. Et le résultat est publié, même s'il nous accuse.
 
-MOREL: Payée par vous, choisie par nous ?
+RAVEL: Payée par vous, choisie par nous ?
 
 CLEMENCE: Choisie par vous. Dans la liste des laboratoires accrédités. Pas dans la nôtre.
 
@@ -219,21 +219,21 @@ CLEMENCE: Non. Pas de plafond. Si on en a besoin de dix, c'est qu'on a un probl�
 
 GERARD: Fabrice. Elle vient de te donner plus que Bouvier en quarante ans. Prends-le.
 
-MOREL: Je ne suis pas là pour prendre ce qu'on me donne, monsieur Arnaud.
+RAVEL: Je ne suis pas là pour prendre ce qu'on me donne, monsieur Arnaud.
 
 YANNICK: Fabrice, mon père aurait voulu un comité comme ça. Il n'a eu qu'une médaille du travail.
 
-MOREL: D'accord. Je me présente au comité. Mais je vous préviens. À la première visite surprise, je ne vais pas regarder vos belles salles blanches. Je vais regarder le stockage du BDDE et le coin nord-est. Là où ça peut aller mal.
+RAVEL: D'accord. Je me présente au comité. Mais je vous préviens. À la première visite surprise, je ne vais pas regarder vos belles salles blanches. Je vais regarder le stockage du BDDE et le coin nord-est. Là où ça peut aller mal.
 
 JIHOON: C'est exactement ce que dit M. Baek. Regardez le pire endroit d'abord.
 
-MOREL: Votre M. Baek a l'air de quelqu'un de bien.
+RAVEL: Votre M. Baek a l'air de quelqu'un de bien.
 
 JIHOON: Il arrive l'an prochain. Il ne parle pas français. Je traduirai vos questions. Toutes.
 
 PERRIN: Moi aussi, je me présente. Et mon jardin est disponible pour votre capteur. Entre les tomates et les dahlias.
 
-DUFOUR: Je note : comité de suivi de site, six riverains, Mme Perrin et M. Morel candidats. Élection en septembre.
+DUFOUR: Je note : comité de suivi de site, six riverains, Mme Perrin et M. Ravel candidats. Élection en septembre.
 
 CLEMENCE: Merci à tous. Il est vingt-trois heures. Nous restons pour ceux qui ont encore des questions.
 
@@ -244,7 +244,7 @@ REY: Quatre heures et demie de réunion. Cent douze questions. J'ai compté.
 
 BASTIEN: Et onze engagements. Je les ai tous notés. Le registre va avoir besoin d'un quatrième cahier.
 
-DUFOUR: Morel au comité. Vous savez ce que vous avez fait ? Il va venir tous les mois.
+DUFOUR: Ravel au comité. Vous savez ce que vous avez fait ? Il va venir tous les mois.
 
 CLEMENCE: Tant mieux. Il regardera le pire endroit. Et nous aussi, du coup.
 
@@ -366,9 +366,9 @@ CLEMENCE: Décision soixante-treize : l'usine reste au régime de la déclaratio
 
 클레망스: 뭐라고들 하세요?
 
-제라르: 옛 선생님 페랭 부인은 냄새를 걱정해. 젊은 모렐은 애가 둘이야. 모든 게 걱정이지.
+제라르: 옛 선생님 페랭 부인은 냄새를 걱정해. 젊은 라벨은 애가 둘이야. 모든 게 걱정이지.
 
-바스티앵: 모렐이 SNS에 모임을 만들었어. 「부비에 감시 주민들」. 일주일에 300명.
+바스티앵: 라벨이 SNS에 모임을 만들었어. 「부비에 감시 주민들」. 일주일에 300명.
 
 지훈: 집 열두 채에 300명이요?
 
@@ -381,15 +381,15 @@ CLEMENCE: Décision soixante-treize : l'usine reste au régime de la déclaratio
 
 클레망스: 안녕하세요. 클레망스 아르노입니다. 클뤼즈에서 태어났어요. 아버지는 부비에에서 30년 일하셨어요. 오늘 밤 공장을 팔러 온 게 아니에요. 공장이 무엇을 보관하고, 무엇을 내보내고, 뭔가 잘못되면 무엇을 할지 말씀드리러 왔어요. 그다음 모든 질문을 받겠습니다. 마지막 질문까지 남겠습니다.
 
-모렐: 틸뢸 거리의 파브리스 모렐입니다. 첫 질문. 왜 우리 집 뒤에 화학 공장이죠?
+라벨: 틸뢸 거리의 파브리스 라벨입니다. 첫 질문. 왜 우리 집 뒤에 화학 공장이죠?
 
 클레망스: 화학 공장이 아니에요. 제약 공장이에요. 하지만 화학 물질을 써요. 말장난은 하지 않겠습니다.
 
-모렐: 어떤 물질이요?
+라벨: 어떤 물질이요?
 
 레: 주로 세 가지. 가성소다, 배수구 세정제에 든 것. 에탄올, 세척용. 그리고 소량의 BDDE.
 
-모렐: BDDE. 찾아봤어요. 「돌연변이 유발 의심」. 안전보건자료에 그렇게 쓰여 있어요.
+라벨: BDDE. 찾아봤어요. 「돌연변이 유발 의심」. 안전보건자료에 그렇게 쓰여 있어요.
 
 레: 맞아요. 제대로 읽으셨어요.
 
@@ -401,7 +401,7 @@ CLEMENCE: Décision soixante-treize : l'usine reste au régime de la déclaratio
 
 지훈: 지훈이라고 합니다. 이 공정을 쓰는 한국 공장에서 통역사였어요. 지금은 여기서 생산을 책임져요.
 
-모렐: 화학 공장을 운영하는 통역사라. 참 안심되네요.
+라벨: 화학 공장을 운영하는 통역사라. 참 안심되네요.
 
 야니크: 이분은 몇 년 동안 모든 동작을 통역했어요. 저는 거기서 이분과 함께 배웠고요. 야니크 페레예요. 아버지가 크롬 도금에 계셨어요.
 
@@ -409,15 +409,15 @@ CLEMENCE: Décision soixante-treize : l'usine reste au régime de la déclaratio
 
 야니크: 이제 잘 써요, 선생님. 제 공정 노트는 두 사람이 검토해요.
 
-모렐: 감동적이네요. 하지만 뭐가 걱정인지 말할게요. 기준치. 200리터는 허가 기준치 바로 아래예요. 우연히도. 공청회, 위험성 평가, 돈 드는 건 다 피하려고 계산하셨죠. 그게 진실 아닌가요?
+라벨: 감동적이네요. 하지만 뭐가 걱정인지 말할게요. 기준치. 200리터는 허가 기준치 바로 아래예요. 우연히도. 공청회, 위험성 평가, 돈 드는 건 다 피하려고 계산하셨죠. 그게 진실 아닌가요?
 
 클레망스: 네.
 
-모렐: 네?
+라벨: 네?
 
 클레망스: 네, 기준치를 봤어요. 기업은 다 봐요. 허가는 절차가 18개월 더 걸려요. 신고 대상에 머물도록 보관량을 정했어요. 합법이에요. 하지만 한 가지는 맞으세요. 합법이 충분하다는 뜻은 아니에요. 특히 여기선.
 
-모렐: 그래서요?
+라벨: 그래서요?
 
 클레망스: 그래서 위험성 평가를 어쨌든 하겠습니다. 자발적으로. 독립 기관이. 그리고 공개해요.
 
@@ -427,7 +427,7 @@ CLEMENCE: Décision soixante-treize : l'usine reste au régime de la déclaratio
 
 제라르: 파브리스, 네 할아버지가 부비에 열처리에 계셨지. 아무도 그분께 조사 같은 건 제안하지 않았어.
 
-모렐: 알아요, 아르노 씨. 그래서 여기 온 거예요.
+라벨: 알아요, 아르노 씨. 그래서 여기 온 거예요.
 
 페랭: 그리고 냄새는요? 내 정원이 담에 붙어 있어요.
 
@@ -443,7 +443,7 @@ CLEMENCE: Décision soixante-treize : l'usine reste au régime de la déclaratio
 
 클레망스: 원하시는 곳에. 숫자가 걱정되면 전화하세요. 시청 말고. 저희한테.
 
-모렐: 센서는 홍보예요.
+라벨: 센서는 홍보예요.
 
 레: 잘못 놓은 센서라면요. 이건 주민들이 위치를 정할 거예요.
 
@@ -454,11 +454,11 @@ CLEMENCE: Décision soixante-treize : l'usine reste au régime de la déclaratio
 
 레: 지역 공동체 하수처리장으로요. 현장 전처리 후에.
 
-모렐: 전처리가 뭐죠? 희석하는 거예요?
+라벨: 전처리가 뭐죠? 희석하는 거예요?
 
 지훈: 아니요. 가성소다를 중화해요. pH를 확인해요. 그리고 BDDE가 남지 않았는지 확인해요. 매번 방류 전에.
 
-모렐: 누가 확인하죠?
+라벨: 누가 확인하죠?
 
 야니크: 일부는 저요. 그리고 외부 실험실이 한 달에 한 번. 결과는 처리장으로 가요.
 
@@ -476,11 +476,11 @@ CLEMENCE: Décision soixante-treize : l'usine reste au régime de la déclaratio
 
 클레망스: 오전 7시 전 납품 없음. 주말도 없음. 오늘 밤 적어 둡니다.
 
-모렐: 그럼 밤은요? 밤에도 일해요?
+라벨: 그럼 밤은요? 밤에도 일해요?
 
 클레망스: 두 교대조, 오전 6시부터 밤 10시까지. 초기엔 야간 없음.
 
-모렐: 「초기엔」. 그다음은요?
+라벨: 「초기엔」. 그다음은요?
 
 클레망스: 그다음 야간조를 추가하면, 여기 다시 와서 설명할게요. 그 전에요. 그 뒤가 아니라.
 
@@ -496,40 +496,40 @@ CLEMENCE: Décision soixante-treize : l'usine reste au régime de la déclaratio
 
 바스티앵: 그럼 소음기를 달아요. 우리 돈으로. 기준은 밤에 지금보다 3데시벨 이내예요.
 
-모렐: 사고가 나면요? BDDE 드럼이 쏟아지면? 화재는?
+라벨: 사고가 나면요? BDDE 드럼이 쏟아지면? 화재는?
 
 레: 모든 보관 설비 아래 누출 방지 받침, 증기 감지, 자동 소화. 비상 대응 계획은 클뤼즈 소방서에 전달돼요. 해마다 소방서와 합동 훈련도 권해요. 하지만 위험이 0이라고는 말하지 않겠습니다. 결코 0이 아니에요. 작고, 알려져 있고, 대비돼 있을 뿐.
 
-모렐: 작고, 알려져 있고, 대비돼 있다. 부비에도 말은 그럴듯했죠.
+라벨: 작고, 알려져 있고, 대비돼 있다. 부비에도 말은 그럴듯했죠.
 
 뒤푸르: 파브리스, 끝까지 들어. 행동으로 판단하면 돼.
 
-모렐: 바로 그걸 원해요. 판단하는 것. 진짜 권한을 갖고.
+라벨: 바로 그걸 원해요. 판단하는 것. 진짜 권한을 갖고.
 
 클레망스: 어떤 권한이요?
 
-모렐: 위원회. 주민들로. 원할 때 공장에 들어가는. 안내 투어 말고요.
+라벨: 위원회. 주민들로. 원할 때 공장에 들어가는. 안내 투어 말고요.
 
 
 ### 절정·전환 — 오후 9시 30분, 같은 연회장 — 거부권 대신
 
 클레망스: 감시위원회, 좋습니다. 주민 여섯 명, 저희가 고르는 게 아니라 여러분이 선출해요. 시장님, 직원 대표 한 명, 그리고 저희. 해마다 현장 회의 네 번. 그리고 1년에 한 번, 여러분이 고른 날에 예고 없는 방문.
 
-모렐: 1년에 한 번? 부비에는 40년 동안 아무한테도 예고 없이 했어요.
+라벨: 1년에 한 번? 부비에는 40년 동안 아무한테도 예고 없이 했어요.
 
 클레망스: 알아요. 하지만 클린룸은 차고처럼 열리지 않아요. 옷을 갈아입어야 해요. 40분.
 
 지훈: 위원들께 무균복 착용을 가르쳐 드릴 수 있어요. 오송에서 제가 제일 먼저 배운 거예요.
 
-모렐: 뭔가 잘못된 걸 보면요? 거부권이 있나요?
+라벨: 뭔가 잘못된 걸 보면요? 거부권이 있나요?
 
 클레망스: 아니요. 거부권은 없어요.
 
-모렐: 그럼 연극이네요.
+라벨: 그럼 연극이네요.
 
 클레망스: 연극이 아니에요. 거부권이란 책임을 지지 않는 사람이 모든 걸 멈출 수 있는 거예요. 누구에게도 주지 않아요. 여러분에게도, 투자자에게도. 작년에 중국 그룹에게도 거절했어요. 대신 다른 걸 드릴게요. 원할 때 독립 분석을 의뢰할 권리, 비용은 리안이 내요. 결과는 공개해요, 우리를 고발하더라도.
 
-모렐: 비용은 당신들이, 선택은 우리가?
+라벨: 비용은 당신들이, 선택은 우리가?
 
 클레망스: 선택은 여러분이. 인증 실험실 목록에서. 우리 목록이 아니라.
 
@@ -545,21 +545,21 @@ CLEMENCE: Décision soixante-treize : l'usine reste au régime de la déclaratio
 
 제라르: 파브리스. 부비에가 40년 동안 준 것보다 많은 걸 방금 받았어. 받아.
 
-모렐: 주는 걸 받으러 온 게 아니에요, 아르노 씨.
+라벨: 주는 걸 받으러 온 게 아니에요, 아르노 씨.
 
 야니크: 파브리스, 우리 아버지라면 이런 위원회를 원하셨을 거야. 받은 건 근속 메달뿐이었어.
 
-모렐: 좋아요. 위원회에 출마할게요. 하지만 미리 말해 두죠. 첫 예고 없는 방문 때 멋진 클린룸은 안 볼 거예요. BDDE 보관소와 북동쪽 모퉁이를 볼 거예요. 잘못될 수 있는 곳을.
+라벨: 좋아요. 위원회에 출마할게요. 하지만 미리 말해 두죠. 첫 예고 없는 방문 때 멋진 클린룸은 안 볼 거예요. BDDE 보관소와 북동쪽 모퉁이를 볼 거예요. 잘못될 수 있는 곳을.
 
 지훈: 백 이사님이 하시는 말과 똑같아요. 가장 나쁜 곳을 먼저 보라.
 
-모렐: 그 백 씨, 좋은 사람 같네요.
+라벨: 그 백 씨, 좋은 사람 같네요.
 
 지훈: 내년에 오세요. 프랑스어를 못 하세요. 질문은 제가 통역할게요. 전부.
 
 페랭: 나도 출마할게요. 그리고 센서는 내 정원에 두세요. 토마토와 달리아 사이에.
 
-뒤푸르: 적겠습니다. 현장 감시위원회, 주민 여섯 명, 페랭 부인과 모렐 씨 출마. 선거는 9월.
+뒤푸르: 적겠습니다. 현장 감시위원회, 주민 여섯 명, 페랭 부인과 라벨 씨 출마. 선거는 9월.
 
 클레망스: 모두 감사합니다. 밤 11시네요. 아직 질문 있는 분들을 위해 남겠습니다.
 
@@ -570,7 +570,7 @@ CLEMENCE: Décision soixante-treize : l'usine reste au régime de la déclaratio
 
 바스티앵: 그리고 약속 열한 개. 다 적었어. 대장에 네 번째 공책이 필요하겠어.
 
-뒤푸르: 모렐이 위원회에. 무슨 일을 하신 건지 아세요? 매달 올 거예요.
+뒤푸르: 라벨이 위원회에. 무슨 일을 하신 건지 아세요? 매달 올 거예요.
 
 클레망스: 잘됐죠. 가장 나쁜 곳을 보겠죠. 덕분에 우리도요.
 

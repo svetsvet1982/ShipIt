@@ -3,9 +3,9 @@
 ## Le risque d'exécution (실행 위험)
 
 > **표기 전용 정보 (낭독하지 않음)**
-> - 부/화: 7부 5화 · 서사 기능: Année 8 7월, 안시. 황무지 기금 20만 승인(예비비 37만 5천). 은행 질문 40개 중 38개가 실행 위험. 은행 두 곳 신디케이트: 방크 아르브-레망(주간사, 나탈리 샤리에)·케스 몽블랑(브누아 라콩브). 알프 상테 아녜스 페리에르 동행 — "은행은 공장이 아니라 주주를 보고 빌려준다". 쥘리앵·백 이사의 자체 위험 목록 10개(1번 = 적격성 평가 실패·12개월 지연, 2번 공사비 초과, 3번 핵심 인물, 7번 = 7번 로트 번역 오류 — 백 이사가 번호 고름). 라콩브 스트레스 시나리오 Année 10 중반 210만 부족 vs 쥘리앵 230만(임금 3%·파견). "40쪽에서 읽을 걸 1쪽에서" → 클레망스가 증액 요청 830만 → 870만(예비비 재충전 40만, 묶어 두고 독립 엔지니어 동의, 미사용 시 조기 상환). 지훈의 핵심 인물 답변(2인 검토, 이 씨, 100단어). 개인 보증 «Non.» → 대신 주주 지원 약정 200만(첫 상업 로트까지 요청 가능 자기자본): 알프 상테 100만 + 들로름 100만(8시부터 아래층 카페, 세 잔). 페리에르 빨간 조건 3개(월간 공사 보고·독립 엔지니어 은행·이사회 보고·6개월 이상 지연 시 외부 전문가 «Pour l'aider. Pas pour la remplacer.»). 마일스톤 5개 단계 인출. DSCR 1.2(첫 로트 후 두 번째 회계연도부터, 고정일 아님). 들로름: 리옹 실크 "손을 빼고 판" 기억, «C'est la seule raison qui tient quand les tableurs ne tiennent plus.» 샤리에 «Je prête rarement sur des gens. Aujourd'hui, si.» 당일 전화 약속(바스티앵은 이미 번호 확보). 콘크리트 8월 20일(자기자본으로, 백 이사 화살표 분필), 여신위원회 9월 15일. 페리에르 첫 "아무것도 안 그은 날". 지훈: 지원 약정 = 세 번째 잔. 결정 75번
+> - 부/화: 7부 5화 · 서사 기능: Année 8 7월, 안시. 황무지 기금 20만 승인(예비비 37만 5천). 은행 질문 40개 중 38개가 실행 위험. 은행 두 곳 신디케이트: 방크 아르브-레망(주간사, 나탈리 샤리에)·케스 몽블랑(브누아 마르샬). 알프 상테 아녜스 페리에르 동행 — "은행은 공장이 아니라 주주를 보고 빌려준다". 쥘리앵·백 이사의 자체 위험 목록 10개(1번 = 적격성 평가 실패·12개월 지연, 2번 공사비 초과, 3번 핵심 인물, 7번 = 7번 로트 번역 오류 — 백 이사가 번호 고름). 마르샬 스트레스 시나리오 Année 10 중반 210만 부족 vs 쥘리앵 230만(임금 3%·파견). "40쪽에서 읽을 걸 1쪽에서" → 클레망스가 증액 요청 830만 → 870만(예비비 재충전 40만, 묶어 두고 독립 엔지니어 동의, 미사용 시 조기 상환). 지훈의 핵심 인물 답변(2인 검토, 이 씨, 100단어). 개인 보증 «Non.» → 대신 주주 지원 약정 200만(첫 상업 로트까지 요청 가능 자기자본): 알프 상테 100만 + 들로름 100만(8시부터 아래층 카페, 세 잔). 페리에르 빨간 조건 3개(월간 공사 보고·독립 엔지니어 은행·이사회 보고·6개월 이상 지연 시 외부 전문가 «Pour l'aider. Pas pour la remplacer.»). 마일스톤 5개 단계 인출. DSCR 1.2(첫 로트 후 두 번째 회계연도부터, 고정일 아님). 들로름: 리옹 실크 "손을 빼고 판" 기억, «C'est la seule raison qui tient quand les tableurs ne tiennent plus.» 샤리에 «Je prête rarement sur des gens. Aujourd'hui, si.» 당일 전화 약속(바스티앵은 이미 번호 확보). 콘크리트 8월 20일(자기자본으로, 백 이사 화살표 분필), 여신위원회 9월 15일. 페리에르 첫 "아무것도 안 그은 날". 지훈: 지원 약정 = 세 번째 잔. 결정 75번
 > - 배경: Année 8, 7월 넷째 주 목요일 오전 8시 30분 안시 은행 앞 카페 → 오전 9시 방크 아르브-레망 회의실 → 오전 10시 30분 → 오전 11시 30분 → 정오 같은 카페
-> - 등장인물: Clémence, Bastien, Julien, Jihoon, Agnès Ferrière, Marc-Antoine Delorme, Nathalie Charrier(방크 아르브-레망 — 신규), Benoît Lacombe(케스 몽블랑 — 신규)
+> - 등장인물: Clémence, Bastien, Julien, Jihoon, Agnès Ferrière, Marc-Antoine Delorme, Nathalie Charrier(방크 아르브-레망 — 신규), Benoît Marchal(케스 몽블랑 — 신규)
 > - 비즈니스 스킬: 프로젝트 파이낸싱의 실행 위험, 자체 위험 목록 제시, 스트레스 시나리오, 예비비 증액 요청, 개인 보증 거절과 대안(주주 지원 약정), 단계별 인출과 독립 엔지니어, 이동형 재무 약정
 > - 난이도: C1 · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
 > - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 24단어 이내 + 긴 턴 10~15회(35~70단어). 문법 초점: 접속법(que le plan soit bon et que vous ne sachiez pas…), 선호 비교(je préfère emprunter… que revenir…), 조건(si ce n'est pas vous, c'est qui ?), 대비(Le dossier, non. Les gens, oui.).
@@ -38,7 +38,7 @@ BASTIEN: Vous avez apporté votre stylo rouge ?
 
 FERRIERE: Toujours. Je n'ai encore rien barré aujourd'hui. Il est neuf heures moins le quart.
 
-JULIEN: Deux banques. La Banque Arve-Léman, chef de file, Mme Charrier. Et la Caisse Mont-Blanc, M. Lacombe. Huit millions trois à elles deux.
+JULIEN: Deux banques. La Banque Arve-Léman, chef de file, Mme Charrier. Et la Caisse Mont-Blanc, M. Marchal. Huit millions trois à elles deux.
 
 JIHOON: Pourquoi deux banques ? En Corée, on va à une seule banque. Celle du groupe.
 
@@ -59,15 +59,15 @@ CHARRIER: Vous classez vos risques vous-mêmes ? D'habitude, c'est notre travail
 
 JULIEN: Nous l'avons fait avec M. Baek, le directeur de l'usine coréenne. Il dit : regardez le pire endroit d'abord. Alors voici le pire. Risque numéro un : la qualification de l'usine échoue, ou prend douze mois de plus. Pas le chantier. La qualification. C'est là que les usines pharmaceutiques prennent du retard. Le béton, on sait faire.
 
-LACOMBE: Benoît Lacombe, Caisse Mont-Blanc. C'est exactement mon scénario de stress. Douze mois de retard à la qualification.
+MARCHAL: Benoît Marchal, Caisse Mont-Blanc. C'est exactement mon scénario de stress. Douze mois de retard à la qualification.
 
 CLEMENCE: Et qu'est-ce qu'il donne, votre scénario ?
 
-LACOMBE: Un trou de trésorerie de deux millions un, au milieu de l'année dix. Avant le premier lot commercial.
+MARCHAL: Un trou de trésorerie de deux millions un, au milieu de l'année dix. Avant le premier lot commercial.
 
 JULIEN: Moi, j'ai trouvé deux millions trois. Vous êtes plus optimiste que moi.
 
-LACOMBE: Je n'ai pas compté la hausse des salaires. Vous, si ?
+MARCHAL: Je n'ai pas compté la hausse des salaires. Vous, si ?
 
 JULIEN: Trois pour cent par an. Et un mois d'intérim pendant la qualification.
 
@@ -79,7 +79,7 @@ CHARRIER: Vous nous dites ça, comme ça ? Vous savez qu'on prête moins à ceux
 
 CLEMENCE: Je sais. Mais vous l'auriez lu page quarante. Je préfère vous le dire page un.
 
-LACOMBE: Le chrome, l'étude de dangers, l'ISO 5. J'ai lu les annexes. Sur huit cent mille, il en reste trois cent soixante-quinze.
+MARCHAL: Le chrome, l'étude de dangers, l'ISO 5. J'ai lu les annexes. Sur huit cent mille, il en reste trois cent soixante-quinze.
 
 CLEMENCE: Pour dix-huit mois de chantier. C'est trop peu. Alors je vous demande plus d'argent, pas moins.
 
@@ -89,7 +89,7 @@ CLEMENCE: Quatre cent mille de plus. Huit millions sept au lieu de huit millions
 
 CHARRIER: En vingt ans, c'est la première fois qu'un client me demande plus d'argent pour sa marge de sécurité.
 
-LACOMBE: Et c'est la première fois que j'ai envie de dire oui à une augmentation.
+MARCHAL: Et c'est la première fois que j'ai envie de dire oui à une augmentation.
 
 CHARRIER: Ne dites pas oui trop vite, Benoît. Risque numéro trois ?
 
@@ -103,7 +103,7 @@ CHARRIER: Alors répondez-y.
 
 JIHOON: Tout ce que je traduis est écrit, puis relu par une deuxième personne. C'est la règle depuis le lot sept, qui a échoué à cause d'une erreur de traduction. Il y a aussi un deuxième traducteur, M. Lee, à Osong. Et Yannick, Élodie et Karim comprennent maintenant cent mots de coréen technique. Ce n'est pas assez. Mais ce n'est pas zéro.
 
-LACOMBE: Le lot sept. Il est dans votre liste ?
+MARCHAL: Le lot sept. Il est dans votre liste ?
 
 JULIEN: Risque numéro sept. On l'a mis au numéro sept exprès. M. Baek a insisté.
 
@@ -130,7 +130,7 @@ CHARRIER: Madame Ferrière. Alpes Santé. Je me demandais quand vous parleriez.
 
 FERRIERE: Quand on parlerait d'argent qui n'est pas encore dépensé. Que voulez-vous, exactement ?
 
-LACOMBE: Un engagement de soutien des actionnaires. Si le trou de trésorerie arrive, deux millions de fonds propres supplémentaires, appelables par la société, jusqu'au premier lot commercial. Pas un prêt. Des fonds propres. Dans un dossier comme celui-ci, c'est ce qui remplace une caution personnelle.
+MARCHAL: Un engagement de soutien des actionnaires. Si le trou de trésorerie arrive, deux millions de fonds propres supplémentaires, appelables par la société, jusqu'au premier lot commercial. Pas un prêt. Des fonds propres. Dans un dossier comme celui-ci, c'est ce qui remplace une caution personnelle.
 
 FERRIERE: Deux millions. Mon fonds peut en engager un, au maximum. Et mon comité d'investissement voudra des conditions.
 
@@ -162,7 +162,7 @@ FERRIERE: Je l'écris devant vous. « Pour l'aider. Pas pour la remplacer. »
 
 CLEMENCE: Alors j'accepte les trois.
 
-LACOMBE: Vous acceptez vite.
+MARCHAL: Vous acceptez vite.
 
 CLEMENCE: J'ai refusé un veto aux riverains, et à un groupe chinois avant eux. Un veto, c'est quelqu'un qui arrête tout sans porter la responsabilité. Ici, personne ne demande de veto. Vous demandez de voir, de savoir, d'être prévenus. Ça, je le donne toujours. Et plutôt deux fois qu'une.
 
@@ -174,11 +174,11 @@ CHARRIER: Les fondations. Le bâtiment hors d'eau, hors d'air. La salle blanche 
 
 BASTIEN: Cinq jalons. On les met dans le planning de M. Lambert.
 
-LACOMBE: Et les covenants. Ratio de couverture du service de la dette, un virgule deux, à partir de l'année onze.
+MARCHAL: Et les covenants. Ratio de couverture du service de la dette, un virgule deux, à partir de l'année onze.
 
 JULIEN: Un virgule deux, au deuxième exercice après le premier lot. Pas à date fixe. Si la qualification glisse, le covenant glisse.
 
-LACOMBE: Vous avez lu notre modèle de contrat.
+MARCHAL: Vous avez lu notre modèle de contrat.
 
 JULIEN: Trois fois. Bastien m'a appris à lire même les notes de bas de page.
 
@@ -193,13 +193,13 @@ CHARRIER: C'est une raison sentimentale.
 
 DELORME: C'est la seule raison qui tient quand les tableurs ne tiennent plus.
 
-LACOMBE: Notre comité ne votera pas sur un sentiment.
+MARCHAL: Notre comité ne votera pas sur un sentiment.
 
 DELORME: Votre comité votera sur deux millions de fonds propres appelables. Le sentiment, c'est pour moi.
 
 CHARRIER: Bien. Récapitulons. Huit millions sept. Le crédit-bail sur les équipements chez nous. Le prêt immobilier sur le bâtiment chez Benoît.
 
-LACOMBE: Quatre millions cinq en crédit-bail, sur sept ans. Quatre millions deux en prêt immobilier, sur douze ans. Garantie Bpifrance à cinquante pour cent.
+MARCHAL: Quatre millions cinq en crédit-bail, sur sept ans. Quatre millions deux en prêt immobilier, sur douze ans. Garantie Bpifrance à cinquante pour cent.
 
 JULIEN: Et quatre cent mille bloqués pour les imprévus, sous le contrôle de l'ingénieur indépendant.
 
@@ -215,7 +215,7 @@ CHARRIER: Il est sur ma carte. Vous l'avez déjà, n'est-ce pas ?
 
 BASTIEN: Dans la signature de votre courriel du deux juin.
 
-LACOMBE: Je vais changer ma signature.
+MARCHAL: Je vais changer ma signature.
 
 JIHOON: Une question, madame Charrier. Pourquoi avez-vous dit oui ? Le dossier n'a pas changé depuis ce matin.
 
@@ -229,7 +229,7 @@ FERRIERE: Je n'ai rien barré aujourd'hui. Je vais le noter. C'est une première
 
 DELORME: Agnès n'a rien barré. Je reprends un café pour fêter ça.
 
-LACOMBE: Le comité de crédit se réunit le quinze septembre. C'est moi qui présente le dossier.
+MARCHAL: Le comité de crédit se réunit le quinze septembre. C'est moi qui présente le dossier.
 
 JULIEN: Le béton est coulé le vingt août. Avant votre comité.
 
@@ -361,7 +361,7 @@ CLEMENCE: Décision soixante-quinze : financement bancaire de huit millions sept
 
 페리에르: 늘 갖고 있죠. 오늘은 아직 아무것도 안 그었어요. 9시 15분 전이니까.
 
-쥘리앵: 은행 두 곳. 주간사 방크 아르브-레망의 샤리에 부장. 그리고 케스 몽블랑의 라콩브 씨. 둘이 합쳐 830만.
+쥘리앵: 은행 두 곳. 주간사 방크 아르브-레망의 샤리에 부장. 그리고 케스 몽블랑의 마르샬 씨. 둘이 합쳐 830만.
 
 지훈: 왜 은행이 둘이에요? 한국에선 한 은행에 가요. 그룹 은행.
 
@@ -382,15 +382,15 @@ CLEMENCE: Décision soixante-quinze : financement bancaire de huit millions sept
 
 쥘리앵: 한국 공장장 백 이사님과 함께 했어요. 가장 나쁜 곳을 먼저 보라고 하세요. 그래서 가장 나쁜 것부터. 위험 1번: 공장 적격성 평가가 실패하거나 12개월 더 걸린다. 공사가 아니라. 적격성 평가. 제약 공장은 거기서 지연돼요. 콘크리트는 할 줄 알아요.
 
-라콩브: 케스 몽블랑의 브누아 라콩브입니다. 그게 바로 제 스트레스 시나리오예요. 적격성 평가 12개월 지연.
+마르샬: 케스 몽블랑의 브누아 마르샬입니다. 그게 바로 제 스트레스 시나리오예요. 적격성 평가 12개월 지연.
 
 클레망스: 그 시나리오에선 결과가 어떻죠?
 
-라콩브: Année 10 중반에 현금 210만 부족. 첫 상업 로트 전에.
+마르샬: Année 10 중반에 현금 210만 부족. 첫 상업 로트 전에.
 
 쥘리앵: 저는 230만이 나왔어요. 저보다 낙관적이시네요.
 
-라콩브: 임금 상승은 안 넣었어요. 넣으셨어요?
+마르샬: 임금 상승은 안 넣었어요. 넣으셨어요?
 
 쥘리앵: 연 3%. 그리고 적격성 평가 기간 한 달 파견 인력.
 
@@ -402,7 +402,7 @@ CLEMENCE: Décision soixante-quinze : financement bancaire de huit millions sept
 
 클레망스: 알아요. 하지만 40쪽에서 읽으셨을 거예요. 1쪽에서 말씀드리는 게 낫죠.
 
-라콩브: 크롬, 위험성 평가, ISO 5. 부속서를 읽었어요. 80만 중 37만 5천 남았네요.
+마르샬: 크롬, 위험성 평가, ISO 5. 부속서를 읽었어요. 80만 중 37만 5천 남았네요.
 
 클레망스: 18개월 공사에. 너무 적어요. 그래서 덜이 아니라 더 빌려 달라고 요청드려요.
 
@@ -412,7 +412,7 @@ CLEMENCE: Décision soixante-quinze : financement bancaire de huit millions sept
 
 샤리에: 20년 동안 안전 여유를 위해 더 빌려 달라는 고객은 처음이에요.
 
-라콩브: 그리고 증액 요청에 찬성하고 싶은 것도 처음이고요.
+마르샬: 그리고 증액 요청에 찬성하고 싶은 것도 처음이고요.
 
 샤리에: 너무 빨리 찬성하지 마요, 브누아. 위험 3번?
 
@@ -426,7 +426,7 @@ CLEMENCE: Décision soixante-quinze : financement bancaire de huit millions sept
 
 지훈: 제가 번역하는 건 전부 글로 쓰고, 두 번째 사람이 검토해요. 번역 오류로 실패한 7번 로트 이후의 규칙이에요. 오송엔 두 번째 통역사 이 씨도 있어요. 그리고 야니크, 엘로디, 카림은 이제 기술 한국어 100단어를 알아요. 충분하진 않아요. 하지만 0은 아니에요.
 
-라콩브: 7번 로트. 목록에 있어요?
+마르샬: 7번 로트. 목록에 있어요?
 
 쥘리앵: 위험 7번이에요. 일부러 7번에 넣었어요. 백 이사님이 고집하셨어요.
 
@@ -453,7 +453,7 @@ CLEMENCE: Décision soixante-quinze : financement bancaire de huit millions sept
 
 페리에르: 아직 쓰지 않은 돈 얘기가 나올 때요. 정확히 뭘 원하시죠?
 
-라콩브: 주주 지원 약정이요. 현금 부족이 오면 첫 상업 로트 전까지 회사가 요청할 수 있는 추가 자기자본 200만. 대출이 아니라. 자기자본. 이런 서류에선 그게 개인 보증을 대신해요.
+마르샬: 주주 지원 약정이요. 현금 부족이 오면 첫 상업 로트 전까지 회사가 요청할 수 있는 추가 자기자본 200만. 대출이 아니라. 자기자본. 이런 서류에선 그게 개인 보증을 대신해요.
 
 페리에르: 200만. 우리 펀드는 최대 100만까지 약정할 수 있어요. 그리고 투자위원회가 조건을 원할 거예요.
 
@@ -485,7 +485,7 @@ CLEMENCE: Décision soixante-quinze : financement bancaire de huit millions sept
 
 클레망스: 그럼 세 가지 다 받아들일게요.
 
-라콩브: 빨리 받아들이시네요.
+마르샬: 빨리 받아들이시네요.
 
 클레망스: 주민들에게도, 그 전엔 중국 그룹에게도 거부권을 거절했어요. 거부권은 책임을 지지 않으면서 모든 걸 멈추는 거예요. 여기선 아무도 거부권을 요구하지 않아요. 보고, 알고, 미리 듣기를 원하시죠. 그건 언제든 드려요. 두 번이라도.
 
@@ -497,11 +497,11 @@ CLEMENCE: Décision soixante-quinze : financement bancaire de huit millions sept
 
 바스티앵: 마일스톤 다섯 개. 랑베르 씨 일정표에 넣을게요.
 
-라콩브: 그리고 재무 약정. 부채 상환 비율 1.2, Année 11부터.
+마르샬: 그리고 재무 약정. 부채 상환 비율 1.2, Année 11부터.
 
 쥘리앵: 1.2, 첫 로트 후 두 번째 회계연도부터. 고정 날짜가 아니라. 적격성 평가가 밀리면 약정도 밀려요.
 
-라콩브: 우리 계약서 양식을 읽으셨네요.
+마르샬: 우리 계약서 양식을 읽으셨네요.
 
 쥘리앵: 세 번이요. 바스티앵이 각주까지 읽는 법을 가르쳐 줬어요.
 
@@ -516,13 +516,13 @@ CLEMENCE: Décision soixante-quinze : financement bancaire de huit millions sept
 
 들로름: 스프레드시트가 버티지 못할 때 버티는 유일한 이유죠.
 
-라콩브: 우리 위원회는 감정에 투표하지 않아요.
+마르샬: 우리 위원회는 감정에 투표하지 않아요.
 
 들로름: 위원회는 요청 가능한 자기자본 200만에 투표할 거예요. 감정은 제 몫이고요.
 
 샤리에: 좋아요. 정리하죠. 870만. 설비 리스는 우리 은행. 건물 부동산 대출은 브누아네.
 
-라콩브: 리스 450만, 7년. 부동산 대출 420만, 12년. Bpifrance 50% 보증.
+마르샬: 리스 450만, 7년. 부동산 대출 420만, 12년. Bpifrance 50% 보증.
 
 쥘리앵: 그리고 예비비용 40만은 독립 엔지니어 통제 아래 묶어 두고요.
 
@@ -538,7 +538,7 @@ CLEMENCE: Décision soixante-quinze : financement bancaire de huit millions sept
 
 바스티앵: 6월 2일 이메일 서명에 있었어요.
 
-라콩브: 서명을 바꿔야겠네요.
+마르샬: 서명을 바꿔야겠네요.
 
 지훈: 샤리에 부장님, 질문 하나요. 왜 승인하셨어요? 아침부터 서류는 그대로인데요.
 
@@ -552,7 +552,7 @@ CLEMENCE: Décision soixante-quinze : financement bancaire de huit millions sept
 
 들로름: 아녜스가 아무것도 안 그었다. 축하로 커피 한 잔 더.
 
-라콩브: 여신위원회는 9월 15일. 제가 서류를 올려요.
+마르샬: 여신위원회는 9월 15일. 제가 서류를 올려요.
 
 쥘리앵: 콘크리트는 8월 20일에 부어요. 위원회 전에.
 

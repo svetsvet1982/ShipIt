@@ -219,7 +219,7 @@ YANNICK: Presque ?
 
 LAMBERT: On ne voit pas le fond de la salle de réticulation. Le coin de la hotte.
 
-YANNICK: Le coin de la hotte, c'est le pire endroit. Morel voudra le voir.
+YANNICK: Le coin de la hotte, c'est le pire endroit. Ravel voudra le voir.
 
 LAMBERT: Alors je mets une caméra dans le coin, avec un écran dans le couloir. Trois mille euros.
 
@@ -544,7 +544,7 @@ CLEMENCE: Décision soixante-quatorze : salle blanche version cinq. Remplissage 
 
 랑베르: 가교실 안쪽이 안 보여요. 후드 모서리.
 
-야니크: 후드 모서리가 가장 나쁜 곳이에요. 모렐 씨가 보고 싶어 할 거예요.
+야니크: 후드 모서리가 가장 나쁜 곳이에요. 라벨 씨가 보고 싶어 할 거예요.
 
 랑베르: 그럼 그 모서리에 카메라를 달고 복도에 화면을 둘게요. 3천 유로.
 

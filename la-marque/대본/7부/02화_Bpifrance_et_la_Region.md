@@ -3,9 +3,9 @@
 ## Bpifrance et la Région (공공 자금)
 
 > **표기 전용 정보 (낭독하지 않음)**
-> - 부/화: 7부 2화 · 서사 기능: Année 8 5월, 공장 2,600만 유로 자금 조달. 자기자본(시리즈 B 중 공장 전용 계좌 1,000만, 들로름 요구로 한울 대금과 분리) → 1,600만 부족. Bpifrance 리옹 올리비에 마송(계곡 출신): "자기자본 1유로당 1유로" 규칙, 4가지 질문(자금 분리 / 한울 파산 시 — 지훈: 프랑스어 공정 서류·탁도 방법 리안 소유·"죽지 않는 조항"·야니크 30번 중 29번 "가장 나쁜 곳을 보라" / 크롬 — 클레망스 선제 답변, 버전 11 A·B / 진허 — "돈이 아니라 결정권을 빼앗는 조건을 거절"). 결과: 산업 대출 400만·7년·거치 2년·개인 보증 없음 + 은행 대출 50% 보증, 대가는 분기 보고서와 "잘못되는 날 당일 전화"(바스티앵이 이메일 서명에서 휴대폰 번호 확보). 지역청 부의장 상드린 파브르(14개월 뒤 선거) vs 담당관 티에리 가야르(시옹지에, 삼촌이 부비에 크롬 도금): 80개 일자리 보도자료 요구, 표준 협약 12조 전액 환수. 지훈의 오송 이웃 공장(300개 약속 → 180개 → 6개월 파견직) 증언. 클레망스 제안: 협약 45개(3년)·목표 70개(5년, 조항 없음)·비례 환수. 파브르 역제안: 보조금 250만 → 200만, 선급금 150만(0%), 15년 지역 유지(+상호성 조항). «Je préfère deux millions et un chiffre vrai à deux millions cinq et un chiffre faux.» 협상 불가 조건: 클뤼즈 기술고등학교(제라르가 선반을 배운 곳) 바이오생산 견습생 2년 차부터 ↔ 클레망스: 부비에 출신 우선 채용. 황무지 기금 6월 위원회(50% = 20만). 남은 공백 830만 → 은행(5화). 정 대표 «Cinq cent mille, c'est le prix d'une phrase vraie.» 결정 72번
+> - 부/화: 7부 2화 · 서사 기능: Année 8 5월, 공장 2,600만 유로 자금 조달. 자기자본(시리즈 B 중 공장 전용 계좌 1,000만, 들로름 요구로 한울 대금과 분리) → 1,600만 부족. Bpifrance 리옹 올리비에 마송(계곡 출신): "자기자본 1유로당 1유로" 규칙, 4가지 질문(자금 분리 / 한울 파산 시 — 지훈: 프랑스어 공정 서류·탁도 방법 리안 소유·"죽지 않는 조항"·야니크 30번 중 29번 "가장 나쁜 곳을 보라" / 크롬 — 클레망스 선제 답변, 버전 11 A·B / 진허 — "돈이 아니라 결정권을 빼앗는 조건을 거절"). 결과: 산업 대출 400만·7년·거치 2년·개인 보증 없음 + 은행 대출 50% 보증, 대가는 분기 보고서와 "잘못되는 날 당일 전화"(바스티앵이 이메일 서명에서 휴대폰 번호 확보). 지역청 부의장 상드린 루세(14개월 뒤 선거) vs 담당관 티에리 가야르(시옹지에, 삼촌이 부비에 크롬 도금): 80개 일자리 보도자료 요구, 표준 협약 12조 전액 환수. 지훈의 오송 이웃 공장(300개 약속 → 180개 → 6개월 파견직) 증언. 클레망스 제안: 협약 45개(3년)·목표 70개(5년, 조항 없음)·비례 환수. 루세 역제안: 보조금 250만 → 200만, 선급금 150만(0%), 15년 지역 유지(+상호성 조항). «Je préfère deux millions et un chiffre vrai à deux millions cinq et un chiffre faux.» 협상 불가 조건: 클뤼즈 기술고등학교(제라르가 선반을 배운 곳) 바이오생산 견습생 2년 차부터 ↔ 클레망스: 부비에 출신 우선 채용. 황무지 기금 6월 위원회(50% = 20만). 남은 공백 830만 → 은행(5화). 정 대표 «Cinq cent mille, c'est le prix d'une phrase vraie.» 결정 72번
 > - 배경: Année 8, 5월 둘째 주 화요일 오전 8시 리옹행 TGV → 오전 10시 Bpifrance 리옹 → 오후 2시 지역청(콩플뤼앙스) → 오후 3시 30분 같은 회의실 → 오후 6시 안시행 TER
-> - 등장인물: Clémence, Julien, Bastien, Jihoon, Olivier Masson(Bpifrance — 신규), Sandrine Fabre(지역청 산업 담당 부의장 — 신규), Thierry Gaillard(지역청 담당관 — 신규)
+> - 등장인물: Clémence, Julien, Bastien, Jihoon, Olivier Masson(Bpifrance — 신규), Sandrine Rousset(지역청 산업 담당 부의장 — 신규), Thierry Gaillard(지역청 담당관 — 신규)
 > - 비즈니스 스킬: 자금 조달 계획(자기자본·공공 대출·보조금·은행), 레버리지 규칙, 투자 질문에 선제 답변, 보조금 협약의 고용 약속과 환수 조항, 비례 환수 협상, 정치적 숫자 vs 운영 숫자, 지역 약속(견습생·우선 채용)
 > - 난이도: C1 · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
 > - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 24단어 이내 + 긴 턴 10~15회(35~70단어). 문법 초점: 조건(si nous l'obtenons…, sinon…), 비교 선호(je préfère A à B), 미래(Refuserez-vous…, je suivrai…), 양보(je ne vais pas faire semblant : …mais…).
@@ -124,7 +124,7 @@ CLEMENCE: Quatre-vingts ? On nous a prévenus.
 
 ### 장면2 — 오후 2시, 리옹 콩플뤼앙스, 지역청 — 숫자의 정치
 
-FABRE: Madame Arnaud, bienvenue à l'Hôtel de Région. Sandrine Fabre, vice-présidente déléguée à l'industrie. Voici Thierry Gaillard, notre chargé de mission.
+ROUSSET: Madame Arnaud, bienvenue à l'Hôtel de Région. Sandrine Rousset, vice-présidente déléguée à l'industrie. Voici Thierry Gaillard, notre chargé de mission.
 
 GAILLARD: Bonjour. C'est aussi moi qui instruis votre dossier fonds friches. Je suis de Scionzier.
 
@@ -132,21 +132,21 @@ CLEMENCE: La maire nous a parlé de vous. Vous connaissez la fosse mieux qu'elle
 
 GAILLARD: Mon oncle travaillait au chromage chez Bouvier. Il disait que les cuves débordaient au printemps.
 
-FABRE: Thierry, on parlera de la fosse après. Madame Arnaud, votre projet nous plaît beaucoup.
+ROUSSET: Thierry, on parlera de la fosse après. Madame Arnaud, votre projet nous plaît beaucoup.
 
 JULIEN: Merci. Nous demandons deux millions cinq de subvention et un million cinq d'avance remboursable.
 
-FABRE: Quatre millions au total. C'est un gros dossier pour notre commission. Pour le défendre, il me faut un chiffre fort. Une usine de santé, dans une vallée qui a perdu ses décolleteurs, c'est une belle histoire. Mais les élus votent des chiffres. Quarante-cinq emplois, c'est un atelier. Quatre-vingts, c'est une usine.
+ROUSSET: Quatre millions au total. C'est un gros dossier pour notre commission. Pour le défendre, il me faut un chiffre fort. Une usine de santé, dans une vallée qui a perdu ses décolleteurs, c'est une belle histoire. Mais les élus votent des chiffres. Quarante-cinq emplois, c'est un atelier. Quatre-vingts, c'est une usine.
 
 CLEMENCE: Quarante-cinq, c'est notre usine. Deux lignes, deux équipes. Le chiffre vient du plan de production.
 
-FABRE: Les plans de production changent. Vous ajouterez une troisième ligne dans cinq ans.
+ROUSSET: Les plans de production changent. Vous ajouterez une troisième ligne dans cinq ans.
 
 CLEMENCE: Peut-être. Si le marché suit. Si l'agrément arrive. Si nous ne faisons pas faillite avant.
 
 GAILLARD: Madame la vice-présidente, je dois rappeler la clause. Les emplois promis sont contrôlés à trois ans.
 
-FABRE: Je connais la clause, Thierry.
+ROUSSET: Je connais la clause, Thierry.
 
 GAILLARD: Alors je la rappelle. Emplois non atteints : la Région reprend toute la subvention. Pas une partie. Toute. Article douze.
 
@@ -156,48 +156,48 @@ GAILLARD: Pour soixante-dix-neuf. La convention type ne connaît pas la proporti
 
 JIHOON: Je peux dire quelque chose ? J'ai vu ça en Corée.
 
-FABRE: Bien sûr. Vous êtes le partenaire coréen ? On m'a posé la question en commission.
+ROUSSET: Bien sûr. Vous êtes le partenaire coréen ? On m'a posé la question en commission.
 
 JIHOON: Je suis l'ancien traducteur du partenaire coréen. Maintenant, je vis à Cluses. Je paie mes impôts ici.
 
-FABRE: Alors parlez comme un contribuable de Cluses.
+ROUSSET: Alors parlez comme un contribuable de Cluses.
 
 JIHOON: Il y a six ans, une usine voisine de Hanul, à Osong, a promis trois cents emplois à la province. Pour avoir le terrain gratuit. Elle en a créé cent quatre-vingts. C'était déjà beaucoup. Mais il fallait rendre le terrain. Alors ils ont embauché des intérimaires pendant six mois, le temps du contrôle. Puis ils les ont renvoyés. Tout le monde le savait.
 
-FABRE: Vous suggérez que nous encourageons les mensonges ?
+ROUSSET: Vous suggérez que nous encourageons les mensonges ?
 
 JIHOON: Je suggère qu'un chiffre trop rond devient un chiffre faux. Et ensuite, des gens paient la différence.
 
 CLEMENCE: Les gens, à Cluses, ce sont des anciens de Bouvier. Ils ont déjà payé une fois.
 
-FABRE: Madame Arnaud, je suis élue. Dans quatorze mois, il y a des élections. Je ne vais pas faire semblant : un communiqué avec quatre-vingts emplois m'aide plus qu'un communiqué avec quarante-cinq. Mais je ne veux pas non plus d'intérimaires pendant six mois. Alors, que proposez-vous ?
+ROUSSET: Madame Arnaud, je suis élue. Dans quatorze mois, il y a des élections. Je ne vais pas faire semblant : un communiqué avec quatre-vingts emplois m'aide plus qu'un communiqué avec quarante-cinq. Mais je ne veux pas non plus d'intérimaires pendant six mois. Alors, que proposez-vous ?
 
 CLEMENCE: Quarante-cinq emplois à trois ans, dans la convention. Soixante-dix à cinq ans, comme objectif, sans clause. Si nous n'atteignons pas les quarante-cinq, un remboursement proportionnel. Quarante emplois, nous rendons un neuvième. Pas tout. Et dans votre communiqué, vous pouvez écrire soixante-dix. C'est vrai, c'est notre objectif.
 
 GAILLARD: Un remboursement proportionnel. Il faudrait modifier l'article douze. C'est possible, on l'a fait pour Annecy.
 
-FABRE: Pour Annecy, c'était une usine de six cents personnes.
+ROUSSET: Pour Annecy, c'était une usine de six cents personnes.
 
 GAILLARD: C'est vrai. Mais l'article ne dit pas qu'il faut six cents personnes.
 
-FABRE: Thierry, vous êtes de quel côté ?
+ROUSSET: Thierry, vous êtes de quel côté ?
 
 GAILLARD: Du côté d'une convention qu'on pourra contrôler sans honte dans trois ans.
 
 
 ### 절정·전환 — 오후 3시 30분, 같은 회의실 — 50만 유로짜리 문장
 
-FABRE: Bien. Voici ma contre-proposition. Si vous voulez la clause proportionnelle, la commission voudra moins de risque. Subvention réduite à deux millions. L'avance remboursable reste à un million cinq. Et une condition de plus : vous restez dans la région quinze ans, pas dix. Avec quatre-vingts emplois dans la convention, je pouvais défendre deux millions cinq.
+ROUSSET: Bien. Voici ma contre-proposition. Si vous voulez la clause proportionnelle, la commission voudra moins de risque. Subvention réduite à deux millions. L'avance remboursable reste à un million cinq. Et une condition de plus : vous restez dans la région quinze ans, pas dix. Avec quatre-vingts emplois dans la convention, je pouvais défendre deux millions cinq.
 
 JULIEN: Cinq cent mille euros de moins. Le prix d'un chiffre vrai.
 
 CLEMENCE: Je préfère deux millions et un chiffre vrai à deux millions cinq et un chiffre faux.
 
-FABRE: Vous ne négociez pas beaucoup, madame Arnaud.
+ROUSSET: Vous ne négociez pas beaucoup, madame Arnaud.
 
 CLEMENCE: Je négocie. Pas sur ce qu'on contrôlera dans trois ans. Sur le reste, oui. Quinze ans, c'est long.
 
-FABRE: Quinze ans, c'est la durée de vie d'un bâtiment industriel. Vous construisez pour moins ?
+ROUSSET: Quinze ans, c'est la durée de vie d'un bâtiment industriel. Vous construisez pour moins ?
 
 BASTIEN: Nous construisons pour quarante ans. Le bâtiment de Bouvier en a tenu soixante.
 
@@ -205,11 +205,11 @@ CLEMENCE: Alors quinze ans. Mais avec une exception : si la Région modifie elle
 
 GAILLARD: Une clause de réciprocité. Elle existe. Je l'ajoute.
 
-FABRE: Thierry ajoute beaucoup de choses aujourd'hui.
+ROUSSET: Thierry ajoute beaucoup de choses aujourd'hui.
 
 GAILLARD: Parce que je suivrai ce dossier quinze ans. Vous serez peut-être ailleurs. Moi, je croiserai ces gens au marché de Scionzier.
 
-FABRE: Vous êtes insupportable, Thierry. C'est pour ça que je vous garde.
+ROUSSET: Vous êtes insupportable, Thierry. C'est pour ça que je vous garde.
 
 CLEMENCE: Et le fonds friches ?
 
@@ -219,23 +219,23 @@ JULIEN: Deux cent mille. Si le comité suit.
 
 GAILLARD: Il suivra, je pense. J'ai mis la photo de la fosse en première page. Elle parle mieux que moi.
 
-FABRE: Une dernière condition, et celle-là n'est pas négociable. Une usine de santé dans la vallée, ce sont aussi des métiers nouveaux. Je veux un partenariat avec le lycée technique de Cluses. Des apprentis en bioproduction dès la deuxième année. La vallée a formé des décolleteurs pendant un siècle. Elle doit apprendre autre chose.
+ROUSSET: Une dernière condition, et celle-là n'est pas négociable. Une usine de santé dans la vallée, ce sont aussi des métiers nouveaux. Je veux un partenariat avec le lycée technique de Cluses. Des apprentis en bioproduction dès la deuxième année. La vallée a formé des décolleteurs pendant un siècle. Elle doit apprendre autre chose.
 
 CLEMENCE: Le lycée technique de Cluses. C'est là que mon père a appris le tour.
 
-FABRE: Alors il pourra venir parler aux apprentis. Les gamins écoutent mieux les anciens que les élus.
+ROUSSET: Alors il pourra venir parler aux apprentis. Les gamins écoutent mieux les anciens que les élus.
 
 JIHOON: À Osong, M. Baek prenait deux apprentis par an. Il disait : on n'apprend bien qu'en enseignant.
 
 CLEMENCE: Alors oui, sans négocier. Des apprentis dès la deuxième année. Et une chose de plus, de notre côté : les anciens ouvriers de Bouvier qui veulent se former seront prioritaires au recrutement. Pas par charité. Ils savent travailler au centième. Une salle blanche, c'est aussi de la précision.
 
-FABRE: Vous m'offrez une phrase pour mon communiqué, sans que je la demande.
+ROUSSET: Vous m'offrez une phrase pour mon communiqué, sans que je la demande.
 
 CLEMENCE: Elle est vraie. Vous pouvez l'utiliser.
 
 GAILLARD: Je rédige la convention ce soir. Quarante-cinq à trois ans, proportionnel, quinze ans, réciprocité, apprentis.
 
-FABRE: Et soixante-dix dans le communiqué. Comme objectif. C'est vrai, n'est-ce pas ?
+ROUSSET: Et soixante-dix dans le communiqué. Comme objectif. C'est vrai, n'est-ce pas ?
 
 
 ### 마무리 — 오후 6시, 안시행 TER — 버전 11 C
@@ -449,7 +449,7 @@ CLEMENCE: Décision soixante-douze : financement public de l'usine. Prêt Bpifra
 
 ### 장면2 — 오후 2시, 리옹 콩플뤼앙스, 지역청 — 숫자의 정치
 
-파브르: 아르노 대표님, 지역청에 오신 걸 환영해요. 산업 담당 부의장 상드린 파브르입니다. 이쪽은 담당관 티에리 가야르.
+루세: 아르노 대표님, 지역청에 오신 걸 환영해요. 산업 담당 부의장 상드린 루세입니다. 이쪽은 담당관 티에리 가야르.
 
 가야르: 안녕하세요. 황무지 기금 신청도 제가 심사해요. 시옹지에 출신입니다.
 
@@ -457,21 +457,21 @@ CLEMENCE: Décision soixante-douze : financement public de l'usine. Prêt Bpifra
 
 가야르: 삼촌이 부비에 크롬 도금에서 일하셨어요. 봄이면 탱크가 넘쳤다고 하셨죠.
 
-파브르: 티에리, 구덩이 얘긴 나중에. 아르노 대표님, 프로젝트가 아주 마음에 들어요.
+루세: 티에리, 구덩이 얘긴 나중에. 아르노 대표님, 프로젝트가 아주 마음에 들어요.
 
 쥘리앵: 감사합니다. 보조금 250만과 상환형 선급금 150만을 요청합니다.
 
-파브르: 합쳐서 400만. 위원회엔 큰 안건이에요. 그걸 밀려면 강한 숫자가 필요해요. 정밀가공 공장들을 잃은 계곡에 들어서는 의료 공장, 좋은 이야기죠. 하지만 의원들은 숫자에 투표해요. 일자리 45개는 작업장이에요. 80개라야 공장이죠.
+루세: 합쳐서 400만. 위원회엔 큰 안건이에요. 그걸 밀려면 강한 숫자가 필요해요. 정밀가공 공장들을 잃은 계곡에 들어서는 의료 공장, 좋은 이야기죠. 하지만 의원들은 숫자에 투표해요. 일자리 45개는 작업장이에요. 80개라야 공장이죠.
 
 클레망스: 45개가 우리 공장이에요. 두 라인, 두 교대조. 숫자는 생산 계획에서 나왔어요.
 
-파브르: 생산 계획은 바뀌어요. 5년 뒤엔 세 번째 라인을 놓으실 거고.
+루세: 생산 계획은 바뀌어요. 5년 뒤엔 세 번째 라인을 놓으실 거고.
 
 클레망스: 아마도요. 시장이 따라오면. 허가가 나오면. 그 전에 파산하지 않으면.
 
 가야르: 부의장님, 조항을 상기시켜 드려야겠어요. 약속한 일자리는 3년 뒤에 점검합니다.
 
-파브르: 조항은 알아요, 티에리.
+루세: 조항은 알아요, 티에리.
 
 가야르: 그럼 손님들께 알려 드릴게요. 일자리 미달 시 지역청은 보조금 전액을 환수해요. 일부가 아니라. 전액. 12조.
 
@@ -481,48 +481,48 @@ CLEMENCE: Décision soixante-douze : financement public de l'usine. Prêt Bpifra
 
 지훈: 한마디 해도 될까요? 한국에서 이런 걸 봤어요.
 
-파브르: 물론이죠. 한국 파트너세요? 위원회에서 그 질문을 받았어요.
+루세: 물론이죠. 한국 파트너세요? 위원회에서 그 질문을 받았어요.
 
 지훈: 한국 파트너의 전 통역사예요. 지금은 클뤼즈에 살아요. 세금도 여기 내요.
 
-파브르: 그럼 클뤼즈 납세자로서 말씀하세요.
+루세: 그럼 클뤼즈 납세자로서 말씀하세요.
 
 지훈: 6년 전, 오송의 한울 이웃 공장이 도에 일자리 300개를 약속했어요. 땅을 공짜로 받으려고요. 실제론 180개를 만들었어요. 그것도 많은 거죠. 하지만 땅을 돌려줘야 했어요. 그래서 점검 기간 6개월 동안 파견직을 뽑았어요. 그리고 내보냈어요. 다들 알았어요.
 
-파브르: 우리가 거짓말을 부추긴다는 말씀인가요?
+루세: 우리가 거짓말을 부추긴다는 말씀인가요?
 
 지훈: 너무 둥근 숫자는 거짓 숫자가 된다는 말이에요. 그리고 그 차액은 사람들이 치르죠.
 
 클레망스: 클뤼즈에서 그 사람들은 부비에 출신들이에요. 이미 한 번 치렀어요.
 
-파브르: 아르노 대표님, 저는 선출직이에요. 14개월 뒤 선거가 있어요. 솔직히 말하죠. 일자리 80개짜리 보도자료가 45개짜리보다 저한테 도움이 돼요. 하지만 6개월짜리 파견직도 원하지 않아요. 그럼 뭘 제안하시겠어요?
+루세: 아르노 대표님, 저는 선출직이에요. 14개월 뒤 선거가 있어요. 솔직히 말하죠. 일자리 80개짜리 보도자료가 45개짜리보다 저한테 도움이 돼요. 하지만 6개월짜리 파견직도 원하지 않아요. 그럼 뭘 제안하시겠어요?
 
 클레망스: 3년 뒤 일자리 45개, 협약에. 5년 뒤 70개, 목표로, 조항 없이. 45개를 못 채우면 비례 환수. 40명이면 9분의 1을 돌려드려요. 전액이 아니라. 그리고 보도자료엔 70이라고 쓰셔도 돼요. 사실이에요, 우리 목표니까요.
 
 가야르: 비례 환수. 12조를 고쳐야 해요. 가능해요. 안시 때 한 적 있어요.
 
-파브르: 안시는 600명짜리 공장이었어요.
+루세: 안시는 600명짜리 공장이었어요.
 
 가야르: 맞아요. 하지만 조항엔 600명이어야 한다는 말이 없어요.
 
-파브르: 티에리, 당신 누구 편이에요?
+루세: 티에리, 당신 누구 편이에요?
 
 가야르: 3년 뒤 부끄럼 없이 점검할 수 있는 협약 편이요.
 
 
 ### 절정·전환 — 오후 3시 30분, 같은 회의실 — 50만 유로짜리 문장
 
-파브르: 좋아요. 제 역제안이에요. 비례 조항을 원하시면 위원회는 위험을 줄이려 할 거예요. 보조금은 200만으로 줄여요. 상환형 선급금은 150만 그대로. 그리고 조건 하나 더. 지역에 10년이 아니라 15년 머무르세요. 협약에 80명이 있었다면 250만을 밀 수 있었어요.
+루세: 좋아요. 제 역제안이에요. 비례 조항을 원하시면 위원회는 위험을 줄이려 할 거예요. 보조금은 200만으로 줄여요. 상환형 선급금은 150만 그대로. 그리고 조건 하나 더. 지역에 10년이 아니라 15년 머무르세요. 협약에 80명이 있었다면 250만을 밀 수 있었어요.
 
 쥘리앵: 50만 유로 덜. 진짜 숫자의 값이네요.
 
 클레망스: 250만과 거짓 숫자보다 200만과 진짜 숫자가 낫습니다.
 
-파브르: 협상을 별로 안 하시네요, 아르노 대표님.
+루세: 협상을 별로 안 하시네요, 아르노 대표님.
 
 클레망스: 해요. 3년 뒤 점검할 건 빼고요. 나머진 해요. 15년은 길어요.
 
-파브르: 15년은 산업 건물의 수명이에요. 그보다 짧게 지으시나요?
+루세: 15년은 산업 건물의 수명이에요. 그보다 짧게 지으시나요?
 
 바스티앵: 40년 가게 지어요. 부비에 건물은 60년 버텼어요.
 
@@ -530,11 +530,11 @@ CLEMENCE: Décision soixante-douze : financement public de l'usine. Prêt Bpifra
 
 가야르: 상호성 조항. 있어요. 넣을게요.
 
-파브르: 티에리가 오늘 많이 넣네요.
+루세: 티에리가 오늘 많이 넣네요.
 
 가야르: 이 서류를 15년 따라갈 사람이 저라서요. 부의장님은 다른 데 계실 수도 있죠. 저는 시옹지에 시장에서 이분들을 마주칠 거고요.
 
-파브르: 정말 못 말리겠네요, 티에리. 그래서 붙잡아 두는 거지만.
+루세: 정말 못 말리겠네요, 티에리. 그래서 붙잡아 두는 거지만.
 
 클레망스: 황무지 기금은요?
 
@@ -544,23 +544,23 @@ CLEMENCE: Décision soixante-douze : financement public de l'usine. Prêt Bpifra
 
 가야르: 따라 줄 거예요, 아마. 구덩이 사진을 첫 장에 넣었어요. 저보다 말을 잘하거든요.
 
-파브르: 마지막 조건, 이건 협상 불가예요. 계곡에 의료 공장이 들어온다는 건 새로운 직업이 생긴다는 거예요. 클뤼즈 기술고등학교와의 협력을 원해요. 2년 차부터 바이오생산 견습생. 이 계곡은 100년 동안 정밀가공 기술자를 길렀어요. 이제 다른 걸 배워야 해요.
+루세: 마지막 조건, 이건 협상 불가예요. 계곡에 의료 공장이 들어온다는 건 새로운 직업이 생긴다는 거예요. 클뤼즈 기술고등학교와의 협력을 원해요. 2년 차부터 바이오생산 견습생. 이 계곡은 100년 동안 정밀가공 기술자를 길렀어요. 이제 다른 걸 배워야 해요.
 
 클레망스: 클뤼즈 기술고등학교. 아버지가 선반을 배운 곳이에요.
 
-파브르: 그럼 견습생들한테 이야기해 주러 오시면 되겠네요. 애들은 정치인보다 어르신 말을 잘 들어요.
+루세: 그럼 견습생들한테 이야기해 주러 오시면 되겠네요. 애들은 정치인보다 어르신 말을 잘 들어요.
 
 지훈: 오송에서 백 이사님은 해마다 견습생 둘을 받았어요. 가르쳐야 제대로 배운다고 하셨죠.
 
 클레망스: 그럼 좋아요, 협상 없이. 2년 차부터 견습생. 그리고 우리 쪽에서 하나 더. 교육을 원하는 부비에 출신 노동자들을 채용에서 우선해요. 자선이 아니에요. 그분들은 100분의 1로 일할 줄 알아요. 클린룸도 정밀함이에요.
 
-파브르: 요청하지도 않았는데 보도자료 문장을 주시네요.
+루세: 요청하지도 않았는데 보도자료 문장을 주시네요.
 
 클레망스: 사실이에요. 쓰셔도 돼요.
 
 가야르: 오늘 밤 협약서를 쓸게요. 3년 뒤 45개, 비례, 15년, 상호성, 견습생.
 
-파브르: 그리고 보도자료엔 70. 목표로. 사실이죠, 그렇죠?
+루세: 그리고 보도자료엔 70. 목표로. 사실이죠, 그렇죠?
 
 
 ### 마무리 — 오후 6시, 안시행 TER — 버전 11 C
