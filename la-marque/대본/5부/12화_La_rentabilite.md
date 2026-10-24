@@ -10,7 +10,7 @@
 > - 난이도: B2+ · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
 > - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 24단어 이내 + 긴 턴 10~15회(35~70단어). 문법 초점: 숫자 읽기(neuf cent cinq mille, soixante-cinq pour cent, cinquante-sept euros et soixante-dix centimes), 강조 구문(C'est… qui…, Ce qui…, c'est…), 대비(Ce n'est pas… C'est…).
 > - vous/tu: 이사회 vous, 클레망스–바스티앵–이네스 tu, 쥘리앵 → 창업자 vous, 제라르–클레망스 tu.
-> - 복선 설치: **도입: 포벨 7시 45분 «Vous êtes assis ?» / 쥘리앵 표 세 번 ↔ 바스티앵 "틀린 표도 늘 같은 숫자" / "병을 따기 전에"** · **이사회: 매출 90만 5천(+48 %, 프랑스 절반 조금 넘음·벨기에 4분의 1), 매출총이익 59만(65 %), 비용 57만 5천(26명), 영업이익 1만 5천 / 르클레르 5만 6천 질문 → 바스티앵 "직접 말하려 했다" / 충당금 6만(환자 청구 0) / 들로름 "창업자가 말하면 메모, 투자자가 찾으면 기억" ↔ 페리에르 "기억하지 않겠다" / 6월 3만 8천 / "석 달은 일화, 열두 달은 추세" / 3분기 적자 예고 / 콜랭에게 의사 세 명 전화 / 현금 690만, 3년 이상 / 페리에르 "그 시간으로 뭘?" / 들로름 "누구도 빼앗을 수 없는 것"** · **전체 회의: 두 줄 / 주사기 약 8천 개, 개당 2유로 미만 / 이익 배분: 이네스(영업 더) ↔ 카미유(품질은 리콜을 막음) ↔ 노라("카미유 서류 없이는 문 하나 못 연다") / 균등·창업자 포함 — "안내 데스크도 느끼도록" / 바스티앵: 영업이익, 특별 항목 제외 양방향 — «Sinon, chaque crise future deviendra une prime future.» / 10 %, 매년 전원 총회 / 57유로 70상팀 → 노라 "8월 커피"** · **들로름 사무실: 포르투 / 진허 두려움 — "막을 권리 없음, 그분 회사" / «Un dossier, ce n'est pas un savoir.» / 할아버지 비단, 코모 / 아버지가 이름을 팜, "직조기를 만져 본 적 없다" / 바스티앵 2,500만+·7년·클린룸 — "한국인은 20년, 바인더로는 못 배운다" / "빈 공장은 매일 돈이 든다" ↔ "인수된 공급업체는?" / 찬반 두 문서 / "할아버지에겐 '아니요'라고 말할 사람이 없었다"** · **마무리: 1만 4,200 / 54유로 60상팀 / 제라르: 같은 크기 두 숫자 = 한울 라벨, 부품 100분의 1, 계곡 카페 소문, "공장은 문을 닫기도 한다 — 세 군데" / 결정 53번**
+> - 복선 설치: **도입: 포벨 7시 45분 «Vous êtes assis ?» / 쥘리앵 표 세 번 ↔ 바스티앵 "틀린 표도 늘 같은 숫자" / "병을 따기 전에"** · **이사회: 매출 90만 5천(+48 %, 프랑스 절반 조금 넘음·벨기에 4분의 1), 매출총이익 59만(65 %), 비용 57만 5천(34명), 영업이익 1만 5천 / 르클레르 5만 6천 질문 → 바스티앵 "직접 말하려 했다" / 충당금 6만(환자 청구 0) / 들로름 "창업자가 말하면 메모, 투자자가 찾으면 기억" ↔ 페리에르 "기억하지 않겠다" / 6월 3만 8천 / "석 달은 일화, 열두 달은 추세" / 3분기 적자 예고 / 콜랭에게 의사 세 명 전화 / 현금 690만, 3년 이상 / 페리에르 "그 시간으로 뭘?" / 들로름 "누구도 빼앗을 수 없는 것"** · **전체 회의: 두 줄 / 주사기 약 8천 개, 개당 2유로 미만 / 이익 배분: 이네스(영업 더) ↔ 카미유(품질은 리콜을 막음) ↔ 노라("카미유 서류 없이는 문 하나 못 연다") / 균등·창업자 포함 — "안내 데스크도 느끼도록" / 바스티앵: 영업이익, 특별 항목 제외 양방향 — «Sinon, chaque crise future deviendra une prime future.» / 10 %, 매년 전원 총회 / 44유로 12상팀 → 노라 "8월 커피"** · **들로름 사무실: 포르투 / 진허 두려움 — "막을 권리 없음, 그분 회사" / «Un dossier, ce n'est pas un savoir.» / 할아버지 비단, 코모 / 아버지가 이름을 팜, "직조기를 만져 본 적 없다" / 바스티앵 2,500만+·7년·클린룸 — "한국인은 20년, 바인더로는 못 배운다" / "빈 공장은 매일 돈이 든다" ↔ "인수된 공급업체는?" / 찬반 두 문서 / "할아버지에겐 '아니요'라고 말할 사람이 없었다"** · **마무리: 1만 4,200 / 41유로 76상팀 / 제라르: 같은 크기 두 숫자 = 한울 라벨, 부품 100분의 1, 계곡 카페 소문, "공장은 문을 닫기도 한다 — 세 군데" / 결정 53번**
 
 ---
 
@@ -61,7 +61,7 @@ JULIEN: Cinq cent quatre-vingt-dix mille. Soixante-cinq pour cent. Stable malgr�
 
 FERRIERE: Bien. Et les charges ?
 
-JULIEN: Cinq cent soixante-quinze mille. Vingt-six personnes, le registre, les congrès, les audits. Résultat d'exploitation : plus quinze mille euros.
+JULIEN: Cinq cent soixante-quinze mille. Trente-quatre personnes, le registre, les congrès, les audits. Résultat d'exploitation : plus quinze mille euros.
 
 LECLERC: Quinze mille. Mais le résultat net annoncé, c'est soixante et onze mille. D'où viennent les cinquante-six mille de différence ?
 
@@ -172,11 +172,11 @@ ROYER: Combien du résultat ? Dans la plupart des entreprises, entre cinq et vin
 
 CLEMENCE: Dix pour cent. Pour commencer. Et on le revoit chaque année, en assemblée de tous.
 
-NORA: Dix pour cent de quinze mille, divisé par vingt-six. Ça fait…
+NORA: Dix pour cent de quinze mille, divisé par trente-quatre. Ça fait…
 
-JULIEN: Cinquante-sept euros et soixante-dix centimes chacun. Pour le trimestre.
+JULIEN: Quarante-quatre euros et douze centimes chacun. Pour le trimestre.
 
-NORA: Cinquante-sept euros ! Je vais m'acheter un café par visite. Pour le mois d'août.
+NORA: Quarante-quatre euros ! Je vais m'acheter un café par visite. Pour le mois d'août.
 
 CAMILLE: Ce n'est pas la somme. C'est le principe. Si on gagne, on gagne tous. Même un peu.
 
@@ -246,7 +246,7 @@ BASTIEN: Merci. Quatorze mille deux cents. C'est encore plus vrai.
 
 ROYER: L'accord d'intéressement est prêt. Dix pour cent du résultat d'exploitation, à parts égales, revu chaque année. Je le dépose vendredi.
 
-INES: Cinquante-quatre euros et soixante centimes chacun, alors. Nora a refait le calcul. Elle est déçue. Trois euros de moins.
+INES: Quarante et un euros et soixante-seize centimes chacun, alors. Nora a refait le calcul. Elle est déçue. Deux euros de moins.
 
 NORA: Je ne suis pas déçue. J'ai juste réduit le café d'août.
 
@@ -297,7 +297,7 @@ CLEMENCE: Décision cinquante-trois : chaque résultat est présenté sur deux l
 > **Liane — Résultats T2, Année 6**
 > **Ligne 1 — Résultat net** : + 71 000 € (dont reprise de provision « rappel » : + 56 000 € net).
 > **Ligne 2 — Résultat d'exploitation hors éléments exceptionnels** : + 14 200 € (après factures tardives).
-> **Chiffre d'affaires** : 905 000 € (+ 48 % sur un an) · **Marge brute** : 65 % · **Effectif** : 26.
+> **Chiffre d'affaires** : 905 000 € (+ 48 % sur un an) · **Marge brute** : 65 % · **Effectif** : 34.
 > **Mois** : avril < 0 · mai ≈ 0 · juin + 38 000 €.
 > **À venir** : T3 négatif (reprise des 11 salariés d'Ombelle, ≈ 250 000 € la première année).
 > **Trésorerie** : 6,9 M€ au 30 juin.
@@ -383,7 +383,7 @@ CLEMENCE: Décision cinquante-trois : chaque résultat est présenté sur deux l
 
 페리에르: 좋아요. 비용은요?
 
-쥘리앵: 57만 5천. 26명, 레지스트리, 학회, 심사. 영업이익: 플러스 1만 5천 유로.
+쥘리앵: 57만 5천. 34명, 레지스트리, 학회, 심사. 영업이익: 플러스 1만 5천 유로.
 
 르클레르: 1만 5천. 그런데 발표한 순이익은 7만 1천이에요. 5만 6천 차이는 어디서 나오죠?
 
@@ -494,11 +494,11 @@ CLEMENCE: Décision cinquante-trois : chaque résultat est présenté sur deux l
 
 클레망스: 10 %. 시작으로. 그리고 매년 전원 총회에서 다시 봐요.
 
-노라: 1만 5천의 10 %를 26명으로 나누면…
+노라: 1만 5천의 10 %를 34명으로 나누면…
 
-쥘리앵: 1인당 57유로 70상팀. 이번 분기 기준.
+쥘리앵: 1인당 44유로 12상팀. 이번 분기 기준.
 
-노라: 57유로! 방문할 때마다 커피 한 잔 사 마셔야겠다. 8월 한 달 동안.
+노라: 44유로! 방문할 때마다 커피 한 잔 사 마셔야겠다. 8월 한 달 동안.
 
 카미유: 금액이 아니에요. 원칙이죠. 벌면 다 같이 번다. 조금이라도.
 
@@ -568,7 +568,7 @@ CLEMENCE: Décision cinquante-trois : chaque résultat est présenté sur deux l
 
 루아예: 이익 배분 협약 준비됐어요. 영업이익의 10 %, 균등 배분, 매년 재검토. 금요일에 제출해요.
 
-이네스: 그럼 1인당 54유로 60상팀. 노라가 다시 계산했어. 실망했대. 3유로 줄었다고.
+이네스: 그럼 1인당 41유로 76상팀. 노라가 다시 계산했어. 실망했대. 2유로 줄었다고.
 
 노라: 실망 안 했어요. 8월 커피를 좀 줄였을 뿐이에요.
 
