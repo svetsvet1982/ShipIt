@@ -103,7 +103,7 @@ CLEMENCE: Alors je lui donnerai autre chose. Julien, qu'est-ce qu'on peut couper
 
 JULIEN: Les deux postes de Paris, encore reportés. Le stand du congrès réduit de moitié. Les voyages. Environ trois cent mille sur six mois.
 
-INES: Le stand réduit de moitié, l'année où Orsenne attaque. Je le note pour plus tard, quand je vous le reprocherai.
+INES: Le stand réduit de moitié, l'année où Orsenne attaque. Je le note pour plus tard, quand je te le reprocherai.
 
 CLEMENCE: Note-le. Tu auras peut-être raison.
 
