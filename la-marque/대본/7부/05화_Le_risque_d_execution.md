@@ -172,7 +172,7 @@ JULIEN: Quels jalons ?
 
 CHARRIER: Les fondations. Le bâtiment hors d'eau, hors d'air. La salle blanche montée. Les équipements livrés. La qualification démarrée.
 
-BASTIEN: Cinq jalons. On les met dans le planning de M. Lambert.
+BASTIEN: Cinq jalons. On les met dans le planning de M. Bourgeat.
 
 MARCHAL: Et les covenants. Ratio de couverture du service de la dette, un virgule deux, à partir de l'année onze.
 
@@ -495,7 +495,7 @@ CLEMENCE: Décision soixante-quinze : financement bancaire de huit millions sept
 
 샤리에: 기초 공사. 건물 외피 완성. 클린룸 설치. 설비 입고. 적격성 평가 시작.
 
-바스티앵: 마일스톤 다섯 개. 랑베르 씨 일정표에 넣을게요.
+바스티앵: 마일스톤 다섯 개. 부르자 씨 일정표에 넣을게요.
 
 마르샬: 그리고 재무 약정. 부채 상환 비율 1.2, Année 11부터.
 

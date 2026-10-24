@@ -3,13 +3,13 @@
 ## Les voisins (이웃)
 
 > **표기 전용 정보 (낭독하지 않음)**
-> - 부/화: 7부 3화 · 서사 기능: Année 8 6월, 클뤼즈 연회장 자발적 주민 설명회(240명). 공장 = ICPE(환경 규제 대상 시설): 가성소다·세척용 에탄올·가교제 BDDE(에폭시드, 자극성, 돌연변이 유발 의심 — 백 이사도 마스크 없이 안 만짐). BDDE 최대 200 L(방화 캐비닛, 누출 방지 받침, 20 L 드럼) → 허가 기준치 아래 "신고 대상", 공청회 의무 없음. 틸뢸 거리(북쪽 담 뒤 12채): 오딜 페랭(옛 초등 교사, 7번지, 야니크의 5학년 담임 "글씨 못 쓰던") · 파브리스 라벨(애 둘, SNS 모임 «Riverains Bouvier vigilants» 300명, 할아버지는 부비에 열처리). 라벨 "기준치 바로 아래, 계산했죠?" → 클레망스 «Oui.»(합법 ≠ 충분) → 자발적 독립 위험성 평가(8만, 석 달, 공개). 페랭 정원 센서(주민이 위치 결정, 실시간 공개). 폐수: 현장 중화·pH·BDDE 확인 → 하수처리장, 외부 실험실 월 1회, 시청에도 결과. 트럭: 남쪽 산업단지 경유, 틸뢸 거리 금지(운송 계약 위약금·표지판), 오전 7시 전·주말 납품 없음. 두 교대조 6~22시, 야간 추가 시 "그 전에" 다시 설명. 클린룸 공조 24시간("공장 고양이") → 남쪽 공조기·방음벽·전후 측정·야간 +3 dB 이내·초과 시 소음기. 사고 대비: 누출 방지·증기 감지·자동 소화·소방서 연 1회 합동 훈련("작고, 알려져 있고, 대비된" 위험). 라벨의 주민 권한 요구 → 감시위원회(선출 주민 6, 시장, 직원 대표, 리안; 연 4회 + 연 1회 예고 없는 방문; 무균복 교육은 지훈). 거부권은 거절(진허에게도 거절했다) → 대신 주민이 고르는(인증 실험실 목록) 리안 비용 독립 분석, 상한 없음, 공개. 라벨 출마 "BDDE 보관소와 북동쪽 모퉁이부터" ↔ 백 이사 "가장 나쁜 곳을 먼저". 결정 73번
+> - 부/화: 7부 3화 · 서사 기능: Année 8 6월, 클뤼즈 연회장 자발적 주민 설명회(240명). 공장 = ICPE(환경 규제 대상 시설): 가성소다·세척용 에탄올·가교제 BDDE(에폭시드, 자극성, 돌연변이 유발 의심 — 백 이사도 마스크 없이 안 만짐). BDDE 최대 200 L(방화 캐비닛, 누출 방지 받침, 20 L 드럼) → 허가 기준치 아래 "신고 대상", 공청회 의무 없음. 틸뢸 거리(북쪽 담 뒤 12채): 오딜 뮈니에(옛 초등 교사, 7번지, 야니크의 5학년 담임 "글씨 못 쓰던") · 파브리스 라벨(애 둘, SNS 모임 «Riverains Bouvier vigilants» 300명, 할아버지는 부비에 열처리). 라벨 "기준치 바로 아래, 계산했죠?" → 클레망스 «Oui.»(합법 ≠ 충분) → 자발적 독립 위험성 평가(8만, 석 달, 공개). 뮈니에 정원 센서(주민이 위치 결정, 실시간 공개). 폐수: 현장 중화·pH·BDDE 확인 → 하수처리장, 외부 실험실 월 1회, 시청에도 결과. 트럭: 남쪽 산업단지 경유, 틸뢸 거리 금지(운송 계약 위약금·표지판), 오전 7시 전·주말 납품 없음. 두 교대조 6~22시, 야간 추가 시 "그 전에" 다시 설명. 클린룸 공조 24시간("공장 고양이") → 남쪽 공조기·방음벽·전후 측정·야간 +3 dB 이내·초과 시 소음기. 사고 대비: 누출 방지·증기 감지·자동 소화·소방서 연 1회 합동 훈련("작고, 알려져 있고, 대비된" 위험). 라벨의 주민 권한 요구 → 감시위원회(선출 주민 6, 시장, 직원 대표, 리안; 연 4회 + 연 1회 예고 없는 방문; 무균복 교육은 지훈). 거부권은 거절(진허에게도 거절했다) → 대신 주민이 고르는(인증 실험실 목록) 리안 비용 독립 분석, 상한 없음, 공개. 라벨 출마 "BDDE 보관소와 북동쪽 모퉁이부터" ↔ 백 이사 "가장 나쁜 곳을 먼저". 결정 73번
 > - 배경: Année 8, 6월 셋째 주 목요일 오후 4시 공사장 임시 사무실 → 오후 7시 클뤼즈 연회장 → 오후 8시 30분 → 오후 9시 30분 → 오후 11시 30분 연회장 앞 주차장
-> - 등장인물: Clémence, Bastien, Jihoon, Yannick, Gérard, Christine Dufour, Fabienne Rey, Odile Perrin(주민 — 신규), Fabrice Ravel(주민 — 신규)
+> - 등장인물: Clémence, Bastien, Jihoon, Yannick, Gérard, Christine Dufour, Fabienne Rey, Odile Mugnier(주민 — 신규), Fabrice Ravel(주민 — 신규)
 > - 비즈니스 스킬: 환경 규제 대상 시설(ICPE) 체계, 주민 설명회 운영, 불편한 질문에 정직하게 답하기, 우려를 측정 가능한 약속으로 바꾸기, 거부권 없이 감시 권한 주기, 이해관계자 거버넌스
 > - 난이도: C1 · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
 > - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 24단어 이내 + 긴 턴 10~15회(35~70단어). 문법 초점: 미래(stockera, rejettera, fera), 부정 강조(ne… jamais, pas de…), 양보(même s'il nous accuse), 조건(si nous ajoutons…, nous revenons…).
-> - vous/tu: 페랭→야니크 tu(옛 제자), 뒤푸르→라벨·제라르→라벨 tu, 야니크↔라벨 tu, 나머지 vous.
+> - vous/tu: 뮈니에→야니크 tu(옛 제자), 뒤푸르→라벨·제라르→라벨 tu, 야니크↔라벨 tu, 나머지 vous.
 > - 복선 설치: **도입: 의자 200개 / ICPE / 「물질」을 묻는 나라 / 장갑 두 겹·마스크 / 신고 대상·의무 아님 / "법 때문이 아니라" / 틸뢸 거리 12채 / 300명 / 아르브강 하류** · **장면1: 바자회 의자·240명 / "팔러 온 게 아니다" / 말장난 안 함 / 7번지 / 200 L / 통역사가 운영 / 5학년 담임 / «Oui.» / 합법 ≠ 충분 / 8만 / 할아버지 열처리 / 참새 철망 필터 / 토마토 사이 센서** · **장면2: 전처리·중화 / 시청에도 / 학교 앞 거리 / 내비게이션 / 새벽 5시 브레이크 / 7시 / "그 전에" / 공장 고양이 / 3 dB / 작고·알려지고·대비된** · **절정: 6+시장+직원+리안 / 40분 무균복 / 거부권 없음 / 독립 분석 상한 없음 / 근속 메달 / 가장 나쁜 곳 / 달리아 / 9월 선거** · **마무리: 질문 112개 / 약속 11개·네 번째 공책 / "회의록처럼" / 새벽 5시 정 대표 / 예비비 / 7시 의자 반납 = 첫 약속 이행 / 결정 73번**
 
 ---
@@ -40,7 +40,7 @@ GERARD: J'ai fait le tour du quartier ce matin. La rue des Tilleuls, derrière l
 
 CLEMENCE: Et qu'est-ce qu'ils disent ?
 
-GERARD: Mme Perrin, l'ancienne institutrice, a peur de l'odeur. Le jeune Ravel a deux enfants. Il a peur de tout.
+GERARD: Mme Mugnier, l'ancienne institutrice, a peur de l'odeur. Le jeune Ravel a deux enfants. Il a peur de tout.
 
 BASTIEN: Ravel a créé un groupe sur les réseaux. « Riverains Bouvier vigilants. » Trois cents membres en une semaine.
 
@@ -67,11 +67,11 @@ RAVEL: Le BDDE. J'ai cherché. « Suspecté mutagène. » C'est écrit sur la fi
 
 REY: C'est exact. Vous avez bien lu.
 
-PERRIN: Odile Perrin. J'habite au numéro sept, contre le mur. Combien de BDDE, madame ? En litres. Je veux un chiffre.
+MUGNIER: Odile Mugnier. J'habite au numéro sept, contre le mur. Combien de BDDE, madame ? En litres. Je veux un chiffre.
 
 JIHOON: Deux cents litres au maximum sur le site. Dans une armoire coupe-feu, sur bac de rétention. Livrés en fûts de vingt litres.
 
-PERRIN: Deux cents litres. Et vous êtes qui, jeune homme ?
+MUGNIER: Deux cents litres. Et vous êtes qui, jeune homme ?
 
 JIHOON: Je m'appelle Jihoon. J'ai été traducteur dans l'usine coréenne qui utilise ce procédé. Maintenant, je dirige la production ici.
 
@@ -79,7 +79,7 @@ RAVEL: Un traducteur qui dirige une usine chimique. Ça me rassure.
 
 YANNICK: Il a traduit chaque geste pendant des années. Moi, j'ai appris avec lui, là-bas. Yannick Perret. Mon père était au chromage.
 
-PERRIN: Le petit Perret. Je t'ai eu en CM2. Tu écrivais très mal.
+MUGNIER: Le petit Perret. Je t'ai eu en CM2. Tu écrivais très mal.
 
 YANNICK: J'écris mieux maintenant, madame. Mes carnets de procédé sont relus par deux personnes.
 
@@ -103,17 +103,17 @@ GERARD: Fabrice, ton grand-père était chez Bouvier, au traitement thermique. P
 
 RAVEL: Je sais, monsieur Arnaud. C'est pour ça que je suis là.
 
-PERRIN: Et l'odeur ? Mon jardin est contre le mur.
+MUGNIER: Et l'odeur ? Mon jardin est contre le mur.
 
 JIHOON: Le BDDE ne sent presque rien. L'éthanol, un peu. Et tout l'air de la salle blanche est filtré avant de sortir.
 
-PERRIN: Filtré. Les gens de Bouvier disaient aussi « filtré ».
+MUGNIER: Filtré. Les gens de Bouvier disaient aussi « filtré ».
 
 DUFOUR: C'est vrai, Odile. Ils le disaient. Et le filtre était une grille à moineaux.
 
-CLEMENCE: Madame Perrin, je vous propose mieux qu'une promesse. Un capteur dans votre jardin. Les mesures en ligne. Vous les voyez avant nous.
+CLEMENCE: Madame Mugnier, je vous propose mieux qu'une promesse. Un capteur dans votre jardin. Les mesures en ligne. Vous les voyez avant nous.
 
-PERRIN: Dans mon jardin ? Entre les tomates ?
+MUGNIER: Dans mon jardin ? Entre les tomates ?
 
 CLEMENCE: Où vous voulez. Et si un chiffre vous inquiète, vous appelez. Pas la mairie. Nous.
 
@@ -138,11 +138,11 @@ YANNICK: Moi, en partie. Et un laboratoire extérieur, une fois par mois. Les r�
 
 DUFOUR: Et à la mairie. Je le mettrai dans la convention de rejet.
 
-PERRIN: Et les camions ? La rue des Tilleuls est étroite. Il y a l'école au bout.
+MUGNIER: Et les camions ? La rue des Tilleuls est étroite. Il y a l'école au bout.
 
 BASTIEN: Les livraisons passeront par la zone industrielle, côté sud. Jamais par la rue des Tilleuls.
 
-PERRIN: Jamais ? Les chauffeurs suivent leur GPS.
+MUGNIER: Jamais ? Les chauffeurs suivent leur GPS.
 
 BASTIEN: Alors on met la consigne dans les contrats des transporteurs. Avec une pénalité. Et un panneau à l'entrée.
 
@@ -158,15 +158,15 @@ RAVEL: « Au démarrage. » Et après ?
 
 CLEMENCE: Après, si nous ajoutons une équipe de nuit, nous revenons ici vous l'expliquer. Avant, pas après.
 
-PERRIN: Il y a aussi la ventilation. Une salle blanche, ça souffle tout le temps, non ? Mon neveu travaille à Grenoble.
+MUGNIER: Il y a aussi la ventilation. Une salle blanche, ça souffle tout le temps, non ? Mon neveu travaille à Grenoble.
 
 JIHOON: Votre neveu a raison. Une salle blanche ne s'arrête jamais. Elle doit rester en surpression, jour et nuit, même vide. Sinon, la poussière entre. À Osong, les voisins entendaient un ronronnement. Ils l'appelaient le chat de l'usine. Je ne vais pas vous dire que vous n'entendrez rien.
 
-PERRIN: Un chat de l'usine. J'en ai déjà un, de chat.
+MUGNIER: Un chat de l'usine. J'en ai déjà un, de chat.
 
 BASTIEN: Les centrales de traitement d'air seront côté sud, derrière un mur acoustique. On mesure le bruit chez vous avant et après.
 
-PERRIN: Et si le chat ronronne trop fort ?
+MUGNIER: Et si le chat ronronne trop fort ?
 
 BASTIEN: Alors on ajoute des silencieux. À nos frais. La limite, c'est trois décibels de plus qu'aujourd'hui, la nuit.
 
@@ -231,9 +231,9 @@ RAVEL: Votre M. Baek a l'air de quelqu'un de bien.
 
 JIHOON: Il arrive l'an prochain. Il ne parle pas français. Je traduirai vos questions. Toutes.
 
-PERRIN: Moi aussi, je me présente. Et mon jardin est disponible pour votre capteur. Entre les tomates et les dahlias.
+MUGNIER: Moi aussi, je me présente. Et mon jardin est disponible pour votre capteur. Entre les tomates et les dahlias.
 
-DUFOUR: Je note : comité de suivi de site, six riverains, Mme Perrin et M. Ravel candidats. Élection en septembre.
+DUFOUR: Je note : comité de suivi de site, six riverains, Mme Mugnier et M. Ravel candidats. Élection en septembre.
 
 CLEMENCE: Merci à tous. Il est vingt-trois heures. Nous restons pour ceux qui ont encore des questions.
 
@@ -248,7 +248,7 @@ DUFOUR: Ravel au comité. Vous savez ce que vous avez fait ? Il va venir tous le
 
 CLEMENCE: Tant mieux. Il regardera le pire endroit. Et nous aussi, du coup.
 
-GERARD: Odile Perrin m'a dit en sortant : « Ta fille parle comme un procès-verbal. » Chez elle, c'est un compliment.
+GERARD: Odile Mugnier m'a dit en sortant : « Ta fille parle comme un procès-verbal. » Chez elle, c'est un compliment.
 
 JIHOON: J'ai envoyé un résumé à M. Jeong. Il demande ce qu'est une visite surprise. En Corée, on prévient toujours.
 
@@ -366,7 +366,7 @@ CLEMENCE: Décision soixante-treize : l'usine reste au régime de la déclaratio
 
 클레망스: 뭐라고들 하세요?
 
-제라르: 옛 선생님 페랭 부인은 냄새를 걱정해. 젊은 라벨은 애가 둘이야. 모든 게 걱정이지.
+제라르: 옛 선생님 뮈니에 부인은 냄새를 걱정해. 젊은 라벨은 애가 둘이야. 모든 게 걱정이지.
 
 바스티앵: 라벨이 SNS에 모임을 만들었어. 「부비에 감시 주민들」. 일주일에 300명.
 
@@ -393,11 +393,11 @@ CLEMENCE: Décision soixante-treize : l'usine reste au régime de la déclaratio
 
 레: 맞아요. 제대로 읽으셨어요.
 
-페랭: 오딜 페랭이에요. 담에 붙은 7번지에 살아요. BDDE가 얼마나 되죠? 리터로요. 숫자를 원해요.
+뮈니에: 오딜 뮈니에이에요. 담에 붙은 7번지에 살아요. BDDE가 얼마나 되죠? 리터로요. 숫자를 원해요.
 
 지훈: 현장에 최대 200리터. 방화 캐비닛 안, 누출 방지 받침 위에. 20리터 드럼으로 입고돼요.
 
-페랭: 200리터. 그런데 젊은이는 누구죠?
+뮈니에: 200리터. 그런데 젊은이는 누구죠?
 
 지훈: 지훈이라고 합니다. 이 공정을 쓰는 한국 공장에서 통역사였어요. 지금은 여기서 생산을 책임져요.
 
@@ -405,7 +405,7 @@ CLEMENCE: Décision soixante-treize : l'usine reste au régime de la déclaratio
 
 야니크: 이분은 몇 년 동안 모든 동작을 통역했어요. 저는 거기서 이분과 함께 배웠고요. 야니크 페레예요. 아버지가 크롬 도금에 계셨어요.
 
-페랭: 페레네 막내. 초등학교 5학년 때 내가 가르쳤지. 글씨를 정말 못 썼는데.
+뮈니에: 페레네 막내. 초등학교 5학년 때 내가 가르쳤지. 글씨를 정말 못 썼는데.
 
 야니크: 이제 잘 써요, 선생님. 제 공정 노트는 두 사람이 검토해요.
 
@@ -429,17 +429,17 @@ CLEMENCE: Décision soixante-treize : l'usine reste au régime de la déclaratio
 
 라벨: 알아요, 아르노 씨. 그래서 여기 온 거예요.
 
-페랭: 그리고 냄새는요? 내 정원이 담에 붙어 있어요.
+뮈니에: 그리고 냄새는요? 내 정원이 담에 붙어 있어요.
 
 지훈: BDDE는 거의 냄새가 없어요. 에탄올은 조금. 그리고 클린룸 공기는 전부 나가기 전에 필터를 거쳐요.
 
-페랭: 필터. 부비에 사람들도 「필터」라고 했어요.
+뮈니에: 필터. 부비에 사람들도 「필터」라고 했어요.
 
 뒤푸르: 맞아요, 오딜. 그렇게 말했죠. 그 필터가 참새 막는 철망이었고.
 
-클레망스: 페랭 부인, 약속보다 나은 걸 드릴게요. 정원에 센서 하나. 측정값은 온라인으로. 우리보다 먼저 보세요.
+클레망스: 뮈니에 부인, 약속보다 나은 걸 드릴게요. 정원에 센서 하나. 측정값은 온라인으로. 우리보다 먼저 보세요.
 
-페랭: 내 정원에? 토마토 사이에?
+뮈니에: 내 정원에? 토마토 사이에?
 
 클레망스: 원하시는 곳에. 숫자가 걱정되면 전화하세요. 시청 말고. 저희한테.
 
@@ -464,11 +464,11 @@ CLEMENCE: Décision soixante-treize : l'usine reste au régime de la déclaratio
 
 뒤푸르: 그리고 시청으로도. 방류 협약에 넣을게요.
 
-페랭: 트럭은요? 틸뢸 거리는 좁아요. 끝에 학교가 있어요.
+뮈니에: 트럭은요? 틸뢸 거리는 좁아요. 끝에 학교가 있어요.
 
 바스티앵: 납품은 남쪽 산업단지 쪽으로만 다녀요. 틸뢸 거리로는 절대 안 와요.
 
-페랭: 절대? 기사들은 내비게이션을 따라가요.
+뮈니에: 절대? 기사들은 내비게이션을 따라가요.
 
 바스티앵: 그럼 운송사 계약에 지침을 넣죠. 위약금과 함께. 입구에 표지판도.
 
@@ -484,15 +484,15 @@ CLEMENCE: Décision soixante-treize : l'usine reste au régime de la déclaratio
 
 클레망스: 그다음 야간조를 추가하면, 여기 다시 와서 설명할게요. 그 전에요. 그 뒤가 아니라.
 
-페랭: 환기도 있잖아요. 클린룸은 계속 바람을 내보내죠? 조카가 그르노블에서 일해요.
+뮈니에: 환기도 있잖아요. 클린룸은 계속 바람을 내보내죠? 조카가 그르노블에서 일해요.
 
 지훈: 조카분 말이 맞아요. 클린룸은 절대 멈추지 않아요. 비어 있어도 밤낮으로 양압을 유지해야 해요. 안 그러면 먼지가 들어와요. 오송에선 이웃들이 웅웅거리는 소리를 들었어요. 「공장 고양이」라고 불렀죠. 아무것도 안 들릴 거라고는 말하지 않겠습니다.
 
-페랭: 공장 고양이라. 고양이는 이미 한 마리 있어요.
+뮈니에: 공장 고양이라. 고양이는 이미 한 마리 있어요.
 
 바스티앵: 공조기는 남쪽, 방음벽 뒤에 둬요. 부인 댁에서 소음을 전후로 측정할게요.
 
-페랭: 고양이가 너무 크게 가르랑거리면요?
+뮈니에: 고양이가 너무 크게 가르랑거리면요?
 
 바스티앵: 그럼 소음기를 달아요. 우리 돈으로. 기준은 밤에 지금보다 3데시벨 이내예요.
 
@@ -557,9 +557,9 @@ CLEMENCE: Décision soixante-treize : l'usine reste au régime de la déclaratio
 
 지훈: 내년에 오세요. 프랑스어를 못 하세요. 질문은 제가 통역할게요. 전부.
 
-페랭: 나도 출마할게요. 그리고 센서는 내 정원에 두세요. 토마토와 달리아 사이에.
+뮈니에: 나도 출마할게요. 그리고 센서는 내 정원에 두세요. 토마토와 달리아 사이에.
 
-뒤푸르: 적겠습니다. 현장 감시위원회, 주민 여섯 명, 페랭 부인과 라벨 씨 출마. 선거는 9월.
+뒤푸르: 적겠습니다. 현장 감시위원회, 주민 여섯 명, 뮈니에 부인과 라벨 씨 출마. 선거는 9월.
 
 클레망스: 모두 감사합니다. 밤 11시네요. 아직 질문 있는 분들을 위해 남겠습니다.
 
@@ -574,7 +574,7 @@ CLEMENCE: Décision soixante-treize : l'usine reste au régime de la déclaratio
 
 클레망스: 잘됐죠. 가장 나쁜 곳을 보겠죠. 덕분에 우리도요.
 
-제라르: 오딜 페랭이 나가면서 그러더라. 「네 딸은 회의록처럼 말해.」 그 양반한텐 칭찬이야.
+제라르: 오딜 뮈니에이 나가면서 그러더라. 「네 딸은 회의록처럼 말해.」 그 양반한텐 칭찬이야.
 
 지훈: 정 대표님께 요약을 보냈어요. 예고 없는 방문이 뭐냐고 물으세요. 한국에선 늘 미리 알리거든요.
 
