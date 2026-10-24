@@ -17,4 +17,4 @@
 - [x] 6부 Le transfert
 - [x] 7부 L'usine
 - [x] 8부 La validation
-- [ ] 9부 Survivre
+- [x] 9부 Survivre
