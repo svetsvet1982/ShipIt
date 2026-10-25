@@ -12,7 +12,7 @@
 - [x] 1부 La primera consulta
 - [x] 2부 El primer pedido
 - [x] 3부 Solo para médicos
-- [ ] 4부 El lote
+- [x] 4부 El lote
 - [ ] 5부 Crecer sin romperse
 - [ ] 6부 México
 - [ ] 7부 Latinoamérica
