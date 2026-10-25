@@ -21,7 +21,7 @@
 
 AMPARO: Pasad. Está todo encendido. El ecógrafo también.
 
-MATEO: Gracias, Amparo. Ella es Rocío. Enfermera de urgencias.
+MATEO: Gracias, Amparo. Ella es Rocío. Jefa de enfermería de mi clínica.
 
 ROCIO: Buenas noches. Traigo la bandeja. ¿Dónde la dejo?
 
@@ -155,7 +155,7 @@ ROCIO: Paula, respira. Lo estás haciendo muy bien. Mírame a mí, no a las aguj
 
 PAULA: ¿Usted también es médica?
 
-ROCIO: Enfermera. De urgencias, veinte años. He visto labios mucho peores que el tuyo salir de urgencias perfectos. Te lo digo porque es verdad, no para consolarte. Las enfermeras no mentimos en una camilla.
+ROCIO: Enfermera. Veinte años, casi todos en urgencias. He visto labios mucho peores que el tuyo salir de urgencias perfectos. Te lo digo porque es verdad, no para consolarte. Las enfermeras no mentimos en una camilla.
 
 MATEO: Tercer punto. Y último. Ya está.
 
@@ -342,7 +342,7 @@ ROCIO: Lo otro empieza a las siete cuarenta y cinco. Ahora, a dormir.
 
 암파로: 들어와요. 다 켜 놨어요. 초음파도요.
 
-마테오: 고마워요, 암파로. 이쪽은 로시오. 응급실 간호사예요.
+마테오: 고마워요, 암파로. 이쪽은 로시오. 우리 클리닉 수간호사예요.
 
 로시오: 안녕하세요. 트레이를 가져왔어요. 어디 둘까요?
 
@@ -476,7 +476,7 @@ ROCIO: Lo otro empieza a las siete cuarenta y cinco. Ahora, a dormir.
 
 파울라: 선생님도 의사세요?
 
-로시오: 간호사예요. 응급실 20년. 당신 것보다 훨씬 심한 입술들이 응급실에서 멀쩡하게 나가는 걸 봤어요. 위로하려는 게 아니라 사실이라서 말하는 거예요. 간호사는 진료 침대 위에서 거짓말 안 해요.
+로시오: 간호사예요. 20년, 거의 다 응급실에서요. 당신 것보다 훨씬 심한 입술들이 응급실에서 멀쩡하게 나가는 걸 봤어요. 위로하려는 게 아니라 사실이라서 말하는 거예요. 간호사는 진료 침대 위에서 거짓말 안 해요.
 
 마테오: 세 번째 지점. 마지막. 끝났어요.
 
