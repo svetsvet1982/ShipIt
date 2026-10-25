@@ -16,4 +16,4 @@
 - [x] 5부 Crecer sin romperse
 - [x] 6부 México
 - [x] 7부 Latinoamérica
-- [ ] 8부 Lo que somos
+- [x] 8부 Lo que somos
