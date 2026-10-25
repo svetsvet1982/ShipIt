@@ -10,7 +10,7 @@
 > - 난이도: B1 · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
 > - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 18단어 이내 + 긴 턴 10~15회(30~40단어). 문법 초점: 미래형(te pedirá / dará / cierras — 현재형의 미래 용법), 명령형(Apúntalo / Dímelo / Pon sesenta / Añádalo), 큰 수 읽기(doscientos veinte mil / ciento diez), 조건(Si va bien… Si va mal…).
 > - tú/usted: 마테오↔하비에르·아나 tú, 하비에르→루이스 tú(단골), 몬세↔마테오 usted.
-> - 사용 변이: 마드리드. porras(마드리드식 굵은 추로), café con leche, tortilla cuajada, Argnzuela 등 지명, vale.
+> - 사용 변이: 마드리드. porras(마드리드식 굵은 추로), café con leche, tortilla cuajada(잘 익힌 토르티야), Arganzuela·Bravo Murillo 등 지명, vale.
 > - 복선 설치: **하비에르 «¿Y eso cuánto cuesta?»** 와 **마테오 «"no" no se negocia»** 의 상호 조건(→1-11 가격, 3부 «Es mucho dinero») · 초음파 기계 1만 5천(→1-10, 4-2) · **이해 충돌을 서면으로 신고**(→2-11·2-12 방화벽) · "의사의 최고 마케팅은 만족한 환자"(→1-12 SNS, 1-14 입소문) · 하비에르 15 %·토요일 무급 · 은행 11만 7년 + 지급보증 · "공간을 찾으세요"(→3화)
 
 ---
