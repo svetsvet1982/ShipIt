@@ -3,7 +3,7 @@
 ## Diez años (10년)
 
 > **표기 전용 정보 (낭독하지 않음)**
-> - 부/화: 8부 14화 · 서사 기능: **Año 10, 9월 7~14일 — «Diez septiembres.» 도입 — 클리니카 알마 대기실(네레아): 9월 15일(화) 기념일 / 하비에르 "1년 차 9월 15일 개원부터 9년" ↔ 필라르 "해가 아니라 9월을 센다 — 열 번의 9월, 회계가 아니라 기억" / 마테오 "파티도 연설도 싫다, 목요일 진료" → 7분 연설, 마드리드 에스쿠엘라 프리뭄(새 공동 학교, 의자 300), 참석 의사 1,400·온라인 1,100 / 필라르 "첫 납품서를 테이블에"**. **장면1 — 코슬라다: 첫 납품서(100상자, 1년 차 9/15, 승합차 고장으로 16일 출고) — «Esto, firmado. Y con hora» → 마테오 11시 15분 기입 / 브라보 조사관: 케브 목록 1,200곳 중 1,040곳 확인, 몰랐던 환자 31명 적시 치료 — 그중 19명은 케브의 스프링 수첩(미용실)로 / 케브는 헤타페 물류 창고 짐꾼("온도 기록이 어디 있냐고 물은 유일한 지원자") / 이탈리아 4월 알마 조항 서명 → 5월부터 바다호스에 이탈리아 상자 0(파코가 사촌과 확인) / **필라르(64) "내년 9월 — 열한 번째 9월 — 은퇴" / "파란 책을 누구에게?" → 로시오가 아니라 로시오의 아들 알렉스(야간조) — "아직 중요하지 않은 걸 적는 사람, 6년 전 경보 일요일에 시키지 않은 샌드위치와 도착 시간 메모 — 그건 가르칠 수 없다"** / "넌 밑에 서명 — 아들 서명 밑에 내 서명"**. **장면2 — 편지 두 통(로레나 낭독): **파울라(33) "화요일엔 안 간다 — 한 번 얼굴이 돼 봤다" / 6월 간호학과 졸업, 실습에서 "이거 어디서 왔어요?" — "안 웃는 사람들이 제일 좋다" / "입 다물라고 돈을 주지 않아서 고맙다"** / **알바로(발렌시아 병원 피부과 책임자) "6년 전 주차장의 트레이 — 열네 번의 폐색, 후유증 0, 마지막은 지난달 밤 11시 전화(캄포스 선생님 때처럼 목소리 떨림)" / 전공의 넷에게 첫날 트레이 + 서류 없던 발렌시아 상자 이야기 — "숨기지 않는다" / 서명 "아직 배우는 중인 알바로" / 추신 "당직이라 못 간다 — 누군가는 있어야"** / 필라르 "아무도 안 와. 둘 다 여기 있어" / 마테오 "읽진 않고 있다고만 말하겠다"**. **절정 — 리허설: 파코의 1분 건배 «Por los noes… detrás de cada no hay una cara que sigue entera»(48초, 카르멘 측정) ↔ 숑 "얼굴은 빼도" ↔ 야이사 "카나리아에도 얼굴이" / 마테오 "아직 없다" → 소피아(18) "목요일에 하는 말 — 그냥 '안 돼'가 아니라 '왜'" / **발레리아 전화: 돈 에르네스토(82)가 내일 아침 8시 마드리드 — "네 아버지를 못 만나고는 못 죽는다"(작년 6월), 신문지로 싼 선물 / 안토니오도 7시 피에드라이타 버스 — "약국 얘기는 못 하게"**. 마무리 — **부엌, 소피아: "세 가지 — 하는 일, 이유, 먼저인 것" / «Primum non nocere» — 일곱 살 자전거 사고(손 씻기 전엔 치료 안 함), 열 살 때 필라르가 준 파란 수첩 / «Primero, no hacer daño. Después, todo lo demás.» — "스페인어로, 오전 11시에 라틴어는 아무도"**.
+> - 부/화: 8부 14화 · 서사 기능: **Año 10, 9월 7~14일 — «Diez septiembres.» 도입 — 클리니카 알마 대기실(네레아): 9월 15일(화) 기념일 / 하비에르 "1년 차 9월 15일 개원부터 9년" ↔ 필라르 "해가 아니라 9월을 센다 — 열 번의 9월(첫 번째는 로시오에게 듣고 적음), 회계가 아니라 기억" / 마테오 "파티도 연설도 싫다, 목요일 진료" → 7분 연설, 마드리드 에스쿠엘라 프리뭄(새 공동 학교, 의자 300), 참석 의사 1,400·온라인 1,100 / 필라르 "첫 납품서를 테이블에"**. **장면1 — 코슬라다: 루멘 첫 납품서(100상자, 2년 차 9/15, 승합차 고장으로 16일 출고) — «Esto, firmado. Y con hora» → 마테오 11시 15분 기입 / 브라보 조사관: 케브 목록 1,200곳 중 1,040곳 확인, 몰랐던 환자 31명 적시 치료 — 그중 19명은 케브의 스프링 수첩(미용실)로 / 케브는 헤타페 물류 창고 짐꾼("온도 기록이 어디 있냐고 물은 유일한 지원자") / 이탈리아 4월 알마 조항 서명 → 5월부터 바다호스에 이탈리아 상자 0(파코가 사촌과 확인) / **필라르(64) "내년 9월 — 열한 번째 9월 — 은퇴" / "파란 책을 누구에게?" → 로시오가 아니라 로시오의 아들 알렉스(야간조) — "아직 중요하지 않은 걸 적는 사람, 6년 전 경보 일요일에 시키지 않은 샌드위치와 도착 시간 메모 — 그건 가르칠 수 없다"** / "넌 밑에 서명 — 아들 서명 밑에 내 서명"**. **장면2 — 편지 두 통(로레나 낭독): **파울라(33) "화요일엔 안 간다 — 한 번 얼굴이 돼 봤다" / 6월 간호학과 졸업, 실습에서 "이거 어디서 왔어요?" — "안 웃는 사람들이 제일 좋다" / "입 다물라고 돈을 주지 않아서 고맙다"** / **알바로(발렌시아 병원 피부과 책임자) "6년 전 주차장의 트레이 — 열네 번의 폐색, 후유증 0, 마지막은 지난달 밤 11시 전화(캄포스 선생님 때처럼 목소리 떨림)" / 전공의 넷에게 첫날 트레이 + 서류 없던 발렌시아 상자 이야기 — "숨기지 않는다" / 서명 "아직 배우는 중인 알바로" / 추신 "당직이라 못 간다 — 누군가는 있어야"** / 필라르 "아무도 안 와. 둘 다 여기 있어" / 마테오 "읽진 않고 있다고만 말하겠다"**. **절정 — 리허설: 파코의 1분 건배 «Por los noes… detrás de cada no hay una cara que sigue entera»(48초, 카르멘 측정) ↔ 숑 "얼굴은 빼도" ↔ 야이사 "카나리아에도 얼굴이" / 마테오 "아직 없다" → 소피아(18) "목요일에 하는 말 — 그냥 '안 돼'가 아니라 '왜'" / **발레리아 전화: 돈 에르네스토(82)가 내일 아침 8시 마드리드 — "네 아버지를 못 만나고는 못 죽는다"(작년 6월), 신문지로 싼 선물 / 안토니오도 7시 피에드라이타 버스 — "약국 얘기는 못 하게"**. 마무리 — **부엌, 소피아: "세 가지 — 하는 일, 이유, 먼저인 것" / «Primum non nocere» — 일곱 살 자전거 사고(손 씻기 전엔 치료 안 함), 열 살 때 필라르가 준 파란 수첩 / «Primero, no hacer daño. Después, todo lo demás.» — "스페인어로, 오전 11시에 라틴어는 아무도"**.
 > - 배경: Año 10, 9월 7일 월요일 밤 8시 참베리 클리니카 알마 대기실 → 9월 10일 목요일 오후 6시 코슬라다 창고 사무실 → 9월 11일 금요일 오전 10시 마드리드 알마 사무실 → 9월 14일 월요일 오후 7시 마드리드 에스쿠엘라 프리뭄 강당 → 밤 11시 30분 마테오의 집 부엌
 > - 등장인물: Nerea Etxeberria, Lorena Gil, Javier Montoya, Pilar Romero, Dr. Mateo Herrera, Rocío Delgado, Paco Navarro, Yaiza Mendoza, Xoán Varela, Carmen Ibáñez, Sofía(18), Valeria Treviño(전화), (편지) Paula Ríos, Dr. Álvaro Pérez, (언급) 브라보 조사관, Kev, Alex(로시오의 아들), Don Ernesto, Antonio
 > - 비즈니스 스킬: 기념행사 기획(규모·형식·시간 제한), 회수 대상 목록의 사후 성과 보고, 기록 업무의 승계 계획(누가 '작은 것'을 적는가), 이해관계자 편지 활용(낭독하지 않고 존재를 알림), 짧은 연설 구성(무엇·왜·무엇이 먼저)
@@ -25,7 +25,7 @@ LORENA: Orden del día: el aniversario. El quince de septiembre. Martes. Diez a�
 
 JAVIER: Nueve. Abrimos el quince de septiembre del año uno. Del año uno al año diez van nueve años. Lo siento. Es mi trabajo.
 
-PILAR: Diez septiembres. Lo dice el libro azul. Septiembre del año uno, primera página. Septiembre del año diez, la última. Cuento septiembres, no años.
+PILAR: Diez septiembres. Lo dice el libro azul. El primero, el de la clínica, me lo contó Rocío y lo apunté el día que llegué. Los otros nueve los viví. Cuento septiembres, no años. Javier cuenta años.
 
 JAVIER: Eso no es contabilidad.
 
@@ -45,7 +45,7 @@ MATEO: ¿Mil cuatrocientos? ¿Y dónde los metemos?
 
 LORENA: En el patio, en el pasillo y en las aulas de prácticas. Con pantallas.
 
-PILAR: Y una mesa con el primer albarán. El del año uno. Lo tengo en el cajón con llave.
+PILAR: Y una mesa con el primer albarán. El del año dos. Lo tengo en el cajón con llave.
 
 MATEO: Siete minutos. Ni uno más.
 
@@ -54,13 +54,13 @@ MATEO: Siete minutos. Ni uno más.
 
 ROCIO: ¿Ese es el albarán?
 
-PILAR: El primero. Cien cajas. Quince de septiembre del año uno, aunque las cajas salieron el dieciséis porque la furgoneta no arrancó.
+PILAR: El primero de Lumen. Cien cajas. Quince de septiembre del año dos. Las cajas salieron el dieciséis: la furgoneta no arrancó.
 
 ROCIO: ¿Y esto de abajo? «Esto, firmado».
 
-PILAR: Lo escribí yo. Mateo firmó con prisas y se le olvidó poner la hora. Le dije: «Esto, firmado. Y con hora. O no sale». Él se rio. Luego volvió del coche, sacó el boli y puso las once y cuarto. Llevamos diez años con la hora.
+PILAR: Lo escribí yo. Mateo firmó con prisas y se le olvidó poner la hora. Le dije: «Esto, firmado. Y con hora. O no sale». Él se rio. Luego volvió del coche, sacó el boli y puso las once y cuarto. Llevamos nueve años con la hora.
 
-ROCIO: Nueve.
+ROCIO: Ocho.
 
 PILAR: Tú también, no. Ya tengo a Javier.
 
@@ -343,7 +343,7 @@ SOFIA: Eso. En español. Que el latín no lo entiende nadie a las once de la ma�
 
 하비에르: 9년. 1년 차 9월 15일에 개원했잖아. 1년 차부터 10년 차까지는 9년이야. 미안해. 그게 내 일이라.
 
-필라르: 열 번의 9월. 파란 책에 그렇게 있어. 1년 차 9월이 첫 페이지. 10년 차 9월이 마지막. 나는 해가 아니라 9월을 세.
+필라르: 열 번의 9월. 파란 책에 그렇게 있어. 첫 번째, 클리닉 개원은 로시오한테 듣고 내가 온 날 적었어. 나머지 아홉 번은 내가 겪었고. 나는 해가 아니라 9월을 세. 하비에르는 해를 세고.
 
 하비에르: 그건 회계가 아니야.
 
@@ -363,7 +363,7 @@ SOFIA: Eso. En español. Que el latín no lo entiende nadie a las once de la ma�
 
 로레나: 마당, 복도, 실습실에요. 화면 달아서요.
 
-필라르: 그리고 첫 납품서를 올려 둘 테이블 하나. 1년 차 거. 열쇠 잠긴 서랍에 있어.
+필라르: 그리고 첫 납품서를 올려 둘 테이블 하나. 2년 차 거. 열쇠 잠긴 서랍에 있어.
 
 마테오: 7분. 1분도 더는 안 돼.
 
@@ -372,13 +372,13 @@ SOFIA: Eso. En español. Que el latín no lo entiende nadie a las once de la ma�
 
 로시오: 그게 그 납품서예요?
 
-필라르: 첫 번째. 100상자. 1년 차 9월 15일. 근데 승합차 시동이 안 걸려서 상자는 16일에 나갔어.
+필라르: 루멘 첫 번째. 100상자. 2년 차 9월 15일. 상자는 16일에 나갔어. 승합차 시동이 안 걸려서.
 
 로시오: 밑에 이건요? «Esto, firmado».
 
-필라르: 내가 썼어. 마테오가 급하게 서명하고 시간을 안 적었거든. 그래서 말했지. «이거, 서명. 그리고 시간도. 아니면 안 나가». 웃더라. 그러고는 차에서 돌아와서 볼펜 꺼내서 열한 시 십오 분이라고 적었어. 10년째 시간을 적고 있지.
+필라르: 내가 썼어. 마테오가 급하게 서명하고 시간을 안 적었거든. 그래서 말했지. «이거, 서명. 그리고 시간도. 아니면 안 나가». 웃더라. 그러고는 차에서 돌아와서 볼펜 꺼내서 열한 시 십오 분이라고 적었어. 9년째 시간을 적고 있지.
 
-로시오: 9년이요.
+로시오: 8년이요.
 
 필라르: 너까지 그러지 마. 하비에르로 충분해.
 
