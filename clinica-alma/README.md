@@ -11,7 +11,7 @@
 - [x] 기획서 v2(클리닉 → 의사 전용 유통사 + 서브 딜러 망)
 - [x] 1부 La primera consulta
 - [x] 2부 El primer pedido
-- [ ] 3부 Solo para médicos
+- [x] 3부 Solo para médicos
 - [ ] 4부 El lote
 - [ ] 5부 Crecer sin romperse
 - [ ] 6부 México
