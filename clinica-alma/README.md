@@ -14,6 +14,6 @@
 - [x] 3부 Solo para médicos
 - [x] 4부 El lote
 - [x] 5부 Crecer sin romperse
-- [ ] 6부 México
+- [x] 6부 México
 - [ ] 7부 Latinoamérica
 - [ ] 8부 Lo que somos
