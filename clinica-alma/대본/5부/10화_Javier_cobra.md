@@ -11,7 +11,7 @@
 > - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 24단어 이내 + 긴 턴 10~15회(35~70단어). 문법 초점: 가정문 — 현재 비현실(Si os pagaran a treinta días, ¿nos pagaríais a treinta? / Si me pagaran a treinta, te pagaría a treinta y uno), 실현 가능 조건(Si pagas a treinta días, dos por ciento menos / Si paramos a veintitrés clínicas, el mercado lo sabrá / Si una clínica pasa de ciento veinte días, se pausan…), 접속법(sin que yo llamara / a los que pasen de ciento veinte días / Pues que te mate después de cobrar / por miedo a lo que te diga), 과거완료(nadie les había pedido pagar antes).
 > - tú/usted: 하비에르↔파코 tú(한국어는 하비에르 존댓말), 마카레나→하비에르 usted, 하비에르→마카레나 tú(한국어 존댓말), 위원회 내부 tú, 페르난도→팀 vosotros.
 > - 사용 변이: 금융 — el factoring (con/sin recurso), el descuento por pronto pago, el límite de crédito, la política de crédito, el pedido de continuidad, el acta (de destrucción), a plazos; 안달루시아 구어 — Me jode, ¿eh?, el compadre / el padrino, el AVE; 관용 — tener en vilo, Dispara.
-> - 복선 설치: **마르타 "너무 느리다" — 이번 주 둘의 대화**(→5-12 Marta se va) · **계속 치료 주문·마테오의 의사 대 의사 전화**(→6부 이후 신용 정책 기준) · **조기 결제 할인의 체인 전달**(→6부 멕시코 유통사) · **최 상무 "다 괜찮은가"**(→5-13 Osong)
+> - 복선 설치: **마르타 "너무 느리다" — 이번 주 둘의 대화**(→5-12 Marta se va) · **계속 치료 주문·마테오의 의사 대 의사 전화**(→6부 이후 신용 정책 기준) · **조기 결제 할인의 체인 전달**(→6부 멕시코 유통사) · **최 이사 "다 괜찮은가"**(→5-13 Osong)
 
 ---
 
@@ -572,7 +572,7 @@ JAVIER: Javier pregunta. Y ahora, Javier se va a casa. Ana me ha recordado que�
 
 하비에르: 쉬어져. 일주일 만에 처음으로.
 
-마테오: 민재한테 메시지 왔어. «받았습니다. 감사합니다. 최 상무님이 다 괜찮은지 물으십니다».
+마테오: 민재한테 메시지 왔어. «받았습니다. 감사합니다. 최 이사님이 다 괜찮은지 물으십니다».
 
 하비에르: 네가 답해. 다 괜찮다고. 돈 받는 법을 배웠다고.
 
