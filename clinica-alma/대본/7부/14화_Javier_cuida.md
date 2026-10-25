@@ -257,7 +257,7 @@ JAVIER: Porque dijimos «con un equipo». El lunes por la mañana, en la sala. T
 
 MATEO: El lunes termina mi baja.
 
-JAVIER: Por eso el lunes. Ni un día antes. La doctora Sanz lo dejó claro.
+JAVIER: Por eso el lunes. Ni un día antes. La doctora Cuesta lo dejó claro.
 
 MATEO: Déjamela esta noche. Solo para tenerla.
 
@@ -575,7 +575,7 @@ JAVIER: Gracias a ti por diciembre. Por decirlo. El lunes a las nueve, con el ma
 
 마테오: 월요일에 병가가 끝나.
 
-하비에르: 그래서 월요일이야. 하루도 일찍은 안 돼. 산스 선생님이 분명히 말했어.
+하비에르: 그래서 월요일이야. 하루도 일찍은 안 돼. 쿠에스타 선생님이 분명히 말했어.
 
 마테오: 오늘 밤만 두고 가. 그냥 갖고만 있게.
 

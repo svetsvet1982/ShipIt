@@ -3,13 +3,13 @@
 ## Cansancio (피로)
 
 > **표기 전용 정보 (낭독하지 않음)**
-> - 부/화: 7부 13화 · 서사 기능: **Año 8, 12월 19일 목요일 — 마테오의 번아웃이 진료실에서 터진다. «No puedo con todo.» 도입 — 클리니카 알마의 목요일, 처음으로 10분 지각 / 새벽 3시까지 스페인 계약서 3·11·14조 — "외우는데도 계속 읽는다" / 환자 11명, 위임하라던 5시 보고타 통화도 그대로 / 커피 두 잔, 떨리는 손("추워서" ↔ 밖 12도·안 22도) / 네레아가 오전 내내 간호사 벨렌을 붙여 둔다**. **장면1 — 7년 단골 레메디오스 부인(9개월마다 윗입술·팔자주름, 크리스마스이브 저녁 — "며느리들이 다 본다", 벨렌에게 에스테파 폴보론) / 체크리스트: 1 알레르기, 2 이전 시술, 3 현재 복용 약 — 마테오 "변동 없음, 가자" → 벨렌이 직접 환자에게 묻는다 → **10월부터 신트롬(부정맥, 항응고제)** / 마테오 "오늘은 안 놓는다 — 크리스마스이브에 보라색 멍, 필러 때문에 신트롬을 끊을 순 없다, 절대로" / 벨렌 "바쁠 때 제일 많이 건너뛰는 게 3번이라고 가르친 사람이 — 환자 앞에서, 주사기까지 준비된 채로" ↔ "구한 게 아니라 체크리스트를 한 것, 선생님이 쓴" / "7년 동안 학교에서 가르쳐 놓고 폴보론 가져온 부인 앞에서 잊었다" / 땀, 가슴의 손, 빈맥, 호흡 곤란 — "1분이면 지나간다" ↔ "나중에 안 지나가는 환자들이 다 하는 말" → «Llama a Nerea»**. **장면2 — 그레고리오 마라뇬 병원 응급실, 산스 선생: 심전도·심장 효소·흉부 엑스레이 정상 — 심근경색 아님, 공황 발작, 그 밑엔 탈진 / 수면 4~5시간(여름부터), 출장 19주("동업자가 한 장에") / "심장은 망가지지 않았지만 경고를 보냈다 — 두 번째는 더 나쁘고, 세 번째는 내가 다른 층에서 서명" / "의사는 남은 이해해도 자기 자신은 절대 — 나도 마찬가지" / 2주 병가, 업무 전화 금지, 크리스마스에도 / "1월에 한국 편지가" ↔ "다른 사람이 읽으면 된다 — 동업자?" → 하비에르 도착("한국 편지는 당신이, 이분은 자고") / "다 할 수 있다고 믿는 쉰 살 남자들, 대개 목요일 환자 두 명 사이에" / 하비에르 "재봉틀 앞에서" — 휴대폰 압수**. **절정 — 관찰실, 소피아: "'괜찮아'라고 하지 마 — 이네스가 뜻을 가르쳐 줬어" / "다들 나한테 말해 주는데 아빠만 안 해 — 말해, 한 번만" → **«No puedo con todo.»** → "더 크게" → "나라 넷, 클리닉 하나, 한국 편지, 일요일에만 보는 딸 — '아니요'라고 하면 다 부서질 것 같아서 1년 동안 '예' — 오늘 신트롬 환자에게 놓을 뻔했다, 체크리스트를 쓴 내가" / 하비에르 "1년 동안 그 말을 기다렸다" / 옥자의 예언 "꼭 온다, 어디서 오느냐뿐 — 재봉틀 앞이냐, 앉으라고 말해 주는 사람이 있는 진료실이냐" / 옥자의 메시지(어제) «Cerrá el taller tres meses. No el corazón» + 엠파나다 그림 / 하비에르 "이번엔 정하는 사람이 네가 아니야 — 우리. 이제 내가 돌볼 차례, 넌 돌봄 받을 차례" — 이네스 라틴아메리카, 로레나 네트워크, 로시오와 하비에르 다온, "넌 잠자고 김치 먹고"**. 마무리 — **밤, 캐모마일과 레메디오스의 폴보론 / 휴대폰은 하비에르, 노트북은 소피아가 숨겨서 주현절까지 / "다온 전화는 하비에르에게 — 편지 읽을 줄 안다" / "사과 말고 말을 해 줘, 안 예쁜 말이라도" / «No me lo prometas… Hazlo y punto»(옥자) / "주현절엔 김치 — 의사 지시"**.
+> - 부/화: 7부 13화 · 서사 기능: **Año 8, 12월 19일 목요일 — 마테오의 번아웃이 진료실에서 터진다. «No puedo con todo.» 도입 — 클리니카 알마의 목요일, 처음으로 10분 지각 / 새벽 3시까지 스페인 계약서 3·11·14조 — "외우는데도 계속 읽는다" / 환자 11명, 위임하라던 5시 보고타 통화도 그대로 / 커피 두 잔, 떨리는 손("추워서" ↔ 밖 12도·안 22도) / 네레아가 오전 내내 간호사 벨렌을 붙여 둔다**. **장면1 — 7년 단골 레메디오스 부인(9개월마다 윗입술·팔자주름, 크리스마스이브 저녁 — "며느리들이 다 본다", 벨렌에게 에스테파 폴보론) / 체크리스트: 1 알레르기, 2 이전 시술, 3 현재 복용 약 — 마테오 "변동 없음, 가자" → 벨렌이 직접 환자에게 묻는다 → **10월부터 신트롬(부정맥, 항응고제)** / 마테오 "오늘은 안 놓는다 — 크리스마스이브에 보라색 멍, 필러 때문에 신트롬을 끊을 순 없다, 절대로" / 벨렌 "바쁠 때 제일 많이 건너뛰는 게 3번이라고 가르친 사람이 — 환자 앞에서, 주사기까지 준비된 채로" ↔ "구한 게 아니라 체크리스트를 한 것, 선생님이 쓴" / "7년 동안 학교에서 가르쳐 놓고 폴보론 가져온 부인 앞에서 잊었다" / 땀, 가슴의 손, 빈맥, 호흡 곤란 — "1분이면 지나간다" ↔ "나중에 안 지나가는 환자들이 다 하는 말" → «Llama a Nerea»**. **장면2 — 그레고리오 마라뇬 병원 응급실, 쿠에스타 선생: 심전도·심장 효소·흉부 엑스레이 정상 — 심근경색 아님, 공황 발작, 그 밑엔 탈진 / 수면 4~5시간(여름부터), 출장 19주("동업자가 한 장에") / "심장은 망가지지 않았지만 경고를 보냈다 — 두 번째는 더 나쁘고, 세 번째는 내가 다른 층에서 서명" / "의사는 남은 이해해도 자기 자신은 절대 — 나도 마찬가지" / 2주 병가, 업무 전화 금지, 크리스마스에도 / "1월에 한국 편지가" ↔ "다른 사람이 읽으면 된다 — 동업자?" → 하비에르 도착("한국 편지는 당신이, 이분은 자고") / "다 할 수 있다고 믿는 쉰 살 남자들, 대개 목요일 환자 두 명 사이에" / 하비에르 "재봉틀 앞에서" — 휴대폰 압수**. **절정 — 관찰실, 소피아: "'괜찮아'라고 하지 마 — 이네스가 뜻을 가르쳐 줬어" / "다들 나한테 말해 주는데 아빠만 안 해 — 말해, 한 번만" → **«No puedo con todo.»** → "더 크게" → "나라 넷, 클리닉 하나, 한국 편지, 일요일에만 보는 딸 — '아니요'라고 하면 다 부서질 것 같아서 1년 동안 '예' — 오늘 신트롬 환자에게 놓을 뻔했다, 체크리스트를 쓴 내가" / 하비에르 "1년 동안 그 말을 기다렸다" / 옥자의 예언 "꼭 온다, 어디서 오느냐뿐 — 재봉틀 앞이냐, 앉으라고 말해 주는 사람이 있는 진료실이냐" / 옥자의 메시지(어제) «Cerrá el taller tres meses. No el corazón» + 엠파나다 그림 / 하비에르 "이번엔 정하는 사람이 네가 아니야 — 우리. 이제 내가 돌볼 차례, 넌 돌봄 받을 차례" — 이네스 라틴아메리카, 로레나 네트워크, 로시오와 하비에르 다온, "넌 잠자고 김치 먹고"**. 마무리 — **밤, 캐모마일과 레메디오스의 폴보론 / 휴대폰은 하비에르, 노트북은 소피아가 숨겨서 주현절까지 / "다온 전화는 하비에르에게 — 편지 읽을 줄 안다" / "사과 말고 말을 해 줘, 안 예쁜 말이라도" / «No me lo prometas… Hazlo y punto»(옥자) / "주현절엔 김치 — 의사 지시"**.
 > - 배경: Año 8, 12월 19일 목요일 오전 9시 10분 참베리 클리니카 알마 → 오전 9시 30분 진료실 2 → 오후 12시 30분 그레고리오 마라뇬 병원 응급실 → 오후 2시 응급실 관찰실 → 밤 10시 마테오의 집
-> - 등장인물: Dr. Mateo Herrera, Nerea Etxeberria, Belén(클리니카 알마 간호사, 첫 등장), Remedios(7년 단골 환자, 첫 등장), Dra. Sanz(그레고리오 마라뇬 응급의학과, 첫 등장), Javier Montoya, Sofía(16), (언급) Okja, Inés, 레메디오스의 심장내과 의사
+> - 등장인물: Dr. Mateo Herrera, Nerea Etxeberria, Belén(클리니카 알마 간호사, 첫 등장), Remedios(7년 단골 환자, 첫 등장), Dra. Cuesta(그레고리오 마라뇬 응급의학과, 첫 등장), Javier Montoya, Sofía(16), (언급) Okja, Inés, 레메디오스의 심장내과 의사
 > - 비즈니스 스킬: 체크리스트의 독립성(실무자가 상급자를 멈추게 하는 문화), 리더의 피로가 품질 사고로 이어지는 경로 인식, 업무 위임의 즉시 실행(전화·노트북 회수, 역할 재배정), 환자에게 시술 보류 설명
 > - 난이도: C1 · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
 > - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 24단어 이내 + 긴 턴 10~15회(35~70단어). 문법 초점: 의료 서술(taquicardia, enzimas cardíacas, crisis de ansiedad, agotamiento, hematoma, coagular, Sintrom), 조건법(Sus nueras se darían cuenta de un hematoma), 접속법(antes de que yo preguntara / que la lea otro / Aunque sean feas / que no se les pasa), 명령(Siéntese. Ahora. / Dame el móvil / Dilo / Hazlo y punto), 아르헨티나 voseo 인용(Decile, cerrá).
-> - tú/usted: 마테오↔네레아·벨렌 tú(벨렌은 마테오에게 usted·doctor), 레메디오스↔마테오 usted(벨렌에게 hija), 산스↔마테오·하비에르 usted, 소피아↔마테오 tú.
+> - tú/usted: 마테오↔네레아·벨렌 tú(벨렌은 마테오에게 usted·doctor), 레메디오스↔마테오 usted(벨렌에게 hija), 쿠에스타↔마테오·하비에르 usted, 소피아↔마테오 tú.
 > - 사용 변이: 스페인 — polvorones de Estepa, Nochebuena, Reyes, la baja, el móvil, el portátil, manzanilla, nueras, Usted manda; 아르헨티나 인용 — Decile, cerrá el taller.
 > - 복선 설치: **2주 병가 — 다온 편지는 하비에르가 읽는다**(→7부 14화 Javier cuida, 15화 La carta de Osong) · **역할 재배정(이네스 라틴아메리카, 로레나 네트워크, 로시오·하비에르 다온)**(→7부 14화, 8부) · **«No puedo con todo»**(→8부 15화 "목요일, 진료실") · 레메디오스 1월 예약·심장내과 협진 · 소피아의 노트북 보관(주현절)
 
@@ -125,57 +125,57 @@ MATEO: Belén... Llama a Nerea.
 
 ### 장면2 — 같은 날 오후 12시 30분, 그레고리오 마라뇬 병원 응급실 — 심장이 아니라
 
-SANZ: Doctor Herrera, soy la doctora Sanz, de urgencias. Ya tenemos los resultados.
+CUESTA: Doctor Herrera, soy la doctora Cuesta, de urgencias. Ya tenemos los resultados.
 
 MATEO: Dígamelo sin rodeos. Soy médico.
 
-SANZ: Por eso se lo voy a decir sin rodeos. El electrocardiograma es normal. Las enzimas cardíacas, normales. La radiografía, normal. No es un infarto.
+CUESTA: Por eso se lo voy a decir sin rodeos. El electrocardiograma es normal. Las enzimas cardíacas, normales. La radiografía, normal. No es un infarto.
 
 NEREA: Ay, gracias a Dios.
 
-SANZ: Pero no es nada tampoco. Taquicardia, sudor, falta de aire, temblor. Una crisis de ansiedad. Y debajo, lo que la causa.
+CUESTA: Pero no es nada tampoco. Taquicardia, sudor, falta de aire, temblor. Una crisis de ansiedad. Y debajo, lo que la causa.
 
 MATEO: ¿Qué es?
 
-SANZ: Agotamiento. ¿Cuántas horas duerme?
+CUESTA: Agotamiento. ¿Cuántas horas duerme?
 
 MATEO: Cuatro. A veces cinco.
 
-SANZ: ¿Desde cuándo?
+CUESTA: ¿Desde cuándo?
 
 MATEO: No lo sé. Desde el verano. Quizá desde antes.
 
-SANZ: ¿Cuántas semanas ha pasado fuera de casa este año?
+CUESTA: ¿Cuántas semanas ha pasado fuera de casa este año?
 
 MATEO: ¿Por qué me pregunta eso?
 
 NEREA: Diecinueve, doctora. Lo contó su socio. En una hoja.
 
-SANZ: Doctor, le voy a decir lo que les digo a mis residentes. El corazón no está roto. Pero le ha mandado un aviso. El segundo aviso suele ser peor. Y el tercero lo firmo yo en otra planta.
+CUESTA: Doctor, le voy a decir lo que les digo a mis residentes. El corazón no está roto. Pero le ha mandado un aviso. El segundo aviso suele ser peor. Y el tercero lo firmo yo en otra planta.
 
 MATEO: Entendido.
 
-SANZ: No, no lo ha entendido. Usted es médico. Los médicos entienden a los demás. A sí mismos, nunca. Yo tampoco, por cierto. Le doy la baja dos semanas. Mínimo. Sin teléfono de trabajo. Ni en Navidad.
+CUESTA: No, no lo ha entendido. Usted es médico. Los médicos entienden a los demás. A sí mismos, nunca. Yo tampoco, por cierto. Le doy la baja dos semanas. Mínimo. Sin teléfono de trabajo. Ni en Navidad.
 
 MATEO: Dos semanas es imposible. En enero viene una carta de Corea.
 
-SANZ: Entonces que la lea otro. ¿Tiene socio?
+CUESTA: Entonces que la lea otro. ¿Tiene socio?
 
 JAVIER: Tiene. Aquí estoy. Perdón, he venido corriendo. Javier Montoya. Socio.
 
-SANZ: Pues usted lee la carta de Corea. Él duerme.
+CUESTA: Pues usted lee la carta de Corea. Él duerme.
 
 JAVIER: Hecho. Doctora, ¿puedo preguntarle algo? ¿Es grave?
 
-SANZ: Hoy no. Es un aviso a tiempo. Lo grave es no hacerle caso. Lo veo cada semana en hombres de cincuenta años que creen que pueden con todo. Y suelen llegar aquí un jueves, entre dos pacientes.
+CUESTA: Hoy no. Es un aviso a tiempo. Lo grave es no hacerle caso. Lo veo cada semana en hombres de cincuenta años que creen que pueden con todo. Y suelen llegar aquí un jueves, entre dos pacientes.
 
 JAVIER: Su padre... Bueno, el padre de un amigo suyo, en Argentina. Pasó por eso. En una máquina de coser.
 
-SANZ: Entonces ya sabe cómo termina. Doctor Herrera, le dejo con su socio. Vuelvo en una hora con el informe. Y sin teléfono.
+CUESTA: Entonces ya sabe cómo termina. Doctor Herrera, le dejo con su socio. Vuelvo en una hora con el informe. Y sin teléfono.
 
 MATEO: Doctora, ¿y si...?
 
-SANZ: No hay «y si». Hay dos semanas. Feliz Navidad.
+CUESTA: No hay «y si». Hay dos semanas. Feliz Navidad.
 
 JAVIER: Dame el móvil.
 
@@ -444,57 +444,57 @@ SOFIA: Okja me ha enseñado muchas cosas. Y a hacer kimchi. En Reyes vas a comer
 
 ### 장면2 — 같은 날 오후 12시 30분, 그레고리오 마라뇬 병원 응급실 — 심장이 아니라
 
-산스: 에레라 선생님, 응급의학과 산스입니다. 결과 나왔어요.
+쿠에스타: 에레라 선생님, 응급의학과 쿠에스타입니다. 결과 나왔어요.
 
 마테오: 돌려 말하지 말고 말해 주세요. 저도 의사예요.
 
-산스: 그래서 돌려 말하지 않을게요. 심전도 정상. 심장 효소 정상. 흉부 엑스레이 정상. 심근경색이 아니에요.
+쿠에스타: 그래서 돌려 말하지 않을게요. 심전도 정상. 심장 효소 정상. 흉부 엑스레이 정상. 심근경색이 아니에요.
 
 네레아: 아, 다행이다.
 
-산스: 하지만 아무것도 아닌 것도 아니에요. 빈맥, 땀, 호흡 곤란, 떨림. 공황 발작이에요. 그리고 그 밑에, 그걸 일으킨 것.
+쿠에스타: 하지만 아무것도 아닌 것도 아니에요. 빈맥, 땀, 호흡 곤란, 떨림. 공황 발작이에요. 그리고 그 밑에, 그걸 일으킨 것.
 
 마테오: 뭔데요?
 
-산스: 탈진이요. 몇 시간 주무세요?
+쿠에스타: 탈진이요. 몇 시간 주무세요?
 
 마테오: 네 시간. 가끔 다섯 시간.
 
-산스: 언제부터요?
+쿠에스타: 언제부터요?
 
 마테오: 모르겠어요. 여름부터. 그 전부터일지도.
 
-산스: 올해 몇 주를 집 밖에서 보내셨어요?
+쿠에스타: 올해 몇 주를 집 밖에서 보내셨어요?
 
 마테오: 그걸 왜 물으세요?
 
 네레아: 19주예요, 선생님. 동업자분이 셌어요. 한 장짜리 서류에.
 
-산스: 선생님, 제 전공의들에게 하는 말을 할게요. 심장은 망가지지 않았어요. 하지만 경고를 보냈어요. 두 번째 경고는 보통 더 나빠요. 세 번째는 제가 다른 층에서 서명하게 되죠.
+쿠에스타: 선생님, 제 전공의들에게 하는 말을 할게요. 심장은 망가지지 않았어요. 하지만 경고를 보냈어요. 두 번째 경고는 보통 더 나빠요. 세 번째는 제가 다른 층에서 서명하게 되죠.
 
 마테오: 알겠습니다.
 
-산스: 아니요, 모르세요. 선생님은 의사예요. 의사들은 남은 이해해도 자기 자신은 절대 이해 못 해요. 저도 마찬가지고요. 2주 병가를 드릴게요. 최소한. 업무용 전화 없이. 크리스마스에도요.
+쿠에스타: 아니요, 모르세요. 선생님은 의사예요. 의사들은 남은 이해해도 자기 자신은 절대 이해 못 해요. 저도 마찬가지고요. 2주 병가를 드릴게요. 최소한. 업무용 전화 없이. 크리스마스에도요.
 
 마테오: 2주는 불가능해요. 1월에 한국에서 편지가 와요.
 
-산스: 그럼 다른 사람이 읽으면 되죠. 동업자 있으세요?
+쿠에스타: 그럼 다른 사람이 읽으면 되죠. 동업자 있으세요?
 
 하비에르: 있습니다. 여기 있어요. 죄송합니다, 뛰어왔어요. 하비에르 몬토야. 동업자입니다.
 
-산스: 그럼 한국 편지는 당신이 읽으세요. 이분은 자고요.
+쿠에스타: 그럼 한국 편지는 당신이 읽으세요. 이분은 자고요.
 
 하비에르: 알겠습니다. 선생님, 하나 여쭤봐도 될까요? 심각한가요?
 
-산스: 오늘은 아니에요. 제때 온 경고예요. 심각한 건 그걸 무시하는 거죠. 다 할 수 있다고 믿는 쉰 살 남자들을 매주 봐요. 그리고 대개 목요일에, 환자 두 명 사이에 여기 오죠.
+쿠에스타: 오늘은 아니에요. 제때 온 경고예요. 심각한 건 그걸 무시하는 거죠. 다 할 수 있다고 믿는 쉰 살 남자들을 매주 봐요. 그리고 대개 목요일에, 환자 두 명 사이에 여기 오죠.
 
 하비에르: 이 친구 친구의 아버지가... 아르헨티나에서요. 그렇게 됐어요. 재봉틀 앞에서.
 
-산스: 그럼 어떻게 끝나는지 아시겠네요. 에레라 선생님, 동업자분과 계세요. 한 시간 뒤에 소견서 들고 올게요. 그리고 전화는 안 돼요.
+쿠에스타: 그럼 어떻게 끝나는지 아시겠네요. 에레라 선생님, 동업자분과 계세요. 한 시간 뒤에 소견서 들고 올게요. 그리고 전화는 안 돼요.
 
 마테오: 선생님, 만약에...?
 
-산스: "만약에"는 없어요. 2주가 있을 뿐이에요. 메리 크리스마스.
+쿠에스타: "만약에"는 없어요. 2주가 있을 뿐이에요. 메리 크리스마스.
 
 하비에르: 휴대폰 줘.
 
