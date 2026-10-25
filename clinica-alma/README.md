@@ -15,5 +15,5 @@
 - [x] 4부 El lote
 - [x] 5부 Crecer sin romperse
 - [x] 6부 México
-- [ ] 7부 Latinoamérica
+- [x] 7부 Latinoamérica
 - [ ] 8부 Lo que somos
