@@ -9,7 +9,7 @@
 > - 비즈니스 스킬: 자금 수요 요약, 공공 참여 대출의 구조 이해(자기자본 요건), 은행 대출·당좌 한도 구분, 개인 보증의 범위·해제 조건 협상, 가족에게 위험을 정직하게 설명, 정지 규칙(stop rule) 설계, 가족 대출의 문서화
 > - 난이도: B1+ · 턴 수: 120 (도입 15 · 장면1 35 · 장면2 30 · 절정·전환 25 · 마무리 15)
 > - 규칙: 지문 없음. 전 화 100% 「화자명: 대사」. 1턴 18단어 이내 + 긴 턴 10~15회(30~40단어). 문법 초점: 접속법(hasta que tengamos / cuando llegue / cómo le vaya / antes de que me arrepintiera / aunque ella diga que no / que pare), 조건법(podríamos estudiar), 비인칭 se(se para / se vende / se devuelve), 과거 vs 현재(Tenemos → Tenían).
-> - tú/usted: 팀 내부·몬세↔하비에르 tú(옛 동료), 몬세↔마테오 usted→tú 혼재 없이 usted, 라켈 usted, 아나 tú(vosotros), 안토니오→하비에르 usted.
+> - tú/usted: 팀 내부 tú, 몬세↔하비에르·마테오 tú·vosotros(1부부터 아는 사이), 라켈 usted, 아나 tú(vosotros), 안토니오→하비에르 usted.
 > - 사용 변이: 스페인 금융 — el préstamo participativo, los fondos propios, la ampliación de capital, la línea ICO, la póliza de crédito, el aval personal solidario, el comité, el seguro de vida vinculado, gananciales, «¿Cuánto necesitáis?»(vosotros).
 > - 복선 설치: **정지 규칙 «Mes nueve… tres mil jeringas… se para»**(→3부 9개월 차 점검, 5-2) · **하비에르·마테오 개인 보증 — 하비에르의 집, 마테오의 병원 월급**(→4부 위기, 5부) · **안토니오의 대출 1만 500·4년**(→8부) · ENISA 9월 결정(→2-14) · 한도 보증 해제 조건 · 마르타의 3년 저축 «Diez por ciento es mi diez por ciento» · 컨테이너 배로 5주(→2-9)
 
